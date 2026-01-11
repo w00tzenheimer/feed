@@ -43,8 +43,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion (NeurIPS 2023)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [code-rag-bench/code-rag-bench](https://github.com/code-rag-bench/code-rag-bench)
   > CodeRAG-Bench: Can Retrieval Augment Code Generation?
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tomaarsen/attention_sinks](https://github.com/tomaarsen/attention_sinks)
+  > Extend existing LLMs way beyond the original training length with constant memory usage, without ret...
 
 
 ---
-*Last updated at 2026-01-11 20:31:15 UTC*
+*Last updated at 2026-01-11 21:22:46 UTC*
 *Historical records are stored in the `archive` directory.*
