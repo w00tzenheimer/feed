@@ -14,6 +14,9 @@ import github  # type: ignore
 # Read-only, compiled regex pattern(s)
 FIRST_LINE_DATE_PATTERN = re.compile(r"\((\d{4}-\d{2}-\d{2})\)")
 
+# Read-only module-level constant for progress logging interval
+PROGRESS_LOG_INTERVAL = 50
+
 # Read-only module-level template for README content
 README_TEMPLATE = string.Template("""# Daily GitHub Activity (${today_str})
 
@@ -198,8 +201,16 @@ class GitHubDigest:
         if not events:
             return "The users you follow have no new public activity today.\n"
 
+        total_events = len(events)
+        self.logger.info("Processing %d events to generate markdown...", total_events)
+
         events_by_user: typing.Dict[str, typing.List[str]] = {}
-        for event in events:
+        for idx, event in enumerate(events, 1):
+            # Log progress every PROGRESS_LOG_INTERVAL events or at 25%, 50%, 75% milestones
+            if idx % PROGRESS_LOG_INTERVAL == 0 or idx == total_events // 4 or idx == total_events // 2 or idx == (3 * total_events) // 4:
+                percentage = (idx * 100) // total_events
+                self.logger.info("  -> Processing event %d/%d (%d%%)...", idx, total_events, percentage)
+            
             line = self.line_builder.format_event(event)
             if line:
                 actor_login = event.actor.login
@@ -207,6 +218,8 @@ class GitHubDigest:
                     events_by_user[actor_login] = []
                 if line not in events_by_user[actor_login]:
                     events_by_user[actor_login].append(line)
+        
+        self.logger.info("Finished processing all %d events.", total_events)
 
         if not events_by_user:
             return (
