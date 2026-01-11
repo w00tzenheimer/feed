@@ -1,0 +1,48 @@
+name: Hourly Digest
+
+on:
+  schedule:
+    # Run once every hour
+    - cron: '0 * * * *'
+    # Run once every hour at minute 15
+    # - cron: '15 * * * *'  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: python follower_digest_builder.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md archive/
+          
+          if git diff --staged --quiet; then
+            echo "No new activity to commit."
+          else
+            COMMIT_DATE=$(date -u +'%Y-%m-%d %H:%M')
+            git commit -m "docs(activity): refresh activity @ ${COMMIT_DATE} UTC"
+            git push
+          fi
