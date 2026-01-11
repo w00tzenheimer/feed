@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hrly-digest"
+version = "0.1.0"
+description = "Generate a daily GitHub activity digest hourly for users you follow"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "PyGithub>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "mypy>=1.0.0",
+]
