@@ -45,8 +45,13 @@ Today's public activity from users I follow (updated every 15 minutes).
   > CodeRAG-Bench: Can Retrieval Augment Code Generation?
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tomaarsen/attention_sinks](https://github.com/tomaarsen/attention_sinks)
   > Extend existing LLMs way beyond the original training length with constant memory usage, without ret...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Vectorpack/Vectorpack_cpp](https://github.com/Vectorpack/Vectorpack_cpp)
+  > C++ library and algorithms for the Vector Bin Packing problem
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Vectorpack/VPSolver_light](https://github.com/Vectorpack/VPSolver_light)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fdabrandao/vpsolver](https://github.com/fdabrandao/vpsolver)
+  > Arc-flow Vector Packing Solver (VPSolver)
 
 
 ---
-*Last updated at 2026-01-11 21:22:46 UTC*
+*Last updated at 2026-01-11 22:24:31 UTC*
 *Historical records are stored in the `archive` directory.*
