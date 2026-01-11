@@ -169,6 +169,11 @@ class GitHubDigest:
         self.logger.info("Fetching today's activity for all users followed by %s...", self.github_username)
 
         for followed_user in following:
+            # Skip organizations as they don't support the events API endpoint
+            if followed_user.type == "Organization":
+                self.logger.debug("  -> Skipping organization %s (organizations not supported)", followed_user.login)
+                continue
+
             self.logger.info("  -> Fetching activity for %s...", followed_user.login)
             try:
                 events = followed_user.get_events()
