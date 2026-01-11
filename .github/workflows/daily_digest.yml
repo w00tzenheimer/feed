@@ -17,12 +17,13 @@ on:
     - cron: '0 * * * *'
     # Run once every hour at minute 15
     # - cron: '15 * * * *'  
+
   # Allow manual trigger
   workflow_dispatch:
 
 # cancel previous workflow jobs for PRs
 concurrency:
-    group: ${{ github.workflow }}-${{ github.event.pull_request.number || "hourly-digest" }}
+    group: ${{ github.workflow }}-${{ github.event.pull_request.number || 'hourly-digest' }}
     cancel-in-progress: true
 
 jobs:
