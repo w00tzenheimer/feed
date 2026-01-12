@@ -55,6 +55,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > code sometimes leaks into the space between projects
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [no92/linux-mlibc](https://github.com/no92/linux-mlibc)
   > Tools and recipes needed for setting up a mlibc-based LFS.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [no92/btrfs-imhex](https://github.com/no92/btrfs-imhex)
+  > ImHex pattern for dissecting btrfs images.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
@@ -70,5 +72,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-12 19:23:55 UTC*
+*Last updated at 2026-01-12 20:30:33 UTC*
 *Historical records are stored in the `archive` directory.*
