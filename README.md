@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
+  > MCP for xiaohongshu.com
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mingmingrr/pyrsistent-extras](https://github.com/mingmingrr/pyrsistent-extras)
   > Extra data structures for https://github.com/tobgu/pyrsistent
@@ -16,5 +20,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-12 06:43:10 UTC*
+*Last updated at 2026-01-12 07:31:53 UTC*
 *Historical records are stored in the `archive` directory.*
