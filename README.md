@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [junkurihara/rust-rpxy-l4](https://github.com/junkurihara/rust-rpxy-l4)
+  > An L4 reverse proxy with protocol multiplexer, written in Rust
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Tools-cx-app/meta-magic_mount](https://github.com/Tools-cx-app/meta-magic_mount) to [CrackerCat/meta-magic_mount](https://github.com/CrackerCat/meta-magic_mount)
   > Magic Mount Metamodule
@@ -72,5 +76,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-12 20:30:33 UTC*
+*Last updated at 2026-01-12 21:26:36 UTC*
 *Historical records are stored in the `archive` directory.*
