@@ -31,8 +31,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Type providers for tree-sitter in Python.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tree-sitter/tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c)
   > C grammar for tree-sitter
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+  > A command line utility to display dependency tree of the installed Python packages
 
 
 ---
-*Last updated at 2026-01-12 13:48:44 UTC*
+*Last updated at 2026-01-12 14:30:58 UTC*
 *Historical records are stored in the `archive` directory.*
