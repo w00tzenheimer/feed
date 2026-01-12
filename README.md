@@ -11,6 +11,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
   > MCP for xiaohongshu.com
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright)
+  > Undetected version of the Playwright testing and automation library.
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mingmingrr/pyrsistent-extras](https://github.com/mingmingrr/pyrsistent-extras)
@@ -24,5 +26,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-12 09:37:16 UTC*
+*Last updated at 2026-01-12 10:30:56 UTC*
 *Historical records are stored in the `archive` directory.*
