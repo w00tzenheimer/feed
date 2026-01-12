@@ -16,6 +16,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/PrefetchFileParser](https://github.com/Maldev-Academy/PrefetchFileParser) public
   > A lightweight Windows Prefetch file parser to extract programs' execution history
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [alekseysidorov/tower-http-client](https://github.com/alekseysidorov/tower-http-client)
+  > Extra Tower middlewares and utilities for HTTP clients.
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
   > MCP for xiaohongshu.com
@@ -34,7 +38,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
   > A command line utility to display dependency tree of the installed Python packages
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+  > Claude + Cursor plugins that make your LLM of choice great at UX / frontend design.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor)
+  > An app to monitor the (Codex) situation
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+  > Browser automation CLI for AI agents
+
 
 ---
-*Last updated at 2026-01-12 14:30:58 UTC*
+*Last updated at 2026-01-12 15:31:13 UTC*
 *Historical records are stored in the `archive` directory.*
