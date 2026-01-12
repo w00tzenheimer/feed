@@ -37,6 +37,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > C grammar for tree-sitter
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
   > A command line utility to display dependency tree of the installed Python packages
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [palmin/SwiftTerm](https://github.com/palmin/SwiftTerm)
+  > VT100/Xterm Terminal emulator in Swift
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [coady/multimethod](https://github.com/coady/multimethod)
+  > Multiple argument dispatching.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
@@ -45,8 +49,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > An app to monitor the (Codex) situation
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
   > Browser automation CLI for AI agents
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [tamnguyenvan/screenarc](https://github.com/tamnguyenvan/screenarc)
+  > ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [gbasin/agentboard](https://github.com/gbasin/agentboard)
+  > Web wrapper around tmux optimized to multiplex AI agent TUIs, special support for iOS safari and mac...
 
 
 ---
-*Last updated at 2026-01-12 15:31:13 UTC*
+*Last updated at 2026-01-12 16:36:40 UTC*
 *Historical records are stored in the `archive` directory.*
