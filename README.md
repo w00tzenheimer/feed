@@ -4,6 +4,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Tools-cx-app/meta-magic_mount](https://github.com/Tools-cx-app/meta-magic_mount) to [CrackerCat/meta-magic_mount](https://github.com/CrackerCat/meta-magic_mount)
+  > Magic Mount Metamodule
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) to [CrackerCat/FluentRead](https://github.com/CrackerCat/FluentRead)
+  > Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyo...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [roomkangali/droid-llm-hunter](https://github.com/roomkangali/droid-llm-hunter) to [CrackerCat/droid-llm-hunter](https://github.com/CrackerCat/droid-llm-hunter)
+  >  Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language...
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/PrefetchFileParser](https://github.com/Maldev-Academy/PrefetchFileParser) public
   > A lightweight Windows Prefetch file parser to extract programs' execution history
@@ -26,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-12 12:57:05 UTC*
+*Last updated at 2026-01-12 13:48:44 UTC*
 *Historical records are stored in the `archive` directory.*
