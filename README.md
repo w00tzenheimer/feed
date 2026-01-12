@@ -41,6 +41,18 @@ Today's public activity from users I follow (updated every 15 minutes).
   > VT100/Xterm Terminal emulator in Swift
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [coady/multimethod](https://github.com/coady/multimethod)
   > Multiple argument dispatching.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TomLebeda/chroma_code](https://github.com/TomLebeda/chroma_code)
+  > Make beautiful colored code listings in LaTeX with the power of TreeSitter.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lezer-parser/cpp](https://github.com/lezer-parser/cpp)
+  > C++ grammar for the Lezer parser system
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [tree-sitter/py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) to [jevinskie/py-tree-sitter](https://github.com/jevinskie/py-tree-sitter)
+  > Python bindings to the Tree-sitter parsing library
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lunixbochs/fernfs](https://github.com/lunixbochs/fernfs)
+  > memory-safe usermode NFSv3 server
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lunixbochs/pcapmux](https://github.com/lunixbochs/pcapmux)
+  > merge pcap streams
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lunixbochs/meta](https://github.com/lunixbochs/meta)
+  > code sometimes leaks into the space between projects
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
@@ -56,5 +68,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-12 17:27:17 UTC*
+*Last updated at 2026-01-12 18:39:24 UTC*
 *Historical records are stored in the `archive` directory.*
