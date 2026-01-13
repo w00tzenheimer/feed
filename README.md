@@ -23,6 +23,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Concrete Syntax Trees represent s-expressions with source information
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [domenicquirl/cstree](https://github.com/domenicquirl/cstree)
   > Concrete Syntax Tree library
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
+  > Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Al...
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🍴 👤 [wanttobeno](https://github.com/wanttobeno) Forked [serhmarch/ModbusTools](https://github.com/serhmarch/ModbusTools) to [wanttobeno/ModbusTools](https://github.com/wanttobeno/ModbusTools)
@@ -32,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-13 05:29:53 UTC*
+*Last updated at 2026-01-13 06:41:04 UTC*
 *Historical records are stored in the `archive` directory.*
