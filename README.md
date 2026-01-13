@@ -11,6 +11,17 @@ Today's public activity from users I follow (updated every 15 minutes).
   > ast pattern matching with automated structure recovery for hex-rays decompiler
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM) to [CrackerCat/DaliVM](https://github.com/CrackerCat/DaliVM)
   > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LunFengChen/ninja-jni-helper](https://github.com/LunFengChen/ninja-jni-helper) to [CrackerCat/ninja-jni-helper](https://github.com/CrackerCat/ninja-jni-helper)
+  > ninja插件，优雅地处理 自动导入jni类型，自动处理静态函数，动态注册需要导入json
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [1193776794/xfArm-core](https://github.com/1193776794/xfArm-core) to [CrackerCat/xfArm-core](https://github.com/CrackerCat/xfArm-core)
+  > ARM64 原生代码动态分析工具，用于 SO 逆向和算法还原。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NoneShell/IDAComments](https://github.com/NoneShell/IDAComments) to [CrackerCat/IDAComments](https://github.com/CrackerCat/IDAComments)
+  > a IDA plugin helps you to manage your IDA Comments
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lxz-jiandan/AndroidTeeCertParse](https://github.com/lxz-jiandan/AndroidTeeCertParse) to [CrackerCat/AndroidTeeCertParse](https://github.com/CrackerCat/AndroidTeeCertParse)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [1193776794/launch](https://github.com/1193776794/launch) to [CrackerCat/launch](https://github.com/CrackerCat/launch)
+  > 检测工具
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [KnugiHK/WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter) to [CrackerCat/WhatsApp-Chat-Exporter](https://github.com/CrackerCat/WhatsApp-Chat-Exporter)
+  > A cross-platform tool for parsing WhatsApp chat databases from Android and iOS/iPadOS backups. Suppo...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OrangeX4/typst-pinit](https://github.com/OrangeX4/typst-pinit)
@@ -54,5 +65,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-13 11:25:34 UTC*
+*Last updated at 2026-01-13 12:57:14 UTC*
 *Historical records are stored in the `archive` directory.*
