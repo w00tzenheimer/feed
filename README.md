@@ -81,6 +81,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [chrismccord/webtmux](https://github.com/chrismccord/webtmux)
   > Web-based terminal with tmux-specific features
 
+### [wangyu-](https://github.com/wangyu-)
+- 🍴 👤 [wangyu-](https://github.com/wangyu-) Forked [adfernandes/libmdbx](https://github.com/adfernandes/libmdbx) to [wangyu-/libmdbx](https://github.com/wangyu-/libmdbx)
+  > One of the fastest embeddable key-value ACID database without WAL. libmdbx surpasses the legendary L...
+
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🍴 👤 [wanttobeno](https://github.com/wanttobeno) Forked [serhmarch/ModbusTools](https://github.com/serhmarch/ModbusTools) to [wanttobeno/ModbusTools](https://github.com/wanttobeno/ModbusTools)
   > ModbusTools are cross-platform (Windows, Linux) Modbus simulator tools (client and server) with GUI ...
@@ -89,5 +93,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-13 20:31:10 UTC*
+*Last updated at 2026-01-13 21:26:58 UTC*
 *Historical records are stored in the `archive` directory.*
