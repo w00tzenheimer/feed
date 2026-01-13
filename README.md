@@ -14,9 +14,19 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OrangeX4/typst-pinit](https://github.com/OrangeX4/typst-pinit)
   > Relative positioning by pins, especially useful for making slides in typst.
 
+### [TrueTuring](https://github.com/TrueTuring)
+- 🌟 👤 [TrueTuring](https://github.com/TrueTuring) Starred [weak1337/Alcatraz](https://github.com/weak1337/Alcatraz)
+  > x64 binary obfuscator
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent)
   > LangGraph template for a simple ReAct agent
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+  > Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behin...
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [wasix-org/wasixcc](https://github.com/wasix-org/wasixcc)
+  > A clang wrapper for WASIX
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [oulianov/cp-sat-fun](https://github.com/oulianov/cp-sat-fun)
@@ -38,5 +48,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-13 08:37:07 UTC*
+*Last updated at 2026-01-13 09:33:06 UTC*
 *Historical records are stored in the `archive` directory.*
