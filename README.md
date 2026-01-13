@@ -60,6 +60,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws)
   > Whiteboard as an IDE, draw and code in your browser
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [chrismccord/webtmux](https://github.com/chrismccord/webtmux)
+  > Web-based terminal with tmux-specific features
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🍴 👤 [wanttobeno](https://github.com/wanttobeno) Forked [serhmarch/ModbusTools](https://github.com/serhmarch/ModbusTools) to [wanttobeno/ModbusTools](https://github.com/wanttobeno/ModbusTools)
@@ -69,5 +71,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-13 16:37:57 UTC*
+*Last updated at 2026-01-13 17:30:36 UTC*
 *Historical records are stored in the `archive` directory.*
