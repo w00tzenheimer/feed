@@ -56,6 +56,14 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Concrete Syntax Tree library
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
   > Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Al...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xcsp3team/PyCSP3-models](https://github.com/xcsp3team/PyCSP3-models)
+  > Models (and data) of constrained problems developped with the library PyCSP3
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xcsp3team/cosoco](https://github.com/xcsp3team/cosoco)
+  > COmpact SOlver for COnstrained problems
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xcsp3team/pycsp3](https://github.com/xcsp3team/pycsp3)
+  > A Python Library for modeling combinatorial constrained problems
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xcsp3team/ACE](https://github.com/xcsp3team/ACE)
+  > Constraint Solver ACE
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws)
@@ -71,5 +79,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-13 17:30:36 UTC*
+*Last updated at 2026-01-13 18:37:15 UTC*
 *Historical records are stored in the `archive` directory.*
