@@ -44,6 +44,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [wasix-org/wasixcc](https://github.com/wasix-org/wasixcc)
   > A clang wrapper for WASIX
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [erthink/libmdbx](https://github.com/erthink/libmdbx)
+  > ★ Fullfast transactional key-value memory-mapped B-Tree storage engine without WAL ★ Surpasses the l...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [oulianov/cp-sat-fun](https://github.com/oulianov/cp-sat-fun)
@@ -80,6 +82,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Whiteboard as an IDE, draw and code in your browser
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [chrismccord/webtmux](https://github.com/chrismccord/webtmux)
   > Web-based terminal with tmux-specific features
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Saganaki22/ComfyUI-NovaSR](https://github.com/Saganaki22/ComfyUI-NovaSR)
+  > Ultra-fast audio super resolution custom node for ComfyUI, powered by the NovaSR model.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ysharma3501/NovaSR](https://github.com/ysharma3501/NovaSR)
+  > A lightning fast audio upsampler.
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🍴 👤 [wangyu-](https://github.com/wangyu-) Forked [adfernandes/libmdbx](https://github.com/adfernandes/libmdbx) to [wangyu-/libmdbx](https://github.com/wangyu-/libmdbx)
@@ -93,5 +99,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-13 22:27:01 UTC*
+*Last updated at 2026-01-13 23:23:35 UTC*
 *Historical records are stored in the `archive` directory.*
