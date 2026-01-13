@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OrangeX4/typst-pinit](https://github.com/OrangeX4/typst-pinit)
   > Relative positioning by pins, especially useful for making slides in typst.
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent)
+  > LangGraph template for a simple ReAct agent
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [oulianov/cp-sat-fun](https://github.com/oulianov/cp-sat-fun)
   > Experimenting with the CP-SAT solver
@@ -34,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-13 06:41:04 UTC*
+*Last updated at 2026-01-13 07:29:03 UTC*
 *Historical records are stored in the `archive` directory.*
