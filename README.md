@@ -64,6 +64,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A Python Library for modeling combinatorial constrained problems
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xcsp3team/ACE](https://github.com/xcsp3team/ACE)
   > Constraint Solver ACE
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver)
+  > An open-source Java library for Constraint Programming
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [CPMpy/cpmpy](https://github.com/CPMpy/cpmpy)
+  > Constraint Programming and Modeling library in Python, based on numpy, with direct solver access.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pindakaashq/pindakaas](https://github.com/pindakaashq/pindakaas)
+  > A Rust library to transform integer and pseudo Boolean constraints into conjunctive normal form
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals)
+  > Lightweight and extensible compatibility layer between dataframe libraries!
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [biotomas/ipasir](https://github.com/biotomas/ipasir)
+  > The Standard Interface for Incremental Satisfiability Solving
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws)
@@ -79,5 +89,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-13 18:37:15 UTC*
+*Last updated at 2026-01-13 19:24:31 UTC*
 *Historical records are stored in the `archive` directory.*
