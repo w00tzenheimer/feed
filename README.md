@@ -9,6 +9,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > convert execution traces into interactive control flow graphs within ida
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [libtero/suture](https://github.com/libtero/suture) to [CrackerCat/suture](https://github.com/CrackerCat/suture)
   > ast pattern matching with automated structure recovery for hex-rays decompiler
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM) to [CrackerCat/DaliVM](https://github.com/CrackerCat/DaliVM)
+  > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OrangeX4/typst-pinit](https://github.com/OrangeX4/typst-pinit)
@@ -17,6 +19,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [TrueTuring](https://github.com/TrueTuring)
 - 🌟 👤 [TrueTuring](https://github.com/TrueTuring) Starred [weak1337/Alcatraz](https://github.com/weak1337/Alcatraz)
   > x64 binary obfuscator
+
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🍴 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Forked [benwis/tower-governor](https://github.com/benwis/tower-governor) to [goto-bus-stop/tower-governor](https://github.com/goto-bus-stop/tower-governor)
+  > Rate Limiting middleware for Tower/Axum/Tonic/Hyper utilizing the governor crate
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent)
@@ -48,5 +54,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-13 10:29:50 UTC*
+*Last updated at 2026-01-13 11:25:34 UTC*
 *Historical records are stored in the `archive` directory.*
