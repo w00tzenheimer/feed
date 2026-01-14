@@ -14,7 +14,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vioaki/Prompt-Manager](https://github.com/vioaki/Prompt-Manager) to [CrackerCat/Prompt-Manager](https://github.com/CrackerCat/Prompt-Manager)
   > A local AI art prompt management tool.
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+  > An open-source AI agent that brings the power of Gemini directly into your terminal.
+
 
 ---
-*Last updated at 2026-01-14 08:37:05 UTC*
+*Last updated at 2026-01-14 09:33:45 UTC*
 *Historical records are stored in the `archive` directory.*
