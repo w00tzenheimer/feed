@@ -9,6 +9,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A PowerShell variant of the amazing patch_review.py by kevthehermit
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
   > Make You Happy!
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+  > Stealthy Linux Kernel Rootkit for modern kernels (6x)
 
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [google/crubit](https://github.com/google/crubit)
@@ -27,12 +29,20 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [remi-dupre/opening-hours-rs](https://github.com/remi-dupre/opening-hours-rs)
   > A parser for the opening_hours fields from OpenStreetMap.
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [zxcvbn-ts/zxcvbn](https://github.com/zxcvbn-ts/zxcvbn)
+  > Low-Budget Password Strength Estimation
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
   > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot)
+  > An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots wit...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+  > Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behin...
+
 
 ---
-*Last updated at 2026-01-14 15:30:36 UTC*
+*Last updated at 2026-01-14 16:37:12 UTC*
 *Historical records are stored in the `archive` directory.*
