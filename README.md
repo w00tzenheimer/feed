@@ -14,11 +14,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vioaki/Prompt-Manager](https://github.com/vioaki/Prompt-Manager) to [CrackerCat/Prompt-Manager](https://github.com/CrackerCat/Prompt-Manager)
   > A local AI art prompt management tool.
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [scipenai/tylax](https://github.com/scipenai/tylax) to [IuvenisSapiens/tylax](https://github.com/IuvenisSapiens/tylax)
+  > A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface...
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
   > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 
 ---
-*Last updated at 2026-01-14 10:30:25 UTC*
+*Last updated at 2026-01-14 11:26:06 UTC*
 *Historical records are stored in the `archive` directory.*
