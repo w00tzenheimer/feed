@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [f-bader/MSRC-PatchReview](https://github.com/f-bader/MSRC-PatchReview)
+  > A PowerShell variant of the amazing patch_review.py by kevthehermit
+
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [google/crubit](https://github.com/google/crubit)
   > A bidirectional bindings generator for C++ and Rust.
@@ -24,5 +28,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-14 11:26:06 UTC*
+*Last updated at 2026-01-14 12:57:16 UTC*
 *Historical records are stored in the `archive` directory.*
