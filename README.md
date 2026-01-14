@@ -26,6 +26,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [scipenai/tylax](https://github.com/scipenai/tylax) to [IuvenisSapiens/tylax](https://github.com/IuvenisSapiens/tylax)
   > A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface...
 
+### [geohot](https://github.com/geohot)
+- 🍴 👤 [geohot](https://github.com/geohot) Forked [1rgs/nanocode](https://github.com/1rgs/nanocode) to [geohot/nanocode](https://github.com/geohot/nanocode)
+  > Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [remi-dupre/opening-hours-rs](https://github.com/remi-dupre/opening-hours-rs)
   > A parser for the opening_hours fields from OpenStreetMap.
@@ -54,5 +58,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-14 22:27:42 UTC*
+*Last updated at 2026-01-14 23:21:58 UTC*
 *Historical records are stored in the `archive` directory.*
