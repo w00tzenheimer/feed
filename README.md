@@ -36,6 +36,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
   > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ArseniiBrazhnyk/Veritensor](https://github.com/ArseniiBrazhnyk/Veritensor)
+  > Veritensor is the Zero-Trust security platform for the AI Supply Chain. We replace naive model scann...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [CompassMB/MBCompass](https://github.com/CompassMB/MBCompass)
   > Modern FOSS Compass and Navigation app without Ads, IAP or Tracking
@@ -50,5 +54,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-14 21:27:02 UTC*
+*Last updated at 2026-01-14 22:27:42 UTC*
 *Historical records are stored in the `archive` directory.*
