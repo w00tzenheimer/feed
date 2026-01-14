@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [google/crubit](https://github.com/google/crubit)
+  > A bidirectional bindings generator for C++ and Rust.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yhy0/ChYing](https://github.com/yhy0/ChYing) to [CrackerCat/ChYing](https://github.com/CrackerCat/ChYing)
   > 承影，愿你在光影之间，找到属于自己的锋芒。开源的类 BurpSuite 应用
@@ -12,5 +16,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-14 04:11:06 UTC*
+*Last updated at 2026-01-14 05:29:28 UTC*
 *Historical records are stored in the `archive` directory.*
