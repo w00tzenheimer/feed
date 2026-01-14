@@ -41,8 +41,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots wit...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
   > Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behin...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [operately/operately](https://github.com/operately/operately)
+  > The open source company operating system.
 
 
 ---
-*Last updated at 2026-01-14 16:37:12 UTC*
+*Last updated at 2026-01-14 17:31:16 UTC*
 *Historical records are stored in the `archive` directory.*
