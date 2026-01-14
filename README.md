@@ -36,6 +36,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
   > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [CompassMB/MBCompass](https://github.com/CompassMB/MBCompass)
+  > Modern FOSS Compass and Navigation app without Ads, IAP or Tracking
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot)
   > An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots wit...
@@ -46,5 +50,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-14 17:31:16 UTC*
+*Last updated at 2026-01-14 18:39:46 UTC*
 *Historical records are stored in the `archive` directory.*
