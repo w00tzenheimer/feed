@@ -33,15 +33,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ioncodes/ReSteam](https://github.com/ioncodes/ReSteam)
-  > Reversing Steam with LD_PRELOAD on Windows (LD_POSTLOAD)
+  > Reversing Steam stuff
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [shikijs/shiki](https://github.com/shikijs/shiki)
   > A beautiful yet powerful syntax highlighter
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [oleksandr-pavlyk/itt-python](https://github.com/oleksandr-pavlyk/itt-python)
   > Includes Python bindings to instrumentation and tracing technology (ITT) APIs for VTune 
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [accel-sim/accel-sim-framework](https://github.com/accel-sim/accel-sim-framework)
+  > This is the top-level repository for the Accel-Sim framework.
 
 
 ---
-*Last updated at 2026-01-15 18:42:36 UTC*
+*Last updated at 2026-01-15 19:28:27 UTC*
 *Historical records are stored in the `archive` directory.*
