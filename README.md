@@ -27,7 +27,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA) to [CrackerCat/HappyIDA](https://github.com/CrackerCat/HappyIDA)
   > Make You Happy!
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [shikijs/shiki](https://github.com/shikijs/shiki)
+  > A beautiful yet powerful syntax highlighter
+
 
 ---
-*Last updated at 2026-01-15 16:40:34 UTC*
+*Last updated at 2026-01-15 17:37:00 UTC*
 *Historical records are stored in the `archive` directory.*
