@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [cfal/shoes](https://github.com/cfal/shoes)
+  > A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snel...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DJ-Raven/swing-modal-dialog](https://github.com/DJ-Raven/swing-modal-dialog) to [CrackerCat/swing-modal-dialog](https://github.com/CrackerCat/swing-modal-dialog)
   > Java Swing UI library custom with FlatLaf
@@ -27,11 +31,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA) to [CrackerCat/HappyIDA](https://github.com/CrackerCat/HappyIDA)
   > Make You Happy!
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [ioncodes/ReSteam](https://github.com/ioncodes/ReSteam)
+  > Reversing Steam with LD_PRELOAD on Windows (LD_POSTLOAD)
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [shikijs/shiki](https://github.com/shikijs/shiki)
   > A beautiful yet powerful syntax highlighter
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [oleksandr-pavlyk/itt-python](https://github.com/oleksandr-pavlyk/itt-python)
+  > Includes Python bindings to instrumentation and tracing technology (ITT) APIs for VTune 
 
 
 ---
-*Last updated at 2026-01-15 17:37:00 UTC*
+*Last updated at 2026-01-15 18:42:36 UTC*
 *Historical records are stored in the `archive` directory.*
