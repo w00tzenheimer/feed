@@ -35,6 +35,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ioncodes/ReSteam](https://github.com/ioncodes/ReSteam)
   > Reversing Steam stuff
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [Barre/ZeroFS](https://github.com/Barre/ZeroFS)
+  > ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initi...
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill)
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [shikijs/shiki](https://github.com/shikijs/shiki)
   > A beautiful yet powerful syntax highlighter
@@ -42,8 +49,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Includes Python bindings to instrumentation and tracing technology (ITT) APIs for VTune 
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [accel-sim/accel-sim-framework](https://github.com/accel-sim/accel-sim-framework)
   > This is the top-level repository for the Accel-Sim framework.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [phyzhenli/abc-agdmap](https://github.com/phyzhenli/abc-agdmap)
+  > ABC: System for Sequential Logic Synthesis and Formal Verification, Agdmap
 
 
 ---
-*Last updated at 2026-01-15 19:28:27 UTC*
+*Last updated at 2026-01-15 20:31:23 UTC*
 *Historical records are stored in the `archive` directory.*
