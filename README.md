@@ -19,6 +19,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [juicedata/juicefs](https://github.com/juicedata/juicefs)
   > JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [zloirock/core-js](https://github.com/zloirock/core-js)
+  > Standard Library
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
+  > Breakthrough Method for Agile Ai Driven Development
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [biocore/improved-octo-waddle](https://github.com/biocore/improved-octo-waddle)
@@ -34,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-16 09:32:05 UTC*
+*Last updated at 2026-01-16 10:30:19 UTC*
 *Historical records are stored in the `archive` directory.*
