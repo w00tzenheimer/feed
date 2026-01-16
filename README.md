@@ -41,7 +41,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bediger4000/tree_symmetry](https://github.com/bediger4000/tree_symmetry)
   > Coding problems relating to trees with more than 2 children per node
 
+### [joydo](https://github.com/joydo)
+- 🍴 👤 [joydo](https://github.com/joydo) Forked [Pangu-Immortal/KeepLiveService](https://github.com/Pangu-Immortal/KeepLiveService) to [joydo/KeepLiveService](https://github.com/joydo/KeepLiveService)
+  > Android 16 最新保活方案和无权限体外弹出方案，
+
 
 ---
-*Last updated at 2026-01-16 12:54:56 UTC*
+*Last updated at 2026-01-16 13:41:02 UTC*
 *Historical records are stored in the `archive` directory.*
