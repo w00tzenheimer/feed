@@ -4,6 +4,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/ELFPatch](https://github.com/niqiuqiux/ELFPatch) to [CrackerCat/niqiuqiux-ELFPatch](https://github.com/CrackerCat/niqiuqiux-ELFPatch)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [thalium/symless](https://github.com/thalium/symless) to [CrackerCat/symless](https://github.com/CrackerCat/symless)
+  > IDA Pro plugin that helps reconstruct structures
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [QuantumNous/new-api](https://github.com/QuantumNous/new-api) to [NyaMisty/new-api](https://github.com/NyaMisty/new-api)
   > AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Uni...
@@ -38,5 +43,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-16 11:24:10 UTC*
+*Last updated at 2026-01-16 12:54:56 UTC*
 *Historical records are stored in the `archive` directory.*
