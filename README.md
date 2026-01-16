@@ -45,7 +45,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [Pangu-Immortal/KeepLiveService](https://github.com/Pangu-Immortal/KeepLiveService) to [joydo/KeepLiveService](https://github.com/joydo/KeepLiveService)
   > Android 16 最新保活方案和无权限体外弹出方案，
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)
+  > Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+
 
 ---
-*Last updated at 2026-01-16 14:28:47 UTC*
+*Last updated at 2026-01-16 15:29:13 UTC*
 *Historical records are stored in the `archive` directory.*
