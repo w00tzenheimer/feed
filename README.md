@@ -12,6 +12,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
   > AI → JSON → UI
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
+  > 哔哩哔哩-API收集整理【不断更新中....】
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [juicedata/juicefs](https://github.com/juicedata/juicefs)
   > JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -30,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-16 07:29:05 UTC*
+*Last updated at 2026-01-16 08:36:10 UTC*
 *Historical records are stored in the `archive` directory.*
