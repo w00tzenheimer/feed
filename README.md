@@ -40,6 +40,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Succinct Data Structure Library 2.0
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bediger4000/tree_symmetry](https://github.com/bediger4000/tree_symmetry)
   > Coding problems relating to trees with more than 2 children per node
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mgieseki/dvisvgm](https://github.com/mgieseki/dvisvgm)
+  > A fast DVI, EPS, and PDF to SVG converter
 
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [Pangu-Immortal/KeepLiveService](https://github.com/Pangu-Immortal/KeepLiveService) to [joydo/KeepLiveService](https://github.com/joydo/KeepLiveService)
@@ -51,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-16 16:35:45 UTC*
+*Last updated at 2026-01-16 17:28:11 UTC*
 *Historical records are stored in the `archive` directory.*
