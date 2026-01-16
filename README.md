@@ -46,6 +46,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A C++ library of Concurrent Data Structures
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fclaude/libcds2](https://github.com/fclaude/libcds2)
   > Compact Data Structures Library
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [shackle-rs/shackle](https://github.com/shackle-rs/shackle)
+  > A constraint modelling and rewriting library and compiler framework written in rust
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zooko/smalloc](https://github.com/zooko/smalloc)
+  > a simple memory allocator
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core)
+  > The Xous microkernel
 
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [Pangu-Immortal/KeepLiveService](https://github.com/Pangu-Immortal/KeepLiveService) to [joydo/KeepLiveService](https://github.com/joydo/KeepLiveService)
@@ -55,7 +61,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)
   > Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
+### [saoudrizwan](https://github.com/saoudrizwan)
+- 🌟 👤 [saoudrizwan](https://github.com/saoudrizwan) Starred [steipete/oracle](https://github.com/steipete/oracle)
+  > Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
+
 
 ---
-*Last updated at 2026-01-16 21:26:14 UTC*
+*Last updated at 2026-01-16 22:26:16 UTC*
 *Historical records are stored in the `archive` directory.*
