@@ -42,6 +42,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Coding problems relating to trees with more than 2 children per node
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mgieseki/dvisvgm](https://github.com/mgieseki/dvisvgm)
   > A fast DVI, EPS, and PDF to SVG converter
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [khizmax/libcds](https://github.com/khizmax/libcds)
+  > A C++ library of Concurrent Data Structures
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fclaude/libcds2](https://github.com/fclaude/libcds2)
+  > Compact Data Structures Library
 
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [Pangu-Immortal/KeepLiveService](https://github.com/Pangu-Immortal/KeepLiveService) to [joydo/KeepLiveService](https://github.com/joydo/KeepLiveService)
@@ -53,5 +57,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-16 17:28:11 UTC*
+*Last updated at 2026-01-16 18:39:19 UTC*
 *Historical records are stored in the `archive` directory.*
