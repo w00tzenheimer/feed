@@ -52,6 +52,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > a simple memory allocator
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core)
   > The Xous microkernel
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [blurbdust/rainbowcrackalack](https://github.com/blurbdust/rainbowcrackalack)
+  > Rainbow table generation & lookup tools.
 
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [Pangu-Immortal/KeepLiveService](https://github.com/Pangu-Immortal/KeepLiveService) to [joydo/KeepLiveService](https://github.com/joydo/KeepLiveService)
@@ -67,5 +69,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-16 22:26:16 UTC*
+*Last updated at 2026-01-16 23:24:45 UTC*
 *Historical records are stored in the `archive` directory.*
