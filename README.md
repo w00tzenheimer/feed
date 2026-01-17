@@ -26,6 +26,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [aualbert/kino](https://github.com/aualbert/kino)
   > A Typst package and utilities for creating animations.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) to [jevinskie/tree-sitter](https://github.com/jevinskie/tree-sitter)
+  > An incremental parsing system for programming tools
+
 ### [kijai](https://github.com/kijai)
 - 🌟 👤 [kijai](https://github.com/kijai) Starred [madebyollin/taehv](https://github.com/madebyollin/taehv)
   > Tiny AutoEncoder for Hunyuan Video (and other video models)
@@ -40,5 +44,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-17 19:18:58 UTC*
+*Last updated at 2026-01-17 20:27:06 UTC*
 *Historical records are stored in the `archive` directory.*
