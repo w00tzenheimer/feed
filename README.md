@@ -45,8 +45,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > This extension transforms the Gemini CLI into "Pickle Rick," a hyper-intelligent, arrogant, yet extr...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
   > VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr)
+  > Multilingual Document Layout Parsing in a Single Vision-Language Model
 
 
 ---
-*Last updated at 2026-01-17 22:24:08 UTC*
+*Last updated at 2026-01-17 23:23:32 UTC*
 *Historical records are stored in the `archive` directory.*
