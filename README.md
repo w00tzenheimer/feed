@@ -26,6 +26,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [aualbert/kino](https://github.com/aualbert/kino)
   > A Typst package and utilities for creating animations.
 
+### [kijai](https://github.com/kijai)
+- 🌟 👤 [kijai](https://github.com/kijai) Starred [madebyollin/taehv](https://github.com/madebyollin/taehv)
+  > Tiny AutoEncoder for Hunyuan Video (and other video models)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory)
   > Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversatio...
@@ -36,5 +40,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-17 17:21:12 UTC*
+*Last updated at 2026-01-17 18:34:23 UTC*
 *Historical records are stored in the `archive` directory.*
