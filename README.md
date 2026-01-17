@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) to [jevinskie/tree-sitter](https://github.com/jevinskie/tree-sitter)
   > An incremental parsing system for programming tools
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [insanum/gcalcli](https://github.com/insanum/gcalcli)
+  > Google Calendar Command Line Interface
 
 ### [kijai](https://github.com/kijai)
 - 🌟 👤 [kijai](https://github.com/kijai) Starred [madebyollin/taehv](https://github.com/madebyollin/taehv)
@@ -44,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-17 20:27:06 UTC*
+*Last updated at 2026-01-17 21:21:59 UTC*
 *Historical records are stored in the `archive` directory.*
