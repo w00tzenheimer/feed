@@ -26,7 +26,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [aualbert/kino](https://github.com/aualbert/kino)
   > A Typst package and utilities for creating animations.
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory)
+  > Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversatio...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [galz10/pickle-rick-extension](https://github.com/galz10/pickle-rick-extension)
+  > This extension transforms the Gemini CLI into "Pickle Rick," a hyper-intelligent, arrogant, yet extr...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+  > VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+
 
 ---
-*Last updated at 2026-01-17 16:28:44 UTC*
+*Last updated at 2026-01-17 17:21:12 UTC*
 *Historical records are stored in the `archive` directory.*
