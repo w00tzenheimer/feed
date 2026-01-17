@@ -31,6 +31,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > An incremental parsing system for programming tools
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [insanum/gcalcli](https://github.com/insanum/gcalcli)
   > Google Calendar Command Line Interface
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [python-rope/rope](https://github.com/python-rope/rope)
+  > a python refactoring library
 
 ### [kijai](https://github.com/kijai)
 - 🌟 👤 [kijai](https://github.com/kijai) Starred [madebyollin/taehv](https://github.com/madebyollin/taehv)
@@ -46,5 +48,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-17 21:21:59 UTC*
+*Last updated at 2026-01-17 22:24:08 UTC*
 *Historical records are stored in the `archive` directory.*
