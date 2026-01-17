@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/AndroidInject](https://github.com/niqiuqiux/AndroidInject) to [CrackerCat/AndroidInject](https://github.com/CrackerCat/AndroidInject)
+  > Android arm64 Injector
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [golang/go](https://github.com/golang/go)
   > The Go programming language
@@ -16,5 +20,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-17 01:58:36 UTC*
+*Last updated at 2026-01-17 03:36:58 UTC*
 *Historical records are stored in the `archive` directory.*
