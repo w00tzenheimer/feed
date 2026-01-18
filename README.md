@@ -6,11 +6,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [google-ar/arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
+  > ARCore SDK for Android Studio
 
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [fanxiaolongx-max/Open-AutoGLM-GUI](https://github.com/fanxiaolongx-max/Open-AutoGLM-GUI) to [joydo/Open-AutoGLM-GUI](https://github.com/joydo/Open-AutoGLM-GUI)
 
 
 ---
-*Last updated at 2026-01-18 16:30:08 UTC*
+*Last updated at 2026-01-18 17:21:52 UTC*
 *Historical records are stored in the `archive` directory.*
