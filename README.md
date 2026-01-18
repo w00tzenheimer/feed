@@ -13,10 +13,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [shadowsocks/shadowsocks-crypto](https://github.com/shadowsocks/shadowsocks-crypto)
   > Shadowsocks Crypto
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mgedmin/strace-process-tree](https://github.com/mgedmin/strace-process-tree)
+  > Tool to help me make sense out of `strace -f` output.
+
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [fanxiaolongx-max/Open-AutoGLM-GUI](https://github.com/fanxiaolongx-max/Open-AutoGLM-GUI) to [joydo/Open-AutoGLM-GUI](https://github.com/joydo/Open-AutoGLM-GUI)
 
 
 ---
-*Last updated at 2026-01-18 22:24:18 UTC*
+*Last updated at 2026-01-18 23:23:52 UTC*
 *Historical records are stored in the `archive` directory.*
