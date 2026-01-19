@@ -25,6 +25,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A Delphi symbol name recovery tool for reverse engineers.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
   > Stealthy Linux Kernel Rootkit for modern kernels (6x)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JCocola/weird-generalization-and-inductive-backdoors](https://github.com/JCocola/weird-generalization-and-inductive-backdoors)
+  > Code and materials for "Weird Generalization and Inductive Backdoors"
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
@@ -39,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 05:35:07 UTC*
+*Last updated at 2026-01-19 06:46:37 UTC*
 *Historical records are stored in the `archive` directory.*
