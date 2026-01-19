@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [AndreyAkinshin/zesven](https://github.com/AndreyAkinshin/zesven)
+  > Pure Rust 7z Toolkit
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [muhammadrizwan87/dexdumper](https://github.com/muhammadrizwan87/dexdumper) to [CrackerCat/dexdumper-muhammadrizwan87](https://github.com/CrackerCat/dexdumper-muhammadrizwan87)
   > A sophisticated memory analysis library that extracts DEX files from running Android applications wi...
@@ -101,6 +105,14 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A small replacement for GNU readline() for UNIX
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [troglobit/jush](https://github.com/troglobit/jush)
   > just give me a unix shell
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh)
+  > Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [injinj/linecook](https://github.com/injinj/linecook)
+  > Command line editor, C api, readline replacement
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GerHobbelt/replxx](https://github.com/GerHobbelt/replxx)
+  > A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and i...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ClickHouse/replxx](https://github.com/ClickHouse/replxx)
+  > A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and i...
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
@@ -115,5 +127,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 18:38:46 UTC*
+*Last updated at 2026-01-19 19:23:13 UTC*
 *Historical records are stored in the `archive` directory.*
