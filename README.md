@@ -13,6 +13,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A hybrid LaTeX code + rich-text editor. It seamlessly syncs a rich-text What You See Is What You Get...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [InMDev/Modern-LaTeX-Editor](https://github.com/InMDev/Modern-LaTeX-Editor) to [IuvenisSapiens/Modern-LaTeX-Editor](https://github.com/IuvenisSapiens/Modern-LaTeX-Editor)
   > A hybrid LaTeX code + rich-text editor. It seamlessly syncs a rich-text What You See Is What You Get...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [g1879/DrissionPage](https://github.com/g1879/DrissionPage)
+  > Python based web automation tool. Powerful and elegant.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [g1879/DrissionPage](https://github.com/g1879/DrissionPage) to [IuvenisSapiens/DrissionPage](https://github.com/IuvenisSapiens/DrissionPage)
+  > Python based web automation tool. Powerful and elegant.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
+  > A browser based code editor
 
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [je5442804/NtCreateUserProcess-Post](https://github.com/je5442804/NtCreateUserProcess-Post)
@@ -27,6 +33,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > View your beads (Steve Yegge's task management system for coding agents) like a king. 
 - 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [steveyegge/beads](https://github.com/steveyegge/beads)
   > Beads - A memory upgrade for your coding agent
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+  > A fancy self-hosted monitoring tool
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [WenzWenzWenz/DelphiReSym](https://github.com/WenzWenzWenz/DelphiReSym)
@@ -49,5 +59,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 11:26:20 UTC*
+*Last updated at 2026-01-19 12:59:40 UTC*
 *Historical records are stored in the `archive` directory.*
