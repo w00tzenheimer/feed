@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [InMDev/Modern-LaTeX-Editor](https://github.com/InMDev/Modern-LaTeX-Editor) to [IuvenisSapiens/Modern-LaTeX-Editor](https://github.com/IuvenisSapiens/Modern-LaTeX-Editor)
   > A hybrid LaTeX code + rich-text editor. It seamlessly syncs a rich-text What You See Is What You Get...
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [je5442804/NtCreateUserProcess-Post](https://github.com/je5442804/NtCreateUserProcess-Post)
+  > NtCreateUserProcess with CsrClientCallServer for mainstream Windows x64 version
+
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer)
   > View your beads (Steve Yegge's task management system for coding agents) like a king. 
@@ -41,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 07:33:17 UTC*
+*Last updated at 2026-01-19 08:39:47 UTC*
 *Historical records are stored in the `archive` directory.*
