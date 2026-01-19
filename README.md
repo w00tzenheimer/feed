@@ -18,6 +18,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [je5442804/NtCreateUserProcess-Post](https://github.com/je5442804/NtCreateUserProcess-Post)
   > NtCreateUserProcess with CsrClientCallServer for mainstream Windows x64 version
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux)
+  > 🐧 在 Linux 上提供一套完整的 Clash / Mihomo（Clash Meta） 代理与管理面板
+
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer)
   > View your beads (Steve Yegge's task management system for coding agents) like a king. 
@@ -45,5 +49,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 08:39:47 UTC*
+*Last updated at 2026-01-19 09:39:43 UTC*
 *Historical records are stored in the `archive` directory.*
