@@ -4,6 +4,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [muhammadrizwan87/dexdumper](https://github.com/muhammadrizwan87/dexdumper) to [CrackerCat/dexdumper-muhammadrizwan87](https://github.com/CrackerCat/dexdumper-muhammadrizwan87)
+  > A sophisticated memory analysis library that extracts DEX files from running Android applications wi...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [pmem/syscall_intercept](https://github.com/pmem/syscall_intercept) to [CrackerCat/syscall_intercept](https://github.com/CrackerCat/syscall_intercept)
+  > The system call intercepting library
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [IOST-ASCOL/doc2tex](https://github.com/IOST-ASCOL/doc2tex)
   > DocTeX Ultimate Converter is a beta tool for converting documents between DOCX and LaTeX without los...
@@ -59,5 +65,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 12:59:40 UTC*
+*Last updated at 2026-01-19 13:52:11 UTC*
 *Historical records are stored in the `archive` directory.*
