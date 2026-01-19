@@ -113,6 +113,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and i...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ClickHouse/replxx](https://github.com/ClickHouse/replxx)
   > A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and i...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [WasmCert/WasmCert-Isabelle](https://github.com/WasmCert/WasmCert-Isabelle)
+  > A mechanisation of Wasm in Isabelle.
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [ClickHouse/replxx](https://github.com/ClickHouse/replxx) to [jevinskie/replxx](https://github.com/jevinskie/replxx)
+  > A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and i...
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
@@ -127,5 +131,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 19:23:13 UTC*
+*Last updated at 2026-01-19 20:29:35 UTC*
 *Historical records are stored in the `archive` directory.*
