@@ -45,6 +45,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
   > A fancy self-hosted monitoring tool
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Deep clean and optimize your Mac.
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [WenzWenzWenz/DelphiReSym](https://github.com/WenzWenzWenz/DelphiReSym)
@@ -55,6 +57,7 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Code and materials for "Weird Generalization and Inductive Backdoors"
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gdsfactory/gf180mcu](https://github.com/gdsfactory/gf180mcu)
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
@@ -69,5 +72,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 15:31:36 UTC*
+*Last updated at 2026-01-19 16:35:59 UTC*
 *Historical records are stored in the `archive` directory.*
