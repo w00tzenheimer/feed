@@ -14,6 +14,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [InMDev/Modern-LaTeX-Editor](https://github.com/InMDev/Modern-LaTeX-Editor) to [IuvenisSapiens/Modern-LaTeX-Editor](https://github.com/IuvenisSapiens/Modern-LaTeX-Editor)
   > A hybrid LaTeX code + rich-text editor. It seamlessly syncs a rich-text What You See Is What You Get...
 
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer)
+  > View your beads (Steve Yegge's task management system for coding agents) like a king. 
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [steveyegge/beads](https://github.com/steveyegge/beads)
+  > Beads - A memory upgrade for your coding agent
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [WenzWenzWenz/DelphiReSym](https://github.com/WenzWenzWenz/DelphiReSym)
   > A Delphi symbol name recovery tool for reverse engineers.
@@ -25,8 +31,13 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Large text file viewer to handle > 10GB text file reading, purely written in Rust
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer) to [joydo/large-text-viewer](https://github.com/joydo/large-text-viewer)
   > Large text file viewer to handle > 10GB text file reading, purely written in Rust
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [fanxiaolongx-max/Open-AutoGLM-GUI](https://github.com/fanxiaolongx-max/Open-AutoGLM-GUI)
+
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [xusheng6/byteflow](https://github.com/xusheng6/byteflow)
+  > Node-based data transformation tool (CyberChef alternative)
 
 
 ---
-*Last updated at 2026-01-19 02:09:42 UTC*
+*Last updated at 2026-01-19 04:14:22 UTC*
 *Historical records are stored in the `archive` directory.*
