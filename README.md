@@ -76,6 +76,31 @@ Today's public activity from users I follow (updated every 15 minutes).
   > IC3 reference implementation: a short, simple, fairly competitive implementation of IC3.  Read it, t...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wjrforcyber/BooLeanTry](https://github.com/wjrforcyber/BooLeanTry)
   > Try some Lean on Boolean Algebra.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wjrforcyber/wasim-cpp](https://github.com/wjrforcyber/wasim-cpp)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fangwenji/tacas23-wasim](https://github.com/fangwenji/tacas23-wasim)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fangwenji/wasim-cpp](https://github.com/fangwenji/wasim-cpp)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wjrforcyber/Yin](https://github.com/wjrforcyber/Yin)
+  > YinLib for truth table
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wjrforcyber/Zi](https://github.com/wjrforcyber/Zi)
+  > ZiLib for datastructure
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [marcelwa/aigverse](https://github.com/marcelwa/aigverse)
+  > A Python library for working with logic networks, synthesis, and optimization.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wjrforcyber/MixAM](https://github.com/wjrforcyber/MixAM)
+  > A showcase of mixing ABC with mockturtle
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [berkeley-abc/sis](https://github.com/berkeley-abc/sis)
+  > This repository contains the latest version of SIS release with an unencumbered license.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wjrforcyber/espresso](https://github.com/wjrforcyber/espresso)
+  > UC Berkeley, Espresso Version #2.3, Release date 01/31/88
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion)
+  > Tab completion using fzf
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lincheney/rl_custom_function](https://github.com/lincheney/rl_custom_function)
+  > Inject custom functions into readline
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lincheney/rl_custom_isearch](https://github.com/lincheney/rl_custom_isearch)
+  > Hack to customise libreadline reverse search
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [troglobit/editline](https://github.com/troglobit/editline)
+  > A small replacement for GNU readline() for UNIX
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [troglobit/jush](https://github.com/troglobit/jush)
+  > just give me a unix shell
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
@@ -90,5 +115,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 17:27:31 UTC*
+*Last updated at 2026-01-19 18:38:46 UTC*
 *Historical records are stored in the `archive` directory.*
