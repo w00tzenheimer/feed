@@ -117,6 +117,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A mechanisation of Wasm in Isabelle.
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [ClickHouse/replxx](https://github.com/ClickHouse/replxx) to [jevinskie/replxx](https://github.com/jevinskie/replxx)
   > A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and i...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)
+  > Easily manage the brightness of your monitors in Windows from the system tray
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChipFlow/jax-spice](https://github.com/ChipFlow/jax-spice)
+  > JAX-based SPICE simulator with OpenVAF Verilog-A support
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
@@ -129,7 +133,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [xusheng6/byteflow](https://github.com/xusheng6/byteflow)
   > Node-based data transformation tool (CyberChef alternative)
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Nearcyan/vibecraft](https://github.com/Nearcyan/vibecraft)
+  > It's Vibecraft!
+
 
 ---
-*Last updated at 2026-01-19 21:25:05 UTC*
+*Last updated at 2026-01-19 22:26:35 UTC*
 *Historical records are stored in the `archive` directory.*
