@@ -30,6 +30,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [je5442804/NtCreateUserProcess-Post](https://github.com/je5442804/NtCreateUserProcess-Post)
   > NtCreateUserProcess with CsrClientCallServer for mainstream Windows x64 version
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [AbhiTheModder/smalisp](https://github.com/AbhiTheModder/smalisp)
+  >  A very simple language server for smali with definition support & auto-completion.
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux)
   > 🐧 在 Linux 上提供一套完整的 Clash / Mihomo（Clash Meta） 代理与管理面板
@@ -58,6 +62,20 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gdsfactory/gf180mcu](https://github.com/gdsfactory/gf180mcu)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory)
+  > A Python library for designing chips (Photonics, Analog, Quantum, MEMS), PCBs, and 3D-printable obje...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [hkustgz-zhang-lab/E-Syn2](https://github.com/hkustgz-zhang-lab/E-Syn2)
+  > E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis (DAC2025) 
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [hkustgz-zhang-lab/HW-Formal-Paper](https://github.com/hkustgz-zhang-lab/HW-Formal-Paper)
+  > Recent papers related to hardware formal verification.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [iscas-tis/chicala](https://github.com/iscas-tis/chicala)
+  > Translate Chisel hardware design code to Scala simulation code.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [iscas-tis/ChiRVFormal](https://github.com/iscas-tis/ChiRVFormal)
+  > Minimal RISC-V Chisel design strictly reflecting the ISA document for verification.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zhanghongce/IC3ref](https://github.com/zhanghongce/IC3ref)
+  > IC3 reference implementation: a short, simple, fairly competitive implementation of IC3.  Read it, t...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wjrforcyber/BooLeanTry](https://github.com/wjrforcyber/BooLeanTry)
+  > Try some Lean on Boolean Algebra.
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
@@ -72,5 +90,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 16:35:59 UTC*
+*Last updated at 2026-01-19 17:27:31 UTC*
 *Historical records are stored in the `archive` directory.*
