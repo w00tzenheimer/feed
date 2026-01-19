@@ -39,6 +39,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > View your beads (Steve Yegge's task management system for coding agents) like a king. 
 - 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [steveyegge/beads](https://github.com/steveyegge/beads)
   > Beads - A memory upgrade for your coding agent
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust)
+  > A fast Rust port of Steve Yegge's beads - a local-first, non-invasive issue tracker for git reposito...
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
@@ -51,6 +53,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Stealthy Linux Kernel Rootkit for modern kernels (6x)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JCocola/weird-generalization-and-inductive-backdoors](https://github.com/JCocola/weird-generalization-and-inductive-backdoors)
   > Code and materials for "Weird Generalization and Inductive Backdoors"
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
@@ -65,5 +69,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-19 14:33:05 UTC*
+*Last updated at 2026-01-19 15:31:36 UTC*
 *Historical records are stored in the `archive` directory.*
