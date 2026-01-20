@@ -4,6 +4,20 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [blader/humanizer](https://github.com/blader/humanizer)
+  > Claude Code skill that removes signs of AI-generated writing from text
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [zalexdev/wpair-app](https://github.com/zalexdev/wpair-app)
+  > WPair is a defensive security research tool that demonstrates the CVE-2025-36911 (eg WhisperPair) vu...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [kip-dili/kip](https://github.com/kip-dili/kip)
+  > A programming language in Turkish where grammatical case and mood are part of the type system.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
+  > Plugin for JADX to integrate MCP server
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
+  > ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
+  > An eBPF-powered debugger server for linux and android.
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [ericlagergren/hctr2-rs](https://github.com/ericlagergren/hctr2-rs) to [dip-proto/hctr2-rs](https://github.com/dip-proto/hctr2-rs)
   > Length-preserving encryption algorithm https://eprint.iacr.org/2021/1441.pdf
@@ -32,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-20 22:27:11 UTC*
+*Last updated at 2026-01-20 23:27:27 UTC*
 *Historical records are stored in the `archive` directory.*
