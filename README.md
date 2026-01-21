@@ -1,50 +1,46 @@
-# Daily GitHub Activity (2026-01-20)
+# Daily GitHub Activity (2026-01-21)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-### [eybisi](https://github.com/eybisi)
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [blader/humanizer](https://github.com/blader/humanizer)
-  > Claude Code skill that removes signs of AI-generated writing from text
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [zalexdev/wpair-app](https://github.com/zalexdev/wpair-app)
-  > WPair is a defensive security research tool that demonstrates the CVE-2025-36911 (eg WhisperPair) vu...
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [kip-dili/kip](https://github.com/kip-dili/kip)
-  > A programming language in Turkish where grammatical case and mood are part of the type system.
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
-  > Plugin for JADX to integrate MCP server
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
-  > ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) to [CrackerCat/BiliRoaming](https://github.com/CrackerCat/BiliRoaming)
+  > 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xeb/windbg-copilot](https://github.com/0xeb/windbg-copilot) to [CrackerCat/windbg-copilot](https://github.com/CrackerCat/windbg-copilot)
+  > WinDbg Copilot - Agentic Debugging extension
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs) to [CrackerCat/ida-mcp-rs](https://github.com/CrackerCat/ida-mcp-rs)
+  > Headless IDA MCP Server
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [s5uishida/free5gc_ueransim_oai_upf_sample_config](https://github.com/s5uishida/free5gc_ueransim_oai_upf_sample_config) to [CrackerCat/free5gc_ueransim_oai_upf_sample_config](https://github.com/CrackerCat/free5gc_ueransim_oai_upf_sample_config)
+  > free5GC 5GC & UERANSIM UE / RAN Sample Configuration - OAI-CN5G-UPF(eBPF/XDP UPF)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [s5uishida/simple_measurement_of_upf_performance_10](https://github.com/s5uishida/simple_measurement_of_upf_performance_10) to [CrackerCat/simple_measurement_of_upf_performance_10](https://github.com/CrackerCat/simple_measurement_of_upf_performance_10)
+  > Simple Measurement of UPF Performance 10
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [s5uishida/open5gs_5gc_ueransim_oai_upf_sample_config](https://github.com/s5uishida/open5gs_5gc_ueransim_oai_upf_sample_config) to [CrackerCat/open5gs_5gc_ueransim_oai_upf_sample_config](https://github.com/CrackerCat/open5gs_5gc_ueransim_oai_upf_sample_config)
+  > Open5GS 5GC & UERANSIM UE / RAN Sample Configuration - OAI-CN5G-UPF(eBPF/XDP UPF)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [s5uishida/install_oai_upf](https://github.com/s5uishida/install_oai_upf) to [CrackerCat/install_oai_upf](https://github.com/CrackerCat/install_oai_upf)
+  > Install OAI-CN5G-UPF(eBPF/XDP UPF) on Host
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Satar07/edbgserver](https://github.com/Satar07/edbgserver) to [CrackerCat/edbgserver](https://github.com/CrackerCat/edbgserver)
   > An eBPF-powered debugger server for linux and android.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AChep/keyguard-app](https://github.com/AChep/keyguard-app) to [CrackerCat/keyguard-app](https://github.com/CrackerCat/keyguard-app)
+  > Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user ex...
 
-### [jedisct1](https://github.com/jedisct1)
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [ericlagergren/hctr2-rs](https://github.com/ericlagergren/hctr2-rs) to [dip-proto/hctr2-rs](https://github.com/dip-proto/hctr2-rs)
-  > Length-preserving encryption algorithm https://eprint.iacr.org/2021/1441.pdf
-- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/rust-hctr2](https://github.com/jedisct1/rust-hctr2) public
-  > Rust implementation of HCTR2, HCTR3, and their beyond-birthday-bound secure variants (CHCTR2, HCTR2-...
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [rodydavis/agent-skills-generator](https://github.com/rodydavis/agent-skills-generator)
-  > Generate agent skills from website documentation
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gtkwave/libfst](https://github.com/gtkwave/libfst)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cakehonolulu/pciem](https://github.com/cakehonolulu/pciem)
-  > A Linux framework to enable userspace-defined "Virtual" PCIe card shims to enable in-host PCIe card ...
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [am-will/codex-skills](https://github.com/am-will/codex-skills)
-
-### [stevemk14ebr](https://github.com/stevemk14ebr)
-- 🍴 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Forked [mandiant/flare-gsoc](https://github.com/mandiant/flare-gsoc) to [stevemk14ebr/flare-gsoc](https://github.com/stevemk14ebr/flare-gsoc)
-  > Supporting resources and documentation for FLARE @ Google Summer of Code 2025
-
-### [wangyu-](https://github.com/wangyu-)
-- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [fadden/6502bench](https://github.com/fadden/6502bench)
-  > A workbench for developing 6502 code.
-- 🍴 👤 [wangyu-](https://github.com/wangyu-) Forked [fadden/6502bench](https://github.com/fadden/6502bench) to [wangyu-/6502bench](https://github.com/wangyu-/6502bench)
-  > A workbench for developing 6502 code.
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [1595901624/TroveKit](https://github.com/1595901624/TroveKit)
+  > An open-source, lightweight, fully offline, cross-platform toolbox.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [1595901624/TroveKit](https://github.com/1595901624/TroveKit) to [IuvenisSapiens/TroveKit](https://github.com/IuvenisSapiens/TroveKit)
+  > An open-source, lightweight, fully offline, cross-platform toolbox.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Mercury13/unicodia](https://github.com/Mercury13/unicodia)
+  > Encyclopedia of Unicode characters
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Mercury13/unicodia](https://github.com/Mercury13/unicodia) to [IuvenisSapiens/unicodia](https://github.com/IuvenisSapiens/unicodia)
+  > Encyclopedia of Unicode characters
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery)
+  > 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) to [IuvenisSapiens/log-lottery](https://github.com/IuvenisSapiens/log-lottery)
+  > 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [IuvenisSapiens/katvan](https://github.com/IuvenisSapiens/katvan)
+  > A bare-bones editor for Typst files, with a bias for Right-to-Left editing
 
 
 ---
-*Last updated at 2026-01-20 23:27:27 UTC*
+*Last updated at 2026-01-21 02:07:08 UTC*
 *Historical records are stored in the `archive` directory.*
