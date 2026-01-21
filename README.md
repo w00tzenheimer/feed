@@ -25,6 +25,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user ex...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xeb/lldb-copilot](https://github.com/0xeb/lldb-copilot) to [CrackerCat/lldb-copilot](https://github.com/CrackerCat/lldb-copilot)
   > LLDB Copilot - A simple AI agent debugging assistant plugin
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) to [CrackerCat/gtsteffaniak-filebrowser](https://github.com/CrackerCat/gtsteffaniak-filebrowser)
+  > 📂 Web File Browser
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DearVa/Everywhere](https://github.com/DearVa/Everywhere) to [CrackerCat/Everywhere](https://github.com/CrackerCat/Everywhere)
+  > Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) to [CrackerCat/everything-claude-code](https://github.com/CrackerCat/everything-claude-code)
+  > Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [different-ai/openwork](https://github.com/different-ai/openwork) to [CrackerCat/openwork](https://github.com/CrackerCat/openwork)
+  > An open-source alternative to Claude Cowork, powered by OpenCode
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zx0CF1/shredder-rs](https://github.com/zx0CF1/shredder-rs) to [CrackerCat/shredder-rs](https://github.com/CrackerCat/shredder-rs)
+  > A high-fidelity x86_64 polymorphic mutation engine focused on instruction-level fragmentation and co...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [1595901624/TroveKit](https://github.com/1595901624/TroveKit)
@@ -45,11 +55,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [cispa/StackWarp](https://github.com/cispa/StackWarp)
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
+  > 📱 Display and control your Android device graphically with scrcpy.
+
 ### [schinckel](https://github.com/schinckel)
 - 🍴 👤 [schinckel](https://github.com/schinckel) Forked [joscha82/wattpilot](https://github.com/joscha82/wattpilot) to [schinckel/wattpilot](https://github.com/schinckel/wattpilot)
   > Python library to connect to a Fronius Wattpilot Wallbox
 
 
 ---
-*Last updated at 2026-01-21 05:33:01 UTC*
+*Last updated at 2026-01-21 06:43:08 UTC*
 *Historical records are stored in the `archive` directory.*
