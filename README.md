@@ -52,6 +52,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [IuvenisSapiens/katvan](https://github.com/IuvenisSapiens/katvan)
   > A bare-bones editor for Typst files, with a bias for Right-to-Left editing
 
+### [MaxtorCoder](https://github.com/MaxtorCoder)
+- 🍴 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Forked [w-ahmad/WinUI.TableView](https://github.com/w-ahmad/WinUI.TableView) to [MaxtorCoder/WinUI.TableView](https://github.com/MaxtorCoder/WinUI.TableView)
+  > A light weight TableView/DataGrid for WinUI. 
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [cispa/StackWarp](https://github.com/cispa/StackWarp)
 
@@ -65,5 +69,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-21 08:38:20 UTC*
+*Last updated at 2026-01-21 09:37:34 UTC*
 *Historical records are stored in the `archive` directory.*
