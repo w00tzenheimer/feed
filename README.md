@@ -35,6 +35,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > An open-source alternative to Claude Cowork, powered by OpenCode
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zx0CF1/shredder-rs](https://github.com/zx0CF1/shredder-rs) to [CrackerCat/shredder-rs](https://github.com/CrackerCat/shredder-rs)
   > A high-fidelity x86_64 polymorphic mutation engine focused on instruction-level fragmentation and co...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis](https://github.com/zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis) to [CrackerCat/WebKit-UAF-ANGLE-OOB-Analysis](https://github.com/CrackerCat/WebKit-UAF-ANGLE-OOB-Analysis)
+  > Analysis of CVE-2025-43529 (WebKit UAF) + CVE-2025-14174 (ANGLE OOB) exploit chain - iOS Safari
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700) to [CrackerCat/CVE-2024-23700](https://github.com/CrackerCat/CVE-2024-23700)
+  > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [1595901624/TroveKit](https://github.com/1595901624/TroveKit)
@@ -62,6 +66,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
   > 📱 Display and control your Android device graphically with scrcpy.
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [canyie/CVE-2024-23700](https://github.com/canyie/CVE-2024-23700)
+  > PoC for CVE-2024-23700, Android slient privilege escalation allow to read/write contacts, SMS, calen...
 
 ### [schinckel](https://github.com/schinckel)
 - 🍴 👤 [schinckel](https://github.com/schinckel) Forked [joscha82/wattpilot](https://github.com/joscha82/wattpilot) to [schinckel/wattpilot](https://github.com/schinckel/wattpilot)
@@ -69,5 +75,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-21 11:28:47 UTC*
+*Last updated at 2026-01-21 12:59:43 UTC*
 *Historical records are stored in the `archive` directory.*
