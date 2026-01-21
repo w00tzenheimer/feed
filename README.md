@@ -63,6 +63,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [cispa/StackWarp](https://github.com/cispa/StackWarp)
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs)
+  > Out-of-tree LLVM passes in Rust
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [eqtylab/cupcake](https://github.com/eqtylab/cupcake)
   > A native policy enforcement layer for AI coding agents. Built on OPA/Rego.
@@ -82,5 +86,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-21 21:32:45 UTC*
+*Last updated at 2026-01-21 22:30:03 UTC*
 *Historical records are stored in the `archive` directory.*
