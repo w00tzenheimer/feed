@@ -66,6 +66,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [eqtylab/cupcake](https://github.com/eqtylab/cupcake)
   > A native policy enforcement layer for AI coding agents. Built on OPA/Rego.
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cloudflare/agent-skills-discovery-rfc](https://github.com/cloudflare/agent-skills-discovery-rfc)
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
@@ -79,5 +80,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-21 19:35:39 UTC*
+*Last updated at 2026-01-21 20:36:38 UTC*
 *Historical records are stored in the `archive` directory.*
