@@ -23,6 +23,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > An eBPF-powered debugger server for linux and android.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AChep/keyguard-app](https://github.com/AChep/keyguard-app) to [CrackerCat/keyguard-app](https://github.com/CrackerCat/keyguard-app)
   > Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user ex...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xeb/lldb-copilot](https://github.com/0xeb/lldb-copilot) to [CrackerCat/lldb-copilot](https://github.com/CrackerCat/lldb-copilot)
+  > LLDB Copilot - A simple AI agent debugging assistant plugin
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [1595901624/TroveKit](https://github.com/1595901624/TroveKit)
@@ -43,7 +45,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [cispa/StackWarp](https://github.com/cispa/StackWarp)
 
+### [schinckel](https://github.com/schinckel)
+- 🍴 👤 [schinckel](https://github.com/schinckel) Forked [joscha82/wattpilot](https://github.com/joscha82/wattpilot) to [schinckel/wattpilot](https://github.com/schinckel/wattpilot)
+  > Python library to connect to a Fronius Wattpilot Wallbox
+
 
 ---
-*Last updated at 2026-01-21 04:07:56 UTC*
+*Last updated at 2026-01-21 05:33:01 UTC*
 *Historical records are stored in the `archive` directory.*
