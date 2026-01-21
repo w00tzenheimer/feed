@@ -40,7 +40,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [IuvenisSapiens/katvan](https://github.com/IuvenisSapiens/katvan)
   > A bare-bones editor for Typst files, with a bias for Right-to-Left editing
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [cispa/StackWarp](https://github.com/cispa/StackWarp)
+
 
 ---
-*Last updated at 2026-01-21 02:07:08 UTC*
+*Last updated at 2026-01-21 04:07:56 UTC*
 *Historical records are stored in the `archive` directory.*
