@@ -8,6 +8,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [qemu-gvm/qemu-gvm](https://github.com/qemu-gvm/qemu-gvm)
   > A patched QEMU that supports Android Emulator Hypervisor Driver
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi) to [CrackerCat/TInjector_Symbi](https://github.com/CrackerCat/TInjector_Symbi)
+  > 更稳定的劫持Zygote在App启动前注入so
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LunFengChen/auto-flash](https://github.com/LunFengChen/auto-flash) to [CrackerCat/auto-flash](https://github.com/CrackerCat/auto-flash)
+  > pixel自动化刷机+配逆向环境（目前仍需介入，待修改rom实现自动打开 开发者/usb调试）
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [s7safe/android-h1](https://github.com/s7safe/android-h1) to [CrackerCat/android-h1](https://github.com/CrackerCat/android-h1)
+  > 移动安全漏洞挖掘专家SKILL，基于 HackerOne 真实报告的移动安全漏洞挖掘知识库，提供 Android 和 iOS 应用的漏洞挖掘手法、技术细节和代码模式分析。
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [C5H12O5/TextGO](https://github.com/C5H12O5/TextGO)
   > A customizable text selection popup tool
@@ -34,7 +42,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) to [jedisct1/x-algorithm](https://github.com/jedisct1/x-algorithm)
   > Algorithm powering the For You feed on X
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes)
+  > Notes manager for macOS/iOS
+
 
 ---
-*Last updated at 2026-01-22 13:53:57 UTC*
+*Last updated at 2026-01-22 14:35:27 UTC*
 *Historical records are stored in the `archive` directory.*
