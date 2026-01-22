@@ -37,6 +37,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [dy/jz](https://github.com/dy/jz)
   > Minimal JS subset compiling to WASM
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [tsherif/picogl.js](https://github.com/tsherif/picogl.js)
+  > A minimal WebGL 2 rendering library
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [greggman/twgl.js](https://github.com/greggman/twgl.js)
+  > A Tiny WebGL helper Library
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Daninet/hash-wasm](https://github.com/Daninet/hash-wasm)
@@ -52,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-22 15:36:21 UTC*
+*Last updated at 2026-01-22 16:40:49 UTC*
 *Historical records are stored in the `archive` directory.*
