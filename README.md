@@ -49,6 +49,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Algorithm powering the For You feed on X
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cloudflare/privacypass-issuer](https://github.com/cloudflare/privacypass-issuer)
   > A TypeScript Issuer for the Privacy Pass Authentication Protocol
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [rockorager/ziglint](https://github.com/rockorager/ziglint)
+  > opinionated linting to keep your agent in check
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes)
@@ -67,5 +69,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-22 22:28:14 UTC*
+*Last updated at 2026-01-22 23:26:48 UTC*
 *Historical records are stored in the `archive` directory.*
