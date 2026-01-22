@@ -54,7 +54,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zmwangx/metadata](https://github.com/zmwangx/metadata)
   > Media file metadata for human consumption
 
+### [ostrowr](https://github.com/ostrowr)
+- 🍴 👤 [ostrowr](https://github.com/ostrowr) Forked [openai/codex](https://github.com/openai/codex) to [ostrowr/metacodex](https://github.com/ostrowr/metacodex)
+  > Lightweight coding agent that runs in your terminal
+
 
 ---
-*Last updated at 2026-01-22 16:40:49 UTC*
+*Last updated at 2026-01-22 17:34:21 UTC*
 *Historical records are stored in the `archive` directory.*
