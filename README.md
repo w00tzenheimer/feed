@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [qemu-gvm/qemu-gvm](https://github.com/qemu-gvm/qemu-gvm)
+  > A patched QEMU that supports Android Emulator Hypervisor Driver
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [C5H12O5/TextGO](https://github.com/C5H12O5/TextGO)
   > A customizable text selection popup tool
@@ -16,7 +20,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [archisman-panigrahi/QuickBib](https://github.com/archisman-panigrahi/QuickBib) to [IuvenisSapiens/QuickBib](https://github.com/IuvenisSapiens/QuickBib)
   > Get BibTeX from a DOI — fast
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [dy/jz](https://github.com/dy/jz)
+  > Minimal JS subset compiling to WASM
+
 
 ---
-*Last updated at 2026-01-22 10:33:42 UTC*
+*Last updated at 2026-01-22 11:27:12 UTC*
 *Historical records are stored in the `archive` directory.*
