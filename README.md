@@ -57,6 +57,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Media file metadata for human consumption
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ArcaneNibble/binja-ar](https://github.com/ArcaneNibble/binja-ar)
   > Binary Ninja .a plugin
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [schappim/coreml-cli](https://github.com/schappim/coreml-cli)
+  > A native command-line interface for working with Apple Core ML models on macOS
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rems-project/lean-sail](https://github.com/rems-project/lean-sail)
 
 ### [ostrowr](https://github.com/ostrowr)
 - 🍴 👤 [ostrowr](https://github.com/ostrowr) Forked [openai/codex](https://github.com/openai/codex) to [ostrowr/metacodex](https://github.com/ostrowr/metacodex)
@@ -64,5 +67,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-22 21:28:25 UTC*
+*Last updated at 2026-01-22 22:28:14 UTC*
 *Historical records are stored in the `archive` directory.*
