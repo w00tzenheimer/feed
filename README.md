@@ -27,6 +27,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Get BibTeX from a DOI — fast
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [archisman-panigrahi/QuickBib](https://github.com/archisman-panigrahi/QuickBib) to [IuvenisSapiens/QuickBib](https://github.com/IuvenisSapiens/QuickBib)
   > Get BibTeX from a DOI — fast
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+  > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
 
 ### [dumbasPL](https://github.com/dumbasPL)
 - 🌟 👤 [dumbasPL](https://github.com/dumbasPL) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
@@ -45,8 +47,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes)
   > Notes manager for macOS/iOS
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zmwangx/metadata](https://github.com/zmwangx/metadata)
+  > Media file metadata for human consumption
 
 
 ---
-*Last updated at 2026-01-22 14:35:27 UTC*
+*Last updated at 2026-01-22 15:36:21 UTC*
 *Historical records are stored in the `archive` directory.*
