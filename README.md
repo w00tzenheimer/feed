@@ -53,6 +53,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Notes manager for macOS/iOS
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zmwangx/metadata](https://github.com/zmwangx/metadata)
   > Media file metadata for human consumption
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ArcaneNibble/binja-ar](https://github.com/ArcaneNibble/binja-ar)
+  > Binary Ninja .a plugin
 
 ### [ostrowr](https://github.com/ostrowr)
 - 🍴 👤 [ostrowr](https://github.com/ostrowr) Forked [openai/codex](https://github.com/openai/codex) to [ostrowr/metacodex](https://github.com/ostrowr/metacodex)
@@ -60,5 +62,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-22 18:40:06 UTC*
+*Last updated at 2026-01-22 19:28:50 UTC*
 *Historical records are stored in the `archive` directory.*
