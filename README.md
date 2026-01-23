@@ -62,11 +62,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [Mrack/TinyDump](https://github.com/Mrack/TinyDump)
   > Android native SO and DEX dumper.
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [SKBv0/ComfyUI_CreativeCode](https://github.com/SKBv0/ComfyUI_CreativeCode)
+  > Real-time coding in ComfyUI with GLSL Shaders and p5.js support. Create generative art, animations, ...
+
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🍴 👤 [quippy-dev](https://github.com/quippy-dev) Forked [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) to [quippy-dev/CodexMonitor](https://github.com/quippy-dev/CodexMonitor)
   > An app to monitor the (Codex) situation
 
 
 ---
-*Last updated at 2026-01-23 16:36:48 UTC*
+*Last updated at 2026-01-23 17:28:50 UTC*
 *Historical records are stored in the `archive` directory.*
