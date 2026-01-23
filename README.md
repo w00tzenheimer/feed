@@ -72,7 +72,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [quippy-dev](https://github.com/quippy-dev) Forked [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) to [quippy-dev/CodexMonitor](https://github.com/quippy-dev/CodexMonitor)
   > An app to monitor the (Codex) situation
 
+### [wangyu-](https://github.com/wangyu-)
+- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+  > Algorithm powering the For You feed on X
+- 🍴 👤 [wangyu-](https://github.com/wangyu-) Forked [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) to [wangyu-/x-algorithm](https://github.com/wangyu-/x-algorithm)
+  > Algorithm powering the For You feed on X
+
 
 ---
-*Last updated at 2026-01-23 20:31:42 UTC*
+*Last updated at 2026-01-23 21:26:25 UTC*
 *Historical records are stored in the `archive` directory.*
