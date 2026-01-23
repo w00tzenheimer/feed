@@ -17,6 +17,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [flybirdxx/ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS)
   > A Simple Implementation of Qwen3-TTS's ComfyUI
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [flybirdxx/ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS) to [IuvenisSapiens/ComfyUI-Qwen-TTS](https://github.com/IuvenisSapiens/ComfyUI-Qwen-TTS)
+  > A Simple Implementation of Qwen3-TTS's ComfyUI
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [btbd/smap](https://github.com/btbd/smap)
@@ -46,5 +48,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-23 13:49:06 UTC*
+*Last updated at 2026-01-23 14:30:13 UTC*
 *Historical records are stored in the `archive` directory.*
