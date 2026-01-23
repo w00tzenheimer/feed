@@ -40,6 +40,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [btbd/smap](https://github.com/btbd/smap) to [Lynnette177/smap](https://github.com/Lynnette177/smap)
   > DLL scatter manual mapper
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Arsylk/gosofix](https://github.com/Arsylk/gosofix)
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jquast/ucs-detect](https://github.com/jquast/ucs-detect)
   > Interactive Unicode Terminal Test and Reporting utility
@@ -80,5 +83,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-23 22:22:57 UTC*
+*Last updated at 2026-01-23 23:26:01 UTC*
 *Historical records are stored in the `archive` directory.*
