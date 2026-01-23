@@ -53,6 +53,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A sharp cut(1) clone.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cirruslabs/gitlab-tart-executor](https://github.com/cirruslabs/gitlab-tart-executor)
   > GitLab Runner executor to run jobs in Tart VMs
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [CUB3D/ghidra-hexagon-sleigh](https://github.com/CUB3D/ghidra-hexagon-sleigh)
+  > A version-agnostic ghidra plugin for de-compiling Qualcomm Hexagon QDSP6
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
@@ -72,5 +74,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-23 19:27:57 UTC*
+*Last updated at 2026-01-23 20:31:42 UTC*
 *Historical records are stored in the `archive` directory.*
