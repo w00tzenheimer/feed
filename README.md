@@ -19,6 +19,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > DLL scatter manual mapper
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [btbd/access](https://github.com/btbd/access)
   > Access without a real handle
+- 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [btbd/smap](https://github.com/btbd/smap) to [Lynnette177/smap](https://github.com/Lynnette177/smap)
+  > DLL scatter manual mapper
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jquast/ucs-detect](https://github.com/jquast/ucs-detect)
@@ -40,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-23 10:30:43 UTC*
+*Last updated at 2026-01-23 11:25:51 UTC*
 *Historical records are stored in the `archive` directory.*
