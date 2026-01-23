@@ -33,6 +33,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Interactive Unicode Terminal Test and Reporting utility
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [yrutschle/sslh](https://github.com/yrutschle/sslh)
   > Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jedisct1/merkle-execution-proofs](https://github.com/jedisct1/merkle-execution-proofs)
+  > A simple, concrete alternative to the largely useless PoW challenges cloud services rely on for bot ...
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
@@ -48,5 +50,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-23 14:30:13 UTC*
+*Last updated at 2026-01-23 15:31:30 UTC*
 *Historical records are stored in the `archive` directory.*
