@@ -7,6 +7,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [electronicarts/EASTL](https://github.com/electronicarts/EASTL)
   > EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implement...
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [alliedmodders/hl2sdk](https://github.com/alliedmodders/hl2sdk)
+  > Half-Life 2 SDK Mirrors
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [SteamDatabase/GameTracking-CS2](https://github.com/SteamDatabase/GameTracking-CS2)
+  > 📥 Game Tracker: Counter-Strike 2
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [alliedmodders/ambuild](https://github.com/alliedmodders/ambuild)
+  > AlliedModders C++ Build System
 
 ### [EloiStree](https://github.com/EloiStree)
 - 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [punkpeye/pipenet](https://github.com/punkpeye/pipenet)
@@ -19,6 +25,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A Simple Implementation of Qwen3-TTS's ComfyUI
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [flybirdxx/ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS) to [IuvenisSapiens/ComfyUI-Qwen-TTS](https://github.com/IuvenisSapiens/ComfyUI-Qwen-TTS)
   > A Simple Implementation of Qwen3-TTS's ComfyUI
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [huggingface/transformers](https://github.com/huggingface/transformers) to [IuvenisSapiens/transformers](https://github.com/IuvenisSapiens/transformers)
+  > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub)
+  > The official Python client for the Hugging Face Hub.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) to [IuvenisSapiens/huggingface_hub](https://github.com/IuvenisSapiens/huggingface_hub)
+  > The official Python client for the Hugging Face Hub.
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [btbd/smap](https://github.com/btbd/smap)
@@ -35,6 +47,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jedisct1/merkle-execution-proofs](https://github.com/jedisct1/merkle-execution-proofs)
   > A simple, concrete alternative to the largely useless PoW challenges cloud services rely on for bot ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sstadick/gzp](https://github.com/sstadick/gzp)
+  > Multi-threaded Compression
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sstadick/hck](https://github.com/sstadick/hck)
+  > A sharp cut(1) clone.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cirruslabs/gitlab-tart-executor](https://github.com/cirruslabs/gitlab-tart-executor)
+  > GitLab Runner executor to run jobs in Tart VMs
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
@@ -50,5 +68,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-23 15:31:30 UTC*
+*Last updated at 2026-01-23 16:36:48 UTC*
 *Historical records are stored in the `archive` directory.*
