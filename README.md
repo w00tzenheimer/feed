@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [electronicarts/EASTL](https://github.com/electronicarts/EASTL)
   > EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implement...
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [punkpeye/pipenet](https://github.com/punkpeye/pipenet)
+  > Expose your local server to the public internet instantly
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) to [IuvenisSapiens/Qwen3-TTS](https://github.com/IuvenisSapiens/Qwen3-TTS)
   > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
@@ -42,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-23 12:57:29 UTC*
+*Last updated at 2026-01-23 13:49:06 UTC*
 *Historical records are stored in the `archive` directory.*
