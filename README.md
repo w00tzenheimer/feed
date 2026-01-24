@@ -17,11 +17,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [Shrey113/Adb-Device-Manager-2](https://github.com/Shrey113/Adb-Device-Manager-2)
   > Dual-control Android management for Windows — ADB Mode (scrcpy GUI mirroring & control) and App Mode...
 
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [Tai7sy/ida_xorstr_decrypt](https://github.com/Tai7sy/ida_xorstr_decrypt)
+  > String decrypt plugin powered by unicorn engine
+
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billion...
 
 
 ---
-*Last updated at 2026-01-24 09:25:59 UTC*
+*Last updated at 2026-01-24 10:26:19 UTC*
 *Historical records are stored in the `archive` directory.*
