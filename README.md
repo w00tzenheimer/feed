@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
   > 更稳定的劫持Zygote在App启动前注入so
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
+  > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [Arsylk/gosofix](https://github.com/Arsylk/gosofix) to [joydo/gosofix](https://github.com/joydo/gosofix)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [Shrey113/Adb-Device-Manager-2](https://github.com/Shrey113/Adb-Device-Manager-2)
@@ -19,5 +23,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-24 08:32:30 UTC*
+*Last updated at 2026-01-24 09:25:59 UTC*
 *Historical records are stored in the `archive` directory.*
