@@ -20,6 +20,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [Tai7sy/ida_xorstr_decrypt](https://github.com/Tai7sy/ida_xorstr_decrypt)
   > String decrypt plugin powered by unicorn engine
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [0xflux/Scil](https://github.com/0xflux/Scil)
+  > System Call Integrity Layer - experimental security research
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [dashrobotco/robot-components](https://github.com/dashrobotco/robot-components)
@@ -36,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-24 19:20:10 UTC*
+*Last updated at 2026-01-24 20:27:15 UTC*
 *Historical records are stored in the `archive` directory.*
