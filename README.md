@@ -20,6 +20,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [benjiyaya/HeartMuLa_ComfyUI](https://github.com/benjiyaya/HeartMuLa_ComfyUI)
   > ComfyUI Custom Node for HeartMuLa AI Music Generation and Transcript Text
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Mikachu2333/rimage_gui](https://github.com/Mikachu2333/rimage_gui)
+  > 一个Rimage的GUI版本，能够批量压缩图片且不影响观感。A GUI software use rimage to compress images batchly without affecting...
 
 ### [saoudrizwan](https://github.com/saoudrizwan)
 - 🌟 👤 [saoudrizwan](https://github.com/saoudrizwan) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
@@ -27,5 +29,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-25 15:25:53 UTC*
+*Last updated at 2026-01-25 16:31:25 UTC*
 *Historical records are stored in the `archive` directory.*
