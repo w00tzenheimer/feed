@@ -23,6 +23,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Mikachu2333/rimage_gui](https://github.com/Mikachu2333/rimage_gui)
   > 一个Rimage的GUI版本，能够批量压缩图片且不影响观感。A GUI software use rimage to compress images batchly without affecting...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [dcao/babble](https://github.com/dcao/babble)
+  > library learning w egraphs
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
   > Unofficial Python API for Google NotebookLM
@@ -37,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-25 22:25:23 UTC*
+*Last updated at 2026-01-25 23:25:06 UTC*
 *Historical records are stored in the `archive` directory.*
