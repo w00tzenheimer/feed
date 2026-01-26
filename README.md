@@ -32,11 +32,21 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > IDA SQL - Interface with IDA in SQL via live virtual tables
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepclause/agentvm](https://github.com/deepclause/agentvm)
+  > Lightweight WASM-based Linux VM for AI agents - run shell commands in an isolated Alpine Linux envir...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [macabeus/mizuchi](https://github.com/macabeus/mizuchi)
+  > 🐉 Pipeline runner for matching decompilation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [encounter/objdiff](https://github.com/encounter/objdiff)
+  > A local diffing tool for decompilation projects
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [h4tr3d/gdbproxy](https://github.com/h4tr3d/gdbproxy)
+  > GDB TCP protocol proxy to inject/hooks GDB client requests to the target.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [remorses/errore](https://github.com/remorses/errore)
   > Errors as values for TypeScript. Fully type safe error handling.
 
 
 ---
-*Last updated at 2026-01-26 15:34:40 UTC*
+*Last updated at 2026-01-26 16:40:02 UTC*
 *Historical records are stored in the `archive` directory.*
