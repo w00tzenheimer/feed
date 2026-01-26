@@ -32,6 +32,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > IDA SQL - Interface with IDA in SQL via live virtual tables
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mnemonikr/symbolic-pcode](https://github.com/mnemonikr/symbolic-pcode)
+  > Execute instructions for Ghidra-supported processors using concrete or symbolic execution of Ghidra ...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mnemonikr/libsla](https://github.com/mnemonikr/libsla)
+  > Idiomatic Rust bindings to the Ghidra SLEIGH library for pcode disassembly
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
   > A drop-in, 5-20x faster, experimental Homebrew alternative
@@ -58,5 +64,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-26 20:32:50 UTC*
+*Last updated at 2026-01-26 21:28:55 UTC*
 *Historical records are stored in the `archive` directory.*
