@@ -22,6 +22,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [g0th1c54e4/supertrace](https://github.com/g0th1c54e4/supertrace) to [CrackerCat/supertrace](https://github.com/CrackerCat/supertrace)
   > An x64dbg plugin designed to append additional trace information into .trace32 and .trace64 files.
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [crazyma99/ComfyUI-HeartMuLa](https://github.com/crazyma99/ComfyUI-HeartMuLa) to [IuvenisSapiens/ComfyUI-HeartMuLa](https://github.com/IuvenisSapiens/ComfyUI-HeartMuLa)
+  > 本项目提供用于运行 HeartMuLa-oss-3B 音乐生成模型的 ComfyUI 节点
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [0xeb/pdbsql](https://github.com/0xeb/pdbsql)
   > PDB SQL tool
@@ -34,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-26 12:58:38 UTC*
+*Last updated at 2026-01-26 13:51:14 UTC*
 *Historical records are stored in the `archive` directory.*
