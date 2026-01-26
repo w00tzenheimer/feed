@@ -32,6 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > IDA SQL - Interface with IDA in SQL via live virtual tables
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lisa-analyzer/lisa](https://github.com/lisa-analyzer/lisa)
+  > 📚 a modular easy to use Library for Static Analysis aiming at multi-language analysis
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepclause/agentvm](https://github.com/deepclause/agentvm)
   > Lightweight WASM-based Linux VM for AI agents - run shell commands in an isolated Alpine Linux envir...
@@ -48,5 +52,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-26 16:40:02 UTC*
+*Last updated at 2026-01-26 17:34:33 UTC*
 *Historical records are stored in the `archive` directory.*
