@@ -32,6 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > IDA SQL - Interface with IDA in SQL via live virtual tables
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
+  > A drop-in, 5-20x faster, experimental Homebrew alternative
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lisa-analyzer/lisa](https://github.com/lisa-analyzer/lisa)
   > 📚 a modular easy to use Library for Static Analysis aiming at multi-language analysis
@@ -52,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-26 17:34:33 UTC*
+*Last updated at 2026-01-26 18:42:29 UTC*
 *Historical records are stored in the `archive` directory.*
