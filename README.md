@@ -47,6 +47,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lisa-analyzer/lisa](https://github.com/lisa-analyzer/lisa)
   > 📚 a modular easy to use Library for Static Analysis aiming at multi-language analysis
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [IntegralPilot/GammaCPU](https://github.com/IntegralPilot/GammaCPU)
+  > VHDL-based CPU which supports running raw WASM instructions. 
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepclause/agentvm](https://github.com/deepclause/agentvm)
@@ -64,7 +66,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [remorses/errore](https://github.com/remorses/errore)
   > Errors as values for TypeScript. Fully type safe error handling.
 
+### [tomdee](https://github.com/tomdee)
+- 🌟 👤 [tomdee](https://github.com/tomdee) Starred [gizmo-boss/esphome-lvgl-dashboard](https://github.com/gizmo-boss/esphome-lvgl-dashboard)
+
 
 ---
-*Last updated at 2026-01-26 22:27:47 UTC*
+*Last updated at 2026-01-26 23:27:38 UTC*
 *Historical records are stored in the `archive` directory.*
