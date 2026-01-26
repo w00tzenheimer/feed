@@ -37,6 +37,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Execute instructions for Ghidra-supported processors using concrete or symbolic execution of Ghidra ...
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mnemonikr/libsla](https://github.com/mnemonikr/libsla)
   > Idiomatic Rust bindings to the Ghidra SLEIGH library for pcode disassembly
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [openjdk/jextract](https://github.com/openjdk/jextract)
+  > https://openjdk.org/projects/code-tools
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
@@ -64,5 +66,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-26 21:28:55 UTC*
+*Last updated at 2026-01-26 22:27:47 UTC*
 *Historical records are stored in the `archive` directory.*
