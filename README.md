@@ -49,6 +49,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A local diffing tool for decompilation projects
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [h4tr3d/gdbproxy](https://github.com/h4tr3d/gdbproxy)
   > GDB TCP protocol proxy to inject/hooks GDB client requests to the target.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fpganinja/taxi](https://github.com/fpganinja/taxi)
+  > AXI, AXI stream, Ethernet, and PCIe components in System Verilog
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [remorses/errore](https://github.com/remorses/errore)
@@ -56,5 +58,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-26 19:27:33 UTC*
+*Last updated at 2026-01-26 20:32:50 UTC*
 *Historical records are stored in the `archive` directory.*
