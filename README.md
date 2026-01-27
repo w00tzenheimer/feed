@@ -28,6 +28,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Browser automation CLI for AI agents
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud)
   > host your own cloud for the remarkable
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xarantolus/ax](https://github.com/xarantolus/ax)
+  > Minimal x86-64 emulator for WebAssembly - run ELF binaries in your browser
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [HugoRCD/evlog](https://github.com/HugoRCD/evlog)
@@ -43,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-27 22:27:18 UTC*
+*Last updated at 2026-01-27 23:27:26 UTC*
 *Historical records are stored in the `archive` directory.*
