@@ -16,11 +16,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [trifectatechfoundation/zlib-rs](https://github.com/trifectatechfoundation/zlib-rs)
   > A zlib implementation in rust available as a C dynamic library and as a rust crate
 
+### [papstuc](https://github.com/papstuc)
+- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
+  > AdaptixC2 is a highly modular advanced redteam toolkit
+
 ### [tomrus88](https://github.com/tomrus88)
 - 🌟 👤 [tomrus88](https://github.com/tomrus88) Starred [Jobert-Krohnen/dnSpy](https://github.com/Jobert-Krohnen/dnSpy)
   > Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 
 
 ---
-*Last updated at 2026-01-27 15:35:40 UTC*
+*Last updated at 2026-01-27 16:35:58 UTC*
 *Historical records are stored in the `archive` directory.*
