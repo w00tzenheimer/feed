@@ -18,6 +18,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/mini-presenter](https://github.com/mitsuhiko/mini-presenter)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lbacaj/WalkWrite-opensource](https://github.com/lbacaj/WalkWrite-opensource)
+  > iOS voice note app with local Whisper.cpp voice transcription & Qwen 3 local LLM
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [HugoRCD/evlog](https://github.com/HugoRCD/evlog)
@@ -33,5 +35,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-27 17:32:18 UTC*
+*Last updated at 2026-01-27 18:46:38 UTC*
 *Historical records are stored in the `archive` directory.*
