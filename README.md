@@ -22,6 +22,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > iOS voice note app with local Whisper.cpp voice transcription & Qwen 3 local LLM
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
   > Browser automation CLI for AI agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud)
+  > host your own cloud for the remarkable
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [HugoRCD/evlog](https://github.com/HugoRCD/evlog)
@@ -37,5 +39,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-27 20:28:50 UTC*
+*Last updated at 2026-01-27 21:22:56 UTC*
 *Historical records are stored in the `archive` directory.*
