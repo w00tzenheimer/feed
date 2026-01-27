@@ -20,6 +20,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/mini-presenter](https://github.com/mitsuhiko/mini-presenter)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lbacaj/WalkWrite-opensource](https://github.com/lbacaj/WalkWrite-opensource)
   > iOS voice note app with local Whisper.cpp voice transcription & Qwen 3 local LLM
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+  > Browser automation CLI for AI agents
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [HugoRCD/evlog](https://github.com/HugoRCD/evlog)
@@ -35,5 +37,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-27 19:30:47 UTC*
+*Last updated at 2026-01-27 20:28:50 UTC*
 *Historical records are stored in the `archive` directory.*
