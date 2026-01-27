@@ -16,6 +16,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [trifectatechfoundation/zlib-rs](https://github.com/trifectatechfoundation/zlib-rs)
   > A zlib implementation in rust available as a C dynamic library and as a rust crate
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/mini-presenter](https://github.com/mitsuhiko/mini-presenter)
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [HugoRCD/evlog](https://github.com/HugoRCD/evlog)
+  > Logging that makes sense. Wide events, structured errors, zero chaos.
+
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
   > AdaptixC2 is a highly modular advanced redteam toolkit
@@ -26,5 +33,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-27 16:35:58 UTC*
+*Last updated at 2026-01-27 17:32:18 UTC*
 *Historical records are stored in the `archive` directory.*
