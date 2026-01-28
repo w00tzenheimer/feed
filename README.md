@@ -4,8 +4,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [ostrowr](https://github.com/ostrowr)
+- 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
+  > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+
 
 ---
-*Last updated at 2026-01-28 04:08:40 UTC*
+*Last updated at 2026-01-28 05:33:04 UTC*
 *Historical records are stored in the `archive` directory.*
