@@ -12,8 +12,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Razzue](https://github.com/Razzue) Starred [thalium/symless](https://github.com/thalium/symless)
   > IDA Pro plugin that helps reconstruct structures
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse)
+  > A modern macOS app for downloading and managing iOS apps from the App Store
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/rax](https://github.com/19h/rax)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+  > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
 ### [ostrowr](https://github.com/ostrowr)
 - 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
@@ -32,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-28 13:01:05 UTC*
+*Last updated at 2026-01-28 14:36:16 UTC*
 *Historical records are stored in the `archive` directory.*
