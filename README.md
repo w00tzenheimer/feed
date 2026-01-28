@@ -12,6 +12,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Razzue](https://github.com/Razzue) Starred [thalium/symless](https://github.com/thalium/symless)
   > IDA Pro plugin that helps reconstruct structures
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [atredispartners/general-graboids](https://github.com/atredispartners/general-graboids)
+  > Command & Conquer: Generals Remote Code Execution and Worm
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
+  > A drop-in, 5-20x faster, experimental Homebrew alternative
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
+  > (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [bkerler/asar_extract](https://github.com/bkerler/asar_extract)
+  > Asar package extractor with anti-anti extraction support
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
+  > Advanced anti-LLM obfuscation
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse)
   > A modern macOS app for downloading and managing iOS apps from the App Store
@@ -28,10 +40,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/rax](https://github.com/19h/rax)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
   > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [daaximus/ida-reach](https://github.com/daaximus/ida-reach)
+  > ida utilities / plugins / scripts
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [antoine-coulon/skott](https://github.com/antoine-coulon/skott)
   > All-in-one devtool to automatically analyze, search and visualize project modules and dependencies f...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
 
 ### [ostrowr](https://github.com/ostrowr)
 - 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
@@ -54,5 +69,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-28 22:32:21 UTC*
+*Last updated at 2026-01-28 23:30:45 UTC*
 *Historical records are stored in the `archive` directory.*
