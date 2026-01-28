@@ -29,6 +29,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
   > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [antoine-coulon/skott](https://github.com/antoine-coulon/skott)
+  > All-in-one devtool to automatically analyze, search and visualize project modules and dependencies f...
+
 ### [ostrowr](https://github.com/ostrowr)
 - 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
@@ -41,10 +45,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
   > LLM inference in C/C++
 
+### [tmr232](https://github.com/tmr232)
+- 🚀 👤 [tmr232](https://github.com/tmr232) Made [tmr232/graphviz-embed](https://github.com/tmr232/graphviz-embed) public
+  > Embedding HTML in Graphviz DOT SVG graphs
+
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [Cheatron/Cheatron](https://github.com/Cheatron/Cheatron)
 
 
 ---
-*Last updated at 2026-01-28 18:43:05 UTC*
+*Last updated at 2026-01-28 19:34:04 UTC*
 *Historical records are stored in the `archive` directory.*
