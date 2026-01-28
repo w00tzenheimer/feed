@@ -19,6 +19,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Projects related to the serv RISC-V core on FPGAs including the servant SoC using Gowin FPGA tools
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [olofk/subservient](https://github.com/olofk/subservient)
   > Small SERV-based SoC primarily for OpenMPW tapeout
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tenstorrent/tt-forge](https://github.com/tenstorrent/tt-forge)
+  > Tenstorrent's MLIR Based Compiler. We aim to enable developers to run AI on all configurations of Te...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tenstorrent/tt-mlir](https://github.com/tenstorrent/tt-mlir)
+  > Tenstorrent MLIR compiler
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/rax](https://github.com/19h/rax)
@@ -42,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-28 15:38:04 UTC*
+*Last updated at 2026-01-28 16:43:40 UTC*
 *Historical records are stored in the `archive` directory.*
