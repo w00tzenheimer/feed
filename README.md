@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mallgrab/CWHook](https://github.com/mallgrab/CWHook) to [CrackerCat/CWHook](https://github.com/CrackerCat/CWHook)
   > Proof of concept circumventing arxan's integrity checks.
 
+### [Razzue](https://github.com/Razzue)
+- 🌟 👤 [Razzue](https://github.com/Razzue) Starred [thalium/symless](https://github.com/thalium/symless)
+  > IDA Pro plugin that helps reconstruct structures
+
 ### [ostrowr](https://github.com/ostrowr)
 - 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
@@ -25,5 +29,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-28 10:34:34 UTC*
+*Last updated at 2026-01-28 11:27:19 UTC*
 *Historical records are stored in the `archive` directory.*
