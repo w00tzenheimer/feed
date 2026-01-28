@@ -15,6 +15,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse)
   > A modern macOS app for downloading and managing iOS apps from the App Store
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [grughuhler/serv_riscv_related](https://github.com/grughuhler/serv_riscv_related)
+  > Projects related to the serv RISC-V core on FPGAs including the servant SoC using Gowin FPGA tools
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [olofk/subservient](https://github.com/olofk/subservient)
+  > Small SERV-based SoC primarily for OpenMPW tapeout
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/rax](https://github.com/19h/rax)
@@ -38,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-28 14:36:16 UTC*
+*Last updated at 2026-01-28 15:38:04 UTC*
 *Historical records are stored in the `archive` directory.*
