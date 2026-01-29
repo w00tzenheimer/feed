@@ -18,6 +18,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [modelscope/modelscope](https://github.com/modelscope/modelscope)
   > ModelScope: bring the notion of Model-as-a-Service to life.
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🚀 👤 [NielsRogge](https://github.com/NielsRogge) Made [ml6team/rag-evaluation](https://github.com/ml6team/rag-evaluation) public
+  > This repository contains boilerplate of a commonly used technique to evaluate RAG.
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
   > Community maintained hardware plugin for vLLM on Ascend
@@ -38,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-29 14:41:35 UTC*
+*Last updated at 2026-01-29 15:40:14 UTC*
 *Historical records are stored in the `archive` directory.*
