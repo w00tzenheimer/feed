@@ -15,6 +15,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
   > A TTS that fits in your CPU (and pocket)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [modelscope/modelscope](https://github.com/modelscope/modelscope)
+  > ModelScope: bring the notion of Model-as-a-Service to life.
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
@@ -36,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-29 13:07:29 UTC*
+*Last updated at 2026-01-29 14:41:35 UTC*
 *Historical records are stored in the `archive` directory.*
