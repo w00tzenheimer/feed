@@ -26,11 +26,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
   > A libre lightweight streaming front-end for Android.
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [alibaba/zvec](https://github.com/alibaba/zvec)
+  > A lightweight, lightning-fast, in-process vector database
+
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [daaximus/ida-reach](https://github.com/daaximus/ida-reach)
   > ida utilities / plugins / scripts
 
 
 ---
-*Last updated at 2026-01-29 11:35:34 UTC*
+*Last updated at 2026-01-29 13:07:29 UTC*
 *Historical records are stored in the `archive` directory.*
