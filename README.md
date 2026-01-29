@@ -17,6 +17,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A TTS that fits in your CPU (and pocket)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [modelscope/modelscope](https://github.com/modelscope/modelscope)
   > ModelScope: bring the notion of Model-as-a-Service to life.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
+  > Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, suppor...
 
 ### [NielsRogge](https://github.com/NielsRogge)
 - 🚀 👤 [NielsRogge](https://github.com/NielsRogge) Made [ml6team/rag-evaluation](https://github.com/ml6team/rag-evaluation) public
@@ -31,6 +33,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
   > A libre lightweight streaming front-end for Android.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [brnpl/Flutter-Labs](https://github.com/brnpl/Flutter-Labs)
+  > Hands-on challenges for learning how to reverse engineer Flutter applications.
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [alibaba/zvec](https://github.com/alibaba/zvec)
@@ -42,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-29 16:50:36 UTC*
+*Last updated at 2026-01-29 17:40:49 UTC*
 *Historical records are stored in the `archive` directory.*
