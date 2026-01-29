@@ -19,6 +19,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > ModelScope: bring the notion of Model-as-a-Service to life.
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
   > Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, suppor...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
+  > Visual Causal Flow
 
 ### [NielsRogge](https://github.com/NielsRogge)
 - 🚀 👤 [NielsRogge](https://github.com/NielsRogge) Made [ml6team/rag-evaluation](https://github.com/ml6team/rag-evaluation) public
@@ -44,7 +46,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [daaximus/ida-reach](https://github.com/daaximus/ida-reach)
   > ida utilities / plugins / scripts
 
+### [tomdee](https://github.com/tomdee)
+- 🌟 👤 [tomdee](https://github.com/tomdee) Starred [dawsbot/nr](https://github.com/dawsbot/nr)
+  > The fastest "npm run" possible
+
 
 ---
-*Last updated at 2026-01-29 17:40:49 UTC*
+*Last updated at 2026-01-29 18:55:12 UTC*
 *Historical records are stored in the `archive` directory.*
