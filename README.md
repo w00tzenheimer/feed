@@ -46,6 +46,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fisiognomico/webusb-unpinner](https://github.com/fisiognomico/webusb-unpinner)
   > A WebUSB based Android SSL Unpinning framework, works with ADB and requires no external dependency.
 
+### [laurentlb](https://github.com/laurentlb)
+- 🌟 👤 [laurentlb](https://github.com/laurentlb) Starred [yaptown/yap](https://github.com/yaptown/yap)
+  > The most time-efficient language-learning app
+
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [daaximus/ida-reach](https://github.com/daaximus/ida-reach)
   > ida utilities / plugins / scripts
@@ -56,5 +60,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-29 22:33:10 UTC*
+*Last updated at 2026-01-29 23:31:25 UTC*
 *Historical records are stored in the `archive` directory.*
