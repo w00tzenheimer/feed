@@ -22,11 +22,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) to [NyaMistyTemp/vllm-ascend](https://github.com/NyaMistyTemp/vllm-ascend)
   > Community maintained hardware plugin for vLLM on Ascend
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+  > A libre lightweight streaming front-end for Android.
+
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [daaximus/ida-reach](https://github.com/daaximus/ida-reach)
   > ida utilities / plugins / scripts
 
 
 ---
-*Last updated at 2026-01-29 10:41:45 UTC*
+*Last updated at 2026-01-29 11:35:34 UTC*
 *Historical records are stored in the `archive` directory.*
