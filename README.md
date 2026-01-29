@@ -42,6 +42,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [alibaba/zvec](https://github.com/alibaba/zvec)
   > A lightweight, lightning-fast, in-process vector database
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fisiognomico/webusb-unpinner](https://github.com/fisiognomico/webusb-unpinner)
+  > A WebUSB based Android SSL Unpinning framework, works with ADB and requires no external dependency.
+
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [daaximus/ida-reach](https://github.com/daaximus/ida-reach)
   > ida utilities / plugins / scripts
@@ -52,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-29 20:36:29 UTC*
+*Last updated at 2026-01-29 21:32:32 UTC*
 *Historical records are stored in the `archive` directory.*
