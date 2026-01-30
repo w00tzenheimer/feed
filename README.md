@@ -55,8 +55,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > native macOS codings agent orchestrator
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pierceboggan/primer](https://github.com/pierceboggan/primer)
   > Get your repo ready for AI.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [lauridskern/open-runde](https://github.com/lauridskern/open-runde)
+  > A soft, rounded variant of Inter
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer)
+  > Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and ...
 
 
 ---
-*Last updated at 2026-01-30 19:35:36 UTC*
+*Last updated at 2026-01-30 20:36:16 UTC*
 *Historical records are stored in the `archive` directory.*
