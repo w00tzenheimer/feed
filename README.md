@@ -46,6 +46,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [daaximus/ida-reach](https://github.com/daaximus/ida-reach)
   > ida utilities / plugins / scripts
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [MalBeacon/what-is-this-stealer](https://github.com/MalBeacon/what-is-this-stealer)
+  > A repository of credential stealer formats 
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
   > Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
@@ -66,5 +70,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-30 21:32:44 UTC*
+*Last updated at 2026-01-30 22:31:25 UTC*
 *Historical records are stored in the `archive` directory.*
