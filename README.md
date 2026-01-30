@@ -50,7 +50,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [cloudflare/moltworker](https://github.com/cloudflare/moltworker)
   > Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [supabitapp/supacode-sh](https://github.com/supabitapp/supacode-sh)
+  > native macOS codings agent orchestrator
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [pierceboggan/primer](https://github.com/pierceboggan/primer)
+  > Get your repo ready for AI.
+
 
 ---
-*Last updated at 2026-01-30 17:38:07 UTC*
+*Last updated at 2026-01-30 18:51:18 UTC*
 *Historical records are stored in the `archive` directory.*
