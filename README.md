@@ -30,7 +30,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription)
   > Disables the "No valid subscription" dialog on all Proxmox products, all versions.
 
+### [scripting-drafts](https://github.com/scripting-drafts)
+- 🚀 👤 [scripting-drafts](https://github.com/scripting-drafts) Made [scripting-drafts/restful_api_framework](https://github.com/scripting-drafts/restful_api_framework) public
+
 
 ---
-*Last updated at 2026-01-31 09:33:39 UTC*
+*Last updated at 2026-01-31 10:30:27 UTC*
 *Historical records are stored in the `archive` directory.*
