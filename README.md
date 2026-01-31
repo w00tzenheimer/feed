@@ -34,7 +34,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🚀 👤 [scripting-drafts](https://github.com/scripting-drafts) Made [scripting-drafts/Restful-API-Framework](https://github.com/scripting-drafts/Restful-API-Framework) public
   > API testing using PyTest and Requests
 
+### [tomdee](https://github.com/tomdee)
+- 🌟 👤 [tomdee](https://github.com/tomdee) Starred [vinnie291/sunnylink-wiki](https://github.com/vinnie291/sunnylink-wiki)
+  > A comprehensive, community-driven database and wiki for Sunnypilot settings and driving models
+
 
 ---
-*Last updated at 2026-01-31 11:25:31 UTC*
+*Last updated at 2026-01-31 12:57:42 UTC*
 *Historical records are stored in the `archive` directory.*
