@@ -20,7 +20,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
   > Open-Source Frontier Voice AI
 
+### [papstuc](https://github.com/papstuc)
+- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription)
+  > Disables the "No valid subscription" dialog on all Proxmox products, all versions.
+
 
 ---
-*Last updated at 2026-01-31 07:32:45 UTC*
+*Last updated at 2026-01-31 08:36:46 UTC*
 *Historical records are stored in the `archive` directory.*
