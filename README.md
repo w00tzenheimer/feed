@@ -28,6 +28,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [cea-sec/miasm](https://github.com/cea-sec/miasm)
   > Reverse engineering framework in Python
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mandiant/flare-learning-hub](https://github.com/mandiant/flare-learning-hub)
+  > Free educational content on reverse engineering and malware analysis from the FLARE team
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc)
   > Algorithmic conversation compactor for [Pi](https://github.com/badlogic/pi-mono). No LLM calls -- pr...
@@ -37,6 +41,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [angt/BucketBoard](https://github.com/angt/BucketBoard) to [dip-proto/BucketBoard](https://github.com/dip-proto/BucketBoard)
   > The copypasta network
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [hdresearch/ziggit](https://github.com/hdresearch/ziggit)
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [thiagopbueno/pyddlib](https://github.com/thiagopbueno/pyddlib)
@@ -62,8 +67,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [wesm/middleman](https://github.com/wesm/middleman)
   > Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repo...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Makisuo/skills](https://github.com/Makisuo/skills)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [AsamK/signal-cli](https://github.com/AsamK/signal-cli)
+  > signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 
 
 ---
-*Last updated at 2026-04-02 19:05:40 UTC*
+*Last updated at 2026-04-02 20:39:58 UTC*
 *Historical records are stored in the `archive` directory.*
