@@ -54,12 +54,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > ABC: System for Sequential Logic Synthesis and Formal Verification
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
   > Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 lang...
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [openjdk/jdk](https://github.com/openjdk/jdk) to [jevinskie/jdk](https://github.com/jevinskie/jdk)
+  > JDK main-line development https://openjdk.org/projects/jdk
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [symgrate/symgrate2-ida-py3-plugin](https://github.com/symgrate/symgrate2-ida-py3-plugin)
   > Symgrate plugin for IDA Pro versions with Python 3 support (7.4+)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [symgrate/symgrate2-lib](https://github.com/symgrate/symgrate2-lib)
   > Python3 library for Symgrate
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [PSPDFKit/pdf-to-markdown](https://github.com/PSPDFKit/pdf-to-markdown)
+  > Standalone CLI wrapper and docs for Nutrient's PDF-to-Markdown extractor
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ironsh/iron-proxy](https://github.com/ironsh/iron-proxy)
@@ -72,5 +76,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-02 21:42:21 UTC*
+*Last updated at 2026-04-02 22:36:15 UTC*
 *Historical records are stored in the `archive` directory.*
