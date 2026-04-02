@@ -26,6 +26,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin)
   > A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed...
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc)
+  > Algorithmic conversation compactor for [Pi](https://github.com/badlogic/pi-mono). No LLM calls -- pr...
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [ironsh/iron-proxy](https://github.com/ironsh/iron-proxy)
+  > An egress firewall for untrusted workloads.
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [angt/BucketBoard](https://github.com/angt/BucketBoard) to [dip-proto/BucketBoard](https://github.com/dip-proto/BucketBoard)
   > The copypasta network
@@ -42,5 +48,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-02 11:51:08 UTC*
+*Last updated at 2026-04-02 13:24:57 UTC*
 *Historical records are stored in the `archive` directory.*
