@@ -43,6 +43,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > pyddlib is a Python3 library for manipulating decision diagrams.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [magcius/noclip.website](https://github.com/magcius/noclip.website)
   > A digital museum of video game levels
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [OleFranz/qwen3-fim-finetune](https://github.com/OleFranz/qwen3-fim-finetune)
+  > Scripts to fine-tune Qwen3 0.6B Base on fill-in-the-middle (FIM) tasks using Unsloth
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [macd/abc](https://github.com/macd/abc)
+  > ABC: System for Sequential Logic Synthesis and Formal Verification
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
+  > Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 lang...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [symgrate/symgrate2-ida-py3-plugin](https://github.com/symgrate/symgrate2-ida-py3-plugin)
@@ -55,8 +61,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > An egress firewall for untrusted workloads.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [wesm/middleman](https://github.com/wesm/middleman)
   > Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repo...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Makisuo/skills](https://github.com/Makisuo/skills)
 
 
 ---
-*Last updated at 2026-04-02 15:01:16 UTC*
+*Last updated at 2026-04-02 17:00:05 UTC*
 *Historical records are stored in the `archive` directory.*
