@@ -25,6 +25,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin)
   > A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed...
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [cea-sec/miasm](https://github.com/cea-sec/miasm)
+  > Reverse engineering framework in Python
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc)
@@ -39,6 +41,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [thiagopbueno/pyddlib](https://github.com/thiagopbueno/pyddlib)
   > pyddlib is a Python3 library for manipulating decision diagrams.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [magcius/noclip.website](https://github.com/magcius/noclip.website)
+  > A digital museum of video game levels
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [symgrate/symgrate2-ida-py3-plugin](https://github.com/symgrate/symgrate2-ida-py3-plugin)
+  > Symgrate plugin for IDA Pro versions with Python 3 support (7.4+)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [symgrate/symgrate2-lib](https://github.com/symgrate/symgrate2-lib)
+  > Python3 library for Symgrate
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ironsh/iron-proxy](https://github.com/ironsh/iron-proxy)
@@ -48,5 +58,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-02 13:24:57 UTC*
+*Last updated at 2026-04-02 15:01:16 UTC*
 *Historical records are stored in the `archive` directory.*
