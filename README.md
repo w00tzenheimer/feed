@@ -31,6 +31,14 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Build, run, and manage app instances anywhere, without thinking about the boring stuff
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [castnettech/mnemosyne](https://github.com/castnettech/mnemosyne)
   > State aware knowledge compression, ingestion, and hybrid retrieval engine. Zero dependencies. Sub-10...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [aspauldingcode/apple-sharpener](https://github.com/aspauldingcode/apple-sharpener)
+  > square macos windows - a plugin for use with ammonia injector
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer)
+  > A beautiful CLI tool to see what's running on your ports
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [holepunchto/bare](https://github.com/holepunchto/bare)
+  > Small and modular JavaScript runtime for desktop and mobile
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [batrachianai/textual-diff-view](https://github.com/batrachianai/textual-diff-view)
+  > A Textual widget for beautiful diffs in the terminal
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [Y-ASLant/UPX-Tools](https://github.com/Y-ASLant/UPX-Tools)
@@ -40,5 +48,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-03 19:41:11 UTC*
+*Last updated at 2026-04-03 20:41:45 UTC*
 *Historical records are stored in the `archive` directory.*
