@@ -15,6 +15,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [EverMind-AI/MSA](https://github.com/EverMind-AI/MSA)
   > Memory Sparse Attention -  A scalable, end-to-end trainable latent-memory framework for 100M-token c...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [apple/ml-ssd](https://github.com/apple/ml-ssd)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
   > The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
@@ -31,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-03 16:47:52 UTC*
+*Last updated at 2026-04-03 17:38:39 UTC*
 *Historical records are stored in the `archive` directory.*
