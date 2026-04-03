@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Generate complex GitHub Actions YAML files using a declarative API.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [lilienblum/tako](https://github.com/lilienblum/tako)
   > Build, run, and manage app instances anywhere, without thinking about the boring stuff
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [castnettech/mnemosyne](https://github.com/castnettech/mnemosyne)
+  > State aware knowledge compression, ingestion, and hybrid retrieval engine. Zero dependencies. Sub-10...
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [Y-ASLant/UPX-Tools](https://github.com/Y-ASLant/UPX-Tools)
@@ -38,5 +40,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-03 18:53:57 UTC*
+*Last updated at 2026-04-03 19:41:11 UTC*
 *Historical records are stored in the `archive` directory.*
