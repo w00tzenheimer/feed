@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [EaseFilterSDK/ProcessFilterExample](https://github.com/EaseFilterSDK/ProcessFilterExample)
+  > A C# process filter driver example which was implemented with the Process Filter Driver SDK. The Pro...
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [EverMind-AI/MSA](https://github.com/EverMind-AI/MSA)
   > Memory Sparse Attention -  A scalable, end-to-end trainable latent-memory framework for 100M-token c...
@@ -20,5 +24,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-03 09:00:52 UTC*
+*Last updated at 2026-04-03 10:48:10 UTC*
 *Historical records are stored in the `archive` directory.*
