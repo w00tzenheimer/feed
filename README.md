@@ -4,6 +4,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [Skynami/LunaFirPay](https://github.com/Skynami/LunaFirPay)
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [EaseFilterSDK/ProcessFilterExample](https://github.com/EaseFilterSDK/ProcessFilterExample)
   > A C# process filter driver example which was implemented with the Process Filter Driver SDK. The Pro...
@@ -11,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [EverMind-AI/MSA](https://github.com/EverMind-AI/MSA)
   > Memory Sparse Attention -  A scalable, end-to-end trainable latent-memory framework for 100M-token c...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+  > The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI)
@@ -24,5 +31,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-03 13:13:30 UTC*
+*Last updated at 2026-04-03 14:49:23 UTC*
 *Historical records are stored in the `archive` directory.*
