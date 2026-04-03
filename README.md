@@ -25,6 +25,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI)
   > Open-Source Generative UI Framework
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [dsherret/gagen](https://github.com/dsherret/gagen)
+  > Generate complex GitHub Actions YAML files using a declarative API.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [lilienblum/tako](https://github.com/lilienblum/tako)
+  > Build, run, and manage app instances anywhere, without thinking about the boring stuff
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [Y-ASLant/UPX-Tools](https://github.com/Y-ASLant/UPX-Tools)
@@ -34,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-03 17:38:39 UTC*
+*Last updated at 2026-04-03 18:53:57 UTC*
 *Historical records are stored in the `archive` directory.*
