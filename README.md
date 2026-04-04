@@ -8,6 +8,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [microsoft/ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux)
   > A Linux version of the ProcDump Sysinternals tool
 
+### [EloiStree](https://github.com/EloiStree)
+- 🍴 👤 [EloiStree](https://github.com/EloiStree) Forked [EloiTeaching/2024_08_23_WOWNCG_OneInputGame](https://github.com/EloiTeaching/2024_08_23_WOWNCG_OneInputGame) to [EloiStree/2024_08_23_upm_one_Input_game](https://github.com/EloiStree/2024_08_23_upm_one_Input_game)
+  > Allows make one input game button in Unity3D by just drag and dropping a prefab.
+- 🍴 👤 [EloiStree](https://github.com/EloiStree) Forked [EloiTeaching/2024_08_23_WOWNCG_SurvivalGameTime](https://github.com/EloiTeaching/2024_08_23_WOWNCG_SurvivalGameTime) to [EloiStree/2024_08_23_upm_survival_game_time](https://github.com/EloiStree/2024_08_23_upm_survival_game_time)
+  > A timer display survival time and best score of the device.
+
 ### [NielsRogge](https://github.com/NielsRogge)
 - 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [allenai/olmocr](https://github.com/allenai/olmocr) to [NielsRogge/olmocr](https://github.com/NielsRogge/olmocr)
   > Toolkit for linearizing PDFs for LLM datasets/training
@@ -28,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-04 14:37:10 UTC*
+*Last updated at 2026-04-04 15:37:15 UTC*
 *Historical records are stored in the `archive` directory.*
