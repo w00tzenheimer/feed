@@ -25,6 +25,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap)
   > RDP Wrapper Library
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [agenticmail/agenticmail](https://github.com/agenticmail/agenticmail)
+  > Email & SMS infrastructure for AI agents — send and receive real email and text messages programmati...
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [flann-lib/flann](https://github.com/flann-lib/flann)
   > Fast Library for Approximate Nearest Neighbors
@@ -37,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-04 18:50:42 UTC*
+*Last updated at 2026-04-04 19:34:33 UTC*
 *Historical records are stored in the `archive` directory.*
