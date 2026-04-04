@@ -27,6 +27,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [flann-lib/flann](https://github.com/flann-lib/flann)
   > Fast Library for Approximate Nearest Neighbors
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [sdd/kiddo](https://github.com/sdd/kiddo)
+  > Kiddo
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
@@ -34,5 +36,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-04 16:41:16 UTC*
+*Last updated at 2026-04-04 17:36:14 UTC*
 *Historical records are stored in the `archive` directory.*
