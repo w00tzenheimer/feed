@@ -20,11 +20,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
   > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🍴 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Forked [mourner/geokdbush](https://github.com/mourner/geokdbush) to [goto-bus-stop/geokdbush](https://github.com/goto-bus-stop/geokdbush)
+  > The fastest spatial index for geographic locations in JavaScript
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli)
   > Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
 
 
 ---
-*Last updated at 2026-04-05 19:36:50 UTC*
+*Last updated at 2026-04-05 20:39:19 UTC*
 *Historical records are stored in the `archive` directory.*
