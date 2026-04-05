@@ -10,7 +10,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) to [IuvenisSapiens/sentrysearch](https://github.com/IuvenisSapiens/sentrysearch)
   > Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+  > Fast, accurate & comprehensive text measurement & layout
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [chenglou/pretext](https://github.com/chenglou/pretext) to [IuvenisSapiens/pretext](https://github.com/IuvenisSapiens/pretext)
+  > Fast, accurate & comprehensive text measurement & layout
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [nv-tlabs/kimodo](https://github.com/nv-tlabs/kimodo)
   > Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) mo...
 
@@ -20,5 +22,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-05 14:38:33 UTC*
+*Last updated at 2026-04-05 15:38:14 UTC*
 *Historical records are stored in the `archive` directory.*
