@@ -32,7 +32,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli)
   > The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.
 
+### [ostrowr](https://github.com/ostrowr)
+- 🍴 👤 [ostrowr](https://github.com/ostrowr) Forked [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema) to [ostrowr/jsonschema](https://github.com/ostrowr/jsonschema)
+  > A high-performance JSON Schema validator for Rust
+- 🍴 👤 [ostrowr](https://github.com/ostrowr) Forked [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) to [ostrowr/JSON-Schema-Test-Suite](https://github.com/ostrowr/JSON-Schema-Test-Suite)
+  > A language agnostic test suite for the JSON Schema specifications
+
+### [vitosans](https://github.com/vitosans)
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [mrmikee/nagios-notify-msteams](https://github.com/mrmikee/nagios-notify-msteams) to [vitosans/nagios-notify-msteams](https://github.com/vitosans/nagios-notify-msteams)
+  > Sends Nagios Alerts to MS-Teams via Incoming Webhook uses Adaptive Cards
+
 
 ---
-*Last updated at 2026-04-05 22:36:32 UTC*
+*Last updated at 2026-04-05 23:38:46 UTC*
 *Historical records are stored in the `archive` directory.*
