@@ -4,8 +4,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch)
+  > Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) to [IuvenisSapiens/sentrysearch](https://github.com/IuvenisSapiens/sentrysearch)
+  > Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [chenglou/pretext](https://github.com/chenglou/pretext) to [IuvenisSapiens/pretext](https://github.com/IuvenisSapiens/pretext)
+
 
 ---
-*Last updated at 2026-04-05 02:53:46 UTC*
+*Last updated at 2026-04-05 05:17:26 UTC*
 *Historical records are stored in the `archive` directory.*
