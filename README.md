@@ -27,8 +27,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli)
   > Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar)
+  > A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your ap...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli)
+  > The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.
 
 
 ---
-*Last updated at 2026-04-05 21:36:55 UTC*
+*Last updated at 2026-04-05 22:36:32 UTC*
 *Historical records are stored in the `archive` directory.*
