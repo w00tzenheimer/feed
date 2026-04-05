@@ -12,7 +12,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [chenglou/pretext](https://github.com/chenglou/pretext) to [IuvenisSapiens/pretext](https://github.com/IuvenisSapiens/pretext)
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
+  > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
+
 
 ---
-*Last updated at 2026-04-05 11:34:38 UTC*
+*Last updated at 2026-04-05 13:07:59 UTC*
 *Historical records are stored in the `archive` directory.*
