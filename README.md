@@ -20,7 +20,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
   > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli)
+  > Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
+
 
 ---
-*Last updated at 2026-04-05 15:38:14 UTC*
+*Last updated at 2026-04-05 16:41:52 UTC*
 *Historical records are stored in the `archive` directory.*
