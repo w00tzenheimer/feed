@@ -41,8 +41,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, d...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [criccomini/write-like-paul-graham](https://github.com/criccomini/write-like-paul-graham)
   > An agent skill for thesis-first essays, distilled from Paul Graham’s writing without imitating his e...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [antithesishq/antithesis-skills](https://github.com/antithesishq/antithesis-skills)
+  > AI Skills for Antithesis Users
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [hegeldev/hegel-skill](https://github.com/hegeldev/hegel-skill)
+  > A skill for helping agents write Hegel tests
 
 
 ---
-*Last updated at 2026-04-06 22:41:18 UTC*
+*Last updated at 2026-04-06 23:40:44 UTC*
 *Historical records are stored in the `archive` directory.*
