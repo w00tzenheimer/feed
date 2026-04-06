@@ -21,6 +21,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Single-pass SSA compiler for Python 3.13: hand-written lexer, token-to-bytecode parser, adaptive VM ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/pi-share-hf](https://github.com/badlogic/pi-share-hf)
   > Collect, review, and upload redacted pi session files to a Hugging Face dataset
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bohdanpodvirnyi/agent-session-bridge](https://github.com/bohdanpodvirnyi/agent-session-bridge)
+  > Bridge local AI coding sessions between Pi, Claude Code, and Codex.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [zmeyer44/Locker](https://github.com/zmeyer44/Locker)
@@ -31,5 +33,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-06 14:53:47 UTC*
+*Last updated at 2026-04-06 15:53:26 UTC*
 *Historical records are stored in the `archive` directory.*
