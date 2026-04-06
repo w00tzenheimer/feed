@@ -23,6 +23,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Collect, review, and upload redacted pi session files to a Hugging Face dataset
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bohdanpodvirnyi/agent-session-bridge](https://github.com/bohdanpodvirnyi/agent-session-bridge)
   > Bridge local AI coding sessions between Pi, Claude Code, and Codex.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JayFarei/opentraces](https://github.com/JayFarei/opentraces)
+  > Open schema + CLI for repo-local agent trace capture, review, and upload to Hugging Face Hub.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [zmeyer44/Locker](https://github.com/zmeyer44/Locker)
@@ -33,5 +35,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-06 15:53:26 UTC*
+*Last updated at 2026-04-06 16:55:25 UTC*
 *Historical records are stored in the `archive` directory.*
