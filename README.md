@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [g3tsyst3m/CodefromBlog](https://github.com/g3tsyst3m/CodefromBlog)
+  > The code I write in my blog
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [Muz1K1zuM/UnderlayCopy_bof](https://github.com/Muz1K1zuM/UnderlayCopy_bof)
   > BOF for Havoc that copies locked Windows files (SAM, SYSTEM, NTDS.dit) via raw MFT parsing — no VSS,...
@@ -35,5 +39,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-06 16:55:25 UTC*
+*Last updated at 2026-04-06 17:52:04 UTC*
 *Historical records are stored in the `archive` directory.*
