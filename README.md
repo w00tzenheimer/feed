@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [dylan-sutton-chavez/edge-python](https://github.com/dylan-sutton-chavez/edge-python)
+  > Single-pass SSA compiler for Python 3.13: hand-written lexer, token-to-bytecode parser, adaptive VM ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [santifer/career-ops](https://github.com/santifer/career-ops)
   > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...
@@ -19,5 +23,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-06 07:51:14 UTC*
+*Last updated at 2026-04-06 09:14:17 UTC*
 *Historical records are stored in the `archive` directory.*
