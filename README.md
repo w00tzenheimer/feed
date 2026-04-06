@@ -39,8 +39,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agen...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)
   > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, d...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [criccomini/write-like-paul-graham](https://github.com/criccomini/write-like-paul-graham)
+  > An agent skill for thesis-first essays, distilled from Paul Graham’s writing without imitating his e...
 
 
 ---
-*Last updated at 2026-04-06 21:41:43 UTC*
+*Last updated at 2026-04-06 22:41:18 UTC*
 *Historical records are stored in the `archive` directory.*
