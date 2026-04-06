@@ -29,6 +29,7 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Bridge local AI coding sessions between Pi, Claude Code, and Codex.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JayFarei/opentraces](https://github.com/JayFarei/opentraces)
   > Open schema + CLI for repo-local agent trace capture, review, and upload to Hugging Face Hub.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AndreiMuntea/etwkm](https://github.com/AndreiMuntea/etwkm)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [zmeyer44/Locker](https://github.com/zmeyer44/Locker)
@@ -41,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-06 19:08:13 UTC*
+*Last updated at 2026-04-06 20:41:39 UTC*
 *Historical records are stored in the `archive` directory.*
