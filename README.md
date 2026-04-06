@@ -36,8 +36,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
   > Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agen...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)
+  > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, d...
 
 
 ---
-*Last updated at 2026-04-06 17:52:04 UTC*
+*Last updated at 2026-04-06 19:08:13 UTC*
 *Historical records are stored in the `archive` directory.*
