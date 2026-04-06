@@ -4,6 +4,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [Muz1K1zuM/UnderlayCopy_bof](https://github.com/Muz1K1zuM/UnderlayCopy_bof)
+  > BOF for Havoc that copies locked Windows files (SAM, SYSTEM, NTDS.dit) via raw MFT parsing — no VSS,...
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [AndreiMuntea/etwkm](https://github.com/AndreiMuntea/etwkm)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [AndreiMuntea/Windows-Drivers-Mini-Projects](https://github.com/AndreiMuntea/Windows-Drivers-Mini-Projects)
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [dylan-sutton-chavez/edge-python](https://github.com/dylan-sutton-chavez/edge-python)
   > Single-pass SSA compiler for Python 3.13: hand-written lexer, token-to-bytecode parser, adaptive VM ...
@@ -23,5 +29,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-06 09:14:17 UTC*
+*Last updated at 2026-04-06 11:02:12 UTC*
 *Historical records are stored in the `archive` directory.*
