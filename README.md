@@ -47,6 +47,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Official implementation of "VideoMaMa: Mask-Guided Video Matting via Generative Prior", CVPR 2026
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
+  > A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locall...
 
 ### [ostrowr](https://github.com/ostrowr)
 - 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [ostrowr/jsoncompat](https://github.com/ostrowr/jsoncompat)
@@ -54,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-07 19:11:12 UTC*
+*Last updated at 2026-04-07 20:53:53 UTC*
 *Historical records are stored in the `archive` directory.*
