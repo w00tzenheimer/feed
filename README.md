@@ -13,6 +13,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > Multica turns coding agents into real teammates. Assign issues to an agent like you'd assign to a co...
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
+  > Open source skills for Agent 🔥
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [angt/BucketBoard](https://github.com/angt/BucketBoard)
@@ -21,6 +23,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyyself/wg-bench](https://github.com/cyyself/wg-bench)
   > WireGuard Benchmark using netns and iperf3
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [I-CAN-hack/flexray-analyzer](https://github.com/I-CAN-hack/flexray-analyzer)
+  > Saleae Logic 2 Flexray Analyzer
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [I-CAN-hack/pdf-mcp](https://github.com/I-CAN-hack/pdf-mcp)
+  > PDF MCP server with image rendering capabilities. Useful for automatically searching datasheets, man...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
@@ -42,5 +48,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-07 11:01:14 UTC*
+*Last updated at 2026-04-07 13:26:54 UTC*
 *Historical records are stored in the `archive` directory.*
