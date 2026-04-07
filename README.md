@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Code Property Graph: specification, query language, and utilities
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fraunhofer-AISEC/cpg](https://github.com/Fraunhofer-AISEC/cpg)
   > A library to extract Code Property Graphs from C/C++, Java, Go, Python, Ruby and every other languag...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cursey/x64-virtualizer-rs](https://github.com/cursey/x64-virtualizer-rs)
+  > x86-64 virtualizing obfuscator written in Rust
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)
@@ -40,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-07 09:09:18 UTC*
+*Last updated at 2026-04-07 11:01:14 UTC*
 *Historical records are stored in the `archive` directory.*
