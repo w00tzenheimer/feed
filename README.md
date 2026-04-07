@@ -48,7 +48,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
 
+### [ostrowr](https://github.com/ostrowr)
+- 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [ostrowr/jsoncompat](https://github.com/ostrowr/jsoncompat)
+  > Escape version skew
+
 
 ---
-*Last updated at 2026-04-07 15:13:52 UTC*
+*Last updated at 2026-04-07 17:05:14 UTC*
 *Historical records are stored in the `archive` directory.*
