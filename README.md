@@ -10,6 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xjustBen/BlueHammer](https://github.com/0xjustBen/BlueHammer) to [CrackerCat/BlueHammer-0xjustBen](https://github.com/CrackerCat/BlueHammer-0xjustBen)
   > Reattempt of BlueHammer disclosed in April 2026
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+  > Multica turns coding agents into real teammates. Assign issues to an agent like you'd assign to a co...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [angt/BucketBoard](https://github.com/angt/BucketBoard)
   > The copypasta network
@@ -36,5 +40,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-07 07:24:55 UTC*
+*Last updated at 2026-04-07 09:09:18 UTC*
 *Historical records are stored in the `archive` directory.*
