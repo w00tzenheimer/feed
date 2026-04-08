@@ -84,8 +84,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [farzaa/clicky](https://github.com/farzaa/clicky)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [redwoodjs/agent-ci](https://github.com/redwoodjs/agent-ci)
   > Agent-CI is local GitHub Actions for your agents.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [kunchenguid/axi](https://github.com/kunchenguid/axi)
+  > Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regu...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [millionco/expect](https://github.com/millionco/expect)
+  > Expect tests your agent's code in a real browser
 
 
 ---
-*Last updated at 2026-04-08 17:09:32 UTC*
+*Last updated at 2026-04-08 19:23:41 UTC*
 *Historical records are stored in the `archive` directory.*
