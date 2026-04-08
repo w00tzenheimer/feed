@@ -32,10 +32,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 《中华古诗词数据》用于前端 & Node.js 相关项目。唐宋两朝近一万四千古诗人，接近5.5万首唐诗加26万宋诗，两宋时期1564位词人，21050首词。
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [HM-RunningHub/ComfyUI_RH_VoxCPM](https://github.com/HM-RunningHub/ComfyUI_RH_VoxCPM) to [IuvenisSapiens/ComfyUI_RH_VoxCPM](https://github.com/IuvenisSapiens/ComfyUI_RH_VoxCPM)
   > This is a ComfyUI plug-in for VoxCPM
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [scipenai/tylax](https://github.com/scipenai/tylax)
+  > A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface...
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [shirayukiimountain/dpt-unpack](https://github.com/shirayukiimountain/dpt-unpack)
   > A command-line tool written in Kotlin designed to statically unpack Android applications that are pr...
+
+### [Relyze](https://github.com/Relyze)
+- 🌟 👤 [Relyze](https://github.com/Relyze) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
+  > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [soniqo/speech-swift](https://github.com/soniqo/speech-swift)
@@ -99,5 +105,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-08 21:48:57 UTC*
+*Last updated at 2026-04-08 22:46:13 UTC*
 *Historical records are stored in the `archive` directory.*
