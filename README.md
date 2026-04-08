@@ -43,6 +43,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [huggingface/datasets](https://github.com/huggingface/datasets) to [Swival/hf-datasets](https://github.com/Swival/hf-datasets)
   > 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data m...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ved-rivos/sail-riscv-cfi](https://github.com/ved-rivos/sail-riscv-cfi)
+  > Sail RISC-V model
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [I-CAN-hack/secoc](https://github.com/I-CAN-hack/secoc)
+  > SecOC Key Extractor
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tevador/RandomX](https://github.com/tevador/RandomX)
+  > Proof of work algorithm based on random code execution
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
   > A headless MCP server for IDA Pro 9+
@@ -60,5 +68,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-08 11:02:21 UTC*
+*Last updated at 2026-04-08 13:41:56 UTC*
 *Historical records are stored in the `archive` directory.*
