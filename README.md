@@ -35,6 +35,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pion/handoff](https://github.com/pion/handoff)
   > Start WebRTC in the browser—run it somewhere else
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [YishenTu/claudian](https://github.com/YishenTu/claudian)
+  > An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
+
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [huggingface/datasets](https://github.com/huggingface/datasets) to [Swival/hf-datasets](https://github.com/Swival/hf-datasets)
+  > 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data m...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
   > A headless MCP server for IDA Pro 9+
@@ -52,5 +60,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-08 09:08:29 UTC*
+*Last updated at 2026-04-08 11:02:21 UTC*
 *Historical records are stored in the `archive` directory.*
