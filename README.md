@@ -29,11 +29,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pion/handoff](https://github.com/pion/handoff)
   > Start WebRTC in the browser—run it somewhere else
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
+  > A headless MCP server for IDA Pro 9+
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [farzaa/clicky](https://github.com/farzaa/clicky)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tjmlabs/AgentRun](https://github.com/tjmlabs/AgentRun)
+  > The easiest, and fastest way to run AI-generated Python code safely
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [OperationalFallacy/biome-effect-linting-rules](https://github.com/OperationalFallacy/biome-effect-linting-rules)
   > This is a collection of linting rules for Effect project
 
 
 ---
-*Last updated at 2026-04-08 05:15:30 UTC*
+*Last updated at 2026-04-08 07:41:45 UTC*
 *Historical records are stored in the `archive` directory.*
