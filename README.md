@@ -33,6 +33,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [HM-RunningHub/ComfyUI_RH_VoxCPM](https://github.com/HM-RunningHub/ComfyUI_RH_VoxCPM) to [IuvenisSapiens/ComfyUI_RH_VoxCPM](https://github.com/IuvenisSapiens/ComfyUI_RH_VoxCPM)
   > This is a ComfyUI plug-in for VoxCPM
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [shirayukiimountain/dpt-unpack](https://github.com/shirayukiimountain/dpt-unpack)
+  > A command-line tool written in Kotlin designed to statically unpack Android applications that are pr...
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [soniqo/speech-swift](https://github.com/soniqo/speech-swift)
   > AI speech toolkit for Apple Silicon — ASR, TTS, speech-to-speech, VAD, and diarization powered by ML...
@@ -57,6 +61,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tevador/RandomX](https://github.com/tevador/RandomX)
   > Proof of work algorithm based on random code execution
 
+### [michal-kapala](https://github.com/michal-kapala)
+- 🚀 👤 [michal-kapala](https://github.com/michal-kapala) Made [michal-kapala/gwent-token](https://github.com/michal-kapala/gwent-token) public
+  > Hook for Gwent's GOG web API access token
+- 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [microsoft/Detours](https://github.com/microsoft/Detours)
+  > Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distribu...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
   > A headless MCP server for IDA Pro 9+
@@ -72,8 +82,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [OperationalFallacy/biome-effect-linting-rules](https://github.com/OperationalFallacy/biome-effect-linting-rules)
   > This is a collection of linting rules for Effect project
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [farzaa/clicky](https://github.com/farzaa/clicky)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [redwoodjs/agent-ci](https://github.com/redwoodjs/agent-ci)
+  > Agent-CI is local GitHub Actions for your agents.
 
 
 ---
-*Last updated at 2026-04-08 15:14:54 UTC*
+*Last updated at 2026-04-08 17:09:32 UTC*
 *Historical records are stored in the `archive` directory.*
