@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix)
+  > 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [J5now/JDex2](https://github.com/J5now/JDex2) to [CrackerCat/JDex2](https://github.com/CrackerCat/JDex2)
   > 基于Xposed / Lsposed的主动调用抽取壳脱壳工具
@@ -26,6 +30,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [chinese-poetry/chinese-poetry-npm](https://github.com/chinese-poetry/chinese-poetry-npm) to [IuvenisSapiens/chinese-poetry-npm](https://github.com/IuvenisSapiens/chinese-poetry-npm)
   > 《中华古诗词数据》用于前端 & Node.js 相关项目。唐宋两朝近一万四千古诗人，接近5.5万首唐诗加26万宋诗，两宋时期1564位词人，21050首词。
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [HM-RunningHub/ComfyUI_RH_VoxCPM](https://github.com/HM-RunningHub/ComfyUI_RH_VoxCPM) to [IuvenisSapiens/ComfyUI_RH_VoxCPM](https://github.com/IuvenisSapiens/ComfyUI_RH_VoxCPM)
+  > This is a ComfyUI plug-in for VoxCPM
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [soniqo/speech-swift](https://github.com/soniqo/speech-swift)
@@ -65,8 +71,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [OperationalFallacy/biome-effect-linting-rules](https://github.com/OperationalFallacy/biome-effect-linting-rules)
   > This is a collection of linting rules for Effect project
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [farzaa/clicky](https://github.com/farzaa/clicky)
 
 
 ---
-*Last updated at 2026-04-08 13:41:56 UTC*
+*Last updated at 2026-04-08 15:14:54 UTC*
 *Historical records are stored in the `archive` directory.*
