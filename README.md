@@ -62,6 +62,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > SecOC Key Extractor
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tevador/RandomX](https://github.com/tevador/RandomX)
   > Proof of work algorithm based on random code execution
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac)
+  > A Mac OS X bootloader for the Nintendo Wii.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bryankeller/wii-xnu-124.13](https://github.com/bryankeller/wii-xnu-124.13)
+  > A port of XNU 124.13 for the Nintendo Wii. Bootable with the wiiMac boot loader. Works with Mac OS X...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bryankeller/wii-macosx-cheetah-drivers](https://github.com/bryankeller/wii-macosx-cheetah-drivers)
+  > Drivers for the Nintendo Wii port of Mac OS X 10.0.4 Cheetah.
 
 ### [michal-kapala](https://github.com/michal-kapala)
 - 🚀 👤 [michal-kapala](https://github.com/michal-kapala) Made [michal-kapala/gwent-token](https://github.com/michal-kapala/gwent-token) public
@@ -93,5 +99,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-08 20:51:13 UTC*
+*Last updated at 2026-04-08 21:48:57 UTC*
 *Historical records are stored in the `archive` directory.*
