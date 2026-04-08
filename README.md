@@ -24,8 +24,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [soniqo/speech-swift](https://github.com/soniqo/speech-swift)
   > AI speech toolkit for Apple Silicon — ASR, TTS, speech-to-speech, VAD, and diarization powered by ML...
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [google/jsir](https://github.com/google/jsir)
+  > Next-generation JavaScript analysis tooling
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pion/handoff](https://github.com/pion/handoff)
+  > Start WebRTC in the browser—run it somewhere else
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [OperationalFallacy/biome-effect-linting-rules](https://github.com/OperationalFallacy/biome-effect-linting-rules)
+  > This is a collection of linting rules for Effect project
 
 
 ---
-*Last updated at 2026-04-08 02:49:31 UTC*
+*Last updated at 2026-04-08 05:15:30 UTC*
 *Historical records are stored in the `archive` directory.*
