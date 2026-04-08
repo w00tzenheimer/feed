@@ -10,6 +10,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eltavine/Duck-ToolBox](https://github.com/eltavine/Duck-ToolBox) to [CrackerCat/Duck-ToolBox](https://github.com/CrackerCat/Duck-ToolBox)
   > KernelSU Module
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [CrackerCat/Duck-Detector-Refactoring](https://github.com/CrackerCat/Duck-Detector-Refactoring)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MrQianjinsi/agentic-metric](https://github.com/MrQianjinsi/agentic-metric) to [CrackerCat/agentic-metric](https://github.com/CrackerCat/agentic-metric)
+  > A local-only monitoring tool for AI coding agents.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Entity-Now/WJFakeLocation](https://github.com/Entity-Now/WJFakeLocation) to [CrackerCat/WJFakeLocation](https://github.com/CrackerCat/WJFakeLocation)
+  > WJFakeLocation 是一款功能强大的 Xposed 虚拟定位应用，专为 Android 13-16 系统设计。采用最新的 Jetpack Compose 和 Material Design ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [FxxkLocation/xbud-web](https://github.com/FxxkLocation/xbud-web) to [CrackerCat/xbud-web](https://github.com/CrackerCat/xbud-web)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [FxxkLocation/Github-direct](https://github.com/FxxkLocation/Github-direct) to [CrackerCat/Github-direct](https://github.com/CrackerCat/Github-direct)
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [susam/texme](https://github.com/susam/texme)
@@ -35,6 +41,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [farzaa/clicky](https://github.com/farzaa/clicky)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tjmlabs/AgentRun](https://github.com/tjmlabs/AgentRun)
   > The easiest, and fastest way to run AI-generated Python code safely
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeianMao/triattention](https://github.com/WeianMao/triattention)
+  > TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw lo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip)
+  > Lightweight TCP/IP stack with no dynamic memory allocations
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [OperationalFallacy/biome-effect-linting-rules](https://github.com/OperationalFallacy/biome-effect-linting-rules)
@@ -42,5 +52,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-08 07:41:45 UTC*
+*Last updated at 2026-04-08 09:08:29 UTC*
 *Historical records are stored in the `archive` directory.*
