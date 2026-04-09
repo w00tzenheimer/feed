@@ -33,12 +33,20 @@ Today's public activity from users I follow (updated every 15 minutes).
   >  Inference repo for Falcon-Perception and Falcon-OCR model, early-fusion, natively multimodal, dense...
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [csukuangfj/kaldi-native-fbank](https://github.com/csukuangfj/kaldi-native-fbank)
   > Kaldi-compatible online fbank extractor without external dependencies
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [modelscope/FunASR](https://github.com/modelscope/FunASR) to [IuvenisSapiens/FunASR](https://github.com/IuvenisSapiens/FunASR)
+  > A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporti...
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)
   > Create polished screen recordings for free. An open-source screen recorder for Mac/Windows/Linux tha...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk) to [Swival/rtk](https://github.com/Swival/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [scrya-com/rotorquant](https://github.com/scrya-com/rotorquant)
+  > KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs 7.07), 28% f...
+
 
 ---
-*Last updated at 2026-04-09 11:03:19 UTC*
+*Last updated at 2026-04-09 13:52:49 UTC*
 *Historical records are stored in the `archive` directory.*
