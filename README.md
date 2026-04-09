@@ -36,17 +36,19 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [modelscope/FunASR](https://github.com/modelscope/FunASR) to [IuvenisSapiens/FunASR](https://github.com/IuvenisSapiens/FunASR)
   > A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporti...
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [mapbox/cheap-ruler](https://github.com/mapbox/cheap-ruler)
+  > Fast approximations for common geodesic measurements 🌐
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)
   > Create polished screen recordings for free. An open-source screen recorder for Mac/Windows/Linux tha...
 
-### [jedisct1](https://github.com/jedisct1)
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk) to [Swival/rtk](https://github.com/Swival/rtk)
-  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [scrya-com/rotorquant](https://github.com/scrya-com/rotorquant)
-  > KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs 7.07), 28% f...
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf) to [mrexodia/nx2elf](https://github.com/mrexodia/nx2elf)
+  > Convert Nintendo Switch executable files to ELFs
 
 
 ---
-*Last updated at 2026-04-09 13:52:49 UTC*
+*Last updated at 2026-04-09 15:25:46 UTC*
 *Historical records are stored in the `archive` directory.*
