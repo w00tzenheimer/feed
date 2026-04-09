@@ -44,11 +44,23 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)
   > Create polished screen recordings for free. An open-source screen recorder for Mac/Windows/Linux tha...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [buttplugio/buttplug](https://github.com/buttplugio/buttplug)
+  > Rust Implementation of the Buttplug Sex Toy Control Protocol
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Malfoy/ZOR](https://github.com/Malfoy/ZOR)
+  > ZOR filters
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Malfoy/Blight](https://github.com/Malfoy/Blight)
+  > De Bruijn graph representation in low memory
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf) to [mrexodia/nx2elf](https://github.com/mrexodia/nx2elf)
   > Convert Nintendo Switch executable files to ELFs
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
+
 
 ---
-*Last updated at 2026-04-09 17:12:52 UTC*
+*Last updated at 2026-04-09 19:14:26 UTC*
 *Historical records are stored in the `archive` directory.*
