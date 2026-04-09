@@ -31,6 +31,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   >  KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core...
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [tiiuae/Falcon-Perception](https://github.com/tiiuae/Falcon-Perception)
   >  Inference repo for Falcon-Perception and Falcon-OCR model, early-fusion, natively multimodal, dense...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [csukuangfj/kaldi-native-fbank](https://github.com/csukuangfj/kaldi-native-fbank)
+  > Kaldi-compatible online fbank extractor without external dependencies
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)
@@ -38,5 +40,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-09 09:14:18 UTC*
+*Last updated at 2026-04-09 11:03:19 UTC*
 *Historical records are stored in the `archive` directory.*
