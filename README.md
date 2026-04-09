@@ -51,6 +51,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > ZOR filters
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Malfoy/Blight](https://github.com/Malfoy/Blight)
   > De Bruijn graph representation in low memory
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ProjectPhysX/hw-smi](https://github.com/ProjectPhysX/hw-smi)
+  > A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs a...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf) to [mrexodia/nx2elf](https://github.com/mrexodia/nx2elf)
@@ -62,5 +64,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-09 19:14:26 UTC*
+*Last updated at 2026-04-09 20:56:37 UTC*
 *Historical records are stored in the `archive` directory.*
