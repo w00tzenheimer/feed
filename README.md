@@ -28,6 +28,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zsrv/supermicro-product-key](https://github.com/zsrv/supermicro-product-key)
   > Supermicro product key utility
 
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [VergiliusProject/kernels-data](https://github.com/VergiliusProject/kernels-data)
+  > Windows kernel PDB data parsed into YAML
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
   > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
@@ -52,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-10 19:03:55 UTC*
+*Last updated at 2026-04-10 20:44:16 UTC*
 *Historical records are stored in the `archive` directory.*
