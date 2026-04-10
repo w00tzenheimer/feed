@@ -32,16 +32,6 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [VergiliusProject/kernels-data](https://github.com/VergiliusProject/kernels-data)
   > Windows kernel PDB data parsed into YAML
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-  > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-  > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eliben/watgo](https://github.com/eliben/watgo)
-  > WebAssembly Toolkit for Go
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit)
-  > Linux-native "fake root" for implementing rootless containers
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
   > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
@@ -56,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-10 21:42:59 UTC*
+*Last updated at 2026-04-10 22:42:01 UTC*
 *Historical records are stored in the `archive` directory.*
