@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/lightsaber](https://github.com/zeroxjf/lightsaber) to [CrackerCat/lightsaber](https://github.com/CrackerCat/lightsaber)
   > iOS 18.4-18.6.2 userland exploit chain with JS injection into SpringBoard and other processes. Deriv...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) to [NyaMisty/claude-code-hub](https://github.com/NyaMisty/claude-code-hub)
+  > 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
+
 ### [cheatdeveloper73](https://github.com/cheatdeveloper73)
 - 🍴 👤 [cheatdeveloper73](https://github.com/cheatdeveloper73) Forked [godotengine/godot](https://github.com/godotengine/godot) to [cheatdeveloper73/godot](https://github.com/cheatdeveloper73/godot)
   > Godot Engine – Multi-platform 2D and 3D game engine
@@ -30,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-10 05:30:20 UTC*
+*Last updated at 2026-04-10 07:49:09 UTC*
 *Historical records are stored in the `archive` directory.*
