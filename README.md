@@ -35,6 +35,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eliben/watgo](https://github.com/eliben/watgo)
   > WebAssembly Toolkit for Go
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit)
+  > Linux-native "fake root" for implementing rootless containers
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
@@ -50,5 +52,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-10 17:56:07 UTC*
+*Last updated at 2026-04-10 19:03:55 UTC*
 *Historical records are stored in the `archive` directory.*
