@@ -33,6 +33,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eliben/watgo](https://github.com/eliben/watgo)
+  > WebAssembly Toolkit for Go
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
@@ -48,5 +50,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-10 16:59:44 UTC*
+*Last updated at 2026-04-10 17:56:07 UTC*
 *Historical records are stored in the `archive` directory.*
