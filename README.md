@@ -46,6 +46,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A SwiftUI SDK for rendering interactive human body muscle maps with highlights, heatmaps, gestures, ...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/skills](https://github.com/openai/skills)
   > Skills Catalog for Codex
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [gbasin/hand-compute](https://github.com/gbasin/hand-compute)
+  > Skill to force AI coding agents to walk system execution by hand, catching races and state bugs that...
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [huggingface/safetensors](https://github.com/huggingface/safetensors) to [woct0rdho/safetensors](https://github.com/woct0rdho/safetensors)
@@ -53,5 +55,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-11 21:37:50 UTC*
+*Last updated at 2026-04-11 22:37:08 UTC*
 *Historical records are stored in the `archive` directory.*
