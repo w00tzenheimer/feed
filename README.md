@@ -10,11 +10,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Seyud/device_faker_config](https://github.com/Seyud/device_faker_config) to [CrackerCat/device_faker_config](https://github.com/CrackerCat/device_faker_config)
   > 贡献device_faker项目的机型模板配置
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [1st1/lat.md](https://github.com/1st1/lat.md)
+  > Agent Lattice: a knowledge graph for your codebase, written in markdown.
+
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [huggingface/safetensors](https://github.com/huggingface/safetensors) to [woct0rdho/safetensors](https://github.com/woct0rdho/safetensors)
   > Simple, safe way to store and distribute tensors
 
 
 ---
-*Last updated at 2026-04-11 04:58:54 UTC*
+*Last updated at 2026-04-11 06:07:21 UTC*
 *Historical records are stored in the `archive` directory.*
