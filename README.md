@@ -17,10 +17,11 @@ Today's public activity from users I follow (updated every 15 minutes).
   > PoC Implementation of a fully dynamic call stack spoofer
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [codewhitesec/SysmonEnte](https://github.com/codewhitesec/SysmonEnte)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
+  > Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Ba...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
-  > A library for building applications in a consistent and understandable way, with composition, testin...
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [RatherLogical/winbindex-cli](https://github.com/RatherLogical/winbindex-cli)
+  > A small command-line helper for downloading Windows binaries and their matching PDBs using Winbindex...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [1st1/lat.md](https://github.com/1st1/lat.md)
@@ -34,5 +35,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-11 13:08:45 UTC*
+*Last updated at 2026-04-11 14:39:42 UTC*
 *Historical records are stored in the `archive` directory.*
