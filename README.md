@@ -36,6 +36,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > AI-powered spec generation and review using multi-repo code graph intelligence for backend teams tha...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [millionco/isolet](https://github.com/millionco/isolet)
   > Package any component into a self-contained, isolated widget
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [melihcolpan/MuscleMap](https://github.com/melihcolpan/MuscleMap)
+  > A SwiftUI SDK for rendering interactive human body muscle maps with highlights, heatmaps, gestures, ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/skills](https://github.com/openai/skills)
+  > Skills Catalog for Codex
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [huggingface/safetensors](https://github.com/huggingface/safetensors) to [woct0rdho/safetensors](https://github.com/woct0rdho/safetensors)
@@ -43,5 +47,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-11 17:36:02 UTC*
+*Last updated at 2026-04-11 18:52:58 UTC*
 *Historical records are stored in the `archive` directory.*
