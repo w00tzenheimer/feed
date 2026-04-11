@@ -22,6 +22,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [RatherLogical/winbindex-cli](https://github.com/RatherLogical/winbindex-cli)
   > A small command-line helper for downloading Windows binaries and their matching PDBs using Winbindex...
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [triskellib/triskel](https://github.com/triskellib/triskel)
+  > A graphing library for Control Flow Graphs
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kenh/keychain-pkcs11](https://github.com/kenh/keychain-pkcs11)
@@ -48,6 +50,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Skills Catalog for Codex
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [gbasin/hand-compute](https://github.com/gbasin/hand-compute)
   > Skill to force AI coding agents to walk system execution by hand, catching races and state bugs that...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ejbills/DockDoor](https://github.com/ejbills/DockDoor)
+  > Window peeking, alt-tab and other enhancements for macOS
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [huggingface/safetensors](https://github.com/huggingface/safetensors) to [woct0rdho/safetensors](https://github.com/woct0rdho/safetensors)
@@ -55,5 +59,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-11 22:37:08 UTC*
+*Last updated at 2026-04-11 23:40:02 UTC*
 *Historical records are stored in the `archive` directory.*
