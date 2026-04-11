@@ -34,6 +34,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Corbell-AI/Corbell](https://github.com/Corbell-AI/Corbell)
   > AI-powered spec generation and review using multi-repo code graph intelligence for backend teams tha...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [millionco/isolet](https://github.com/millionco/isolet)
+  > Package any component into a self-contained, isolated widget
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [huggingface/safetensors](https://github.com/huggingface/safetensors) to [woct0rdho/safetensors](https://github.com/woct0rdho/safetensors)
@@ -41,5 +43,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-11 16:41:53 UTC*
+*Last updated at 2026-04-11 17:36:02 UTC*
 *Historical records are stored in the `archive` directory.*
