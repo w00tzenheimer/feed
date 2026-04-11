@@ -29,6 +29,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bazuchan/keychain-pkcs11](https://github.com/bazuchan/keychain-pkcs11)
   > A shared library that implements a PKCS#11 interface to the Apple Security framework
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)
+  > A Claude skill for developing WebGPU applications with Three.js
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [1st1/lat.md](https://github.com/1st1/lat.md)
   > Agent Lattice: a knowledge graph for your codebase, written in markdown.
@@ -47,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-11 18:52:58 UTC*
+*Last updated at 2026-04-11 19:37:54 UTC*
 *Historical records are stored in the `archive` directory.*
