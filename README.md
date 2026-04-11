@@ -32,6 +32,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)
   > A Claude skill for developing WebGPU applications with Three.js
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CSIT-SG/AETHER](https://github.com/CSIT-SG/AETHER)
+  > An AI-powered reverse-engineering copilot for assisting tedious malware analysis in IDA Pro.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [1st1/lat.md](https://github.com/1st1/lat.md)
@@ -51,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-11 19:37:54 UTC*
+*Last updated at 2026-04-11 20:39:16 UTC*
 *Historical records are stored in the `archive` directory.*
