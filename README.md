@@ -23,6 +23,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [RatherLogical/winbindex-cli](https://github.com/RatherLogical/winbindex-cli)
   > A small command-line helper for downloading Windows binaries and their matching PDBs using Winbindex...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kenh/keychain-pkcs11](https://github.com/kenh/keychain-pkcs11)
+  > A shared library that implements a PKCS#11 interface to the Apple Security framework
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bazuchan/keychain-pkcs11](https://github.com/bazuchan/keychain-pkcs11)
+  > A shared library that implements a PKCS#11 interface to the Apple Security framework
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [1st1/lat.md](https://github.com/1st1/lat.md)
   > Agent Lattice: a knowledge graph for your codebase, written in markdown.
@@ -35,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-11 15:38:06 UTC*
+*Last updated at 2026-04-11 16:41:53 UTC*
 *Historical records are stored in the `archive` directory.*
