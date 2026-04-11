@@ -15,6 +15,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Bring your own Unwind Data Framework
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [klezVirus/SilentMoonwalk](https://github.com/klezVirus/SilentMoonwalk)
   > PoC Implementation of a fully dynamic call stack spoofer
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [codewhitesec/SysmonEnte](https://github.com/codewhitesec/SysmonEnte)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+  > A library for building applications in a consistent and understandable way, with composition, testin...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [1st1/lat.md](https://github.com/1st1/lat.md)
@@ -28,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-11 08:52:12 UTC*
+*Last updated at 2026-04-11 09:47:47 UTC*
 *Historical records are stored in the `archive` directory.*
