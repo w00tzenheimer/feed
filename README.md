@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7)
   > Run the latest vscode-server on RHEL/CentOS 7!
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [carlosperate/awesome-microbit](https://github.com/carlosperate/awesome-microbit)
+  > A curated list of BBC micro:bit resources.
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [UlionTse/exejs](https://github.com/UlionTse/exejs)
   > Run JavaScript code from Python.「髯祭司」是一个旨在使用python运行javascript的库。
@@ -37,6 +41,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iamfakeguru/claude-md](https://github.com/iamfakeguru/claude-md)
+  > Production-grade agent directives for Claude Code
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TypeWhisper/typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac)
@@ -69,5 +75,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-12 21:39:58 UTC*
+*Last updated at 2026-04-12 22:39:52 UTC*
 *Historical records are stored in the `archive` directory.*
