@@ -19,6 +19,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) to [dip-proto/wasmtime](https://github.com/dip-proto/wasmtime)
   > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [XKCP/XKCP](https://github.com/XKCP/XKCP) to [jedisct1/XKCP](https://github.com/jedisct1/XKCP)
+  > eXtended Keccak Code Package
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
@@ -59,5 +61,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-12 13:11:07 UTC*
+*Last updated at 2026-04-12 14:43:39 UTC*
 *Historical records are stored in the `archive` directory.*
