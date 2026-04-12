@@ -43,6 +43,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables,...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iamfakeguru/claude-md](https://github.com/iamfakeguru/claude-md)
   > Production-grade agent directives for Claude Code
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV)
+  > Official Nuvio Android TV Repository
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb)
+  > Official Nuvio WebOS, TizenOS Repository
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TypeWhisper/typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac)
@@ -75,5 +79,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-12 22:39:52 UTC*
+*Last updated at 2026-04-12 23:40:25 UTC*
 *Historical records are stored in the `archive` directory.*
