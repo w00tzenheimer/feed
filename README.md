@@ -41,8 +41,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > AeroSpace is an i3-like tiling window manager for macOS
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon)
   > Tiled scrollable window manager for MacOS
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [selimacerbas/KeyCaster.spoon](https://github.com/selimacerbas/KeyCaster.spoon)
+  > Display your recent keystrokes on screen — perfect for screen recording, live demos, and tutorials. ...
 
 
 ---
-*Last updated at 2026-04-12 07:24:37 UTC*
+*Last updated at 2026-04-12 08:55:08 UTC*
 *Historical records are stored in the `archive` directory.*
