@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7)
+  > Run the latest vscode-server on RHEL/CentOS 7!
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [zahidaz/awake](https://github.com/zahidaz/awake)
   > Android Wiki of Attacks, Knowledge & Exploits
@@ -23,8 +27,22 @@ Today's public activity from users I follow (updated every 15 minutes).
   > context IDE
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [dsnchz/solid-flow](https://github.com/dsnchz/solid-flow)
   > SolidJS Port of React/Svelte Flow
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Emanuele-web04/dpcode](https://github.com/Emanuele-web04/dpcode)
+  > The best place to build with your AI sub
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext)
+  > Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [millionco/debug-agent](https://github.com/millionco/debug-agent)
+  > Debugging skill for AI agents
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [joshuarli/iss](https://github.com/joshuarli/iss)
+  > 3-finger swipe instant space switching on macOS
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher)
+  > Native space switching on macOS with no animation
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
+  > AeroSpace is an i3-like tiling window manager for macOS
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon)
+  > Tiled scrollable window manager for MacOS
 
 
 ---
-*Last updated at 2026-04-12 05:56:15 UTC*
+*Last updated at 2026-04-12 07:24:37 UTC*
 *Historical records are stored in the `archive` directory.*
