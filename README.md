@@ -16,6 +16,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [zahidaz/awake](https://github.com/zahidaz/awake)
   > Android Wiki of Attacks, Knowledge & Exploits
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) to [dip-proto/wasmtime](https://github.com/dip-proto/wasmtime)
+  > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
+  > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rickgaiser/Open-PS2-Loader](https://github.com/rickgaiser/Open-PS2-Loader)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables,...
@@ -50,5 +59,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-12 11:37:08 UTC*
+*Last updated at 2026-04-12 13:11:07 UTC*
 *Historical records are stored in the `archive` directory.*
