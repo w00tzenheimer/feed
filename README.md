@@ -25,6 +25,7 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Viceroy provides local testing for developers working with Compute.
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [wasmerio/wasmer](https://github.com/wasmerio/wasmer) to [dip-proto/wasmer](https://github.com/dip-proto/wasmer)
   > 🚀 Fast, secure, lightweight containers based on WebAssembly
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [pqcvinaigrette/vinaigrette-go](https://github.com/pqcvinaigrette/vinaigrette-go)
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
@@ -62,8 +63,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Tiled scrollable window manager for MacOS
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [selimacerbas/KeyCaster.spoon](https://github.com/selimacerbas/KeyCaster.spoon)
   > Display your recent keystrokes on screen — perfect for screen recording, live demos, and tutorials. ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [evo-hq/evo](https://github.com/evo-hq/evo)
 
 
 ---
-*Last updated at 2026-04-12 17:38:49 UTC*
+*Last updated at 2026-04-12 18:57:00 UTC*
 *Historical records are stored in the `archive` directory.*
