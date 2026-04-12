@@ -21,6 +21,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [XKCP/XKCP](https://github.com/XKCP/XKCP) to [jedisct1/XKCP](https://github.com/jedisct1/XKCP)
   > eXtended Keccak Code Package
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [fastly/Viceroy](https://github.com/fastly/Viceroy) to [dip-proto/Viceroy](https://github.com/dip-proto/Viceroy)
+  > Viceroy provides local testing for developers working with Compute.
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [wasmerio/wasmer](https://github.com/wasmerio/wasmer) to [dip-proto/wasmer](https://github.com/dip-proto/wasmer)
+  > 🚀 Fast, secure, lightweight containers based on WebAssembly
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
@@ -61,5 +65,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-12 14:43:39 UTC*
+*Last updated at 2026-04-12 15:40:13 UTC*
 *Historical records are stored in the `archive` directory.*
