@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7)
   > Run the latest vscode-server on RHEL/CentOS 7!
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [UlionTse/exejs](https://github.com/UlionTse/exejs)
+  > Run JavaScript code from Python.「髯祭司」是一个旨在使用python运行javascript的库。
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [zahidaz/awake](https://github.com/zahidaz/awake)
   > Android Wiki of Attacks, Knowledge & Exploits
@@ -46,5 +50,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-12 09:50:43 UTC*
+*Last updated at 2026-04-12 10:42:42 UTC*
 *Historical records are stored in the `archive` directory.*
