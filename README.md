@@ -21,8 +21,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   >  Three-finger trackpad gestures for middle-click and middle-drag on macOS
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [jasonkneen/codesurf](https://github.com/jasonkneen/codesurf)
   > context IDE
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [dsnchz/solid-flow](https://github.com/dsnchz/solid-flow)
+  > SolidJS Port of React/Svelte Flow
 
 
 ---
-*Last updated at 2026-04-12 03:18:23 UTC*
+*Last updated at 2026-04-12 05:56:15 UTC*
 *Historical records are stored in the `archive` directory.*
