@@ -33,6 +33,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Cracking MBAs
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso)
   > Mathematical Expression Parser and JIT Compiler
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
+  > Rust rewrite of BOCHS emulator
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
@@ -59,6 +61,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mcowger/plexus](https://github.com/mcowger/plexus)
+  > Unified API gateway for multiple AI providers (OpenAI, Anthropic, Gemini, etc.). Switch models and p...
 
 ### [muhammed](https://github.com/muhammed)
 - 🚀 👤 [muhammed](https://github.com/muhammed) Made [muhammed/test-sch](https://github.com/muhammed/test-sch) public
@@ -77,5 +81,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-13 21:00:06 UTC*
+*Last updated at 2026-04-13 21:58:14 UTC*
 *Historical records are stored in the `archive` directory.*
