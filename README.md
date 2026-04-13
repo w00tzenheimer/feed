@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso)
+  > Mathematical Expression Parser and JIT Compiler
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
@@ -63,7 +65,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [russelleNVy/three-man-team](https://github.com/russelleNVy/three-man-team)
   > A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-op...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [instantdb/instant](https://github.com/instantdb/instant)
-  > Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
+  > Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and st...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [indragiek/GHFS](https://github.com/indragiek/GHFS)
   > Mount GitHub repositories as a virtual read-only macOS filesystem
 
@@ -73,5 +75,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-13 17:08:47 UTC*
+*Last updated at 2026-04-13 19:19:31 UTC*
 *Historical records are stored in the `archive` directory.*
