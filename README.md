@@ -11,14 +11,39 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden) to [CrackerCat/NtWarden](https://github.com/CrackerCat/NtWarden)
   > Windows Analysis and Research Toolkit
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xnobody/lifted](https://github.com/0xnobody/lifted) to [CrackerCat/lifted](https://github.com/CrackerCat/lifted)
+  > LLVM Infrastructure for Testing, Equivalence and Deobfuscation
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ILoveBingLu/CipherTalk](https://github.com/ILoveBingLu/CipherTalk) to [CrackerCat/CipherTalk](https://github.com/CrackerCat/CipherTalk)
+  > 本地导出微信数据，协助您完成爱的备份。
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
   > Open source skills for Agent 🔥
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR)
+  > High-Performance Symbolic Regression in Python and Julia
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [astroautomata/SymbolicRegression.jl](https://github.com/astroautomata/SymbolicRegression.jl)
+  > Distributed High-Performance Symbolic Regression in Julia
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [astroautomata/SymTorch](https://github.com/astroautomata/SymTorch)
+  > Deep Learning Interpretability with Symbolic Regression
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [hellodword/github-dashboard-feed](https://github.com/hellodword/github-dashboard-feed)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jundot/omlx](https://github.com/jundot/omlx)
+  > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrexodia/gdbproxy](https://github.com/mrexodia/gdbproxy)
+  > Simple proxy for the GDB server protocol.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrexodia/Ghidra-App-Bundle](https://github.com/mrexodia/Ghidra-App-Bundle)
+  > A Ghidra App Bundle for macOS
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc)
   > The MiniZinc compiler
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
+
+### [muhammed](https://github.com/muhammed)
+- 🚀 👤 [muhammed](https://github.com/muhammed) Made [muhammed/test-sch](https://github.com/muhammed/test-sch) public
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [russelleNVy/three-man-team](https://github.com/russelleNVy/three-man-team)
@@ -32,5 +57,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-13 11:19:39 UTC*
+*Last updated at 2026-04-13 13:50:11 UTC*
 *Historical records are stored in the `archive` directory.*
