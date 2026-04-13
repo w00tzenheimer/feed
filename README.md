@@ -12,11 +12,21 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden) to [CrackerCat/NtWarden](https://github.com/CrackerCat/NtWarden)
   > Windows Analysis and Research Toolkit
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
+  > Open source skills for Agent 🔥
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [russelleNVy/three-man-team](https://github.com/russelleNVy/three-man-team)
   > A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-op...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [instantdb/instant](https://github.com/instantdb/instant)
+  > Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
+
+### [wangyu-](https://github.com/wangyu-)
+- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [fwindpeak/lavstudio](https://github.com/fwindpeak/lavstudio)
+  > 网页版LavaX编译、反编译、编辑器
 
 
 ---
-*Last updated at 2026-04-13 06:18:55 UTC*
+*Last updated at 2026-04-13 09:02:40 UTC*
 *Historical records are stored in the `archive` directory.*
