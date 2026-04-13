@@ -11,6 +11,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [http-tests/cache-tests](https://github.com/http-tests/cache-tests)
   > Tests for HTTP Caches
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [radareorg/warrp](https://github.com/radareorg/warrp)
+  > A native radare2 plugin for the WARP signature format
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden) to [CrackerCat/NtWarden](https://github.com/CrackerCat/NtWarden)
@@ -75,5 +77,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-13 19:19:31 UTC*
+*Last updated at 2026-04-13 21:00:06 UTC*
 *Historical records are stored in the `archive` directory.*
