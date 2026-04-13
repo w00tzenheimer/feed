@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
   > 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support....
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [http-tests/cache-tests](https://github.com/http-tests/cache-tests)
+  > Tests for HTTP Caches
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden) to [CrackerCat/NtWarden](https://github.com/CrackerCat/NtWarden)
   > Windows Analysis and Research Toolkit
@@ -15,6 +19,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > LLVM Infrastructure for Testing, Equivalence and Deobfuscation
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ILoveBingLu/CipherTalk](https://github.com/ILoveBingLu/CipherTalk) to [CrackerCat/CipherTalk](https://github.com/CrackerCat/CipherTalk)
   > 本地导出微信数据，协助您完成爱的备份。
+
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [QuadnucYard/pavemat](https://github.com/QuadnucYard/pavemat)
+  > Empower typst matrices with dividing lines and color blocks
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [QuadnucYard/pavemat](https://github.com/QuadnucYard/pavemat) to [IuvenisSapiens/pavemat](https://github.com/IuvenisSapiens/pavemat)
+  > Empower typst matrices with dividing lines and color blocks
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
@@ -50,6 +64,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-op...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [instantdb/instant](https://github.com/instantdb/instant)
   > Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [indragiek/GHFS](https://github.com/indragiek/GHFS)
+  > Mount GitHub repositories as a virtual read-only macOS filesystem
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [fwindpeak/lavstudio](https://github.com/fwindpeak/lavstudio)
@@ -57,5 +73,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-13 15:18:36 UTC*
+*Last updated at 2026-04-13 17:08:47 UTC*
 *Historical records are stored in the `archive` directory.*
