@@ -16,6 +16,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
   > Open source skills for Agent 🔥
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc)
+  > The MiniZinc compiler
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [russelleNVy/three-man-team](https://github.com/russelleNVy/three-man-team)
   > A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-op...
@@ -28,5 +32,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-13 09:02:40 UTC*
+*Last updated at 2026-04-13 11:19:39 UTC*
 *Historical records are stored in the `archive` directory.*
