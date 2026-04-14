@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
+  > Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna)
   > The leaked exploit toolkit for various iOS versions
@@ -32,5 +36,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-14 11:07:45 UTC*
+*Last updated at 2026-04-14 13:55:28 UTC*
 *Historical records are stored in the `archive` directory.*
