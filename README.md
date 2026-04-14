@@ -48,8 +48,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > An open source template for building cloud agents.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
   > Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [google/magika](https://github.com/google/magika)
+  > Fast and accurate AI powered file content types detection 
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
+  > ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve wha...
 
 
 ---
-*Last updated at 2026-04-14 19:23:11 UTC*
+*Last updated at 2026-04-14 20:59:56 UTC*
 *Historical records are stored in the `archive` directory.*
