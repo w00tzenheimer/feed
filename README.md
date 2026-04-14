@@ -24,6 +24,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
   > Tool to build & run portable, lightweight, self-contained virtual machines.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jumerckx/Tamagoyaki](https://github.com/jumerckx/Tamagoyaki)
+  > Bringing e-graphs to MLIR, natively.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [EnzymeAD/Reactant.jl](https://github.com/EnzymeAD/Reactant.jl)
+  > Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dwsy/pi-session-manager](https://github.com/Dwsy/pi-session-manager)
   > Pi session manager for browsing, searching, and resuming Pi AI coding sessions. Related project: htt...
@@ -34,7 +40,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [groundwater/GhostVM](https://github.com/groundwater/GhostVM)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
+  > An open source template for building cloud agents.
+
 
 ---
-*Last updated at 2026-04-14 15:17:22 UTC*
+*Last updated at 2026-04-14 17:15:49 UTC*
 *Historical records are stored in the `archive` directory.*
