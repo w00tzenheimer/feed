@@ -39,13 +39,17 @@ Today's public activity from users I follow (updated every 15 minutes).
   > AGENTS.md — a simple, open format for guiding coding agents
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [earendil-works/pi-tutorial](https://github.com/earendil-works/pi-tutorial)
+  > An experimental tutorial mode for Pi
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [groundwater/GhostVM](https://github.com/groundwater/GhostVM)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
   > An open source template for building cloud agents.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
+  > Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a...
 
 
 ---
-*Last updated at 2026-04-14 17:15:49 UTC*
+*Last updated at 2026-04-14 19:23:11 UTC*
 *Historical records are stored in the `archive` directory.*
