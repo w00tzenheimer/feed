@@ -21,8 +21,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Pi session manager for browsing, searching, and resuming Pi AI coding sessions. Related project: htt...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crokily/pi-discord-gateway](https://github.com/Crokily/pi-discord-gateway)
   > Piscord - Lightweight Discord gateway for pi coding agent. Architecture inspired by NanoClaw.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [agentsmd/agents.md](https://github.com/agentsmd/agents.md) to [mrexodia/agents.md](https://github.com/mrexodia/agents.md)
+  > AGENTS.md — a simple, open format for guiding coding agents
 
 
 ---
-*Last updated at 2026-04-14 07:54:39 UTC*
+*Last updated at 2026-04-14 09:24:00 UTC*
 *Historical records are stored in the `archive` directory.*
