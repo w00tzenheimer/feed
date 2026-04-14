@@ -8,6 +8,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
   > Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano)
+  > MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenM...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OpenMOSS/MOSS-TTS-Nano-Reader](https://github.com/OpenMOSS/MOSS-TTS-Nano-Reader)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) to [IuvenisSapiens/MOSS-TTS-Nano](https://github.com/IuvenisSapiens/MOSS-TTS-Nano)
+  > MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenM...
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna)
   > The leaked exploit toolkit for various iOS versions
@@ -23,6 +30,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
   > Tool to build & run portable, lightweight, self-contained virtual machines.
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [romainsimon/paperasse](https://github.com/romainsimon/paperasse)
+  > 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [romainsimon/paperasse](https://github.com/romainsimon/paperasse) to [dip-proto/paperasse](https://github.com/dip-proto/paperasse)
+  > 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jumerckx/Tamagoyaki](https://github.com/jumerckx/Tamagoyaki)
@@ -41,6 +54,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Rust rewrite of BOCHS emulator
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [earendil-works/pi-tutorial](https://github.com/earendil-works/pi-tutorial)
   > An experimental tutorial mode for Pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
+  > A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [groundwater/GhostVM](https://github.com/groundwater/GhostVM)
@@ -55,5 +71,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-14 22:00:22 UTC*
+*Last updated at 2026-04-14 23:46:58 UTC*
 *Historical records are stored in the `archive` directory.*
