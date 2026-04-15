@@ -18,7 +18,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [sethdford/gemma-realtime](https://github.com/sethdford/gemma-realtime)
   > Personalize Gemma 4 and make it real-time on Apple Silicon. Fine-tune on your conversations, serve a...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [AutoBench/CorrectBench](https://github.com/AutoBench/CorrectBench)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [LLVMParty/llvm-nanobind](https://github.com/LLVMParty/llvm-nanobind)
+  > ⚠️ WIP: LLVM-C Python bindings with nanobind.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrexodia/agent](https://github.com/mrexodia/agent)
+  > Build your own coding agent workshop materials.
+
 
 ---
-*Last updated at 2026-04-15 11:04:18 UTC*
+*Last updated at 2026-04-15 13:48:47 UTC*
 *Historical records are stored in the `archive` directory.*
