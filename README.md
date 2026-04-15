@@ -24,8 +24,14 @@ Today's public activity from users I follow (updated every 15 minutes).
   > ⚠️ WIP: LLVM-C Python bindings with nanobind.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrexodia/agent](https://github.com/mrexodia/agent)
   > Build your own coding agent workshop materials.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JohnLyu2/smt-select](https://github.com/JohnLyu2/smt-select)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JohnLyu2/sibyl](https://github.com/JohnLyu2/sibyl)
+  > An adaptive, Graph Neural Network Based solver selector for SMT queries
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
 
 
 ---
-*Last updated at 2026-04-15 13:48:47 UTC*
+*Last updated at 2026-04-15 15:09:39 UTC*
 *Historical records are stored in the `archive` directory.*
