@@ -46,11 +46,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [namreeb](https://github.com/namreeb) Forked [wowsims/tbc-new](https://github.com/wowsims/tbc-new) to [namreeb/tbc-new](https://github.com/namreeb/tbc-new)
   > World of Warcraft TBC Classic simulations.
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [poteto/how](https://github.com/poteto/how)
+  > skill for explaining architecture
+
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib)
   > duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF,...
 
 
 ---
-*Last updated at 2026-04-15 20:56:42 UTC*
+*Last updated at 2026-04-15 21:58:42 UTC*
 *Historical records are stored in the `archive` directory.*
