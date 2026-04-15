@@ -41,6 +41,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [earendil-works/gondolin](https://github.com/earendil-works/gondolin) to [mrexodia/gondolin](https://github.com/mrexodia/gondolin)
+  > Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [quarkslab/whvp](https://github.com/quarkslab/whvp)
+  > PoC for a snapshot-based coverage-guided fuzzer targeting Windows kernel components
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marirs/smda-rs](https://github.com/marirs/smda-rs)
+  > SMDA is a minimalist recursive disassembler library
 
 ### [namreeb](https://github.com/namreeb)
 - 🍴 👤 [namreeb](https://github.com/namreeb) Forked [wowsims/tbc-new](https://github.com/wowsims/tbc-new) to [namreeb/tbc-new](https://github.com/namreeb/tbc-new)
@@ -56,5 +62,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-15 22:53:08 UTC*
+*Last updated at 2026-04-15 23:49:11 UTC*
 *Historical records are stored in the `archive` directory.*
