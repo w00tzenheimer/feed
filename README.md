@@ -1,75 +1,17 @@
-# Daily GitHub Activity (2026-04-14)
+# Daily GitHub Activity (2026-04-15)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-### [EloiStree](https://github.com/EloiStree)
-- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
-  > Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [5ec1cff/FuseFixer](https://github.com/5ec1cff/FuseFixer) to [CrackerCat/FuseFixer](https://github.com/CrackerCat/FuseFixer)
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano)
-  > MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenM...
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OpenMOSS/MOSS-TTS-Nano-Reader](https://github.com/OpenMOSS/MOSS-TTS-Nano-Reader)
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) to [IuvenisSapiens/MOSS-TTS-Nano](https://github.com/IuvenisSapiens/MOSS-TTS-Nano)
-  > MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenM...
-
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna)
-  > The leaked exploit toolkit for various iOS versions
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [viperproject/silicon](https://github.com/viperproject/silicon)
-  > Symbolic-execution-based verifier for the Viper intermediate verification language.
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [FSecureLABS/avrop](https://github.com/FSecureLABS/avrop)
-  > ROP based Movfuscator VM
-
-### [eybisi](https://github.com/eybisi)
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [thalium/rumba](https://github.com/thalium/rumba)
-  > Cracking MBAs
-
-### [ggoodman](https://github.com/ggoodman)
-- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
-  > Tool to build & run portable, lightweight, self-contained virtual machines.
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [romainsimon/paperasse](https://github.com/romainsimon/paperasse)
-  > 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [romainsimon/paperasse](https://github.com/romainsimon/paperasse) to [dip-proto/paperasse](https://github.com/dip-proto/paperasse)
-  > 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jumerckx/Tamagoyaki](https://github.com/jumerckx/Tamagoyaki)
-  > Bringing e-graphs to MLIR, natively.
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [EnzymeAD/Reactant.jl](https://github.com/EnzymeAD/Reactant.jl)
-  > Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dwsy/pi-session-manager](https://github.com/Dwsy/pi-session-manager)
-  > Pi session manager for browsing, searching, and resuming Pi AI coding sessions. Related project: htt...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crokily/pi-discord-gateway](https://github.com/Crokily/pi-discord-gateway)
-  > Piscord - Lightweight Discord gateway for pi coding agent. Architecture inspired by NanoClaw.
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [agentsmd/agents.md](https://github.com/agentsmd/agents.md) to [mrexodia/agents.md](https://github.com/mrexodia/agents.md)
-  > AGENTS.md — a simple, open format for guiding coding agents
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
-  > Rust rewrite of BOCHS emulator
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [earendil-works/pi-tutorial](https://github.com/earendil-works/pi-tutorial)
-  > An experimental tutorial mode for Pi
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
-  > A sleek and minimal desktop shell thoughtfully crafted for Wayland.
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [groundwater/GhostVM](https://github.com/groundwater/GhostVM)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
-  > An open source template for building cloud agents.
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
-  > Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [google/magika](https://github.com/google/magika)
-  > Fast and accurate AI powered file content types detection 
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
-  > ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve wha...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [GyanD/codexffmpeg](https://github.com/GyanD/codexffmpeg)
+  > Support for https://www.gyan.dev/ffmpeg
 
 
 ---
-*Last updated at 2026-04-14 23:46:58 UTC*
+*Last updated at 2026-04-15 02:54:44 UTC*
 *Historical records are stored in the `archive` directory.*
