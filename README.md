@@ -19,6 +19,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [can1357/ThePerfectInjector](https://github.com/can1357/ThePerfectInjector)
   > Literally, the perfect injector.
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [appsail/Gemini-in-Chrome](https://github.com/appsail/Gemini-in-Chrome)
 
@@ -39,11 +42,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
 
+### [namreeb](https://github.com/namreeb)
+- 🍴 👤 [namreeb](https://github.com/namreeb) Forked [wowsims/tbc-new](https://github.com/wowsims/tbc-new) to [namreeb/tbc-new](https://github.com/namreeb/tbc-new)
+  > World of Warcraft TBC Classic simulations.
+
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib)
   > duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF,...
 
 
 ---
-*Last updated at 2026-04-15 17:10:31 UTC*
+*Last updated at 2026-04-15 19:24:36 UTC*
 *Historical records are stored in the `archive` directory.*
