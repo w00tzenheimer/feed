@@ -14,7 +14,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [appsail/Gemini-in-Chrome](https://github.com/appsail/Gemini-in-Chrome)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [sethdford/gemma-realtime](https://github.com/sethdford/gemma-realtime)
+  > Personalize Gemma 4 and make it real-time on Apple Silicon. Fine-tune on your conversations, serve a...
+
 
 ---
-*Last updated at 2026-04-15 07:55:11 UTC*
+*Last updated at 2026-04-15 09:25:26 UTC*
 *Historical records are stored in the `archive` directory.*
