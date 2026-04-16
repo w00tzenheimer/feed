@@ -18,6 +18,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [giorgosioak/friddo](https://github.com/giorgosioak/friddo) to [CrackerCat/friddo](https://github.com/CrackerCat/friddo)
   > Manage and run frida-server on rooted Android devices
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) to [NielsRogge/terminal-bench](https://github.com/NielsRogge/terminal-bench)
+  > A benchmark for LLMs on complicated tasks in the terminal
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🚀 👤 [haofanwang](https://github.com/haofanwang) Made [instantX-research/anthropic-anti-hallucinate-skills](https://github.com/instantX-research/anthropic-anti-hallucinate-skills) public
   > Anti-hallucination guidelines for Claude Code — teach AI to say "I don't know" instead of guessing.
@@ -32,5 +36,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-16 12:00:13 UTC*
+*Last updated at 2026-04-16 14:08:27 UTC*
 *Historical records are stored in the `archive` directory.*
