@@ -7,6 +7,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [salgee/ittim-erp](https://github.com/salgee/ittim-erp)
   > 提姆跨境电商ERP实现了多平台订单统一处理、多仓库商品统一管理、供应链流程控制，实现库存精准化、数据精细化管理。
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [SergiusTheBest/FindWDK](https://github.com/SergiusTheBest/FindWDK)
+  > CMake module for building drivers with Windows Development Kit (WDK)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [backengineering/llvm-msvc](https://github.com/backengineering/llvm-msvc)
+  > LLVM fork with explicit compatibility with MSVC 2022 features.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [CrackerCat/RedSun](https://github.com/CrackerCat/RedSun)
@@ -28,5 +32,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-16 10:18:35 UTC*
+*Last updated at 2026-04-16 12:00:13 UTC*
 *Historical records are stored in the `archive` directory.*
