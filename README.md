@@ -44,7 +44,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xataio/xata](https://github.com/xataio/xata)
   > Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)
+  > ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydratin...
+
 
 ---
-*Last updated at 2026-04-16 21:49:52 UTC*
+*Last updated at 2026-04-16 22:48:39 UTC*
 *Historical records are stored in the `archive` directory.*
