@@ -28,6 +28,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/anthropic-anti-hallucinate-skills](https://github.com/instantX-research/anthropic-anti-hallucinate-skills)
   > Anti-hallucination guidelines for Claude Code — teach AI to say "I don't know" instead of guessing.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fslivovsky/pedant-solver](https://github.com/fslivovsky/pedant-solver)
+  > A DQBF solver leveraging definability.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fslivovsky/qute](https://github.com/fslivovsky/qute)
+  > Qute: a dependency learning QBF solver.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fslivovsky/cadical-interface](https://github.com/fslivovsky/cadical-interface)
+  > Simple C++ Interface for Cadical
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fslivovsky/pedantic](https://github.com/fslivovsky/pedantic)
+  > Simple DQBF Expansion Solver in Python
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ykjit/yk](https://github.com/ykjit/yk)
   > yk packages
@@ -36,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-16 16:25:10 UTC*
+*Last updated at 2026-04-16 18:09:55 UTC*
 *Historical records are stored in the `archive` directory.*
