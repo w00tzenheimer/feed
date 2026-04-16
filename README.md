@@ -14,6 +14,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [giorgosioak/friddo](https://github.com/giorgosioak/friddo) to [CrackerCat/friddo](https://github.com/CrackerCat/friddo)
   > Manage and run frida-server on rooted Android devices
 
+### [haofanwang](https://github.com/haofanwang)
+- 🚀 👤 [haofanwang](https://github.com/haofanwang) Made [instantX-research/anthropic-anti-hallucinate-skills](https://github.com/instantX-research/anthropic-anti-hallucinate-skills) public
+  > Anti-hallucination guidelines for Claude Code — teach AI to say "I don't know" instead of guessing. ...
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/anthropic-anti-hallucinate-skills](https://github.com/instantX-research/anthropic-anti-hallucinate-skills)
+  > Anti-hallucination guidelines for Claude Code — teach AI to say "I don't know" instead of guessing. ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ykjit/yk](https://github.com/ykjit/yk)
   > yk packages
@@ -22,5 +28,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-16 03:21:33 UTC*
+*Last updated at 2026-04-16 06:04:53 UTC*
 *Historical records are stored in the `archive` directory.*
