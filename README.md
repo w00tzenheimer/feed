@@ -28,6 +28,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/anthropic-anti-hallucinate-skills](https://github.com/instantX-research/anthropic-anti-hallucinate-skills)
   > Anti-hallucination guidelines for Claude Code — teach AI to say "I don't know" instead of guessing.
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [BunnyWay/outerbase-studio](https://github.com/BunnyWay/outerbase-studio)
+  > A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [BunnyWay/BunnyCDN.TokenAuthentication](https://github.com/BunnyWay/BunnyCDN.TokenAuthentication) to [jedisct1/BunnyCDN.TokenAuthentication](https://github.com/jedisct1/BunnyCDN.TokenAuthentication)
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fslivovsky/pedant-solver](https://github.com/fslivovsky/pedant-solver)
   > A DQBF solver leveraging definability.
@@ -47,8 +52,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)
   > ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydratin...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [am-will/codex-app](https://github.com/am-will/codex-app)
+  > Codex desktop reconstruction workspace and Electron starter
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [dropbox/witchcraft](https://github.com/dropbox/witchcraft)
 
 
 ---
-*Last updated at 2026-04-16 22:48:39 UTC*
+*Last updated at 2026-04-16 23:47:07 UTC*
 *Historical records are stored in the `archive` directory.*
