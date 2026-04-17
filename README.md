@@ -1,62 +1,24 @@
-# Daily GitHub Activity (2026-04-16)
+# Daily GitHub Activity (2026-04-17)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [salgee/ittim-erp](https://github.com/salgee/ittim-erp)
-  > 提姆跨境电商ERP实现了多平台订单统一处理、多仓库商品统一管理、供应链流程控制，实现库存精准化、数据精细化管理。
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [SergiusTheBest/FindWDK](https://github.com/SergiusTheBest/FindWDK)
-  > CMake module for building drivers with Windows Development Kit (WDK)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [backengineering/llvm-msvc](https://github.com/backengineering/llvm-msvc)
-  > LLVM fork with explicit compatibility with MSVC 2022 features.
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [CrackerCat/RedSun](https://github.com/CrackerCat/RedSun)
-  > The Red Sun vulnerability repository
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [giorgosioak/friddo](https://github.com/giorgosioak/friddo) to [CrackerCat/friddo](https://github.com/CrackerCat/friddo)
-  > Manage and run frida-server on rooted Android devices
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [garinasset/leak-check](https://github.com/garinasset/leak-check) to [CrackerCat/leak-check](https://github.com/CrackerCat/leak-check)
+  > 个人信息 “泄漏” 检测接口
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [CrackerCat/hermes-agent](https://github.com/CrackerCat/hermes-agent)
+  > The agent that grows with you
 
-### [NielsRogge](https://github.com/NielsRogge)
-- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) to [NielsRogge/terminal-bench](https://github.com/NielsRogge/terminal-bench)
-  > A benchmark for LLMs on complicated tasks in the terminal
-
-### [haofanwang](https://github.com/haofanwang)
-- 🚀 👤 [haofanwang](https://github.com/haofanwang) Made [instantX-research/anthropic-anti-hallucinate-skills](https://github.com/instantX-research/anthropic-anti-hallucinate-skills) public
-  > Anti-hallucination guidelines for Claude Code — teach AI to say "I don't know" instead of guessing.
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/anthropic-anti-hallucinate-skills](https://github.com/instantX-research/anthropic-anti-hallucinate-skills)
-  > Anti-hallucination guidelines for Claude Code — teach AI to say "I don't know" instead of guessing.
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [BunnyWay/outerbase-studio](https://github.com/BunnyWay/outerbase-studio)
-  > A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [BunnyWay/BunnyCDN.TokenAuthentication](https://github.com/BunnyWay/BunnyCDN.TokenAuthentication) to [jedisct1/BunnyCDN.TokenAuthentication](https://github.com/jedisct1/BunnyCDN.TokenAuthentication)
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fslivovsky/pedant-solver](https://github.com/fslivovsky/pedant-solver)
-  > A DQBF solver leveraging definability.
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fslivovsky/qute](https://github.com/fslivovsky/qute)
-  > Qute: a dependency learning QBF solver.
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fslivovsky/cadical-interface](https://github.com/fslivovsky/cadical-interface)
-  > Simple C++ Interface for Cadical
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fslivovsky/pedantic](https://github.com/fslivovsky/pedantic)
-  > Simple DQBF Expansion Solver in Python
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ykjit/yk](https://github.com/ykjit/yk)
-  > yk packages
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xataio/xata](https://github.com/xataio/xata)
-  > Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
+### [gdbinit](https://github.com/gdbinit)
+- 🍴 👤 [gdbinit](https://github.com/gdbinit) Forked [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) to [gdbinit/binaryninja-api](https://github.com/gdbinit/binaryninja-api)
+  > Public API, examples, documentation and issues for Binary Ninja
 
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)
-  > ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydratin...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [am-will/codex-app](https://github.com/am-will/codex-app)
-  > Codex desktop reconstruction workspace and Electron starter
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [dropbox/witchcraft](https://github.com/dropbox/witchcraft)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/wterm](https://github.com/vercel-labs/wterm)
+  > A terminal emulator for the web
 
 
 ---
-*Last updated at 2026-04-16 23:47:07 UTC*
+*Last updated at 2026-04-17 02:57:21 UTC*
 *Historical records are stored in the `archive` directory.*
