@@ -48,6 +48,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Lang...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [NVIDIA/enroot](https://github.com/NVIDIA/enroot)
   > A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [messense/lddtree-rs](https://github.com/messense/lddtree-rs)
+  > Read the dynamic library dependency tree
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [orhun/binsider](https://github.com/orhun/binsider)
+  > Analyze ELF binaries like a boss 😼🕵️‍♂️
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [NeKroFR/cocodbg](https://github.com/NeKroFR/cocodbg)
+  > Debugger for HDL simulations
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [NeKroFR/RISC-V-MIE](https://github.com/NeKroFR/RISC-V-MIE)
+  > Apple Memory Integrity Enforcement POC on RISC-V (RV32IM, M/U modes)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wjrforcyber/AIGRandom](https://github.com/wjrforcyber/AIGRandom)
+  > Generate random AIG files for testing
 
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -72,5 +82,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-17 15:03:11 UTC*
+*Last updated at 2026-04-17 16:57:42 UTC*
 *Historical records are stored in the `archive` directory.*
