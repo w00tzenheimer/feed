@@ -10,6 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [CrackerCat/hermes-agent](https://github.com/CrackerCat/hermes-agent)
   > The agent that grows with you
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [onknight05/ollama-copilot](https://github.com/onknight05/ollama-copilot)
+  > Ollama Copilot for VS Code: Harness the power of Ollama with autocomplete and chat without leaving V...
+
 ### [gdbinit](https://github.com/gdbinit)
 - 🍴 👤 [gdbinit](https://github.com/gdbinit) Forked [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) to [gdbinit/binaryninja-api](https://github.com/gdbinit/binaryninja-api)
   > Public API, examples, documentation and issues for Binary Ninja
@@ -26,7 +30,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/wterm](https://github.com/vercel-labs/wterm)
   > A terminal emulator for the web
 
+### [ostrowr](https://github.com/ostrowr)
+- 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [cue-lang/cue](https://github.com/cue-lang/cue)
+  > The home of the CUE language! Validate and define text-based and dynamic configuration
+
 
 ---
-*Last updated at 2026-04-17 05:33:38 UTC*
+*Last updated at 2026-04-17 07:56:11 UTC*
 *Historical records are stored in the `archive` directory.*
