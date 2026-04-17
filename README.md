@@ -44,6 +44,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > FlatLaf Look and Feel running in the browser with CheerpJ
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JaroslavTulach/LaunchJdkViaJni](https://github.com/JaroslavTulach/LaunchJdkViaJni)
   > Experimental launching of HotSpot JVM from native executable
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [NVIDIA/RULER](https://github.com/NVIDIA/RULER)
+  > This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Lang...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [NVIDIA/enroot](https://github.com/NVIDIA/enroot)
+  > A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -68,5 +72,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-17 13:40:51 UTC*
+*Last updated at 2026-04-17 15:03:11 UTC*
 *Historical records are stored in the `archive` directory.*
