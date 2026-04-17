@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [onknight05/ollama-copilot](https://github.com/onknight05/ollama-copilot)
   > Ollama Copilot for VS Code: Harness the power of Ollama with autocomplete and chat without leaving V...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [cnitlrt/AutoTeam](https://github.com/cnitlrt/AutoTeam)
+  > ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex)
   > A Binary Genetic Traits Lexer Framework
@@ -58,6 +62,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Apple Memory Integrity Enforcement POC on RISC-V (RV32IM, M/U modes)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wjrforcyber/AIGRandom](https://github.com/wjrforcyber/AIGRandom)
   > Generate random AIG files for testing
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sebastien/git-kv](https://github.com/sebastien/git-kv)
+  > Key-value store attached to git commits using Git notes
 
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -82,5 +88,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-17 16:57:42 UTC*
+*Last updated at 2026-04-17 17:55:32 UTC*
 *Historical records are stored in the `archive` directory.*
