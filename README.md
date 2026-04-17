@@ -29,10 +29,21 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [h2o/quicly](https://github.com/h2o/quicly) to [dip-proto/quicly](https://github.com/dip-proto/quicly)
   > A modular QUIC stack designed primarily for H2O
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) to [dip-proto/wasm-tools](https://github.com/dip-proto/wasm-tools)
+  >  CLI and Rust libraries for low-level manipulation of WebAssembly modules 
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mcidclan/psp-beyond-444mhz](https://github.com/mcidclan/psp-beyond-444mhz)
   > Experimental PSP overclocking plugin and stress tester targeting theoretical frequencies beyond 444 ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JaroslavTulach/nb-javac](https://github.com/JaroslavTulach/nb-javac)
+  > nb-javac is the Java compiler plugin used by the Apache NetBeans Java Editor
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [eclipse-jdtls/eclipse.jdt.javac](https://github.com/eclipse-jdtls/eclipse.jdt.javac)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [leaningtech/cheerpx-meta](https://github.com/leaningtech/cheerpx-meta)
+  > Run X86 binary applications and libraries in the browser
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [leaningtech/cheerpj-example-flatlaf](https://github.com/leaningtech/cheerpj-example-flatlaf)
+  > FlatLaf Look and Feel running in the browser with CheerpJ
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JaroslavTulach/LaunchJdkViaJni](https://github.com/JaroslavTulach/LaunchJdkViaJni)
+  > Experimental launching of HotSpot JVM from native executable
 
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -57,5 +68,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-17 11:01:34 UTC*
+*Last updated at 2026-04-17 13:40:51 UTC*
 *Historical records are stored in the `archive` directory.*
