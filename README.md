@@ -30,6 +30,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [fzakaria/sqlelf](https://github.com/fzakaria/sqlelf) to [jevinskie/sqlelf](https://github.com/jevinskie/sqlelf)
   > Explore ELF objects through the power of SQL
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/rlm](https://github.com/alexzhang13/rlm)
+  > General plug-and-play inference library for Recursive Language Models (RLMs), supporting various san...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ije/ai-octet-stream](https://github.com/ije/ai-octet-stream)
   > Lightweight SDK for streaming AI responses with a compact binary protocol.
@@ -41,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-18 21:40:19 UTC*
+*Last updated at 2026-04-18 22:39:48 UTC*
 *Historical records are stored in the `archive` directory.*
