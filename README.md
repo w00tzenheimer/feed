@@ -34,8 +34,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ije/ai-octet-stream](https://github.com/ije/ai-octet-stream)
   > Lightweight SDK for streaming AI responses with a compact binary protocol.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openprose/prose](https://github.com/openprose/prose)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+  > A community-supported supercharged document management system: scan, index and archive all your docu...
 
 
 ---
-*Last updated at 2026-04-18 15:40:58 UTC*
+*Last updated at 2026-04-18 16:49:12 UTC*
 *Historical records are stored in the `archive` directory.*
