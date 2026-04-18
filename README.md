@@ -36,8 +36,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openprose/prose](https://github.com/openprose/prose)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
   > A community-supported supercharged document management system: scan, index and archive all your docu...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes)
+  > Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.
 
 
 ---
-*Last updated at 2026-04-18 16:49:12 UTC*
+*Last updated at 2026-04-18 17:40:01 UTC*
 *Historical records are stored in the `archive` directory.*
