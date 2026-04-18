@@ -21,8 +21,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ije/ai-octet-stream](https://github.com/ije/ai-octet-stream)
   > Lightweight SDK for streaming AI responses with a compact binary protocol.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [openprose/prose](https://github.com/openprose/prose)
 
 
 ---
-*Last updated at 2026-04-18 07:15:08 UTC*
+*Last updated at 2026-04-18 08:56:43 UTC*
 *Historical records are stored in the `archive` directory.*
