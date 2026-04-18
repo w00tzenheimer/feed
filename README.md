@@ -8,6 +8,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
   > Yet another llvm based obfuscator based on goron.
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [ionescu007/winipt](https://github.com/ionescu007/winipt)
+  > The Windows Library for Intel Process Trace (WinIPT) is a project that leverages the new Intel Proce...
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [ionescu007/SimpleVisor](https://github.com/ionescu007/SimpleVisor)
+  > SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least am...
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [ionescu007/lxss](https://github.com/ionescu007/lxss)
+  > Fun with the Windows Subsystem for Linux (WSL/LXSS)
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cmu-sei/kaiju](https://github.com/cmu-sei/kaiju)
   > CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suit...
@@ -25,5 +33,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-18 11:38:04 UTC*
+*Last updated at 2026-04-18 13:11:53 UTC*
 *Historical records are stored in the `archive` directory.*
