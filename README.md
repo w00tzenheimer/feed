@@ -4,9 +4,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [hfiref0x/UPGDSED](https://github.com/hfiref0x/UPGDSED)
+  > Universal PatchGuard and Driver Signature Enforcement Disable
+
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker) to [CrackerCat/ptehooker](https://github.com/CrackerCat/ptehooker)
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [intel/libipt](https://github.com/intel/libipt)
   > libipt - an Intel(R) Processor Trace decoder library
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [repnz/etw-providers-docs](https://github.com/repnz/etw-providers-docs)
+  > Document ETW providers
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
@@ -16,5 +25,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-19 08:07:37 UTC*
+*Last updated at 2026-04-19 09:52:08 UTC*
 *Historical records are stored in the `archive` directory.*
