@@ -36,6 +36,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Live index of all X.509 Certificates in Step CA queryable via GUI and API, easy human onboarding wit...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sctg-development/sctgdesk-server](https://github.com/sctg-development/sctgdesk-server)
   > Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for s...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lllyasviel/VCC](https://github.com/lllyasviel/VCC)
+  > Compile agent conversations!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MineDojo/Voyager](https://github.com/MineDojo/Voyager)
+  > An Open-Ended Embodied Agent with Large Language Models
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
@@ -53,5 +57,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-19 21:40:28 UTC*
+*Last updated at 2026-04-19 22:40:57 UTC*
 *Historical records are stored in the `archive` directory.*
