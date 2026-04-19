@@ -23,6 +23,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [PerryTS/perry](https://github.com/PerryTS/perry)
   > A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC ...
 
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
   > A lightweight, powerful framework for multi-agent workflows
@@ -31,5 +35,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-19 14:44:41 UTC*
+*Last updated at 2026-04-19 15:40:59 UTC*
 *Historical records are stored in the `archive` directory.*
