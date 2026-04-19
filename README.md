@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [hfiref0x/UPGDSED](https://github.com/hfiref0x/UPGDSED)
   > Universal PatchGuard and Driver Signature Enforcement Disable
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [michaelklishin/proxy-protocol-rs](https://github.com/michaelklishin/proxy-protocol-rs)
+  > A Proxy Protocol implementation for Rust
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker) to [CrackerCat/ptehooker](https://github.com/CrackerCat/ptehooker)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kasnria001/qualcomm_noavb_exploit_common](https://github.com/kasnria001/qualcomm_noavb_exploit_common) to [CrackerCat/qualcomm_noavb_exploit_common](https://github.com/CrackerCat/qualcomm_noavb_exploit_common)
@@ -30,6 +34,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [icedevml/tinypki](https://github.com/icedevml/tinypki)
   > Live index of all X.509 Certificates in Step CA queryable via GUI and API, easy human onboarding wit...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sctg-development/sctgdesk-server](https://github.com/sctg-development/sctgdesk-server)
+  > Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for s...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
@@ -47,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-19 16:48:51 UTC*
+*Last updated at 2026-04-19 17:39:22 UTC*
 *Historical records are stored in the `archive` directory.*
