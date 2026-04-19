@@ -54,8 +54,14 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/stat...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > My personal directory of skills, straight from my .claude directory.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [PerryTS/perry](https://github.com/PerryTS/perry)
+  > A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [FriesI23/mhabit](https://github.com/FriesI23/mhabit)
+  > Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [endevco/aube](https://github.com/endevco/aube)
+  > A fast Node.js package manager
 
 
 ---
-*Last updated at 2026-04-19 22:40:57 UTC*
+*Last updated at 2026-04-19 23:41:45 UTC*
 *Historical records are stored in the `archive` directory.*
