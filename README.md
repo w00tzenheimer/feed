@@ -19,8 +19,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > One-script installer for VC9 SP1 (VS2008 SP1) toolchain in VS2022 - downloads from official Microsof...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [archaic-msvc/msvc900](https://github.com/archaic-msvc/msvc900)
   > Microsoft Visual C++ 9.0 (MSVC v9.00 / 15.00.21022.08) 
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb)
+  > WebUSB for fopses
 
 
 ---
-*Last updated at 2026-04-20 17:09:40 UTC*
+*Last updated at 2026-04-20 19:13:10 UTC*
 *Historical records are stored in the `archive` directory.*
