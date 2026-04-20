@@ -22,7 +22,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb)
   > WebUSB for fopses
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
+  > An analysis and static deobfuscation of codedefender.io protected samples. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [teabound/rophi](https://github.com/teabound/rophi)
+  > Injecting code by recompiling shellcode into a ROP chain.
+
 
 ---
-*Last updated at 2026-04-20 19:13:10 UTC*
+*Last updated at 2026-04-20 20:53:45 UTC*
 *Historical records are stored in the `archive` directory.*
