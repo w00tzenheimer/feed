@@ -7,6 +7,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [hzqst/VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader)
   > Vmware Hardened VM detection mitigation loader (anti anti-vm)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [momo5502/vmtrace](https://github.com/momo5502/vmtrace)
+  > 🔬 Guest execution and tracing using the Windows Hypervisor Platform
+
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [ColinFinck/ntfs](https://github.com/ColinFinck/ntfs)
+  > An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) to [CrackerCat/OpenMythos](https://github.com/CrackerCat/OpenMythos)
@@ -43,5 +49,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-21 08:54:01 UTC*
+*Last updated at 2026-04-21 10:20:23 UTC*
 *Historical records are stored in the `archive` directory.*
