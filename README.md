@@ -13,6 +13,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [ColinFinck/ntfs](https://github.com/ColinFinck/ntfs)
   > An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode...
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [saileaxh/cpueaxh](https://github.com/saileaxh/cpueaxh)
+  > Lightweight, dependency-free x86-64 CPU emulation library with Unicorn-like guest mode and direct ho...
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [sha0coder/mwemu](https://github.com/sha0coder/mwemu)
+  > x86 malware emulator
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) to [CrackerCat/OpenMythos](https://github.com/CrackerCat/OpenMythos)
@@ -32,6 +36,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [geohot](https://github.com/geohot)
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [dynm/pico-flexray](https://github.com/dynm/pico-flexray)
+
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
+  > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
+  > 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)
+  > High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gem...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [cmu-sei/pharos](https://github.com/cmu-sei/pharos) to [jevinskie/pharos](https://github.com/jevinskie/pharos)
@@ -59,6 +73,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A lightweight, adaptive gateway for Ollama that translates Fill-In-the-Middle (FIM) dialects and opt...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [viplismism/fim-coder-model](https://github.com/viplismism/fim-coder-model)
   > fim training framework with ast-aware extraction for code completion. extracts semantic boundaries f...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GaloisInc/grease-cartographer](https://github.com/GaloisInc/grease-cartographer)
+  > Fork of Ghidra Cartographer plugin for use with GREASE
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [UW-HARVEST/Hayroll](https://github.com/UW-HARVEST/Hayroll)
+  > Translate C macros and condtional compilation to Rust
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GaloisInc/abcBridge](https://github.com/GaloisInc/abcBridge)
+  > Haskell bindings for ABC
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Q00/ouroboros](https://github.com/Q00/ouroboros)
@@ -76,5 +96,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-21 16:12:42 UTC*
+*Last updated at 2026-04-21 18:00:58 UTC*
 *Historical records are stored in the `archive` directory.*
