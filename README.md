@@ -40,6 +40,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [traccar/traccar-geocoder](https://github.com/traccar/traccar-geocoder)
   > Traccar reverse geocoding service
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [ciscorn/earcut-rs](https://github.com/ciscorn/earcut-rs)
+  > A Rust port of the Earcut polygon triangulation library with performance in mind.
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
@@ -83,6 +85,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Translate C macros and condtional compilation to Rust
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GaloisInc/abcBridge](https://github.com/GaloisInc/abcBridge)
   > Haskell bindings for ABC
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [thoughtpolice/yosys-bluespec](https://github.com/thoughtpolice/yosys-bluespec)
+  > Yosys plugin for synthesis of Bluespec code
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rdolbeau/armie2paraver](https://github.com/rdolbeau/armie2paraver)
+  > Arm Instruction Emulator traces to Paraver traces translator.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Q00/ouroboros](https://github.com/Q00/ouroboros)
@@ -100,5 +106,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-21 20:05:06 UTC*
+*Last updated at 2026-04-21 21:50:03 UTC*
 *Historical records are stored in the `archive` directory.*
