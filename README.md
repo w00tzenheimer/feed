@@ -15,6 +15,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [teabound/rophi](https://github.com/teabound/rophi)
   > Injecting code by recompiling shellcode into a ROP chain.
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
+  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [cmu-sei/pharos](https://github.com/cmu-sei/pharos) to [jevinskie/pharos](https://github.com/jevinskie/pharos)
@@ -30,5 +32,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-21 03:17:19 UTC*
+*Last updated at 2026-04-21 06:05:06 UTC*
 *Historical records are stored in the `archive` directory.*
