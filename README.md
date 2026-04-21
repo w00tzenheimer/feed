@@ -21,6 +21,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [dannypsnl/sidemath](https://github.com/dannypsnl/sidemath) to [IuvenisSapiens/sidemath](https://github.com/IuvenisSapiens/sidemath)
   > Math formula WYSIWYG editor beside
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [3w36zj6/typst-prismath](https://github.com/3w36zj6/typst-prismath)
+  > Mathematical brackets colorizer for Typst
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [teabound/rophi](https://github.com/teabound/rophi)
@@ -36,6 +38,11 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Automated static analysis tools for binary programs
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [rose-compiler/rose](https://github.com/rose-compiler/rose) to [jevinskie/rose](https://github.com/jevinskie/rose)
   > ROSE is an open-source compiler framework engineered by LLNL supporting program analysis and transfo...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [matrix-org/matrix-bifrost](https://github.com/matrix-org/matrix-bifrost)
+  > General purpose bridging with a variety of backends including libpurple and xmpp.js
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc)
+  > 🥝 Next generation of the Kiwi IRC web client
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kiwiirc/kiwibnc](https://github.com/kiwiirc/kiwibnc)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Q00/ouroboros](https://github.com/Q00/ouroboros)
@@ -47,7 +54,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
   > Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / ...
 
+### [woldann](https://github.com/woldann)
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [Cheatron/Core](https://github.com/Cheatron/Core)
+  > TypeScript toolkit for Windows x64 native systems programming, memory manipulation, and process inst...
+
 
 ---
-*Last updated at 2026-04-21 12:01:13 UTC*
+*Last updated at 2026-04-21 14:48:13 UTC*
 *Historical records are stored in the `archive` directory.*
