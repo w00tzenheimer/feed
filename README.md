@@ -43,6 +43,22 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc)
   > 🥝 Next generation of the Kiwi IRC web client
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kiwiirc/kiwibnc](https://github.com/kiwiirc/kiwibnc)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rust-seq/seq-hash](https://github.com/rust-seq/seq-hash)
+  > Rolling k-mer hashes of bitpacked (DNA) sequences
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rust-seq/packed-seq](https://github.com/rust-seq/packed-seq)
+  > Bitpacked sequence trait and implementation
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rust-seq/simd-minimizers](https://github.com/rust-seq/simd-minimizers)
+  > A SIMD-accelerated library to compute random minimizers
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [COMBINE-lab/mim](https://github.com/COMBINE-lab/mim)
+  > A small, auxiliary index to massively improve parallel fastq parsing
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GaloisInc/aig](https://github.com/GaloisInc/aig)
+  > Provides an interface for AIGs and word-level operations on them
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [spmurrayzzz/fimgen](https://github.com/spmurrayzzz/fimgen)
+  > A JavaScript library for generating FIM (Fill-in-the-Middle) training datasets from git repositories...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [j-huang-rj/fimbridge](https://github.com/j-huang-rj/fimbridge)
+  > A lightweight, adaptive gateway for Ollama that translates Fill-In-the-Middle (FIM) dialects and opt...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [viplismism/fim-coder-model](https://github.com/viplismism/fim-coder-model)
+  > fim training framework with ast-aware extraction for code completion. extracts semantic boundaries f...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Q00/ouroboros](https://github.com/Q00/ouroboros)
@@ -60,5 +76,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-21 14:48:13 UTC*
+*Last updated at 2026-04-21 16:12:42 UTC*
 *Historical records are stored in the `archive` directory.*
