@@ -52,6 +52,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)
   > High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gem...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [leostera/zerde](https://github.com/leostera/zerde)
+  > comptime-fused serialization library for zig
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [cmu-sei/pharos](https://github.com/cmu-sei/pharos) to [jevinskie/pharos](https://github.com/jevinskie/pharos)
@@ -89,6 +91,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Yosys plugin for synthesis of Bluespec code
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rdolbeau/armie2paraver](https://github.com/rdolbeau/armie2paraver)
   > Arm Instruction Emulator traces to Paraver traces translator.
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [phadej/boring](https://github.com/phadej/boring) to [jevinskie/boring](https://github.com/jevinskie/boring)
+  > Boring and Absurd types
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Q00/ouroboros](https://github.com/Q00/ouroboros)
@@ -106,5 +110,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-21 21:50:03 UTC*
+*Last updated at 2026-04-21 22:41:45 UTC*
 *Historical records are stored in the `archive` directory.*
