@@ -93,6 +93,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Arm Instruction Emulator traces to Paraver traces translator.
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [phadej/boring](https://github.com/phadej/boring) to [jevinskie/boring](https://github.com/jevinskie/boring)
   > Boring and Absurd types
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [bgamari/ring-buffer](https://github.com/bgamari/ring-buffer) to [jevinskie/ring-buffer](https://github.com/jevinskie/ring-buffer)
+  > A concurrent mutable ring-buffer
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [GaloisInc/crucible](https://github.com/GaloisInc/crucible) to [jevinskie/crucible](https://github.com/jevinskie/crucible)
+  > Crucible is a library for symbolic simulation of imperative programs
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [Happstack/boomerang](https://github.com/Happstack/boomerang) to [jevinskie/boomerang](https://github.com/jevinskie/boomerang)
+  > Library for invertible parsing and printing
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Q00/ouroboros](https://github.com/Q00/ouroboros)
@@ -110,5 +116,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-21 22:41:45 UTC*
+*Last updated at 2026-04-21 23:39:21 UTC*
 *Historical records are stored in the `archive` directory.*
