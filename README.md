@@ -37,6 +37,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [geohot](https://github.com/geohot)
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [dynm/pico-flexray](https://github.com/dynm/pico-flexray)
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [traccar/traccar-geocoder](https://github.com/traccar/traccar-geocoder)
+  > Traccar reverse geocoding service
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
   > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
@@ -96,5 +100,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-21 18:00:58 UTC*
+*Last updated at 2026-04-21 20:05:06 UTC*
 *Historical records are stored in the `archive` directory.*
