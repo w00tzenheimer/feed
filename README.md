@@ -1,34 +1,34 @@
-# Daily GitHub Activity (2026-04-20)
+# Daily GitHub Activity (2026-04-21)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-### [19h](https://github.com/19h)
-- 🍴 👤 [19h](https://github.com/19h) Forked [soddygo/claude-code-acp-rs](https://github.com/soddygo/claude-code-acp-rs) to [19h/claude-code-acp-rs](https://github.com/19h/claude-code-acp-rs)
-  > Use Claude Code from any ACP client
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) to [CrackerCat/OpenMythos](https://github.com/CrackerCat/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [Yubico/java-webauthn-server](https://github.com/Yubico/java-webauthn-server)
-  > Server-side Web Authentication library for Java https://www.w3.org/TR/webauthn/#rp-operations
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [dannypsnl/sidemath](https://github.com/dannypsnl/sidemath) to [IuvenisSapiens/sidemath](https://github.com/IuvenisSapiens/sidemath)
+  > Math formula WYSIWYG editor beside
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [teabound/rophi](https://github.com/teabound/rophi)
+  > Injecting code by recompiling shellcode into a ROP chain.
 
 ### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ppp-project/ppp](https://github.com/ppp-project/ppp)
-  > Paul's PPP Package: PPP daemon and associated utilities | Official GitHub repo: https://github.com/p...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JohnsterID/vc9-toolset](https://github.com/JohnsterID/vc9-toolset)
-  > One-script installer for VC9 SP1 (VS2008 SP1) toolchain in VS2022 - downloads from official Microsof...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [archaic-msvc/msvc900](https://github.com/archaic-msvc/msvc900)
-  > Microsoft Visual C++ 9.0 (MSVC v9.00 / 15.00.21022.08) 
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb)
-  > WebUSB for fopses
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [cmu-sei/pharos](https://github.com/cmu-sei/pharos) to [jevinskie/pharos](https://github.com/jevinskie/pharos)
+  > Automated static analysis tools for binary programs
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [rose-compiler/rose](https://github.com/rose-compiler/rose) to [jevinskie/rose](https://github.com/jevinskie/rose)
+  > ROSE is an open-source compiler framework engineered by LLNL supporting program analysis and transfo...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
-  > An analysis and static deobfuscation of codedefender.io protected samples. 
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [teabound/rophi](https://github.com/teabound/rophi)
-  > Injecting code by recompiling shellcode into a ROP chain.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Q00/ouroboros](https://github.com/Q00/ouroboros)
+  > Stop prompting. Start specifying.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+  > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
 
 ---
-*Last updated at 2026-04-20 23:49:18 UTC*
+*Last updated at 2026-04-21 03:17:19 UTC*
 *Historical records are stored in the `archive` directory.*
