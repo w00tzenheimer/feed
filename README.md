@@ -14,10 +14,6 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [RustyNova016/musicbrainz_rs](https://github.com/RustyNova016/musicbrainz_rs)
   > A wrapper around the musicbrainz API
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
-  > MimIR is my Intermediate Representation
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [tw93/Kami](https://github.com/tw93/Kami)
   > 👩‍🚒 Good content deserves good paper.
@@ -29,5 +25,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-22 09:44:25 UTC*
+*Last updated at 2026-04-22 11:11:15 UTC*
 *Historical records are stored in the `archive` directory.*
