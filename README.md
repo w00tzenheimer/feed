@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [Oxygen1a1/InfinityHook_latest](https://github.com/Oxygen1a1/InfinityHook_latest)
+  > etw hook (syscall/infinity hook) compatible with the latest Windows version of PG
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc) to [CrackerCat/qualcomm_avb_exploit_poc](https://github.com/CrackerCat/qualcomm_avb_exploit_poc)
   > Unlocking qualcomm bootloader
@@ -25,5 +29,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-22 11:11:15 UTC*
+*Last updated at 2026-04-22 13:53:36 UTC*
 *Historical records are stored in the `archive` directory.*
