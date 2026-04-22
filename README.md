@@ -46,6 +46,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fallow-rs/fallow](https://github.com/fallow-rs/fallow)
   > Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, ci...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+  > 🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text renderi...
 
 ### [tkmru](https://github.com/tkmru)
 - 🌟 👤 [tkmru](https://github.com/tkmru) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
@@ -54,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-22 22:51:46 UTC*
+*Last updated at 2026-04-22 23:49:58 UTC*
 *Historical records are stored in the `archive` directory.*
