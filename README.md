@@ -32,6 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [haileys/linux](https://github.com/haileys/linux)
+  > Linux kernel source tree
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [tw93/Kami](https://github.com/tw93/Kami)
   > 👩‍🚒 Good content deserves good paper.
@@ -43,5 +47,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-22 17:07:14 UTC*
+*Last updated at 2026-04-22 19:20:52 UTC*
 *Historical records are stored in the `archive` directory.*
