@@ -41,6 +41,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [tw93/Kami](https://github.com/tw93/Kami)
   > 👩‍🚒 Good content deserves good paper.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/privacy-filter](https://github.com/openai/privacy-filter)
+  > OpenAI Privacy Filter
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [fallow-rs/fallow](https://github.com/fallow-rs/fallow)
+  > Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, ci...
 
 ### [tkmru](https://github.com/tkmru)
 - 🌟 👤 [tkmru](https://github.com/tkmru) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
@@ -49,5 +54,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-22 21:00:57 UTC*
+*Last updated at 2026-04-22 22:51:46 UTC*
 *Historical records are stored in the `archive` directory.*
