@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [19h](https://github.com/19h)
+- 🍴 👤 [19h](https://github.com/19h) Forked [cola-io/codex-acp](https://github.com/cola-io/codex-acp) to [19h/codex-acp](https://github.com/19h/codex-acp)
+  > An Agent Client Protocol (ACP)–compatible agent that bridges the OpenAI Codex runtime with ACP clien...
+
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [Oxygen1a1/InfinityHook_latest](https://github.com/Oxygen1a1/InfinityHook_latest)
   > etw hook (syscall/infinity hook) compatible with the latest Windows version of PG
@@ -22,6 +26,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [RustyNova016/musicbrainz_rs](https://github.com/RustyNova016/musicbrainz_rs)
   > A wrapper around the musicbrainz API
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [openai/privacy-filter](https://github.com/openai/privacy-filter)
+  > OpenAI Privacy Filter
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [tw93/Kami](https://github.com/tw93/Kami)
   > 👩‍🚒 Good content deserves good paper.
@@ -33,5 +43,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-22 15:18:31 UTC*
+*Last updated at 2026-04-22 17:07:14 UTC*
 *Historical records are stored in the `archive` directory.*
