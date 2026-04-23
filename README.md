@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux) to [CrackerCat/mcp-termux](https://github.com/CrackerCat/mcp-termux)
   > MCP RE v7.0 — Android逆向工程一体化MCP服务器 | 73个工具 | stackplz eBPF + paradise内存 + radare2静态分析 | ARM64 Root
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [WithNucleusAI/Nucleus-Image](https://github.com/WithNucleusAI/Nucleus-Image)
+  > NucleusImage training recipe
+
 ### [geohot](https://github.com/geohot)
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels)
   > A kernel library written in tilelang
@@ -43,6 +47,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Produce your own Dynamic 3.0 Quants and achieve optimum accuracy & SOTA quantization performance! In...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [a-little-wifi/ASM2464PD-test](https://github.com/a-little-wifi/ASM2464PD-test)
   > Messing around with ASM2464PD symbol and footprint
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [a-little-wifi/AM4-Pi](https://github.com/a-little-wifi/AM4-Pi)
+  > Pi CM4/CM5 carrier board for AMD AM4 socket lmao
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [AleksaBjelogrlic/ASM2464PD-RE](https://github.com/AleksaBjelogrlic/ASM2464PD-RE)
+  > Reverse Engineering ASM2464PD USB4 to NVME Adaptors
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [robotpy/cxxheaderparser](https://github.com/robotpy/cxxheaderparser)
+  > Modern pure python C++ header parser
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [SkyLabsAI/brick-libcpp](https://github.com/SkyLabsAI/brick-libcpp)
+  > Specifications of the C++ standard library in BRiCk.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Vector35/arch_quark](https://github.com/Vector35/arch_quark)
+  > Quark arch example for the blog / documentation
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
@@ -53,6 +67,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub) to [mrexodia/lucebox-hub](https://github.com/mrexodia/lucebox-hub)
+  > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext)
+  > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [alvinreal/awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch)
@@ -60,5 +78,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-23 12:00:43 UTC*
+*Last updated at 2026-04-23 15:15:34 UTC*
 *Historical records are stored in the `archive` directory.*
