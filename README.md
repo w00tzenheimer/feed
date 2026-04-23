@@ -1,60 +1,38 @@
-# Daily GitHub Activity (2026-04-22)
+# Daily GitHub Activity (2026-04-23)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-### [19h](https://github.com/19h)
-- 🍴 👤 [19h](https://github.com/19h) Forked [cola-io/codex-acp](https://github.com/cola-io/codex-acp) to [19h/codex-acp](https://github.com/19h/codex-acp)
-  > An Agent Client Protocol (ACP)–compatible agent that bridges the OpenAI Codex runtime with ACP clien...
-
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [Oxygen1a1/InfinityHook_latest](https://github.com/Oxygen1a1/InfinityHook_latest)
-  > etw hook (syscall/infinity hook) compatible with the latest Windows version of PG
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [atlas4381/qualcomm_avb_exploit_poc](https://github.com/atlas4381/qualcomm_avb_exploit_poc) to [CrackerCat/qualcomm_avb_exploit_poc](https://github.com/CrackerCat/qualcomm_avb_exploit_poc)
-  > Unlocking qualcomm bootloader
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext) to [CrackerCat/windbg-decompile-ext](https://github.com/CrackerCat/windbg-decompile-ext)
-  > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux) to [CrackerCat/mcp-termux](https://github.com/CrackerCat/mcp-termux)
+  > MCP RE v7.0 — Android逆向工程一体化MCP服务器 | 73个工具 | stackplz eBPF + paradise内存 + radare2静态分析 | ARM64 Root
 
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
-  > MimIR is my Intermediate Representation
-
-### [goto-bus-stop](https://github.com/goto-bus-stop)
-- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [RustyNova016/musicbrainz_rs](https://github.com/RustyNova016/musicbrainz_rs)
-  > A wrapper around the musicbrainz API
-
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [openai/privacy-filter](https://github.com/openai/privacy-filter)
-  > OpenAI Privacy Filter
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
-  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [jnormore/unitask](https://github.com/jnormore/unitask)
+  > Disposable unikernel powered MCP and CLI tool for untrusted code, with declarative policy.
 
 ### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [haileys/linux](https://github.com/haileys/linux)
-  > Linux kernel source tree
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cdglabs/prolog-viz](https://github.com/cdglabs/prolog-viz)
-  > The best Prolog visualizer
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [tw93/Kami](https://github.com/tw93/Kami)
-  > 👩‍🚒 Good content deserves good paper.
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/privacy-filter](https://github.com/openai/privacy-filter)
-  > OpenAI Privacy Filter
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [fallow-rs/fallow](https://github.com/fallow-rs/fallow)
-  > Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, ci...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-  > 🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text renderi...
-
-### [tkmru](https://github.com/tkmru)
-- 🌟 👤 [tkmru](https://github.com/tkmru) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
-  > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
-- 🌟 👤 [tkmru](https://github.com/tkmru) Starred [mimifuwacc/uec-matching](https://github.com/mimifuwacc/uec-matching)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
+  > A reverse-engineering agent for IDA Pro and Binary Ninja
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [buzzer-re/PS5_kldload](https://github.com/buzzer-re/PS5_kldload)
+  > A PlayStation 5 Kernel module loader inspired on FreeBSD's "kldload"
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [buzzer-re/ps5-kld-sdk](https://github.com/buzzer-re/ps5-kld-sdk)
+  > An SDK for building homebrew PS5 kernel modules.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ps5-payload-dev/bdj-ipv6-hen](https://github.com/ps5-payload-dev/bdj-ipv6-hen)
+  > A BD-J homebrew enabler for PS5s running firmwares 3.00-4.51
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [buzzer-re/YoRHa](https://github.com/buzzer-re/YoRHa)
+  > A PlayStation 4 Kernel Debugger [WIP]
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [buzzer-re/playstation_research_utils](https://github.com/buzzer-re/playstation_research_utils)
+  > Scripts and notes for Playstation 4/5 reverse engineering
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vmunoz82/eda_tools](https://github.com/vmunoz82/eda_tools)
+  > A Dockerfile with a collections of ready to use open source EDA tools: Yosys, SimbiYosys (with Z3, b...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vmunoz82/ise14](https://github.com/vmunoz82/ise14)
+  > EDA Tools: Xilinx ISE 14.7 Dockerfile
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cdsteinkuehler/QuartusBuildVMs](https://github.com/cdsteinkuehler/QuartusBuildVMs)
+  > Details for installing Quartus on Linux (via VMs and Docker containers) to create build machines for...
 
 
 ---
-*Last updated at 2026-04-22 23:49:58 UTC*
+*Last updated at 2026-04-23 03:19:19 UTC*
 *Historical records are stored in the `archive` directory.*
