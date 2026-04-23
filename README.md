@@ -75,6 +75,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [alvinreal/awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch)
@@ -85,8 +87,18 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [trycua/cua](https://github.com/trycua/cua)
+  > Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and eva...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [santinic/audiblez](https://github.com/santinic/audiblez)
+  > Generate audiobooks from e-books
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [formkit/tempo](https://github.com/formkit/tempo)
+  > 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [rl0425/use-form-guard](https://github.com/rl0425/use-form-guard)
+  > Framework-agnostic React hook to prevent accidental navigation with unsaved form changes. Works with...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mastra-ai/mastra](https://github.com/mastra-ai/mastra)
+  > From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents w...
 
 
 ---
-*Last updated at 2026-04-23 19:18:00 UTC*
+*Last updated at 2026-04-23 20:56:58 UTC*
 *Historical records are stored in the `archive` directory.*
