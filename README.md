@@ -79,6 +79,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > The agent that grows with you
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [notsnakesilent/VMPStatic](https://github.com/notsnakesilent/VMPStatic)
   > A static VMProtect unpacker for PE files, supports VMProtect 1.x–3.x and rebuilding unpacked PE imag...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-claude-plugins](https://github.com/HexRaysSA/ida-claude-plugins)
+  > IDA Claude Code Plugins
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [alvinreal/awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch)
@@ -102,5 +104,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-23 22:52:49 UTC*
+*Last updated at 2026-04-23 23:52:05 UTC*
 *Historical records are stored in the `archive` directory.*
