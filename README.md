@@ -19,6 +19,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [jnormore/unitask](https://github.com/jnormore/unitask)
   > Disposable unikernel powered MCP and CLI tool for untrusted code, with declarative policy.
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [endevco/aube](https://github.com/endevco/aube)
+  > A fast Node.js package manager
 
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [rkyv/rkyv](https://github.com/rkyv/rkyv)
@@ -71,12 +73,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext)
   > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
+  > Build and query a graph database representation of source code
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [alvinreal/awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch)
   > A curated list of autonomous improvement loops, research agents, and autoresearch-style systems insp...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)
+  > Cloudflare's component library for building modern web applications.
 
 
 ---
-*Last updated at 2026-04-23 15:15:34 UTC*
+*Last updated at 2026-04-23 17:24:20 UTC*
 *Historical records are stored in the `archive` directory.*
