@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux) to [CrackerCat/mcp-termux](https://github.com/CrackerCat/mcp-termux)
   > MCP RE v7.0 — Android逆向工程一体化MCP服务器 | 73个工具 | stackplz eBPF + paradise内存 + radare2静态分析 | ARM64 Root
 
+### [geohot](https://github.com/geohot)
+- 🌟 👤 [geohot](https://github.com/geohot) Starred [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels)
+  > A kernel library written in tilelang
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [jnormore/unitask](https://github.com/jnormore/unitask)
   > Disposable unikernel powered MCP and CLI tool for untrusted code, with declarative policy.
@@ -35,10 +39,20 @@ Today's public activity from users I follow (updated every 15 minutes).
   > EDA Tools: Xilinx ISE 14.7 Dockerfile
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cdsteinkuehler/QuartusBuildVMs](https://github.com/cdsteinkuehler/QuartusBuildVMs)
   > Details for installing Quartus on Linux (via VMs and Docker containers) to create build machines for...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Thireus/GGUF-Tool-Suite](https://github.com/Thireus/GGUF-Tool-Suite)
+  > Produce your own Dynamic 3.0 Quants and achieve optimum accuracy & SOTA quantization performance! In...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [a-little-wifi/ASM2464PD-test](https://github.com/a-little-wifi/ASM2464PD-test)
+  > Messing around with ASM2464PD symbol and footprint
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [joydo/Duck-Detector-Refactoring](https://github.com/joydo/Duck-Detector-Refactoring)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [tryigit/CleveresTricky](https://github.com/tryigit/CleveresTricky)
+  > Advanced Spoofing Module for Android
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
+  > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [alvinreal/awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch)
@@ -46,5 +60,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-23 10:23:50 UTC*
+*Last updated at 2026-04-23 12:00:43 UTC*
 *Historical records are stored in the `archive` directory.*
