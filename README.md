@@ -12,6 +12,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [jnormore/unitask](https://github.com/jnormore/unitask)
   > Disposable unikernel powered MCP and CLI tool for untrusted code, with declarative policy.
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [rkyv/rkyv](https://github.com/rkyv/rkyv)
+  > Zero-copy deserialization framework for Rust
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
   > A reverse-engineering agent for IDA Pro and Binary Ninja
@@ -32,7 +36,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cdsteinkuehler/QuartusBuildVMs](https://github.com/cdsteinkuehler/QuartusBuildVMs)
   > Details for installing Quartus on Linux (via VMs and Docker containers) to create build machines for...
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
+- 🍴 👤 [joydo](https://github.com/joydo) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [joydo/Duck-Detector-Refactoring](https://github.com/joydo/Duck-Detector-Refactoring)
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [alvinreal/awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch)
+  > A curated list of autonomous improvement loops, research agents, and autoresearch-style systems insp...
+
 
 ---
-*Last updated at 2026-04-23 06:08:30 UTC*
+*Last updated at 2026-04-23 08:55:11 UTC*
 *Historical records are stored in the `archive` directory.*
