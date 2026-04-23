@@ -81,8 +81,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A curated list of autonomous improvement loops, research agents, and autoresearch-style systems insp...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)
   > Cloudflare's component library for building modern web applications.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)
+  > Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 
 ---
-*Last updated at 2026-04-23 17:24:20 UTC*
+*Last updated at 2026-04-23 19:18:00 UTC*
 *Historical records are stored in the `archive` directory.*
