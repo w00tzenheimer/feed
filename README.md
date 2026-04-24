@@ -16,6 +16,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 5G模组高级后台
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [salokrwhite/OplusEdlTool](https://github.com/salokrwhite/OplusEdlTool) to [CrackerCat/OplusEdlTool](https://github.com/CrackerCat/OplusEdlTool)
   > A tool for OPLUS devices EDL operations
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jyotidwi/FuseFixer-](https://github.com/jyotidwi/FuseFixer-) to [CrackerCat/FuseHide](https://github.com/CrackerCat/FuseHide)
+  > （本模块属于仿制品）感谢5ec1cff佬提供的原型模块作为参考喵
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [tesgth032/mailapi](https://github.com/tesgth032/mailapi)
@@ -51,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-24 17:02:35 UTC*
+*Last updated at 2026-04-24 19:00:00 UTC*
 *Historical records are stored in the `archive` directory.*
