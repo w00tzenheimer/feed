@@ -22,6 +22,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [tesgth032/mailapi](https://github.com/tesgth032/mailapi)
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [LagradOst/Valox](https://github.com/LagradOst/Valox)
+  > A Valorant hack in rust
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [facebookresearch/sapiens2](https://github.com/facebookresearch/sapiens2)
   > [ICLR 26] 1K resolution vision transformers pretrained on 1B human images.
@@ -55,8 +59,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mgechev/skillgrade](https://github.com/mgechev/skillgrade)
   > "Unit tests" for your agent skills
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [akinloluwami/avnac](https://github.com/akinloluwami/avnac)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
+  > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
 
 
 ---
-*Last updated at 2026-04-24 22:45:22 UTC*
+*Last updated at 2026-04-24 23:44:22 UTC*
 *Historical records are stored in the `archive` directory.*
