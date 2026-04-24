@@ -51,7 +51,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
   > a vue2.0 minimal admin template 
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mgechev/skillgrade](https://github.com/mgechev/skillgrade)
+  > "Unit tests" for your agent skills
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [akinloluwami/avnac](https://github.com/akinloluwami/avnac)
+
 
 ---
-*Last updated at 2026-04-24 19:56:31 UTC*
+*Last updated at 2026-04-24 20:58:53 UTC*
 *Historical records are stored in the `archive` directory.*
