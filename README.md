@@ -19,7 +19,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [j2kun/deterministic-miller-rabin](https://github.com/j2kun/deterministic-miller-rabin)
   > A demonstration of oeis.org/A014233
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+  > a vue2.0 minimal admin template 
+
 
 ---
-*Last updated at 2026-04-24 06:10:47 UTC*
+*Last updated at 2026-04-24 09:02:01 UTC*
 *Historical records are stored in the `archive` directory.*
