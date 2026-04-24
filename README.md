@@ -33,7 +33,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
   > a vue2.0 minimal admin template 
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [isaacbrodsky/duckdb-zipfs](https://github.com/isaacbrodsky/duckdb-zipfs) to [mrexodia/duckdb-zipfs](https://github.com/mrexodia/duckdb-zipfs)
+  > DuckDB extension to read files within zip archives.
+
 
 ---
-*Last updated at 2026-04-24 13:46:20 UTC*
+*Last updated at 2026-04-24 15:11:39 UTC*
 *Historical records are stored in the `archive` directory.*
