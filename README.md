@@ -4,6 +4,22 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fatalSec/AndroGhostInjector](https://github.com/fatalSec/AndroGhostInjector) to [CrackerCat/AndroGhostInjector](https://github.com/CrackerCat/AndroGhostInjector)
+  > Undetectable Android library injector powered by eBPF. Zero-ptrace execution via executable caves wi...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ggggmllll/AndProxyDemo](https://github.com/ggggmllll/AndProxyDemo) to [CrackerCat/AndProxyDemo](https://github.com/CrackerCat/AndProxyDemo)
+  > Android library for intercepting Binder transactions and system calls via GOT hook and seccomp, enab...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ggggmllll/elf-patcher](https://github.com/ggggmllll/elf-patcher) to [CrackerCat/elf-patcher](https://github.com/CrackerCat/elf-patcher)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kindness-Kismet/UY-Scuti](https://github.com/Kindness-Kismet/UY-Scuti) to [CrackerCat/UY-Scuti](https://github.com/CrackerCat/UY-Scuti)
+  > 一个集成工具，旨在将提取、打包和修改 Android img 的功能集成到一个工具中。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [1orz/project-cpe](https://github.com/1orz/project-cpe) to [CrackerCat/project-cpe](https://github.com/CrackerCat/project-cpe)
+  > 5G模组高级后台
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [salokrwhite/OplusEdlTool](https://github.com/salokrwhite/OplusEdlTool) to [CrackerCat/OplusEdlTool](https://github.com/CrackerCat/OplusEdlTool)
+  > A tool for OPLUS devices EDL operations
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [tesgth032/mailapi](https://github.com/tesgth032/mailapi)
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [facebookresearch/sapiens2](https://github.com/facebookresearch/sapiens2)
   > [ICLR 26] 1K resolution vision transformers pretrained on 1B human images.
@@ -33,11 +49,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
   > a vue2.0 minimal admin template 
 
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [isaacbrodsky/duckdb-zipfs](https://github.com/isaacbrodsky/duckdb-zipfs) to [mrexodia/duckdb-zipfs](https://github.com/mrexodia/duckdb-zipfs)
-  > DuckDB extension to read files within zip archives.
-
 
 ---
-*Last updated at 2026-04-24 15:11:39 UTC*
+*Last updated at 2026-04-24 17:02:35 UTC*
 *Historical records are stored in the `archive` directory.*
