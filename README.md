@@ -20,6 +20,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
 
+### [geohot](https://github.com/geohot)
+- 🌟 👤 [geohot](https://github.com/geohot) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [anakin87/llm-rl-environments-lil-course](https://github.com/anakin87/llm-rl-environments-lil-course)
   > 🌱 A little course on Reinforcement Learning Environments for evaluating and training Language Models
@@ -44,5 +48,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-25 13:14:44 UTC*
+*Last updated at 2026-04-25 14:48:55 UTC*
 *Historical records are stored in the `archive` directory.*
