@@ -12,6 +12,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PurCL/RepoAudit](https://github.com/PurCL/RepoAudit) to [CrackerCat/RepoAudit](https://github.com/CrackerCat/RepoAudit)
   > An autonomous LLM-agent for large-scale, repository-level code auditing
 
+### [Shauren](https://github.com/Shauren)
+- 🍴 👤 [Shauren](https://github.com/Shauren) Forked [TrinityCore/WowPacketParser](https://github.com/TrinityCore/WowPacketParser) to [Shauren/WowPacketParser](https://github.com/Shauren/WowPacketParser)
+  > World of Warcraft Packet Parser
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
@@ -34,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-25 09:59:02 UTC*
+*Last updated at 2026-04-25 10:56:45 UTC*
 *Historical records are stored in the `archive` directory.*
