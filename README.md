@@ -24,6 +24,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pithings/voipi](https://github.com/pithings/voipi)
+  > 🎙️ Give your apps, CLIs, and agents a voice. VoiPi is a universal, zero-dependency, free text-to-spe...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [anakin87/llm-rl-environments-lil-course](https://github.com/anakin87/llm-rl-environments-lil-course)
   > 🌱 A little course on Reinforcement Learning Environments for evaluating and training Language Models
@@ -61,5 +65,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-25 22:41:46 UTC*
+*Last updated at 2026-04-25 23:42:38 UTC*
 *Historical records are stored in the `archive` directory.*
