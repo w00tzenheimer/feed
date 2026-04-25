@@ -51,7 +51,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
 
+### [tmr232](https://github.com/tmr232)
+- 🌟 👤 [tmr232](https://github.com/tmr232) Starred [ciromattia/kcc](https://github.com/ciromattia/kcc)
+  > KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
+
 
 ---
-*Last updated at 2026-04-25 18:59:47 UTC*
+*Last updated at 2026-04-25 19:50:11 UTC*
 *Historical records are stored in the `archive` directory.*
