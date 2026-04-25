@@ -16,7 +16,21 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [anakin87/llm-rl-environments-lil-course](https://github.com/anakin87/llm-rl-environments-lil-course)
+  > 🌱 A little course on Reinforcement Learning Environments for evaluating and training Language Models
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [renegadelink/iShareScreen](https://github.com/renegadelink/iShareScreen)
+  > Open-source client for Apple macOS Screen Sharing fast path (HEVC/UDP/SRTP) — cross-platform viewer ...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
+  > Token-efficient MCP adapter for Pi coding agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Swival/swival](https://github.com/Swival/swival)
+  > A small, powerful, open-source CLI coding agent that works with open models.
+
 
 ---
-*Last updated at 2026-04-25 05:17:05 UTC*
+*Last updated at 2026-04-25 07:24:40 UTC*
 *Historical records are stored in the `archive` directory.*
