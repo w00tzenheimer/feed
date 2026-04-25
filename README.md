@@ -27,6 +27,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [renegadelink/iShareScreen](https://github.com/renegadelink/iShareScreen)
   > Open-source client for Apple macOS Screen Sharing fast path (HEVC/UDP/SRTP) — cross-platform viewer ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [platform-system-interface/intel_fw](https://github.com/platform-system-interface/intel_fw)
+  > Modern Intel Firmware Tool and Library
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ArthurHeymans/rflasher](https://github.com/ArthurHeymans/rflasher)
+  > Blazing fast SPI NOR flash programming
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
@@ -40,5 +44,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-25 11:46:46 UTC*
+*Last updated at 2026-04-25 13:14:44 UTC*
 *Historical records are stored in the `archive` directory.*
