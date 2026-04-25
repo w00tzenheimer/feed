@@ -35,6 +35,11 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Modern Intel Firmware Tool and Library
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ArthurHeymans/rflasher](https://github.com/ArthurHeymans/rflasher)
   > Blazing fast SPI NOR flash programming
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sei-eschwartz/emcee](https://github.com/sei-eschwartz/emcee)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [edmcman/ghidra-scala-loader](https://github.com/edmcman/ghidra-scala-loader)
+  > An extension to load Ghidra scripts written in Scala
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [edmcman/GhidraFunctionCPPExporter](https://github.com/edmcman/GhidraFunctionCPPExporter)
+  > Headless Ghidra Script that Exports Decompiled C/CPP Code for Function-at-a-time Compilation
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
@@ -48,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-25 17:41:27 UTC*
+*Last updated at 2026-04-25 18:59:47 UTC*
 *Historical records are stored in the `archive` directory.*
