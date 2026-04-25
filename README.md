@@ -35,8 +35,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A small, powerful, open-source CLI coding agent that works with open models.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zblurx/dploot](https://github.com/zblurx/dploot)
   > DPAPI looting remotely and locally in Python
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
 
 
 ---
-*Last updated at 2026-04-25 10:56:45 UTC*
+*Last updated at 2026-04-25 11:46:46 UTC*
 *Historical records are stored in the `archive` directory.*
