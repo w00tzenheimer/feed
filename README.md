@@ -29,8 +29,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Token-efficient MCP adapter for Pi coding agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Swival/swival](https://github.com/Swival/swival)
   > A small, powerful, open-source CLI coding agent that works with open models.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zblurx/dploot](https://github.com/zblurx/dploot)
+  > DPAPI looting remotely and locally in Python
 
 
 ---
-*Last updated at 2026-04-25 07:24:40 UTC*
+*Last updated at 2026-04-25 08:59:15 UTC*
 *Historical records are stored in the `archive` directory.*
