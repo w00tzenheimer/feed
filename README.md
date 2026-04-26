@@ -4,6 +4,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [ShadowStrike-Labs/ShadowStrike](https://github.com/ShadowStrike-Labs/ShadowStrike)
+  > ShadowStrike A Windows EDR Platform 
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [NoMercy-ac/NoMercy](https://github.com/NoMercy-ac/NoMercy)
+  > Open source anti cheat
+
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [yasuo-ozu/llvm-full](https://github.com/yasuo-ozu/llvm-full)
   > LLVM unofficial prebuild archive with broader APIs and versions from 10 to 22
@@ -19,6 +25,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [DimaReverse/nuitka-static-unpacker](https://github.com/DimaReverse/nuitka-static-unpacker)
   > Nuitka Static Unpacker — a static-first research tool for analyzing Nuitka-compiled binaries (consta...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
+  > A tiny educational decompiler that helps people understand how decompilation works.
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Svetlitski/fcp](https://github.com/Svetlitski/fcp)
@@ -73,5 +81,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-26 19:01:52 UTC*
+*Last updated at 2026-04-26 20:45:45 UTC*
 *Historical records are stored in the `archive` directory.*
