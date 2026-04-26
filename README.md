@@ -59,7 +59,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)
   > Tools for merging pretrained large language models.
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill)
+  > Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie)
+  > Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy i...
+
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the next-gen IDE for building with coding agents
+
 
 ---
-*Last updated at 2026-04-26 16:51:24 UTC*
+*Last updated at 2026-04-26 17:42:48 UTC*
 *Historical records are stored in the `archive` directory.*
