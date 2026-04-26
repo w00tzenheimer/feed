@@ -64,6 +64,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie)
   > Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy i...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+  > Open-Source Frontier Voice AI
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [stablyai/orca](https://github.com/stablyai/orca)
@@ -71,5 +73,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-26 17:42:48 UTC*
+*Last updated at 2026-04-26 19:01:52 UTC*
 *Historical records are stored in the `archive` directory.*
