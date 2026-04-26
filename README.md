@@ -29,6 +29,14 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Per-instruction boot trace viewer with Python-level abstraction jumping
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [i-infra/czt-calibrate](https://github.com/i-infra/czt-calibrate)
   > Calibrate an analog measurement device (ie, rtlsdr) against a reference frequency using the chirp-z ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [qchateau/cbitstruct](https://github.com/qchateau/cbitstruct)
+  > Faster C implementation of the bitstruct Python library
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [buzzer-re/NineS](https://github.com/buzzer-re/NineS)
+  > A PlayStation 5 ELF injector
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [buzzer-re/whoexec](https://github.com/buzzer-re/whoexec)
+  > Discover which process execute a hunted binary inside macOS
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [buzzer-re/eqfunc](https://github.com/buzzer-re/eqfunc)
+  > Discover similar functions structures in binaries using graph theory.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/qwen36-27b-single-3090](https://github.com/noonghunna/qwen36-27b-single-3090)
@@ -38,8 +46,18 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A tiny educational decompiler that helps people understand how decompilation works.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) to [mrexodia/python-github-backup](https://github.com/mrexodia/python-github-backup)
   > backup a github user or organization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/pi-draw](https://github.com/mitsuhiko/pi-draw)
+  > For when you want to draw something for the clanker
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [IgorWarzocha/pi-auto-reasoning-tool](https://github.com/IgorWarzocha/pi-auto-reasoning-tool)
+  > A tool that allows the agent to change its reasoning levels.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
+  > 🤖 A minimal and customizable Docker image running the Android emulator as a service.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed)
+  > open-source healthcare ai
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)
+  > Tools for merging pretrained large language models.
 
 
 ---
-*Last updated at 2026-04-26 14:51:03 UTC*
+*Last updated at 2026-04-26 15:48:21 UTC*
 *Historical records are stored in the `archive` directory.*
