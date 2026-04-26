@@ -13,6 +13,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 🎓 Pain is temporary, GPA is forever.
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [IllyaStarikov/academia](https://github.com/IllyaStarikov/academia) to [IuvenisSapiens/academia](https://github.com/IuvenisSapiens/academia)
   > 🎓 Pain is temporary, GPA is forever.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yongaifadian1/MAGIC-TTS](https://github.com/yongaifadian1/MAGIC-TTS)
+  > MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [DimaReverse/nuitka-static-unpacker](https://github.com/DimaReverse/nuitka-static-unpacker)
@@ -59,5 +61,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-26 15:48:21 UTC*
+*Last updated at 2026-04-26 16:51:24 UTC*
 *Historical records are stored in the `archive` directory.*
