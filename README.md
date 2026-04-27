@@ -74,5 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-27 18:31:56 UTC*
-*Historical records are stored in the `archive` directory.*
+*Last updated at 2026-04-27 18:58:48 UTC*
+<!-- archive-link -->
+*Historical records are stored in the [`archive`](archive/2026/04) directory.*
+<!-- /archive-link -->
