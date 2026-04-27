@@ -24,6 +24,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > VoxCPM：Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning，you can...
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ggml-org/ggml](https://github.com/ggml-org/ggml)
   > Tensor library for machine learning
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) to [IuvenisSapiens/HivisionIDPhotos](https://github.com/IuvenisSapiens/HivisionIDPhotos)
+  > ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [BunnyWay/cli](https://github.com/BunnyWay/cli)
@@ -54,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-27 11:47:44 UTC*
+*Last updated at 2026-04-27 14:05:09 UTC*
 *Historical records are stored in the `archive` directory.*
