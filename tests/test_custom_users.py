@@ -1,4 +1,4 @@
-from follower_digest_builder import load_custom_usernames, merge_logins
+from daily_github_activity.digest import load_custom_usernames, merge_logins
 
 
 def test_load_returns_empty_list_when_file_missing(tmp_path):

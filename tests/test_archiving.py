@@ -1,4 +1,4 @@
-from follower_digest_builder import GitHubDigest
+from daily_github_activity.digest import GitHubDigest
 
 
 def _readme_with_markers(yesterday: str, body: str = "events go here") -> str:

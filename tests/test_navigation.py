@@ -1,6 +1,6 @@
 from datetime import date
 
-from archive_layout import (
+from daily_github_activity.archive_layout import (
     archive_path_for_date,
     find_neighbors,
     render_nav,

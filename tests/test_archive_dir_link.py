@@ -1,6 +1,6 @@
 from datetime import date
 
-from archive_layout import archive_dir_link_for, archive_path_for_date
+from daily_github_activity.archive_layout import archive_dir_link_for, archive_path_for_date
 
 
 def test_steady_state_links_to_current_month(tmp_path):
