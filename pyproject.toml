@@ -18,3 +18,7 @@ dev = [
     "black>=23.0.0",
     "mypy>=1.0.0",
 ]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
