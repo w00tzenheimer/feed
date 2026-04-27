@@ -37,6 +37,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
   > x64 PE bin2bin obfuscator which doesn't add a section to the binary
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [Chiplis/ironsmith](https://github.com/Chiplis/ironsmith)
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [BunnyWay/cli](https://github.com/BunnyWay/cli)
   > bunny.net CLI
@@ -63,6 +66,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Task management that lives in your repo
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
   > Annotate and review coding agent plans and code diffs visually, share with your team, send feedback ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [peterp/cmdcmd](https://github.com/peterp/cmdcmd)
+  > Keyboard-first window switcher for macOS. Press both ⌘ keys to fan windows into a grid of live previ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [voidhashcom/lensflare](https://github.com/voidhashcom/lensflare)
 
 ### [shnaps666](https://github.com/shnaps666)
 - 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
@@ -74,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-27 20:11:00 UTC*
+*Last updated at 2026-04-27 21:56:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
