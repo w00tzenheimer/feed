@@ -26,6 +26,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Tensor library for machine learning
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) to [IuvenisSapiens/HivisionIDPhotos](https://github.com/IuvenisSapiens/HivisionIDPhotos)
   > ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [inclusionAI/Ming-UniAudio](https://github.com/inclusionAI/Ming-UniAudio)
+  > Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representatio...
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [BunnyWay/cli](https://github.com/BunnyWay/cli)
@@ -49,6 +55,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [unnecessary-special-projects/ghist](https://github.com/unnecessary-special-projects/ghist)
   > Task management that lives in your repo
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+  > Annotate and review coding agent plans and code diffs visually, share with your team, send feedback ...
 
 ### [shnaps666](https://github.com/shnaps666)
 - 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
@@ -56,5 +64,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-27 14:05:09 UTC*
+*Last updated at 2026-04-27 16:43:55 UTC*
 *Historical records are stored in the `archive` directory.*
