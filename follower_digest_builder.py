@@ -12,12 +12,14 @@ import typing
 import github  # type: ignore
 
 from archive_layout import (
+    archive_dir_link_for,
     archive_path_for_date,
     find_neighbors,
     inject_nav_blocks,
     list_archive_dates,
     render_nav,
     replace_all_nav_blocks,
+    replace_marker_block,
 )
 
 # Read-only, compiled regex pattern(s)
@@ -48,6 +50,11 @@ def load_custom_usernames(path: typing.Union[str, pathlib.Path]) -> typing.List[
         seen.add(line)
         out.append(line)
     return out
+
+
+def _archive_link_line(reference_date: typing.Optional[datetime.date], archive_root: pathlib.Path, current_path: pathlib.Path) -> str:
+    rel = archive_dir_link_for(reference_date, archive_root, current_path)
+    return f"*Historical records are stored in the [`archive`]({rel}) directory.*"
 
 
 def merge_logins(
@@ -84,7 +91,9 @@ ${nav}
 
 ---
 *Last updated at ${last_updated} UTC*
-*Historical records are stored in the `archive` directory.*
+<!-- archive-link -->
+${archive_link_line}
+<!-- /archive-link -->
 """)
 
 # Read-only module-level template for user section content
@@ -223,9 +232,13 @@ class GitHubDigest:
             archive_root=archive_root,
             today_target=pathlib.Path(self.readme_file),
         )
-        new_archive_path.write_text(
-            inject_nav_blocks(content, new_nav), encoding="utf-8"
+        archive_content = inject_nav_blocks(content, new_nav)
+        archive_content = replace_marker_block(
+            archive_content,
+            "archive-link",
+            _archive_link_line(yesterday_date, archive_root, new_archive_path),
         )
+        new_archive_path.write_text(archive_content, encoding="utf-8")
         self.logger.info(
             "Successfully archived the report for %s to %s", yesterday_str, new_archive_path
         )
@@ -398,20 +411,23 @@ class GitHubDigest:
         todays_events_md = self.generate_markdown_for_events(todays_events)
 
         archive_root = pathlib.Path(self.archive_dir)
+        readme_path = pathlib.Path(self.readme_file)
         archive_dates = list_archive_dates(archive_root)
         prev_for_readme = archive_dates[-1] if archive_dates else None
         readme_nav = render_nav(
             prev_date=prev_for_readme,
             next_date=None,
-            current_path=pathlib.Path(self.readme_file),
+            current_path=readme_path,
             archive_root=archive_root,
         )
+        archive_link_line = _archive_link_line(prev_for_readme, archive_root, readme_path)
 
         readme_content = README_TEMPLATE.substitute(
             today_str=today_str,
             todays_events_md=todays_events_md,
             last_updated=today_utc.strftime("%Y-%m-%d %H:%M:%S"),
             nav=readme_nav,
+            archive_link_line=archive_link_line,
         )
 
         with open(self.readme_file, "w", encoding="utf-8") as f:

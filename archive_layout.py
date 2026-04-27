@@ -15,15 +15,23 @@ PathLike = Union[str, Path]
 
 _ARCHIVE_RE = re.compile(r"^(\d{4})/(\d{2})/(\d{2})\.md$")
 
-_NAV_BLOCK_RE = re.compile(r"<!-- nav -->\n.*?\n<!-- /nav -->", re.DOTALL)
+def replace_marker_block(content: str, marker_name: str, new_body: str) -> str:
+    """
+    Replace the body of every `<!-- {marker_name} -->...<!-- /{marker_name} -->`
+    block in `content` with `new_body`. Returns content unchanged if no markers
+    are present.
+    """
+    pattern = re.compile(
+        rf"<!-- {re.escape(marker_name)} -->\n.*?\n<!-- /{re.escape(marker_name)} -->",
+        re.DOTALL,
+    )
+    replacement = f"<!-- {marker_name} -->\n{new_body}\n<!-- /{marker_name} -->"
+    return pattern.sub(replacement, content)
 
 
 def replace_all_nav_blocks(content: str, new_nav: str) -> str:
-    """
-    Replace the body of every `<!-- nav -->...<!-- /nav -->` block in `content`
-    with `new_nav`. Returns content unchanged if no markers are present.
-    """
-    return _NAV_BLOCK_RE.sub(f"<!-- nav -->\n{new_nav}\n<!-- /nav -->", content)
+    """Back-compat wrapper around `replace_marker_block(content, "nav", new_nav)`."""
+    return replace_marker_block(content, "nav", new_nav)
 
 
 def inject_nav_blocks(content: str, nav: str) -> str:
@@ -115,6 +123,27 @@ def find_neighbors(
 
 def _rel(target: Path, *, from_path: Path) -> str:
     return os.path.relpath(target, start=from_path.parent).replace(os.sep, "/")
+
+
+def archive_dir_link_for(
+    reference_date: Optional[date],
+    archive_root: PathLike,
+    current_path: PathLike,
+) -> str:
+    """
+    Relative path from `current_path` to the directory containing the archive
+    for `reference_date` (i.e. that file's parent month directory). When
+    `reference_date` is None, returns a path to the archive root itself. This
+    is the link target for "the archive" in the README footer; using the most
+    recent archive's parent guarantees the link is non-404 even on the first
+    day of a month or year, when today's month directory does not yet exist.
+    """
+    archive_root = Path(archive_root)
+    if reference_date is None:
+        target = archive_root
+    else:
+        target = archive_path_for_date(reference_date, archive_root).parent
+    return _rel(target, from_path=Path(current_path))
 
 
 def render_nav(

@@ -21,6 +21,9 @@ def _readme_with_markers(yesterday: str, body: str = "events go here") -> str:
         "\n"
         "---\n"
         "*Last updated at 2026-04-26 23:00:00 UTC*\n"
+        "<!-- archive-link -->\n"
+        "*Historical records are stored in the [`archive`](archive/2026/04) directory.*\n"
+        "<!-- /archive-link -->\n"
     )
 
 
@@ -111,6 +114,18 @@ def test_legacy_readme_without_markers_gets_nav_injected(tmp_path):
     # Nav blocks injected with Today fallback (no prev archive in this test)
     assert out.count("<!-- nav -->") == 2
     assert "[Today →](../../../README.md)" in out
+
+
+def test_archive_link_in_footer_is_rewritten_for_archives_perspective(tmp_path):
+    """When archived, the [`archive`](...) link is recomputed relative to the archive file."""
+    (tmp_path / "README.md").write_text(_readme_with_markers("2026-04-26"), encoding="utf-8")
+    _make_digest(tmp_path).archive_if_yesterday("2026-04-26")
+    new = tmp_path / "archive" / "2026" / "04" / "26.md"
+    content = new.read_text(encoding="utf-8")
+    # Archive at archive/2026/04/26.md links to its own month dir as `.`
+    assert "[`archive`](.)" in content
+    # Original README-perspective link must be gone
+    assert "[`archive`](archive/2026/04)" not in content
 
 
 def test_no_previous_archive_means_no_prev_link_in_new_archive(tmp_path):
