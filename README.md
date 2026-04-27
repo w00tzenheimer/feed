@@ -22,8 +22,14 @@ Today's public activity from users I follow (updated every 15 minutes).
   > VoxCPM：Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning，you can...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [smthemex/ComfyUI_VoxCPM_SM](https://github.com/smthemex/ComfyUI_VoxCPM_SM) to [IuvenisSapiens/ComfyUI_VoxCPM_SM](https://github.com/IuvenisSapiens/ComfyUI_VoxCPM_SM)
   > VoxCPM：Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning，you can...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ggml-org/ggml](https://github.com/ggml-org/ggml)
+  > Tensor library for machine learning
+
+### [shnaps666](https://github.com/shnaps666)
+- 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
+  > Bring macOS “Quick Look” feature to Windows
 
 
 ---
-*Last updated at 2026-04-27 03:32:35 UTC*
+*Last updated at 2026-04-27 06:31:39 UTC*
 *Historical records are stored in the `archive` directory.*
