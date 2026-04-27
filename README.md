@@ -51,6 +51,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Convert Nintendo Switch executable files to ELFs
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/binsync](https://github.com/binsync/binsync) to [mrexodia/binsync](https://github.com/mrexodia/binsync)
   > A reversing plugin for cross-decompiler collaboration, built on git. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [unnecessary-special-projects/ghist](https://github.com/unnecessary-special-projects/ghist)
@@ -64,5 +66,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-27 16:43:55 UTC*
+*Last updated at 2026-04-27 18:06:13 UTC*
 *Historical records are stored in the `archive` directory.*
