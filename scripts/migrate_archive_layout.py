@@ -15,10 +15,10 @@ from datetime import date
 from pathlib import Path
 from typing import Callable, List, NamedTuple, Optional
 
-# Make `archive_layout` importable when running this script directly.
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+# Allow running this script from a fresh checkout without `pip install`.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 
-from archive_layout import (  # noqa: E402
+from daily_github_activity.archive_layout import (  # noqa: E402
     archive_path_for_date,
     find_neighbors,
     inject_nav_blocks,
