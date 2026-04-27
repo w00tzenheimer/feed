@@ -25,11 +25,26 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ggml-org/ggml](https://github.com/ggml-org/ggml)
   > Tensor library for machine learning
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [BunnyWay/cli](https://github.com/BunnyWay/cli)
+  > bunny.net CLI
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [BunnyWay/terraform-provider-bunnynet](https://github.com/BunnyWay/terraform-provider-bunnynet)
+  > bunny.net Terraform provider
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [changliu98/manifold](https://github.com/changliu98/manifold)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s-arash/ascent](https://github.com/s-arash/ascent)
+  > Logic programming in Rust
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [unnecessary-special-projects/ghist](https://github.com/unnecessary-special-projects/ghist)
+  > Task management that lives in your repo
+
 ### [shnaps666](https://github.com/shnaps666)
 - 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
   > Bring macOS “Quick Look” feature to Windows
 
 
 ---
-*Last updated at 2026-04-27 06:31:39 UTC*
+*Last updated at 2026-04-27 09:22:48 UTC*
 *Historical records are stored in the `archive` directory.*
