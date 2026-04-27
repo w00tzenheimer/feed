@@ -35,6 +35,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [changliu98/manifold](https://github.com/changliu98/manifold)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s-arash/ascent](https://github.com/s-arash/ascent)
   > Logic programming in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sherif-fanous/pi-rtk](https://github.com/sherif-fanous/pi-rtk)
+  > Pi coding agent extension that routes bash commands through rtk for LLM token savings.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf)
+  > Convert Nintendo Switch executable files to ELFs
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/binsync](https://github.com/binsync/binsync) to [mrexodia/binsync](https://github.com/mrexodia/binsync)
+  > A reversing plugin for cross-decompiler collaboration, built on git. 
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [unnecessary-special-projects/ghist](https://github.com/unnecessary-special-projects/ghist)
@@ -46,5 +54,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-27 09:22:48 UTC*
+*Last updated at 2026-04-27 11:47:44 UTC*
 *Historical records are stored in the `archive` directory.*
