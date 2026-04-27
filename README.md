@@ -1,6 +1,10 @@
 # Daily GitHub Activity (2026-04-27)
 
-Today's public activity from users I follow (updated every 15 minutes).
+<!-- nav -->
+[← 2026-04-26](archive/2026/04/26.md)
+<!-- /nav -->
+
+Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
@@ -65,6 +69,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Bring macOS “Quick Look” feature to Windows
 
 
+<!-- nav -->
+[← 2026-04-26](archive/2026/04/26.md)
+<!-- /nav -->
+
 ---
-*Last updated at 2026-04-27 18:06:13 UTC*
+*Last updated at 2026-04-27 18:31:56 UTC*
 *Historical records are stored in the `archive` directory.*
