@@ -1,0 +1,3 @@
+# Extra GitHub usernames to include in the digest (one per line).
+# These users are tracked in addition to your "Following" list.
+# Lines starting with # are ignored. Optional leading @ is stripped.

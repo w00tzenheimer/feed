@@ -61,6 +61,7 @@ jobs:
         run: python follower_digest_builder.py
 
       - name: Commit and push changes
+        if: github.event_name != 'pull_request'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -68,12 +69,10 @@ jobs:
           # Fetch latest changes before committing to reduce conflicts
           git fetch origin main
           
-          # Only add archive/ if it exists to avoid error
-          if [ -d archive ]; then
-            git add README.md archive/
-          else
-            git add README.md
-          fi
+          # Stage README + archives + custom_users.txt (each conditionally if present)
+          git add README.md
+          if [ -d archive ]; then git add archive/; fi
+          if [ -f custom_users.txt ]; then git add custom_users.txt; fi
 
           if git diff --staged --quiet; then
             echo "No new activity to commit."

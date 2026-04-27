@@ -11,8 +11,57 @@ import typing
 
 import github  # type: ignore
 
+from archive_layout import (
+    archive_path_for_date,
+    find_neighbors,
+    inject_nav_blocks,
+    list_archive_dates,
+    render_nav,
+    replace_all_nav_blocks,
+)
+
 # Read-only, compiled regex pattern(s)
 FIRST_LINE_DATE_PATTERN = re.compile(r"\((\d{4}-\d{2}-\d{2})\)")
+
+
+def load_custom_usernames(path: typing.Union[str, pathlib.Path]) -> typing.List[str]:
+    """
+    Read a list of GitHub usernames from a text file.
+
+    Format: one username per line. Blank lines and `#` comments are ignored.
+    A leading `@` and surrounding whitespace are stripped. Duplicates are
+    removed, preserving first occurrence. Returns [] if the file is missing.
+    """
+    p = pathlib.Path(path)
+    if not p.is_file():
+        return []
+    seen: typing.Set[str] = set()
+    out: typing.List[str] = []
+    for raw in p.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line.startswith("@"):
+            line = line[1:].strip()
+        if not line or line in seen:
+            continue
+        seen.add(line)
+        out.append(line)
+    return out
+
+
+def merge_logins(
+    followed: typing.List[str], custom: typing.List[str]
+) -> typing.List[str]:
+    """Concatenate two ordered lists of logins; dedupe; preserve first-seen order."""
+    seen: typing.Set[str] = set()
+    out: typing.List[str] = []
+    for login in (*followed, *custom):
+        if login in seen:
+            continue
+        seen.add(login)
+        out.append(login)
+    return out
 
 # Read-only module-level constant for progress logging interval
 PROGRESS_LOG_INTERVAL = 50
@@ -20,11 +69,19 @@ PROGRESS_LOG_INTERVAL = 50
 # Read-only module-level template for README content
 README_TEMPLATE = string.Template("""# Daily GitHub Activity (${today_str})
 
-Today's public activity from users I follow (updated every 15 minutes).
+<!-- nav -->
+${nav}
+<!-- /nav -->
+
+Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
 ${todays_events_md}
+<!-- nav -->
+${nav}
+<!-- /nav -->
+
 ---
 *Last updated at ${last_updated} UTC*
 *Historical records are stored in the `archive` directory.*
@@ -110,12 +167,14 @@ class GitHubDigest:
         github_token: str,
         github_username: str,
         archive_dir: str = "archive",
-        readme_file: str = "README.md"
+        readme_file: str = "README.md",
+        custom_users_file: str = "custom_users.txt",
     ):
         self.github_token: str = github_token
         self.github_username: str = github_username
         self.archive_dir: str = archive_dir
         self.readme_file: str = readme_file
+        self.custom_users_file: str = custom_users_file
         self.github: typing.Optional[github.Github] = None
         self.logger: logging.Logger = logging.getLogger(__name__)
         self.line_builder: EventLineBuilder = EventLineBuilder(self.logger)
@@ -128,7 +187,11 @@ class GitHubDigest:
 
     def archive_if_yesterday(self, yesterday_str: str) -> None:
         """
-        Archive the README if it contains yesterday's content.
+        If the README on disk represents `yesterday_str`, archive it under
+        archive/YYYY/MM/DD.md, rewriting its nav links from the archive
+        file's perspective. Also update the previously most-recent archive
+        so its "next" link points at this newly archived file instead of
+        "Today →".
         """
         readme_path = pathlib.Path(self.readme_file)
         if not readme_path.exists():
@@ -142,21 +205,66 @@ class GitHubDigest:
 
         first_line = content.splitlines()[0]
         match = FIRST_LINE_DATE_PATTERN.search(first_line)
-
-        if match and match.group(1) == yesterday_str:
-            archive_path = pathlib.Path(self.archive_dir) / f"{yesterday_str}.md"
-            archive_path.parent.mkdir(parents=True, exist_ok=True)
-            archive_path.write_text(content, encoding="utf-8")
-            self.logger.info("Successfully archived the report for %s to %s", yesterday_str, archive_path)
-        else:
+        if not match or match.group(1) != yesterday_str:
             self.logger.info("README does not need to be archived.")
+            return
 
-    def get_events_from_followed_users(
+        yesterday_date = datetime.date.fromisoformat(yesterday_str)
+        archive_root = pathlib.Path(self.archive_dir)
+        existing_dates = list_archive_dates(archive_root)
+        prev_date, _ = find_neighbors(yesterday_date, existing_dates)
+
+        new_archive_path = archive_path_for_date(yesterday_date, archive_root)
+        new_archive_path.parent.mkdir(parents=True, exist_ok=True)
+        new_nav = render_nav(
+            prev_date=prev_date,
+            next_date=None,
+            current_path=new_archive_path,
+            archive_root=archive_root,
+            today_target=pathlib.Path(self.readme_file),
+        )
+        new_archive_path.write_text(
+            inject_nav_blocks(content, new_nav), encoding="utf-8"
+        )
+        self.logger.info(
+            "Successfully archived the report for %s to %s", yesterday_str, new_archive_path
+        )
+
+        if prev_date is not None:
+            self._refresh_archive_nav(prev_date, archive_root, existing_dates, yesterday_date)
+
+    def _refresh_archive_nav(
         self,
-        today_date_utc: datetime.date,
-    ) -> typing.List[typing.Any]:
+        target_date: datetime.date,
+        archive_root: pathlib.Path,
+        prior_dates: typing.List[datetime.date],
+        newly_added: datetime.date,
+    ) -> None:
+        """Rewrite the nav block of an existing archive whose neighbors changed."""
+        target_path = archive_path_for_date(target_date, archive_root)
+        if not target_path.exists():
+            return
+        prev_neighbor, _ = find_neighbors(target_date, prior_dates)
+        next_neighbor = newly_added  # the file we just wrote
+        new_nav = render_nav(
+            prev_date=prev_neighbor,
+            next_date=next_neighbor,
+            current_path=target_path,
+            archive_root=archive_root,
+            today_target=None,
+        )
+        original = target_path.read_text(encoding="utf-8")
+        updated = replace_all_nav_blocks(original, new_nav)
+        if updated != original:
+            target_path.write_text(updated, encoding="utf-8")
+            self.logger.info("Updated nav links in %s", target_path)
+
+    def collect_tracked_users(self) -> typing.List[typing.Any]:
         """
-        Get today's public activity from all users followed by the specified user.
+        Resolve the merged set of users to fetch events for: everyone the
+        configured user follows plus any logins listed in custom_users_file.
+        Organizations are dropped (events API returns 404 for orgs). Order is
+        preserved with followed users first; duplicates are removed.
         """
         if self.github is None:
             raise RuntimeError("GitHub client is not initialized. Call setup_github() first.")
@@ -167,19 +275,52 @@ class GitHubDigest:
             self.logger.error("Could not fetch user '%s': %s", self.github_username, e)
             raise
 
-        following = main_user.get_following()
-        todays_events: typing.List[typing.Any] = []
-        self.logger.info("Fetching today's activity for all users followed by %s...", self.github_username)
-
-        for followed_user in following:
-            # Skip organizations as they don't support the events API endpoint
+        users: typing.List[typing.Any] = []
+        seen: typing.Set[str] = set()
+        for followed_user in main_user.get_following():
             if followed_user.type == "Organization":
                 self.logger.debug("  -> Skipping organization %s (organizations not supported)", followed_user.login)
                 continue
+            if followed_user.login in seen:
+                continue
+            seen.add(followed_user.login)
+            users.append(followed_user)
 
-            self.logger.info("  -> Fetching activity for %s...", followed_user.login)
+        custom_logins = load_custom_usernames(self.custom_users_file)
+        for login in custom_logins:
+            if login in seen:
+                continue
             try:
-                events = followed_user.get_events()
+                user = self.github.get_user(login)
+            except github.UnknownObjectException:
+                self.logger.warning("Custom user %s not found, skipping.", login)
+                continue
+            except Exception as e:
+                self.logger.warning("Could not resolve custom user %s: %s", login, e)
+                continue
+            if user.type == "Organization":
+                self.logger.debug("  -> Skipping organization in custom_users: %s", login)
+                continue
+            seen.add(login)
+            users.append(user)
+
+        return users
+
+    def get_events_for_tracked_users(
+        self,
+        today_date_utc: datetime.date,
+    ) -> typing.List[typing.Any]:
+        """
+        Get today's public activity from every tracked user (followed + custom).
+        """
+        tracked_users = self.collect_tracked_users()
+        todays_events: typing.List[typing.Any] = []
+        self.logger.info("Fetching today's activity for %d tracked users...", len(tracked_users))
+
+        for tracked_user in tracked_users:
+            self.logger.info("  -> Fetching activity for %s...", tracked_user.login)
+            try:
+                events = tracked_user.get_events()
                 for event in events:
                     event_date = event.created_at.date()
                     if event_date < today_date_utc:
@@ -187,7 +328,7 @@ class GitHubDigest:
                     if event_date == today_date_utc:
                         todays_events.append(event)
             except Exception as e:
-                self.logger.warning("  -> Error fetching activity for user %s: %s", followed_user.login, e)
+                self.logger.warning("  -> Error fetching activity for user %s: %s", tracked_user.login, e)
 
         # Sort all events in reverse chronological order to ensure newest events come first
         todays_events.sort(key=lambda e: e.created_at, reverse=True)
@@ -251,15 +392,26 @@ class GitHubDigest:
 
         self.archive_if_yesterday(yesterday_str)
 
-        todays_events = self.get_events_from_followed_users(today_utc.date())
+        todays_events = self.get_events_for_tracked_users(today_utc.date())
         self.logger.info("Found %d relevant events for today.", len(todays_events))
 
         todays_events_md = self.generate_markdown_for_events(todays_events)
 
+        archive_root = pathlib.Path(self.archive_dir)
+        archive_dates = list_archive_dates(archive_root)
+        prev_for_readme = archive_dates[-1] if archive_dates else None
+        readme_nav = render_nav(
+            prev_date=prev_for_readme,
+            next_date=None,
+            current_path=pathlib.Path(self.readme_file),
+            archive_root=archive_root,
+        )
+
         readme_content = README_TEMPLATE.substitute(
             today_str=today_str,
             todays_events_md=todays_events_md,
-            last_updated=today_utc.strftime("%Y-%m-%d %H:%M:%S")
+            last_updated=today_utc.strftime("%Y-%m-%d %H:%M:%S"),
+            nav=readme_nav,
         )
 
         with open(self.readme_file, "w", encoding="utf-8") as f:
@@ -277,7 +429,7 @@ def get_env_or_raise(var: str) -> str:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Generate a daily GitHub activity digest for users you follow."
+        description="Generate a daily GitHub activity digest for users you follow plus any listed in custom_users.txt."
     )
     parser.add_argument(
         "--token",
@@ -304,6 +456,12 @@ def main() -> None:
         help="README file to update",
     )
     parser.add_argument(
+        "--custom-users-file",
+        type=str,
+        default="custom_users.txt",
+        help="File with extra GitHub usernames to track (one per line, # comments allowed)",
+    )
+    parser.add_argument(
         "--log-level",
         type=str,
         choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"],
@@ -327,6 +485,7 @@ def main() -> None:
         github_username=args.username,
         archive_dir=args.archive_dir,
         readme_file=args.readme_file,
+        custom_users_file=args.custom_users_file,
     )
 
     digest.run()
