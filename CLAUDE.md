@@ -4,9 +4,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-A Python tool (`follower_digest_builder.py`) that regenerates `README.md` with the day's public GitHub activity (Watch/Fork/Create-repo/Public events) from every user `GITHUB_REPOSITORY_OWNER` follows, plus any extra logins listed in `custom_users.txt`. GitHub Actions runs it hourly via `.github/workflows/daily_digest.yml` and commits the refreshed README, the `archive/` tree, and `custom_users.txt` back to `main`. There is no service, no DB, no web app — the rendered README *is* the product.
+A Python package (`daily_github_activity`, src-layout) that regenerates `README.md` with the day's public GitHub activity (Watch/Fork/Create-repo/Public events) from every user `GITHUB_REPOSITORY_OWNER` follows, plus any extra logins listed in `custom_users.txt`. GitHub Actions runs it hourly via `.github/workflows/daily_digest.yml` and commits the refreshed README, the `archive/` tree, and `custom_users.txt` back to `main`. There is no service, no DB, no web app — the rendered README *is* the product.
 
-Pure helpers used by both the runtime and the migration script live in `archive_layout.py`. Tests are in `tests/`. One-shot tooling lives in `scripts/`.
+Layout:
+- `src/daily_github_activity/digest.py` — entry point (`main()`), the `GitHubDigest` class, event rendering, archival logic.
+- `src/daily_github_activity/archive_layout.py` — pure helpers (path mapping, neighbor lookup, nav rendering, marker-block replacement); used by both runtime and migration.
+- `follower_digest_builder.py` — root shim. Adds `src/` to `sys.path` and calls `daily_github_activity.digest.main()`. Kept so `python follower_digest_builder.py` continues to work in CI without YAML changes. After `pip install`, the `follower-digest` console script does the same.
+- `scripts/migrate_archive_layout.py` — one-shot tooling.
+- `tests/` — pytest suite.
 
 ## Commands
 
@@ -34,10 +39,10 @@ python scripts/migrate_archive_layout.py
 
 - **Archival is README-driven, not date-driven.** `archive_if_yesterday` reads the *first line* of the existing `README.md`, regex-extracts a `(YYYY-MM-DD)` date, and only archives if it equals "yesterday" (UTC). If the README has been regenerated multiple times the same day, nothing is archived. If the first line gets reformatted such that `FIRST_LINE_DATE_PATTERN` no longer matches, archives silently stop. Preserve the `# Daily GitHub Activity (YYYY-MM-DD)` first-line shape in any template change.
 - **"Today" is UTC.** All date comparisons use `datetime.now(datetime.timezone.utc).date()`. Don't switch to local time — the workflow runs hourly on `cron: '0 * * * *'` and would skew the day boundary.
-- **Archive layout is `archive/YYYY/MM/DD.md`.** `archive_layout.archive_path_for_date` is the only place that constructs these paths — go through it. The 106 pre-existing flat files were migrated by `scripts/migrate_archive_layout.py`.
+- **Archive layout is `archive/YYYY/MM/DD.md`.** `daily_github_activity.archive_layout.archive_path_for_date` is the only place that constructs these paths — go through it. The 106 pre-existing flat files were migrated by `scripts/migrate_archive_layout.py`.
 - **Nav links use `<!-- nav -->...<!-- /nav -->` markers.** Every README and every archive carries two of these blocks (top, bottom) holding the same `[← prev](rel) | [next →](rel)` line. Markers exist so an existing archive can be rewritten in place without parsing markdown.
 - **The previous most-recent archive is rewritten on each archive op.** When yesterday's README becomes a new archive, its predecessor (which previously had `[Today →]`) is updated so its "next" link points at the newly archived file. *Only that one neighbor file is rewritten* — the chain is not walked. This is the only file other than today's README and the new archive that the runtime ever modifies.
-- **Tracked users = followed + custom.** `GitHubDigest.collect_tracked_users` merges `main_user.get_following()` with logins from `custom_users.txt` (deduped by login, followed first, organizations dropped). The custom file is optional; missing file → empty list. Format: one login per line, `#` comments, optional `@` prefix stripped, blanks ignored.
+- **Tracked users = followed + custom.** `daily_github_activity.digest.GitHubDigest.collect_tracked_users` merges `main_user.get_following()` with logins from `custom_users.txt` (deduped by login, followed first, organizations dropped). The custom file is optional; missing file → empty list. Format: one login per line, `#` comments, optional `@` prefix stripped, blanks ignored.
 - **Event fetch terminates early.** `get_events_for_tracked_users` iterates each tracked user's events newest-first and `break`s as soon as it sees an event older than today. Don't reorder or filter the iterator before this loop.
 - **Organizations are skipped on both paths** (followed *and* custom). The events API returns 404 for org logins.
 - **Only four event types render** (`EventLineBuilder.format_event`): `WatchEvent`, `ForkEvent`, `CreateEvent` with `ref_type == "repository"`, `PublicEvent`. Anything else returns `None` and drops.

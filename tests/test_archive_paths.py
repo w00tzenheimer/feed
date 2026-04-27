@@ -1,6 +1,6 @@
 from datetime import date
 
-from archive_layout import (
+from daily_github_activity.archive_layout import (
     archive_path_for_date,
     date_for_archive_path,
     list_archive_dates,

@@ -1,4 +1,4 @@
-from archive_layout import inject_nav_blocks, replace_all_nav_blocks
+from daily_github_activity.archive_layout import inject_nav_blocks, replace_all_nav_blocks
 
 
 def test_replaces_both_top_and_bottom_blocks():

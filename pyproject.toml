@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "hrly-digest"
+name = "daily-github-activity"
 version = "0.1.0"
-description = "Generate a daily GitHub activity digest hourly for users you follow"
+description = "Generate a daily GitHub activity digest hourly for users you follow plus any listed in custom_users.txt."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
@@ -19,6 +19,12 @@ dev = [
     "mypy>=1.0.0",
 ]
 
+[project.scripts]
+follower-digest = "daily_github_activity.digest:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-pythonpath = ["."]
+pythonpath = ["src"]
