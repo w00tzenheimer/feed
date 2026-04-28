@@ -32,12 +32,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [dirac-run/dirac](https://github.com/dirac-run/dirac)
   > Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs othe...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MyskYko/fresub](https://github.com/MyskYko/fresub)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MyskYko/abys](https://github.com/MyskYko/abys)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MyskYko/rrr](https://github.com/MyskYko/rrr)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [frida/luma](https://github.com/frida/luma)
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [WsttXm/RiskEngine](https://github.com/WsttXm/RiskEngine)
   > A mobile security risk control solution including an SDK and a management platform.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [markoglasgow/gemma_crackme_tutorial](https://github.com/markoglasgow/gemma_crackme_tutorial)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eshard/TTA-CTF](https://github.com/eshard/TTA-CTF)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/libbs](https://github.com/binsync/libbs) to [mrexodia/libbs](https://github.com/mrexodia/libbs)
+  > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [asekachov/Markie](https://github.com/asekachov/Markie)
@@ -49,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-28 12:24:55 UTC*
+*Last updated at 2026-04-28 15:29:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
