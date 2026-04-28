@@ -53,6 +53,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > IPA workflow
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChiChou/ios-debug.py](https://github.com/ChiChou/ios-debug.py)
   > Shortcut to automate your iproxy, debugserver, lldb workflow
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [nowsecure/frida-trace](https://github.com/nowsecure/frida-trace) to [jevinskie/frida-trace](https://github.com/jevinskie/frida-trace)
+  > Trace APIs declaratively through Frida.
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [WsttXm/RiskEngine](https://github.com/WsttXm/RiskEngine)
@@ -63,6 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eshard/TTA-CTF](https://github.com/eshard/TTA-CTF)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/libbs](https://github.com/binsync/libbs) to [mrexodia/libbs](https://github.com/mrexodia/libbs)
   > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/llvmkit](https://github.com/r3bb1t/llvmkit)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [asekachov/Markie](https://github.com/asekachov/Markie)
@@ -74,7 +77,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-28 21:10:36 UTC*
+*Last updated at 2026-04-28 22:59:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
