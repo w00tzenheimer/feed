@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Razzue](https://github.com/Razzue) Starred [outflanknl/Dumpert](https://github.com/outflanknl/Dumpert)
   > LSASS memory dumper using direct system calls and API unhooking.
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [dirac-run/dirac](https://github.com/dirac-run/dirac)
+  > Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs othe...
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [WsttXm/RiskEngine](https://github.com/WsttXm/RiskEngine)
   > A mobile security risk control solution including an SDK and a management platform.
@@ -45,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-28 10:19:49 UTC*
+*Last updated at 2026-04-28 12:24:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
