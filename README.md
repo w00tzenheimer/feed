@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NativeStar/js-hooker](https://github.com/NativeStar/js-hooker) to [CrackerCat/js-hooker](https://github.com/CrackerCat/js-hooker)
   > 一个轻量、简洁的 适用于浏览器环境的JavaScript Hook库 A lightweight JavaScript hooking library for browser environments
 
+### [Razzue](https://github.com/Razzue)
+- 🌟 👤 [Razzue](https://github.com/Razzue) Starred [outflanknl/Dumpert](https://github.com/outflanknl/Dumpert)
+  > LSASS memory dumper using direct system calls and API unhooking.
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [WsttXm/RiskEngine](https://github.com/WsttXm/RiskEngine)
   > A mobile security risk control solution including an SDK and a management platform.
@@ -32,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-28 04:35:30 UTC*
+*Last updated at 2026-04-28 07:32:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
