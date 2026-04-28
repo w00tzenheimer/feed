@@ -41,6 +41,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MyskYko/abys](https://github.com/MyskYko/abys)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MyskYko/rrr](https://github.com/MyskYko/rrr)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [frida/luma](https://github.com/frida/luma)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChiChou/entdb-data](https://github.com/ChiChou/entdb-data)
+  > Raw entitlement data repository for Apple platforms
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChiChou/entdb](https://github.com/ChiChou/entdb)
+  > iOS and macOS entitlement database
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChiChou/entdb-indexer](https://github.com/ChiChou/entdb-indexer)
+  > Crontab workflow to discover and index entitlements from Apple firmware
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChiChou/macchk](https://github.com/ChiChou/macchk)
+  > 🎤 mic check! checksec for Mach-O executables
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChiChou/dumpster](https://github.com/ChiChou/dumpster)
+  > IPA workflow
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChiChou/ios-debug.py](https://github.com/ChiChou/ios-debug.py)
+  > Shortcut to automate your iproxy, debugserver, lldb workflow
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [WsttXm/RiskEngine](https://github.com/WsttXm/RiskEngine)
@@ -62,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-28 19:46:40 UTC*
+*Last updated at 2026-04-28 21:10:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
