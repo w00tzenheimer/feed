@@ -27,6 +27,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)
   > SenseNova-U series: Native Unified Paradigm with NEO-Unify from the First Principles
 
+### [jedisct1](https://github.com/jedisct1)
+- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/rust-asymcrypt](https://github.com/jedisct1/rust-asymcrypt) public
+  > asymcrypt: if you encrypt, you can't decrypt.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jamesyc/TimeCapsuleSMB](https://github.com/jamesyc/TimeCapsuleSMB)
+  > Hacking the Apple Time Capsule to run modern Samba
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rndmcnlly/vwbdd](https://github.com/rndmcnlly/vwbdd)
+  > Variable-width BDD engine: append-only LEB128 arena, verify-on-decode unique table, byte-level dump ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallworld-re/smallworld](https://github.com/smallworld-re/smallworld)
   > SmallWorld is an environment for streamlined harnessing of binary code for the purpose of dynamic an...
@@ -40,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-29 10:10:03 UTC*
+*Last updated at 2026-04-29 12:18:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
