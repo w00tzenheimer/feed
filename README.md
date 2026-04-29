@@ -36,6 +36,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/rust-asymcrypt](https://github.com/jedisct1/rust-asymcrypt) public
   > asymcrypt: if you encrypt, you can't decrypt.
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [nilslice/workers-zig](https://github.com/nilslice/workers-zig)
+  > Write Cloudflare Workers in 100% Zig via WebAssembly
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jamesyc/TimeCapsuleSMB](https://github.com/jamesyc/TimeCapsuleSMB)
@@ -46,6 +48,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Staging repo for development of native port of TypeScript
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [frida/frida-core](https://github.com/frida/frida-core) to [jevinskie/frida-core](https://github.com/jevinskie/frida-core)
   > Frida core library intended for static linking into bindings
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Infernus-WIND/Seamless-Packing](https://github.com/Infernus-WIND/Seamless-Packing)
+  > Official repository for ACL 2025 Findings：Improving Continual Pre-training Through Seamless Data Pac...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallworld-re/smallworld](https://github.com/smallworld-re/smallworld)
@@ -66,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-29 17:42:15 UTC*
+*Last updated at 2026-04-29 19:42:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
