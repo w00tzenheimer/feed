@@ -56,6 +56,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > SmallWorld is an environment for streamlined harnessing of binary code for the purpose of dynamic an...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QwenLM/FlashQLA](https://github.com/QwenLM/FlashQLA)
   > high-performance linear attention kernel library built on TileLang
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim)
+  > Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FeSens/auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)
@@ -70,7 +73,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-29 19:42:50 UTC*
+*Last updated at 2026-04-29 21:10:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
