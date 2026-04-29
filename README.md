@@ -16,6 +16,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [LongWayHomie/PolyEngine](https://github.com/LongWayHomie/PolyEngine)
   > PolyEngine is an evasive PE packer designed for CTF challenges and low-level Windows security educat...
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/msquic](https://github.com/microsoft/msquic)
+  > Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [eshard/TTA-CTF](https://github.com/eshard/TTA-CTF)
@@ -36,6 +38,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Hacking the Apple Time Capsule to run modern Samba
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rndmcnlly/vwbdd](https://github.com/rndmcnlly/vwbdd)
   > Variable-width BDD engine: append-only LEB128 arena, verify-on-decode unique table, byte-level dump ...
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [microsoft/typescript-go](https://github.com/microsoft/typescript-go) to [jevinskie/typescript-go](https://github.com/jevinskie/typescript-go)
+  > Staging repo for development of native port of TypeScript
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [frida/frida-core](https://github.com/frida/frida-core) to [jevinskie/frida-core](https://github.com/jevinskie/frida-core)
+  > Frida core library intended for static linking into bindings
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallworld-re/smallworld](https://github.com/smallworld-re/smallworld)
@@ -50,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-29 12:18:43 UTC*
+*Last updated at 2026-04-29 15:19:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
