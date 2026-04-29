@@ -50,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Frida core library intended for static linking into bindings
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Infernus-WIND/Seamless-Packing](https://github.com/Infernus-WIND/Seamless-Packing)
   > Official repository for ACL 2025 Findings：Improving Continual Pre-training Through Seamless Data Pac...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dicpeynado/prolog-in-forth](https://github.com/dicpeynado/prolog-in-forth)
+  > L. L. Odette's Prolog Virtual Machine (PVM) implemented in Forth. Upgraded to 32 Bit ANSI Forth. Tes...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [romforth/romforth](https://github.com/romforth/romforth)
+  > Ultra Portable, Small, Baremetal Forth for various processors
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallworld-re/smallworld](https://github.com/smallworld-re/smallworld)
@@ -59,13 +63,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim)
   > Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FeSens/auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marizperoj/mps-talkie](https://github.com/marizperoj/mps-talkie)
+  > Apple MPS-only inference for Talkie 13B
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)
   > Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool)
+  > 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a c...
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google/learn_unsafe_rust](https://github.com/google/learn_unsafe_rust)
+
+### [stevemk14ebr](https://github.com/stevemk14ebr)
+- 🍴 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Forked [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) to [stevemk14ebr/gemini-cli](https://github.com/stevemk14ebr/gemini-cli)
+  > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 
 <!-- nav -->
@@ -73,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-29 21:10:27 UTC*
+*Last updated at 2026-04-29 22:59:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
