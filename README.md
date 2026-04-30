@@ -18,14 +18,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vwww-droid/Mira](https://github.com/vwww-droid/Mira) to [CrackerCat/Mira](https://github.com/CrackerCat/Mira)
   > AI-Powered Runtime Mobile App Risk Analysis (iOS & Android)
 
-### [PxYu](https://github.com/PxYu)
-- 🌟 👤 [PxYu](https://github.com/PxYu) Starred [infinilabs/coco-app](https://github.com/infinilabs/coco-app)
-  > 🥥 Coco AI App - Search, Connect, Collaborate, Personal AI Search and Assistant, all in one space.
-
-### [jedisct1](https://github.com/jedisct1)
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) to [dip-proto/gnhf](https://github.com/dip-proto/gnhf)
-  > Before I go to bed, I tell my agents: good night, have fun
-
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Dasharo/coreboot](https://github.com/Dasharo/coreboot)
   > coreboot component of Dasharo
@@ -60,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-30 17:25:06 UTC*
+*Last updated at 2026-04-30 19:39:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
