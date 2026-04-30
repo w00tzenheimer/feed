@@ -39,6 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)
   > Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QwenLM/Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [PSP-Arkfive/CustomIPL](https://github.com/PSP-Arkfive/CustomIPL)
+  > Custom IPL for PSP.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [mrexodia/llama.cpp](https://github.com/mrexodia/llama.cpp)
@@ -52,17 +54,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [typst/typst](https://github.com/typst/typst)
   > A markup-based typesetting system that is powerful and easy to learn.
 
-### [woldann](https://github.com/woldann)
-- 🌟 👤 [woldann](https://github.com/woldann) Starred [Cheatron/Core](https://github.com/Cheatron/Core)
-  > TypeScript toolkit for Windows x64 native systems programming, memory manipulation, and process inst...
-
 
 <!-- nav -->
 [← 2026-04-29](archive/2026/04/29.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-30 15:12:44 UTC*
+*Last updated at 2026-04-30 17:25:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
