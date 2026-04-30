@@ -27,6 +27,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > ESLint plugin to help you write better tailwindcss by improving readability with formatting rules an...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Runfusion/Fusion](https://github.com/Runfusion/Fusion)
   > Multi node agent orchestrator - build faster and better
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [typst/typst](https://github.com/typst/typst)
+  > A markup-based typesetting system that is powerful and easy to learn.
 
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [Cheatron/Core](https://github.com/Cheatron/Core)
@@ -38,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-30 07:29:23 UTC*
+*Last updated at 2026-04-30 10:10:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
