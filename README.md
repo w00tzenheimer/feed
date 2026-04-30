@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [bytecodealliance/target-lexicon](https://github.com/bytecodealliance/target-lexicon)
+  > Target "triple" support
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qq703048949/event_replay](https://github.com/qq703048949/event_replay) to [CrackerCat/event_replay](https://github.com/CrackerCat/event_replay)
   > 触屏事件重放
@@ -21,6 +25,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) to [dip-proto/gnhf](https://github.com/dip-proto/gnhf)
   > Before I go to bed, I tell my agents: good night, have fun
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Dasharo/coreboot](https://github.com/Dasharo/coreboot)
+  > coreboot component of Dasharo
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Dasharo/ec](https://github.com/Dasharo/ec)
+  > System76 Open Source Embedded Controller
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [system76/ecspy](https://github.com/system76/ecspy)
+  > System76 EC Debugger
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MyskYko/exopt](https://github.com/MyskYko/exopt)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QwenLM/Qwen3.6](https://github.com/QwenLM/Qwen3.6)
+  > Qwen3.6 is the large language model series developed by Qwen team, Alibaba Group.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)
+  > Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QwenLM/Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [mrexodia/llama.cpp](https://github.com/mrexodia/llama.cpp)
+  > LLM inference in C/C++
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
@@ -40,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-30 12:16:35 UTC*
+*Last updated at 2026-04-30 15:12:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
