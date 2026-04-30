@@ -18,13 +18,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [PxYu](https://github.com/PxYu) Starred [infinilabs/coco-app](https://github.com/infinilabs/coco-app)
   > 🥥 Coco AI App - Search, Connect, Collaborate, Personal AI Search and Assistant, all in one space.
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) to [dip-proto/gnhf](https://github.com/dip-proto/gnhf)
+  > Before I go to bed, I tell my agents: good night, have fun
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
+  > ESLint plugin to help you write better tailwindcss by improving readability with formatting rules an...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Runfusion/Fusion](https://github.com/Runfusion/Fusion)
+  > Multi node agent orchestrator - build faster and better
+
+### [woldann](https://github.com/woldann)
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [Cheatron/Core](https://github.com/Cheatron/Core)
+  > TypeScript toolkit for Windows x64 native systems programming, memory manipulation, and process inst...
+
 
 <!-- nav -->
 [← 2026-04-29](archive/2026/04/29.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-04-30 04:33:55 UTC*
+*Last updated at 2026-04-30 07:29:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
