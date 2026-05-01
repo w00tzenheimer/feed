@@ -37,6 +37,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [awizemann/scarf](https://github.com/awizemann/scarf)
   > Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over S...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [getsentry/vitest-evals](https://github.com/getsentry/vitest-evals)
+  > A vitest extension for running evals.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Jason-uxui/gray-ui-csm](https://github.com/Jason-uxui/gray-ui-csm)
 
 
 <!-- nav -->
@@ -44,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-01 16:04:04 UTC*
+*Last updated at 2026-05-01 18:02:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
