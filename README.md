@@ -33,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Command line PTY creator / proxy
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [thediveo/enumflag](https://github.com/thediveo/enumflag)
   > Typed enumeration flags (single and slice) for spf13/pflag, Go's flag drop-in package.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [supermemoryai/code-chunk](https://github.com/supermemoryai/code-chunk)
+  > AST-aware chunking of code for contextual retrieval
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pagination-problem/pagination](https://github.com/pagination-problem/pagination)
+  > Algorithms for the Bin Packing Problem with Overlapping Items: Experimental Results
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [awizemann/scarf](https://github.com/awizemann/scarf)
@@ -47,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-01 18:02:02 UTC*
+*Last updated at 2026-05-01 20:06:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
