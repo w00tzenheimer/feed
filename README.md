@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Redress - A tool for analyzing stripped Go binaries
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [goretk/gore](https://github.com/goretk/gore)
   > GoRE - Package gore is a library for analyzing Go binaries
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [derekparker/ptyme](https://github.com/derekparker/ptyme)
+  > Command line PTY creator / proxy
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [awizemann/scarf](https://github.com/awizemann/scarf)
@@ -40,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-01 13:27:25 UTC*
+*Last updated at 2026-05-01 14:59:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
