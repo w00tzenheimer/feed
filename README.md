@@ -38,6 +38,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pagination-problem/pagination](https://github.com/pagination-problem/pagination)
   > Algorithms for the Bin Packing Problem with Overlapping Items: Experimental Results
 
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [wesmar/kvc](https://github.com/wesmar/kvc)
+  > KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallback...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [manhvn135/wah](https://github.com/manhvn135/wah)
+  > 🌐 Interpret WebAssembly 3.0 in a single C header file, offering compact and portable support for the...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lifthrasiir/wah](https://github.com/lifthrasiir/wah)
+  > WebAssembly interpreter in a Header (WAH)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [awizemann/scarf](https://github.com/awizemann/scarf)
   > Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over S...
@@ -51,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-01 21:56:32 UTC*
+*Last updated at 2026-05-01 22:56:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
