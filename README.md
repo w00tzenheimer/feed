@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Thordekk](https://github.com/Thordekk)
+- 🍴 👤 [Thordekk](https://github.com/Thordekk) Forked [agatho/TrinityCore](https://github.com/agatho/TrinityCore) to [DEkkCOREESL/TrinityCore](https://github.com/DEkkCOREESL/TrinityCore)
+  > TrinityCore Open Source MMO Framework (master = 7.2.0.24015, 3.3.5 = 3.3.5a.12340)
+- 🍴 👤 [Thordekk](https://github.com/Thordekk) Forked [agatho/TrinityCore](https://github.com/agatho/TrinityCore) to [ForgedWoW/TrinityCore](https://github.com/ForgedWoW/TrinityCore)
+  > TrinityCore Open Source MMO Framework (master = 7.2.0.24015, 3.3.5 = 3.3.5a.12340)
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [apple/apple-root-program](https://github.com/apple/apple-root-program)
   > This repository hosts the official policy documentation and public communications for the Apple Root...
@@ -26,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-01 09:50:00 UTC*
+*Last updated at 2026-05-01 11:10:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
