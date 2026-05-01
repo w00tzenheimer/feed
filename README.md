@@ -31,6 +31,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > GoRE - Package gore is a library for analyzing Go binaries
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [derekparker/ptyme](https://github.com/derekparker/ptyme)
   > Command line PTY creator / proxy
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [thediveo/enumflag](https://github.com/thediveo/enumflag)
+  > Typed enumeration flags (single and slice) for spf13/pflag, Go's flag drop-in package.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [awizemann/scarf](https://github.com/awizemann/scarf)
@@ -42,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-01 14:59:54 UTC*
+*Last updated at 2026-05-01 16:04:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/04) directory.*
 <!-- /archive-link -->
