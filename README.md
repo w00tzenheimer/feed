@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Tufte 风格博客网站模板，基于 Typst。A beautiful blog template using the Tufte style, powered by Typst.
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Myriad-Dreamin/tylant](https://github.com/Myriad-Dreamin/tylant)
   > The static-site blog template using astro and typst
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Myriad-Dreamin/tylant](https://github.com/Myriad-Dreamin/tylant) to [IuvenisSapiens/tylant](https://github.com/IuvenisSapiens/tylant)
+  > The static-site blog template using astro and typst
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog) to [IuvenisSapiens/carbon-typst-blog](https://github.com/IuvenisSapiens/carbon-typst-blog)
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase)
@@ -26,7 +30,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-02 10:01:03 UTC*
+*Last updated at 2026-05-02 11:49:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
