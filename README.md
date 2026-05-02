@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog) to [IuvenisSapiens/carbon-typst-blog](https://github.com/IuvenisSapiens/carbon-typst-blog)
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [omarkamali/residuals](https://github.com/omarkamali/residuals)
+  > A lightweight Python package implementing instruction residuals (task vectors) for efficient LLM con...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
   > Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agn...
@@ -46,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-02 16:55:02 UTC*
+*Last updated at 2026-05-02 17:49:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
