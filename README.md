@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
   > Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agn...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix)
+  > This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SilentisVox/DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls)
+  > Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase)
@@ -42,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-02 14:52:46 UTC*
+*Last updated at 2026-05-02 15:52:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
