@@ -23,6 +23,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [omarkamali/residuals](https://github.com/omarkamali/residuals)
   > A lightweight Python package implementing instruction residuals (task vectors) for efficient LLM con...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [genlm/genlm-backend](https://github.com/genlm/genlm-backend)
+  > High-performance backend for language model probabilistic programs
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ssveitch/draft-kemeleon](https://github.com/ssveitch/draft-kemeleon)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
@@ -31,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SilentisVox/DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls)
   > Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
+  > 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bas...
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase)
@@ -50,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-02 17:49:50 UTC*
+*Last updated at 2026-05-02 19:06:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
