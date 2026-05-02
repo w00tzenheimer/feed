@@ -34,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SilentisVox/DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls)
   > Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Colton1skees/TritonTranslator](https://github.com/Colton1skees/TritonTranslator) to [mrexodia/TritonTranslator](https://github.com/mrexodia/TritonTranslator)
+  > Standalone static version of Triton's x86/x64 translator
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Colton1skees/LLVMSharp](https://github.com/Colton1skees/LLVMSharp) to [mrexodia/LLVMSharp](https://github.com/mrexodia/LLVMSharp)
+  > LLVM bindings for .NET Standard written in C# using ClangSharp
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
@@ -57,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-02 19:06:57 UTC*
+*Last updated at 2026-05-02 20:49:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
