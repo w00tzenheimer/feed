@@ -24,13 +24,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase)
   > The complete codebase for Frame
 
+### [tkmru](https://github.com/tkmru)
+- 🌟 👤 [tkmru](https://github.com/tkmru) Starred [afine-com/glassworm-hunter](https://github.com/afine-com/glassworm-hunter)
+  > Scan VS Code extensions, npm/PyPI packages, and local git repositories for GlassWorm supply chain at...
+
 
 <!-- nav -->
 [← 2026-05-01](archive/2026/05/01.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-02 11:49:41 UTC*
+*Last updated at 2026-05-02 13:21:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
