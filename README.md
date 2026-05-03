@@ -29,6 +29,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Gene...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog) to [IuvenisSapiens/carbon-typst-blog](https://github.com/IuvenisSapiens/carbon-typst-blog)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR)
+  > C++ ggml runtime hub for multilingual ASR models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal)
   > A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when y...
@@ -45,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-03 11:48:33 UTC*
+*Last updated at 2026-05-03 13:20:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
