@@ -37,6 +37,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeaOfNodes/Simple-Cpp](https://github.com/SeaOfNodes/Simple-Cpp)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard)
   > Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+  > Spec-driven development (SDD) for AI coding assistants.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)
+  > The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/libghidra](https://github.com/0xeb/libghidra)
+  > SDK for automating Ghidra from Python, Rust, and C++. Decompile, rename, annotate, inspect symbols/t...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal)
@@ -55,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-03 20:51:22 UTC*
+*Last updated at 2026-05-03 21:49:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
