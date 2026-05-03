@@ -35,6 +35,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CrispStrobe/CrispEmbed](https://github.com/CrispStrobe/CrispEmbed)
   > Lightweight text embedding inference via ggml in pure C++: XLM-R/Qwen3/Gemma/MPNet/etc
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeaOfNodes/Simple-Cpp](https://github.com/SeaOfNodes/Simple-Cpp)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard)
+  > Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integ...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal)
@@ -53,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-03 19:06:09 UTC*
+*Last updated at 2026-05-03 20:51:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
