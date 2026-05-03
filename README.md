@@ -1,75 +1,49 @@
-# Daily GitHub Activity (2026-05-02)
+# Daily GitHub Activity (2026-05-03)
 
 <!-- nav -->
-[← 2026-05-01](archive/2026/05/01.md)
+[← 2026-05-02](archive/2026/05/02.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [dotnet/maui-labs](https://github.com/dotnet/maui-labs)
-  > Experimental and pre-release tools for .NET MAUI
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [dorianborian/sesame-companion-app](https://github.com/dorianborian/sesame-companion-app)
+  > AI implementation and Desktop Control via local network API for the Sesame Robot Project
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [DmitriySalnikov/godot_debug_draw_3d](https://github.com/DmitriySalnikov/godot_debug_draw_3d)
+  > Draw 3D debug graphics and 2D overlays with this add-on.
+- 🍴 👤 [EloiStree](https://github.com/EloiStree) Forked [dorianborian/sesame-robot-micro](https://github.com/dorianborian/sesame-robot-micro) to [EloiStree/2026_05_03_gdp_fork_sesame_robot_micro](https://github.com/EloiStree/2026_05_03_gdp_fork_sesame_robot_micro)
+  > Micro version of the Sesame Robot Project! Intended as an experiment and demonstration.
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Yousa-Mirage/Tufted-Blog-Template](https://github.com/Yousa-Mirage/Tufted-Blog-Template)
-  > Tufte 风格博客网站模板，基于 Typst。A beautiful blog template using the Tufte style, powered by Typst.
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Yousa-Mirage/Tufted-Blog-Template](https://github.com/Yousa-Mirage/Tufted-Blog-Template) to [IuvenisSapiens/Tufted-Blog-Template](https://github.com/IuvenisSapiens/Tufted-Blog-Template)
-  > Tufte 风格博客网站模板，基于 Typst。A beautiful blog template using the Tufte style, powered by Typst.
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Myriad-Dreamin/tylant](https://github.com/Myriad-Dreamin/tylant)
-  > The static-site blog template using astro and typst
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Myriad-Dreamin/tylant](https://github.com/Myriad-Dreamin/tylant) to [IuvenisSapiens/tylant](https://github.com/IuvenisSapiens/tylant)
-  > The static-site blog template using astro and typst
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [jules-leguy/midcenturymodern](https://github.com/jules-leguy/midcenturymodern) to [IuvenisSapiens/midcenturymodern](https://github.com/IuvenisSapiens/midcenturymodern)
+  > A modern beamer template drawing inspiration from mid-century modern aesthetics
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt)
+  > Everything 拼音搜索, ローマ字検索, wildcard, quick select, Shell extension
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) to [IuvenisSapiens/IbEverythingExt](https://github.com/IuvenisSapiens/IbEverythingExt)
+  > Everything 拼音搜索, ローマ字検索, wildcard, quick select, Shell extension
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)
+  > GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Gene...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) to [IuvenisSapiens/actions-gh-pages](https://github.com/IuvenisSapiens/actions-gh-pages)
+  > GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Gene...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog) to [IuvenisSapiens/carbon-typst-blog](https://github.com/IuvenisSapiens/carbon-typst-blog)
 
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [staarblitz/hxposed](https://github.com/staarblitz/hxposed)
-  > Expose your kernel like you mean it
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [omarkamali/residuals](https://github.com/omarkamali/residuals)
-  > A lightweight Python package implementing instruction residuals (task vectors) for efficient LLM con...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [genlm/genlm-backend](https://github.com/genlm/genlm-backend)
-  > High-performance backend for language model probabilistic programs
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ssveitch/draft-kemeleon](https://github.com/ssveitch/draft-kemeleon)
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
-  > Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agn...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix)
-  > This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SilentisVox/DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls)
-  > Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Colton1skees/TritonTranslator](https://github.com/Colton1skees/TritonTranslator) to [mrexodia/TritonTranslator](https://github.com/mrexodia/TritonTranslator)
-  > Standalone static version of Triton's x86/x64 translator
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Colton1skees/LLVMSharp](https://github.com/Colton1skees/LLVMSharp) to [mrexodia/LLVMSharp](https://github.com/mrexodia/LLVMSharp)
-  > LLVM bindings for .NET Standard written in C# using ClangSharp
-
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
-  > 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bas...
-
-### [pwnall](https://github.com/pwnall)
-- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase)
-  > The complete codebase for Frame
-
-### [tkmru](https://github.com/tkmru)
-- 🌟 👤 [tkmru](https://github.com/tkmru) Starred [afine-com/glassworm-hunter](https://github.com/afine-com/glassworm-hunter)
-  > Scan VS Code extensions, npm/PyPI packages, and local git repositories for GlassWorm supply chain at...
-
-### [woldann](https://github.com/woldann)
-- 🌟 👤 [woldann](https://github.com/woldann) Starred [torvalds/linux](https://github.com/torvalds/linux)
-  > Linux kernel source tree
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal)
+  > A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when y...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [kitlangton/Hex](https://github.com/kitlangton/Hex)
+  > VOICE → WORDS
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes)
+  > This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicon...
 
 
 <!-- nav -->
-[← 2026-05-01](archive/2026/05/01.md)
+[← 2026-05-02](archive/2026/05/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-02 23:51:08 UTC*
+*Last updated at 2026-05-03 03:40:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
