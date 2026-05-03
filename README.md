@@ -27,6 +27,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Gene...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) to [IuvenisSapiens/actions-gh-pages](https://github.com/IuvenisSapiens/actions-gh-pages)
   > GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Gene...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog) to [IuvenisSapiens/carbon-typst-blog](https://github.com/IuvenisSapiens/carbon-typst-blog)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal)
@@ -44,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-03 06:29:47 UTC*
+*Last updated at 2026-05-03 08:49:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
