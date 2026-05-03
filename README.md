@@ -45,6 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicon...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ReKindleOS/ReKindle](https://github.com/ReKindleOS/ReKindle)
   > Your Kindle Upgraded
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Effectful-Tech/clanka](https://github.com/Effectful-Tech/clanka)
 
 
 <!-- nav -->
@@ -52,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-03 15:52:30 UTC*
+*Last updated at 2026-05-03 16:56:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
