@@ -54,6 +54,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ReKindleOS/ReKindle](https://github.com/ReKindleOS/ReKindle)
   > Your Kindle Upgraded
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Effectful-Tech/clanka](https://github.com/Effectful-Tech/clanka)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [destefanis/twitter-bookmarks-grid](https://github.com/destefanis/twitter-bookmarks-grid)
+  > An infinite, pannable masonry grid for browsing your Twitter/X bookmarks visually
 
 
 <!-- nav -->
@@ -61,7 +63,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-03 21:49:56 UTC*
+*Last updated at 2026-05-03 22:50:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
