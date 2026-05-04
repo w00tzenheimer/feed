@@ -17,6 +17,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > VSCode theme based off the easemate IDE and Jetbrains islands theme
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [garrytan/gstack](https://github.com/garrytan/gstack)
   > Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [joshpuckett/dialkit](https://github.com/joshpuckett/dialkit)
+  > A library to help you dial in interface parameters of any kind
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [tolibear/goal-maker](https://github.com/tolibear/goal-maker)
+  > A Codex skill for running large goals as a finite-state PM loop
 
 
 <!-- nav -->
@@ -24,7 +28,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-04 06:43:12 UTC*
+*Last updated at 2026-05-04 09:24:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
