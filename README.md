@@ -15,6 +15,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)
   > VSCode theme based off the easemate IDE and Jetbrains islands theme
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+  > Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
 
 
 <!-- nav -->
@@ -22,7 +24,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-04 03:38:57 UTC*
+*Last updated at 2026-05-04 06:43:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
