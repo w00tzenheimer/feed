@@ -21,6 +21,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > bunny.net CLI
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) to [dip-proto/Rapid-MLX](https://github.com/dip-proto/Rapid-MLX)
   > The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [kawakatz/scripts-for-okta-verify](https://github.com/kawakatz/scripts-for-okta-verify)
+  > Scripts for Okta Verify
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TheMrMilchmann/setup-msvc-dev](https://github.com/TheMrMilchmann/setup-msvc-dev)
@@ -37,6 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Persistent autonomous goals for pi
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bint-disasm/binbit](https://github.com/bint-disasm/binbit)
   > bintbit is a bitvector theory SMT solver and CDCL SAT solver
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
+  > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)
@@ -58,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-04 20:19:15 UTC*
+*Last updated at 2026-05-04 22:05:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
