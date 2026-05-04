@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) to [dip-proto/Rapid-MLX](https://github.com/dip-proto/Rapid-MLX)
   > The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TheMrMilchmann/setup-msvc-dev](https://github.com/TheMrMilchmann/setup-msvc-dev)
+  > Github Action to set up a Developer Command Prompt for Microsoft Visual C++
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bint-disasm/bint-disasm.github.io](https://github.com/bint-disasm/bint-disasm.github.io)
   > web frontend for the bin't binary analysis tool 
@@ -38,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [joshpuckett/dialkit](https://github.com/joshpuckett/dialkit)
   > A library to help you dial in interface parameters of any kind
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [tolibear/goal-maker](https://github.com/tolibear/goal-maker)
-  > A Codex skill for running large goals as a finite-state PM loop
+  > Supercharge Codex Goals
 
 
 <!-- nav -->
@@ -46,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-04 14:12:06 UTC*
+*Last updated at 2026-05-04 16:50:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
