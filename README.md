@@ -25,6 +25,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TheMrMilchmann/setup-msvc-dev](https://github.com/TheMrMilchmann/setup-msvc-dev)
   > Github Action to set up a Developer Command Prompt for Microsoft Visual C++
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [frida/frida-python](https://github.com/frida/frida-python) to [jevinskie/frida-python](https://github.com/jevinskie/frida-python)
+  > Frida Python bindings
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bint-disasm/bint-disasm.github.io](https://github.com/bint-disasm/bint-disasm.github.io)
@@ -43,6 +45,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A library to help you dial in interface parameters of any kind
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [tolibear/goal-maker](https://github.com/tolibear/goal-maker)
   > Supercharge Codex Goals
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [1weiho/open-slide](https://github.com/1weiho/open-slide)
+  > A slide framework built for agents.
 
 
 <!-- nav -->
@@ -50,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-04 16:50:13 UTC*
+*Last updated at 2026-05-04 18:18:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
