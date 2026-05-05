@@ -11,9 +11,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tiger2005/tiger2005-blog](https://github.com/tiger2005/tiger2005-blog) to [IuvenisSapiens/tiger2005-blog](https://github.com/IuvenisSapiens/tiger2005-blog)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog) to [IuvenisSapiens/daily-log](https://github.com/IuvenisSapiens/daily-log)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim)
+  > Programmatic animation engine for creating precise and smooth animations with real-time feedback
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [bint-disasm/binbit](https://github.com/bint-disasm/binbit)
+  > bintbit is a bitvector theory SMT solver and CDCL SAT solver
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [bint-disasm/binbit](https://github.com/bint-disasm/binbit)
   > bintbit is a bitvector theory SMT solver and CDCL SAT solver
 
 ### [jedisct1](https://github.com/jedisct1)
@@ -41,6 +47,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > bintbit is a bitvector theory SMT solver and CDCL SAT solver
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
   > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
+  > Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/cobra](https://github.com/binsnake/cobra)
+  > rust port of TrailOfBits Cobra project
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shnarazk/splr](https://github.com/shnarazk/splr)
+  > A modern (trail saving, clause subsumption/vivification, learning-rate based selecting, rephrase) CD...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jix/varisat](https://github.com/jix/varisat)
+  > SAT solver written in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chrjabs/rustsat](https://github.com/chrjabs/rustsat)
+  > This library aims to provide implementations of elements commonly used in the development on softwar...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)
@@ -62,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-04 22:05:30 UTC*
+*Last updated at 2026-05-04 23:57:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
