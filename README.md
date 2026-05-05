@@ -15,6 +15,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [thu-ml/Causal-Forcing](https://github.com/thu-ml/Causal-Forcing)
   > [ICML 2026] Official codebase for "Causal Forcing: Autoregressive Diffusion Distillation Done Right ...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [eugenehp/llama-cpp-rs](https://github.com/eugenehp/llama-cpp-rs)
+  > A wrapper around the llama-cpp library for rust, including new Sampler API from llama-cpp.
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [LLVMParty/smt-server](https://github.com/LLVMParty/smt-server)
@@ -32,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-05 09:09:38 UTC*
+*Last updated at 2026-05-05 11:18:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
