@@ -44,6 +44,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ProducerGuy/ThermalForge](https://github.com/ProducerGuy/ThermalForge)
   > Free, open-source fan control for Apple Silicon Macs (M1, M2, M3, M4, M5). Menu bar app + CLI. Alter...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
+  > A fully syscalled C/C++ userland anti-debugging library and CLI for Windows, designed to protect sof...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)
   > Local-first desktop markdown editor
@@ -54,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-05 16:27:04 UTC*
+*Last updated at 2026-05-05 18:13:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
