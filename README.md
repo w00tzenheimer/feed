@@ -34,12 +34,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
 
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [datalab-to/marker](https://github.com/datalab-to/marker)
-  > Convert PDF to markdown + JSON quickly with high accuracy
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
-  > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic...
-
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ProducerGuy/ThermalForge](https://github.com/ProducerGuy/ThermalForge)
   > Free, open-source fan control for Apple Silicon Macs (M1, M2, M3, M4, M5). Menu bar app + CLI. Alter...
@@ -47,10 +41,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
   > A fully syscalled C/C++ userland anti-debugging library and CLI for Windows, designed to protect sof...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+  > DSPy: The framework for programming—not prompting—language models
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)
   > Local-first desktop markdown editor
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mmkal/sqlfu](https://github.com/mmkal/sqlfu)
 
 
 <!-- nav -->
@@ -58,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-05 20:10:40 UTC*
+*Last updated at 2026-05-05 22:03:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
