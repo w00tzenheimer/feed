@@ -43,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A library of HTML slide templates designed so any coding agent can pick the right one and produce a ...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
   > 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+  > Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [unjs/jiti](https://github.com/unjs/jiti)
+  > Runtime TypeScript and ESM support for Node.js
 
 
 <!-- nav -->
@@ -50,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-06 18:20:27 UTC*
+*Last updated at 2026-05-06 20:26:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
