@@ -16,13 +16,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [RustCrypto/utils](https://github.com/RustCrypto/utils)
   > Utility crates used in RustCrypto
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)
+  > Codex++ tweak system for the Codex desktop app
+
 
 <!-- nav -->
 [← 2026-05-05](archive/2026/05/05.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-06 06:33:23 UTC*
+*Last updated at 2026-05-06 09:26:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
