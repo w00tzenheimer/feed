@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [LLVMParty/smt-server](https://github.com/LLVMParty/smt-server)
   > A small SMT solving server and wire-format toolkit for bit-vector and Boolean formulas.
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [ant4g0nist/pyre](https://github.com/ant4g0nist/pyre)
+  > Ghidra decompiler in your browser
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [openai/codex](https://github.com/openai/codex)
@@ -48,6 +50,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)
   > Local-first desktop markdown editor
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mmkal/sqlfu](https://github.com/mmkal/sqlfu)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [handlewithcarecollective/react-prosemirror](https://github.com/handlewithcarecollective/react-prosemirror)
+  > A library for safely integrating ProseMirror and React.
 
 
 <!-- nav -->
@@ -55,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-05 22:03:44 UTC*
+*Last updated at 2026-05-05 23:52:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
