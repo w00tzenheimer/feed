@@ -31,6 +31,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fredzo/gpsdo-fw](https://github.com/fredzo/gpsdo-fw)
   > Alternative firmware for a common GPSDO
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jfbastien/VLMaxxing](https://github.com/jfbastien/VLMaxxing)
+  > Training-free anti-recomputation for video vision-language models.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
@@ -54,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-06 20:26:28 UTC*
+*Last updated at 2026-05-06 22:00:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
