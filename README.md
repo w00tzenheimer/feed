@@ -22,8 +22,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [iamtwz/yubikey-handbook-chinese](https://github.com/iamtwz/yubikey-handbook-chinese) to [CrackerCat/yubikey-handbook-chinese](https://github.com/CrackerCat/yubikey-handbook-chinese)
   > Yubikey 的使用、实验指南
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
+  > A Unified Virtual Filesystem For AI Agents
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [jamie-at-bunny/bunny-upload](https://github.com/jamie-at-bunny/bunny-upload)
+
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+  > The agent engineering platform. Available in TypeScript!
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ant4g0nist/nori](https://github.com/ant4g0nist/nori)
+  > PDF/Image to Markdown converter using Claude Code leveraging vision
 
 
 <!-- nav -->
@@ -31,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-07 09:37:07 UTC*
+*Last updated at 2026-05-07 11:51:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
