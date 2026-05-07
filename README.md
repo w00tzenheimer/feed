@@ -49,6 +49,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [unjs/jiti](https://github.com/unjs/jiti)
   > Runtime TypeScript and ESM support for Node.js
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [RhysSullivan/executor](https://github.com/RhysSullivan/executor)
+  > The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js f...
 
 
 <!-- nav -->
@@ -56,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-06 22:00:25 UTC*
+*Last updated at 2026-05-06 23:54:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
