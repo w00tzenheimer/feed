@@ -37,6 +37,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [can1357/fxe](https://github.com/can1357/fxe)
   > Immediate-mode app platform — an Electron alternative with real GPU graphics. C++ 2D/3D renderer wit...
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [stolinski/hot-date](https://github.com/stolinski/hot-date)
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [petergpt/Live-YT-Translator](https://github.com/petergpt/Live-YT-Translator)
   > A Chrome extension for live YouTube translation with OpenAI Realtime.
@@ -44,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib)
   > Create and modify PDF documents in any JavaScript environment
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stp/stp](https://github.com/stp/stp)
+  > Simple Theorem Prover, an efficient SMT solver for bitvectors
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fiberplane/otter](https://github.com/fiberplane/otter)
@@ -58,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-08 16:17:43 UTC*
+*Last updated at 2026-05-08 18:12:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
