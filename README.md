@@ -23,9 +23,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Inkscape MCP Server - Control Inkscape through AI assistants via Model Context Protocol
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) to [CrackerCat/dirtyfrag](https://github.com/CrackerCat/dirtyfrag)
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o)
+  > 🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speak...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o) to [IuvenisSapiens/minimind-o](https://github.com/IuvenisSapiens/minimind-o)
+  > 🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speak...
+
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [huggingface/ml-intern](https://github.com/huggingface/ml-intern) to [NielsRogge/ml-intern](https://github.com/NielsRogge/ml-intern)
+  > 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [can1357/fxe](https://github.com/can1357/fxe)
   > Immediate-mode app platform — an Electron alternative with real GPU graphics. C++ 2D/3D renderer wit...
+
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [petergpt/Live-YT-Translator](https://github.com/petergpt/Live-YT-Translator)
+  > A Chrome extension for live YouTube translation with OpenAI Realtime.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fiberplane/otter](https://github.com/fiberplane/otter)
@@ -40,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-08 08:22:27 UTC*
+*Last updated at 2026-05-08 10:26:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
