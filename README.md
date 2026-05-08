@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
+  > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [vaivaswatha/pliron](https://github.com/vaivaswatha/pliron)
+  > An Extensible Compiler IR Framework
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VinsmokeSomya/Classic-Bounce](https://github.com/VinsmokeSomya/Classic-Bounce) to [CrackerCat/Classic-Bounce](https://github.com/CrackerCat/Classic-Bounce)
   > 🔴Bounce is a clone of Nokia original bounce game made with python and Pygame.
@@ -24,13 +30,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fiberplane/otter](https://github.com/fiberplane/otter)
 
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [rust-lang/miri](https://github.com/rust-lang/miri)
+  > An interpreter for Rust's mid-level intermediate representation
+
 
 <!-- nav -->
 [← 2026-05-07](archive/2026/05/07.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-08 06:00:31 UTC*
+*Last updated at 2026-05-08 08:22:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
