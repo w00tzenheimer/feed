@@ -51,9 +51,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stp/stp](https://github.com/stp/stp)
   > Simple Theorem Prover, an efficient SMT solver for bitvectors
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xlatbx59/Bshld](https://github.com/xlatbx59/Bshld)
+  > Devirtualizer for binaryshield
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fiberplane/otter](https://github.com/fiberplane/otter)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)
+  > Your agent writes bad React. This catches it
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [rust-lang/miri](https://github.com/rust-lang/miri)
@@ -65,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-08 18:12:06 UTC*
+*Last updated at 2026-05-08 20:07:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
