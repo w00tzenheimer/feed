@@ -41,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [petergpt/Live-YT-Translator](https://github.com/petergpt/Live-YT-Translator)
   > A Chrome extension for live YouTube translation with OpenAI Realtime.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib)
+  > Create and modify PDF documents in any JavaScript environment
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fiberplane/otter](https://github.com/fiberplane/otter)
 
@@ -54,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-08 12:10:10 UTC*
+*Last updated at 2026-05-08 14:54:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
