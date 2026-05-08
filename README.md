@@ -58,6 +58,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fiberplane/otter](https://github.com/fiberplane/otter)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)
   > Your agent writes bad React. This catches it
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [microsoft/waza](https://github.com/microsoft/waza)
+  > CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [rust-lang/miri](https://github.com/rust-lang/miri)
@@ -69,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-08 20:07:54 UTC*
+*Last updated at 2026-05-08 22:01:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
