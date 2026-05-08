@@ -17,13 +17,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Inkscape MCP Server - Control Inkscape through AI assistants via Model Context Protocol
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) to [CrackerCat/dirtyfrag](https://github.com/CrackerCat/dirtyfrag)
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [can1357/fxe](https://github.com/can1357/fxe)
+  > Immediate-mode app platform — an Electron alternative with real GPU graphics. C++ 2D/3D renderer wit...
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [fiberplane/otter](https://github.com/fiberplane/otter)
+
 
 <!-- nav -->
 [← 2026-05-07](archive/2026/05/07.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-08 03:43:58 UTC*
+*Last updated at 2026-05-08 06:00:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
