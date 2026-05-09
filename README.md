@@ -24,6 +24,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse) to [CrackerCat/awesome-ai-reverse](https://github.com/CrackerCat/awesome-ai-reverse)
   > ai reverse 一把梭
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [gamous/HyperChecker](https://github.com/gamous/HyperChecker) to [CrackerCat/HyperChecker](https://github.com/CrackerCat/HyperChecker)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Sally-0000/ELF-tracker](https://github.com/Sally-0000/ELF-tracker) to [CrackerCat/ELF-tracker](https://github.com/CrackerCat/ELF-tracker)
+  > 一款基于 DBI 的轻量化动态学习型运行时控制流保护工具
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Mrakorez/py2droid](https://github.com/Mrakorez/py2droid) to [CrackerCat/py2droid](https://github.com/CrackerCat/py2droid)
+  > Magisk/KernelSU/APatch module to install Python 3 on Android.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [chinleez/uap-disclosure-2026](https://github.com/chinleez/uap-disclosure-2026) to [CrackerCat/uap-disclosure-2026](https://github.com/CrackerCat/uap-disclosure-2026)
+  > 2026 年 5 月美国 UAP/UFO 解密资料中文索引 · Bilingual index of the May 2026 U.S. UAP/UFO declassified release — ...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [sunnyxrxrx/X-Voice](https://github.com/sunnyxrxrx/X-Voice)
@@ -40,6 +46,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [kunchenguid/autopreso](https://github.com/kunchenguid/autopreso)
   > Realtime speech to presentation. Let the whiteboard whiteboard itself.
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+  > 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HailToDodongo/rspl](https://github.com/HailToDodongo/rspl)
@@ -60,7 +68,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-09 08:43:27 UTC*
+*Last updated at 2026-05-09 10:09:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
