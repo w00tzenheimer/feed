@@ -61,6 +61,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HailToDodongo/rspl](https://github.com/HailToDodongo/rspl)
   > RSPL - High-Level Language for the N64's RSP
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HailToDodongo/snapper64](https://github.com/HailToDodongo/snapper64)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Gabriella439/grace](https://github.com/Gabriella439/grace)
+  > A prompt engineering functional programming language
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)
@@ -76,7 +78,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-09 15:57:50 UTC*
+*Last updated at 2026-05-09 17:04:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
