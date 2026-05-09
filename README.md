@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [wrenger/bitfield-struct-rs](https://github.com/wrenger/bitfield-struct-rs)
+  > Procedural macro for bitfields.
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [hecatia-elegua/bilge](https://github.com/hecatia-elegua/bilge)
+  > Use bitsized types as if they were a feature of rust.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [chinleez/eBPFDexDumper-rs](https://github.com/chinleez/eBPFDexDumper-rs) to [CrackerCat/eBPFDexDumper-rs](https://github.com/CrackerCat/eBPFDexDumper-rs)
   > 面向 Android ARM64 的 eBPF DEX dump 工具。
@@ -24,6 +30,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > X-Voice
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [sunnyxrxrx/X-Voice](https://github.com/sunnyxrxrx/X-Voice) to [IuvenisSapiens/X-Voice](https://github.com/IuvenisSapiens/X-Voice)
   > X-Voice
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [utilityai/llama-cpp-rs](https://github.com/utilityai/llama-cpp-rs)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode)
+  > VS Code extension for LLM-assisted code/text completion
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [GALIAIS/k_i_r_o-register](https://github.com/GALIAIS/k_i_r_o-register)
@@ -51,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-09 06:20:00 UTC*
+*Last updated at 2026-05-09 08:43:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
