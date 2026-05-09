@@ -66,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)
-  > Build native desktop + mobile apps with web UI and Zig
+  > Build desktop + mobile apps with Zig and web UI
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
   > Tool to build & run portable, lightweight, self-contained virtual machines.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [lukeed/comptime](https://github.com/lukeed/comptime)
@@ -78,7 +78,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-09 17:04:44 UTC*
+*Last updated at 2026-05-09 19:08:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
