@@ -25,6 +25,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [sunnyxrxrx/X-Voice](https://github.com/sunnyxrxrx/X-Voice) to [IuvenisSapiens/X-Voice](https://github.com/IuvenisSapiens/X-Voice)
   > X-Voice
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [GALIAIS/k_i_r_o-register](https://github.com/GALIAIS/k_i_r_o-register)
+
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [kunchenguid/autopreso](https://github.com/kunchenguid/autopreso)
+  > Realtime speech to presentation. Let the whiteboard whiteboard itself.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HailToDodongo/rspl](https://github.com/HailToDodongo/rspl)
   > RSPL - High-Level Language for the N64's RSP
@@ -35,6 +42,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Build native desktop + mobile apps with web UI and Zig
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
   > Tool to build & run portable, lightweight, self-contained virtual machines.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [lukeed/comptime](https://github.com/lukeed/comptime)
+  > A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins
 
 
 <!-- nav -->
@@ -42,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-09 03:48:39 UTC*
+*Last updated at 2026-05-09 06:20:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
