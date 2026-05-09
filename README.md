@@ -43,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [GALIAIS/k_i_r_o-register](https://github.com/GALIAIS/k_i_r_o-register)
 
+### [dumbasPL](https://github.com/dumbasPL)
+- 🌟 👤 [dumbasPL](https://github.com/dumbasPL) Starred [Noltari/pico-uart-bridge](https://github.com/Noltari/pico-uart-bridge)
+  > Raspberry Pi Pico UART-USB bridge
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [kunchenguid/autopreso](https://github.com/kunchenguid/autopreso)
   > Realtime speech to presentation. Let the whiteboard whiteboard itself.
@@ -72,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-09 13:25:48 UTC*
+*Last updated at 2026-05-09 14:55:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
