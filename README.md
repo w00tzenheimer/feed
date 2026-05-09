@@ -48,6 +48,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Realtime speech to presentation. Let the whiteboard whiteboard itself.
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
   > 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [GENEXIS-AI/chromex](https://github.com/GENEXIS-AI/chromex)
+  > A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HailToDodongo/rspl](https://github.com/HailToDodongo/rspl)
@@ -68,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-09 10:09:16 UTC*
+*Last updated at 2026-05-09 11:53:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
