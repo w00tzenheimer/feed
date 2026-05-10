@@ -11,6 +11,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/YukiSU](https://github.com/Anatdx/YukiSU) to [CrackerCat/YukiSU](https://github.com/CrackerCat/YukiSU)
+  > Kernel-based Android Root Solution
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mandiant/capa](https://github.com/mandiant/capa)
+  > The FLARE team's open-source tool to identify capabilities in executable files.
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
   > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
@@ -31,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-10 06:36:21 UTC*
+*Last updated at 2026-05-10 08:57:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
