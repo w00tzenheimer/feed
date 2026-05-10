@@ -46,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [ScalingIntelligence/KernelBench](https://github.com/ScalingIntelligence/KernelBench)
   > KernelBench: Can LLMs Write GPU Kernels? - Benchmark + Toolkit with Torch -> CUDA (+ more DSLs)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)
+  > Build desktop + mobile apps with Zig and web UI
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Team-Resurgent/RXGL](https://github.com/Team-Resurgent/RXGL)
   > RXGL - OpenGL 1.x Shim for Original Xbox (NV2A / D3D8)
@@ -105,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-10 17:54:00 UTC*
+*Last updated at 2026-05-10 19:11:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
