@@ -63,6 +63,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [qualcomm/abl2esp](https://github.com/qualcomm/abl2esp)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer)
   > Deferred execution of Zsh commands
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Project-Silicium/Device-Binaries](https://github.com/Project-Silicium/Device-Binaries)
+  > EFI Binaries from Devices with UEFI for Custom UEFI Port
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser)
+  > An experimental Gecko-based web browser for iOS 14+.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [frcoal-repo/notification-logger-tweak](https://github.com/frcoal-repo/notification-logger-tweak)
+  > Notification Logger Tweak 
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
@@ -86,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-10 13:39:33 UTC*
+*Last updated at 2026-05-10 14:57:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
