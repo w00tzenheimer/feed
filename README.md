@@ -11,6 +11,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
+  > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fiberplane/drift](https://github.com/fiberplane/drift)
   > Bind specs to code and check for drift.
@@ -27,7 +31,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-10 03:42:55 UTC*
+*Last updated at 2026-05-10 06:36:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
