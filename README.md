@@ -14,6 +14,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler)
   > Scrobble music all around the web!
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [phw/foo_listenbrainz2](https://github.com/phw/foo_listenbrainz2)
+  > A foobar2000 component to submit the music you listened to to ListenBrainz. 
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler)
+  > Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other c...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/YukiSU](https://github.com/Anatdx/YukiSU) to [CrackerCat/YukiSU](https://github.com/CrackerCat/YukiSU)
@@ -37,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
   > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
+
+### [geohot](https://github.com/geohot)
+- 🌟 👤 [geohot](https://github.com/geohot) Starred [ScalingIntelligence/KernelBench](https://github.com/ScalingIntelligence/KernelBench)
+  > KernelBench: Can LLMs Write GPU Kernels? - Benchmark + Toolkit with Torch -> CUDA (+ more DSLs)
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Team-Resurgent/RXGL](https://github.com/Team-Resurgent/RXGL)
@@ -70,6 +78,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [frcoal-repo/notification-logger-tweak](https://github.com/frcoal-repo/notification-logger-tweak)
   > Notification Logger Tweak 
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sei-eschwartz/pharos-data](https://github.com/sei-eschwartz/pharos-data)
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [zsh-users/zsh](https://github.com/zsh-users/zsh) to [jevinskie/zsh](https://github.com/jevinskie/zsh)
+  > Mirror of the Z shell source code repository.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
@@ -95,7 +105,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-10 16:00:42 UTC*
+*Last updated at 2026-05-10 17:54:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
