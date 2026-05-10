@@ -69,6 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An experimental Gecko-based web browser for iOS 14+.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [frcoal-repo/notification-logger-tweak](https://github.com/frcoal-repo/notification-logger-tweak)
   > Notification Logger Tweak 
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sei-eschwartz/pharos-data](https://github.com/sei-eschwartz/pharos-data)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
@@ -79,6 +80,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fiberplane/drift](https://github.com/fiberplane/drift)
   > Bind specs to code and check for drift.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mohsen1/tsz](https://github.com/mohsen1/tsz)
+  > A performance-first TypeScript checker
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [eggfly/CardputerZero-NC2000](https://github.com/eggfly/CardputerZero-NC2000)
@@ -92,7 +95,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-10 14:57:18 UTC*
+*Last updated at 2026-05-10 16:00:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
