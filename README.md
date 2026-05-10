@@ -11,6 +11,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler)
+  > Scrobble music all around the web!
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/YukiSU](https://github.com/Anatdx/YukiSU) to [CrackerCat/YukiSU](https://github.com/CrackerCat/YukiSU)
   > Kernel-based Android Root Solution
@@ -37,6 +41,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Team-Resurgent/RXGL](https://github.com/Team-Resurgent/RXGL)
   > RXGL - OpenGL 1.x Shim for Original Xbox (NV2A / D3D8)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Lakr233/unfaird](https://github.com/Lakr233/unfaird)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [PSRewired/Memdusa](https://github.com/PSRewired/Memdusa)
+  > Bare bones Medius server implementation for running the Memdusa exploit
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HarpyWar/nfsuserver](https://github.com/HarpyWar/nfsuserver)
+  > Server emulator for the game Need For Speed: Underground
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [harryhardcastle/ps2disSharp](https://github.com/harryhardcastle/ps2disSharp)
+  > PS2/PCSX2 disassembler and debugger
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [hkmodd/PCSX2-MCP](https://github.com/hkmodd/PCSX2-MCP)
+  > AI-powered PCSX2 debugger bridge via Model Context Protocol (MCP). Set breakpoints, read registers, ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Neol00/linux-sky1](https://github.com/Neol00/linux-sky1)
+  > Linux kernel source tree for the Radxa Orion O6 CIX CD8180 SoC.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [scottcwang/openssh_key_parser](https://github.com/scottcwang/openssh_key_parser)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [LuisaGroup/LuisaCompute-ParallelPrimitive](https://github.com/LuisaGroup/LuisaCompute-ParallelPrimitive)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gio3k/usbselfserial](https://github.com/gio3k/usbselfserial)
+  > Talk to a USB serial device without OS drivers!
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gio3k/ath12k-coredump-dumper](https://github.com/gio3k/ath12k-coredump-dumper)
+  > Basic tool for reading ath12k crashes / coredumps
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gio3k/uefi-qcom-rs](https://github.com/gio3k/uefi-qcom-rs)
+  > Rust bindings for some UEFI protocols used on Snapdragon devices
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [qualcomm/abl2esp](https://github.com/qualcomm/abl2esp)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer)
+  > Deferred execution of Zsh commands
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
@@ -60,7 +86,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-10 11:55:33 UTC*
+*Last updated at 2026-05-10 13:39:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
