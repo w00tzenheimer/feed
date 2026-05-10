@@ -18,6 +18,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A foobar2000 component to submit the music you listened to to ListenBrainz. 
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler)
   > Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other c...
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [kbuffington/foo_enhanced_playcount](https://github.com/kbuffington/foo_enhanced_playcount)
+  > Enhanced playback statistics for foobar2000
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/YukiSU](https://github.com/Anatdx/YukiSU) to [CrackerCat/YukiSU](https://github.com/CrackerCat/YukiSU)
@@ -109,7 +111,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-10 19:11:25 UTC*
+*Last updated at 2026-05-10 20:54:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
