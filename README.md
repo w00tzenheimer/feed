@@ -33,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [browserbase/skills](https://github.com/browserbase/skills)
   > Browserbase's official collection of agent skills to access the web.
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [jamxor/DNSCryptGUI-OSX](https://github.com/jamxor/DNSCryptGUI-OSX)
+  > Simple user interface for the dnscrypt-proxy on macos
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jpcrypt/cwtips](https://github.com/jpcrypt/cwtips)
 
@@ -42,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-11 12:14:32 UTC*
+*Last updated at 2026-05-11 15:57:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
