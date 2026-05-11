@@ -15,6 +15,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The wheel to reinvent the new light.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) to [CrackerCat/DirtySepolicy](https://github.com/CrackerCat/DirtySepolicy)
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR)
+  > C++ ggml runtime hub for multilingual ASR models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [CrispStrobe/CrisperWeaver](https://github.com/CrispStrobe/CrisperWeaver)
+  > On-device speech-to-text Flutter app powered by CrispASR (ggml / Whisper) — offline, multi-platform,...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [CrispStrobe/CrispEmbed](https://github.com/CrispStrobe/CrispEmbed)
+  > Lightweight text embedding inference via ggml in pure C++: XLM-R/Qwen3/Gemma/MPNet/etc
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [CrispStrobe/Susurrus](https://github.com/CrispStrobe/Susurrus)
+  > speech to text gui for different (mostly Whisper, also Voxtral) models and backends, including whisp...
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps)
   > A drop in replacement for slmgr script
@@ -32,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-11 08:26:11 UTC*
+*Last updated at 2026-05-11 12:14:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
