@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps)
   > A drop in replacement for slmgr script
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [browserbase/skills](https://github.com/browserbase/skills)
+  > Browserbase's official collection of agent skills to access the web.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jpcrypt/cwtips](https://github.com/jpcrypt/cwtips)
 
@@ -28,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-11 04:10:05 UTC*
+*Last updated at 2026-05-11 08:26:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
