@@ -11,9 +11,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MhmRdd/Isolation-Policy](https://github.com/MhmRdd/Isolation-Policy) to [CrackerCat/Isolation-Policy](https://github.com/CrackerCat/Isolation-Policy)
   > LSPosed module that denies useAppZygote for selected packages by hooking HostingRecord.usesAppZygote...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ThePedroo/Treat-Wheel-Zygisk](https://github.com/ThePedroo/Treat-Wheel-Zygisk) to [CrackerCat/Treat-Wheel-Zygisk](https://github.com/CrackerCat/Treat-Wheel-Zygisk)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PerformanC/Treat-Wheel-Zygisk](https://github.com/PerformanC/Treat-Wheel-Zygisk) to [CrackerCat/Treat-Wheel-Zygisk](https://github.com/CrackerCat/Treat-Wheel-Zygisk)
   > The wheel to reinvent the new light.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) to [CrackerCat/DirtySepolicy](https://github.com/CrackerCat/DirtySepolicy)
+
+### [ItsEthra](https://github.com/ItsEthra)
+- 🌟 👤 [ItsEthra](https://github.com/ItsEthra) Starred [CyberKomodo/CyberKomodo.DualSense](https://github.com/CyberKomodo/CyberKomodo.DualSense)
+  > DualSense controller integration for Unity with support for USB and Bluetooth.
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR)
@@ -39,6 +43,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jpcrypt/cwtips](https://github.com/jpcrypt/cwtips)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pydrofoil/vcml-pydrofoil](https://github.com/pydrofoil/vcml-pydrofoil)
+  > VCML integration of the Pydrofoil ISA Simulator
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [i1rr/steam-arm64-mac](https://github.com/i1rr/steam-arm64-mac)
+  > Install Steam natively on Apple Silicon Macs without Rosetta 2
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nillerusr/source-engine](https://github.com/nillerusr/source-engine)
+  > Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mvdevs/jk2mv](https://github.com/mvdevs/jk2mv)
+  > JK2MV - improved, modernized JK2 client and server
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [legendary-gl/legendary](https://github.com/legendary-gl/legendary)
+  > Legendary - A free and open-source replacement for the Epic Games Launcher
 
 
 <!-- nav -->
@@ -46,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-11 15:57:20 UTC*
+*Last updated at 2026-05-11 18:00:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
