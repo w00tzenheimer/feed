@@ -28,8 +28,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Presentation Slides for Developers
 
 ### [jedisct1](https://github.com/jedisct1)
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [antirez/ds4](https://github.com/antirez/ds4) to [Swival/ds4](https://github.com/Swival/ds4)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [antirez/ds4](https://github.com/antirez/ds4) to [Swival/ds4-m5](https://github.com/Swival/ds4-m5)
   > DeepSeek 4 Flash local inference engine for Metal and CUDA
+- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/swival-nono-pack](https://github.com/jedisct1/swival-nono-pack) public
+  > Nono pack for Swival.
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Swival/ds4-m5](https://github.com/Swival/ds4-m5)
+  > DeepSeek 4 Flash local inference engine for Metal and CUDA with M5 optimizations.
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bkaradzic/bx](https://github.com/bkaradzic/bx)
@@ -45,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-12 10:36:12 UTC*
+*Last updated at 2026-05-12 13:07:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
