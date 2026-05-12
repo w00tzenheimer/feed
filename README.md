@@ -23,6 +23,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
   > Skills: Binary deobfuscation of O-LLVM-like protected binaries
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+  > Presentation Slides for Developers
+
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [antirez/ds4](https://github.com/antirez/ds4) to [Swival/ds4](https://github.com/Swival/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal and CUDA
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bkaradzic/bx](https://github.com/bkaradzic/bx)
   > Base library used across multiple projects
@@ -37,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-12 07:45:07 UTC*
+*Last updated at 2026-05-12 10:36:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
