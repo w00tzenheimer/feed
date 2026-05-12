@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Native multi-arch disassembler & decompiler — PE/ELF/Mach-O, x86/x64/ARM64, Lua scripting, RTTI reco...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NyaMisty/unluac_miwifi](https://github.com/NyaMisty/unluac_miwifi) to [CrackerCat/unluac_miwifi](https://github.com/CrackerCat/unluac_miwifi)
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+  > Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt...
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus)
   > Adversary tradecraft detection, protection, and hunting 
@@ -34,6 +38,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Nono pack for Swival.
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Swival/ds4-m5](https://github.com/Swival/ds4-m5)
   > DeepSeek 4 Flash local inference engine for Metal and CUDA with M5 optimizations.
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [always-further/nono](https://github.com/always-further/nono) to [Swival/nono](https://github.com/Swival/nono)
+  > Capability-based sandboxes with fine-grained policies The next-generation isolation primitive — brok...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bkaradzic/bx](https://github.com/bkaradzic/bx)
@@ -49,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-12 13:07:48 UTC*
+*Last updated at 2026-05-12 16:22:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
