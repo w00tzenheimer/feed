@@ -27,6 +27,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
   > Skills: Binary deobfuscation of O-LLVM-like protected binaries
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI)
+  > Reduce the space taken up by games and programs on disk by using native Windows APIs
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [google/boringssl](https://github.com/google/boringssl)
+  > Mirror of BoringSSL
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [google/syzkaller](https://github.com/google/syzkaller)
+  > syzkaller is an unsupervised coverage-guided kernel fuzzer
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [xlatbx59/Bshld](https://github.com/xlatbx59/Bshld)
+  > Devirtualizer for binaryshield
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
   > Presentation Slides for Developers
@@ -61,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-12 20:46:33 UTC*
+*Last updated at 2026-05-12 22:15:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
