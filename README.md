@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Native multi-arch disassembler & decompiler — PE/ELF/Mach-O, x86/x64/ARM64, Lua scripting, RTTI reco...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NyaMisty/unluac_miwifi](https://github.com/NyaMisty/unluac_miwifi) to [CrackerCat/unluac_miwifi](https://github.com/CrackerCat/unluac_miwifi)
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus)
+  > Adversary tradecraft detection, protection, and hunting 
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
   > Skills: Binary deobfuscation of O-LLVM-like protected binaries
@@ -23,13 +27,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bkaradzic/bx](https://github.com/bkaradzic/bx)
   > Base library used across multiple projects
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [symgraph/IDAssist](https://github.com/symgraph/IDAssist)
+  > AI-Powered Reverse Engineering Plugin for IDA Pro
+
 
 <!-- nav -->
 [← 2026-05-11](archive/2026/05/11.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-12 04:38:31 UTC*
+*Last updated at 2026-05-12 07:45:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
