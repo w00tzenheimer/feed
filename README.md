@@ -44,10 +44,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bkaradzic/bx](https://github.com/bkaradzic/bx)
   > Base library used across multiple projects
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cispa/trevex](https://github.com/cispa/trevex)
+  > Automated Vulnerability Detection Framework for Transient Execution Vulnerabilities (IEEE S&P '26)
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [symgraph/IDAssist](https://github.com/symgraph/IDAssist)
   > AI-Powered Reverse Engineering Plugin for IDA Pro
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
+  > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
 
 
 <!-- nav -->
@@ -55,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-12 16:22:27 UTC*
+*Last updated at 2026-05-12 18:59:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
