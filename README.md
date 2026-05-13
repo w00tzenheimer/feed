@@ -22,8 +22,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Python Command-Line Ghidra MCP
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [garatc/BitUnlocker](https://github.com/garatc/BitUnlocker) to [CrackerCat/BitUnlocker](https://github.com/CrackerCat/BitUnlocker)
   > Downgrade attack for CVE-2025-48804
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [g00dfe11ow/Shai-Hulud-Open-Source](https://github.com/g00dfe11ow/Shai-Hulud-Open-Source) to [CrackerCat/Shai-Hulud-Open-Source](https://github.com/CrackerCat/Shai-Hulud-Open-Source)
-  > Shai-Hulud: Here We Go Again - Let the Carnage Continue. A Gift From TeamPCP
 
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
@@ -72,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-13 20:51:08 UTC*
+*Last updated at 2026-05-13 22:16:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
