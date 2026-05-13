@@ -54,6 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A guide that explains how high level programming language constructs are mapped to the LLVM intermed...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler)
   > Writing a compiler in a week-end
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FutureComputing4AI/Reverse-Engineering-Function-Search](https://github.com/FutureComputing4AI/Reverse-Engineering-Function-Search)
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -69,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-13 16:22:56 UTC*
+*Last updated at 2026-05-13 18:58:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
