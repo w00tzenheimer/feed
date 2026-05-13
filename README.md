@@ -42,6 +42,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [micw/docker-lxc](https://github.com/micw/docker-lxc)
   > Run stateful lxc containers managed by docker
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [RuriOSS/rurima](https://github.com/RuriOSS/rurima)
+  > Run docker & LXC images without docker or LXC program, without kernel features support, even without...
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [browser-act/skills](https://github.com/browser-act/skills)
@@ -67,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-13 10:33:26 UTC*
+*Last updated at 2026-05-13 13:19:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
