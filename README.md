@@ -33,14 +33,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An agent runner, messaging, and orchestration layer.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [smithersai/claude-p](https://github.com/smithersai/claude-p)
   > Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [debnaro/localmind](https://github.com/debnaro/localmind)
+  > Local-first memory layer for AI agents
 
 ### [saoudrizwan](https://github.com/saoudrizwan)
 - 🌟 👤 [saoudrizwan](https://github.com/saoudrizwan) Starred [cline/sdk-skill](https://github.com/cline/sdk-skill)
   > @cline/sdk skill
+- 🍴 👤 [saoudrizwan](https://github.com/saoudrizwan) Forked [dominiccooney/kamibiki](https://github.com/dominiccooney/kamibiki) to [saoudrizwan/kamibiki](https://github.com/saoudrizwan/kamibiki)
+  > Semantic repository search tool and MCP server.
 
 ### [tomdee](https://github.com/tomdee)
 - 🍴 👤 [tomdee](https://github.com/tomdee) Forked [BerriAI/litellm](https://github.com/BerriAI/litellm) to [tomdee/litellm](https://github.com/tomdee/litellm)
   > Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost ...
+
+### [vitosans](https://github.com/vitosans)
+- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [DioCrafts/OpenFoundry](https://github.com/DioCrafts/OpenFoundry)
+  > 🏭 The open-source Palantir Foundry alternative. Connect any data source, build ontologies, create pi...
 
 
 <!-- nav -->
@@ -48,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-14 18:00:46 UTC*
+*Last updated at 2026-05-14 20:38:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
