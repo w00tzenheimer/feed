@@ -26,13 +26,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [saoudrizwan](https://github.com/saoudrizwan) Starred [cline/sdk-skill](https://github.com/cline/sdk-skill)
   > @cline/sdk skill
 
+### [tomdee](https://github.com/tomdee)
+- 🍴 👤 [tomdee](https://github.com/tomdee) Forked [BerriAI/litellm](https://github.com/BerriAI/litellm) to [tomdee/litellm](https://github.com/tomdee/litellm)
+  > Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost ...
+
 
 <!-- nav -->
 [← 2026-05-13](archive/2026/05/13.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-14 07:45:37 UTC*
+*Last updated at 2026-05-14 10:23:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
