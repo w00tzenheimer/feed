@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The most powerful Unreal Engine Dumper and Editor for UE 4.19 - 5.3
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [Fischsalat/IDAExecFunctionsImporter](https://github.com/Fischsalat/IDAExecFunctionsImporter)
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mxmlnkn/mfusepy](https://github.com/mxmlnkn/mfusepy)
   > Ctypes bindings for the high-level API in libfuse 2 and 3
@@ -35,6 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [debnaro/localmind](https://github.com/debnaro/localmind)
   > Local-first memory layer for AI agents
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [raindrop-ai/workshop](https://github.com/raindrop-ai/workshop)
+  > Give your coding agent the power to write and run agent evals.
 
 ### [saoudrizwan](https://github.com/saoudrizwan)
 - 🌟 👤 [saoudrizwan](https://github.com/saoudrizwan) Starred [cline/sdk-skill](https://github.com/cline/sdk-skill)
@@ -56,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-14 20:38:05 UTC*
+*Last updated at 2026-05-14 22:14:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
