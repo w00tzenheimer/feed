@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [DataoceanAI/Dolphin](https://github.com/DataoceanAI/Dolphin) to [IuvenisSapiens/Dolphin](https://github.com/IuvenisSapiens/Dolphin)
   > Dolphin is a multilingual, multitask ASR model jointly trained by DataoceanAI and Tsinghua Universit...
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)
+  > Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of appli...
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
   > Algorithm powering the For You feed on X
@@ -46,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-15 17:43:49 UTC*
+*Last updated at 2026-05-15 19:44:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
