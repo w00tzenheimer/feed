@@ -24,9 +24,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [DataoceanAI/Dolphin](https://github.com/DataoceanAI/Dolphin) to [IuvenisSapiens/Dolphin](https://github.com/IuvenisSapiens/Dolphin)
   > Dolphin is a multilingual, multitask ASR model jointly trained by DataoceanAI and Tsinghua Universit...
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+  > Algorithm powering the For You feed on X
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [i12bp8/TagTinker](https://github.com/i12bp8/TagTinker)
   > Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [leahneukirchen/extrace](https://github.com/leahneukirchen/extrace)
+  > trace exec() calls system-wide
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [leahneukirchen/extrace-freebsd](https://github.com/leahneukirchen/extrace-freebsd)
+  > trace exec() calls system-wide, on FreeBSD
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [inducer/pymbolic](https://github.com/inducer/pymbolic)
+  > A simple package to do symbolic math (focus on code gen and DSLs)
 
 
 <!-- nav -->
@@ -34,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-15 12:56:46 UTC*
+*Last updated at 2026-05-15 15:22:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
