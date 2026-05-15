@@ -37,6 +37,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > trace exec() calls system-wide, on FreeBSD
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [inducer/pymbolic](https://github.com/inducer/pymbolic)
   > A simple package to do symbolic math (focus on code gen and DSLs)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [e-jerk/zig-filc](https://github.com/e-jerk/zig-filc)
+  > Production-ready fil-c memory safety integration for Zig with ARM64 MTE support
 
 
 <!-- nav -->
@@ -44,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-15 15:22:02 UTC*
+*Last updated at 2026-05-15 17:43:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
