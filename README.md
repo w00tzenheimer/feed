@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [clap-rs/clap](https://github.com/clap-rs/clap)
   > A full featured, fast Command Line Argument Parser for Rust
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [openai/codex](https://github.com/openai/codex) to [NyaMisty/codex_fork](https://github.com/NyaMisty/codex_fork)
+  > Lightweight coding agent that runs in your terminal
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
   > The programming language for agents
@@ -31,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vilive2/abc](https://github.com/vilive2/abc)
   > ABC: System for Sequential Logic Synthesis and Formal Verification
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [InvoxiPlayGames/WPDevModeResearch](https://github.com/InvoxiPlayGames/WPDevModeResearch)
+  > my notes on Windows Phone 7/8 "developer mode" activation
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ant4g0nist/pyre](https://github.com/ant4g0nist/pyre)
+  > Ghidra decompiler in your browser
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
@@ -42,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-16 15:00:21 UTC*
+*Last updated at 2026-05-16 17:02:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
