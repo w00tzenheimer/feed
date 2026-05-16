@@ -21,6 +21,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
   > The programming language for agents
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [redwoodjs/machinen.dev](https://github.com/redwoodjs/machinen.dev)
+  > Pause, resume, fork Linux VMs across hosts
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
+  > The programming language for agents
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vilive2/abc](https://github.com/vilive2/abc)
+  > ABC: System for Sequential Logic Synthesis and Formal Verification
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
@@ -32,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-16 11:04:45 UTC*
+*Last updated at 2026-05-16 13:41:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
