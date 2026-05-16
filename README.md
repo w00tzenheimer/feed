@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [openai/codex](https://github.com/openai/codex) to [NyaMisty/codex_fork](https://github.com/NyaMisty/codex_fork)
   > Lightweight coding agent that runs in your terminal
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
+  > Themida Devirt Results
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
   > The programming language for agents
@@ -50,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-16 17:02:33 UTC*
+*Last updated at 2026-05-16 19:11:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
