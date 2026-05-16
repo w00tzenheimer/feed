@@ -14,6 +14,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [v12-security/pocs](https://github.com/v12-security/pocs) to [CrackerCat/v12-security-pocs](https://github.com/CrackerCat/v12-security-pocs)
   > poc it like it's hot
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [clap-rs/clap](https://github.com/clap-rs/clap)
+  > A full featured, fast Command Line Argument Parser for Rust
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
   > The programming language for agents
@@ -28,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-16 09:44:16 UTC*
+*Last updated at 2026-05-16 11:04:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
