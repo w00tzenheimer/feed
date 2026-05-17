@@ -18,13 +18,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer)
   > Codex skill for safe codebase complexity analysis and performance optimization reports
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/prvhash](https://github.com/avaneev/prvhash)
+  > PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/komihash](https://github.com/avaneev/komihash)
+  > Very fast, high-quality hash function, discrete-incremental and streamed hashing-capable (non-crypto...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/biteopt](https://github.com/avaneev/biteopt)
+  > Derivative-Free Global Optimization Algorithm (C++, Python binding) - Continuous, Discrete, TSP, NLS...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dietmarwo/fast-cma-es](https://github.com/dietmarwo/fast-cma-es)
+  > A Python 3 gradient-free optimization library
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dietmarwo/drq](https://github.com/dietmarwo/drq)
+  > Digital Red Queen: Adversarial Program Evolution in Core War with LLMs
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/avir](https://github.com/avaneev/avir)
+  > High-quality pro HDR image resizing / scaling C++ library, including a very fast, precise, SIMD Lanc...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/areafitter](https://github.com/avaneev/areafitter)
+  > Fit Multiple Smaller Rectangles Into Larger Rectangles or Images - Iterative Permutational Optimizat...
+
 
 <!-- nav -->
 [← 2026-05-16](archive/2026/05/16.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-17 11:11:28 UTC*
+*Last updated at 2026-05-17 13:40:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
