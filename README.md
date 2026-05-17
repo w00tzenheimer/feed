@@ -33,6 +33,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > High-quality pro HDR image resizing / scaling C++ library, including a very fast, precise, SIMD Lanc...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/areafitter](https://github.com/avaneev/areafitter)
   > Fit Multiple Smaller Rectangles Into Larger Rectangles or Images - Iterative Permutational Optimizat...
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [google/cwisstable](https://github.com/google/cwisstable) to [jevinskie/cwisstable](https://github.com/jevinskie/cwisstable)
+  > Single-header C11 port of https://abseil.io SwissTable
 
 
 <!-- nav -->
@@ -40,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-17 13:40:26 UTC*
+*Last updated at 2026-05-17 15:00:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
