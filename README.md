@@ -40,13 +40,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [google/cwisstable](https://github.com/google/cwisstable) to [jevinskie/cwisstable](https://github.com/jevinskie/cwisstable)
   > Single-header C11 port of https://abseil.io SwissTable
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
+  > A bin2bin code virtualizer for x86-64
+
 
 <!-- nav -->
 [← 2026-05-16](archive/2026/05/16.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-17 20:58:36 UTC*
+*Last updated at 2026-05-17 22:01:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
