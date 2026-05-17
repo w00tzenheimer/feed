@@ -50,13 +50,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines)
+  > Some HTML, CSS and JS best practices.
+
 
 <!-- nav -->
 [← 2026-05-15](archive/2026/05/15.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-16 22:52:15 UTC*
+*Last updated at 2026-05-16 23:57:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
