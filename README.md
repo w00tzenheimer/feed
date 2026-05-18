@@ -1,56 +1,21 @@
-# Daily GitHub Activity (2026-05-17)
+# Daily GitHub Activity (2026-05-18)
 
 <!-- nav -->
-[← 2026-05-16](archive/2026/05/16.md)
+[← 2026-05-17](archive/2026/05/17.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [NUL0x4C](https://github.com/NUL0x4C)
-- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [Kudaes/Unwinder](https://github.com/Kudaes/Unwinder)
-  > Call stack spoofing for Rust
-
-### [ggoodman](https://github.com/ggoodman)
-- 🍴 👤 [ggoodman](https://github.com/ggoodman) Forked [containers/libkrunfw](https://github.com/containers/libkrunfw) to [torkbot/libkrunfw](https://github.com/torkbot/libkrunfw)
-  > A dynamic library bundling the guest payload consumed by libkrun
-- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer)
-  > Codex skill for safe codebase complexity analysis and performance optimization reports
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [lalinsky/zio](https://github.com/lalinsky/zio)
-  > Async I/O framework for Zig
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/prvhash](https://github.com/avaneev/prvhash)
-  > PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/komihash](https://github.com/avaneev/komihash)
-  > Very fast, high-quality hash function, discrete-incremental and streamed hashing-capable (non-crypto...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/biteopt](https://github.com/avaneev/biteopt)
-  > Derivative-Free Global Optimization Algorithm (C++, Python binding) - Continuous, Discrete, TSP, NLS...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dietmarwo/fast-cma-es](https://github.com/dietmarwo/fast-cma-es)
-  > A Python 3 gradient-free optimization library
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dietmarwo/drq](https://github.com/dietmarwo/drq)
-  > Digital Red Queen: Adversarial Program Evolution in Core War with LLMs
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/avir](https://github.com/avaneev/avir)
-  > High-quality pro HDR image resizing / scaling C++ library, including a very fast, precise, SIMD Lanc...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [avaneev/areafitter](https://github.com/avaneev/areafitter)
-  > Fit Multiple Smaller Rectangles Into Larger Rectangles or Images - Iterative Permutational Optimizat...
-- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [google/cwisstable](https://github.com/google/cwisstable) to [jevinskie/cwisstable](https://github.com/jevinskie/cwisstable)
-  > Single-header C11 port of https://abseil.io SwissTable
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
-  > A bin2bin code virtualizer for x86-64
-
+The users you follow have no new public activity today.
 
 <!-- nav -->
-[← 2026-05-16](archive/2026/05/16.md)
+[← 2026-05-17](archive/2026/05/17.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-17 22:01:12 UTC*
+*Last updated at 2026-05-18 00:00:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
