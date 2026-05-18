@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
   >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
 
+### [tomrus88](https://github.com/tomrus88)
+- 🌟 👤 [tomrus88](https://github.com/tomrus88) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
+  > 🪅 Windows User Space Emulator 
+
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [hchunhui/tiny386](https://github.com/hchunhui/tiny386)
   > tiny 386 PC emulator; running win9x on esp32
@@ -44,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-18 14:32:06 UTC*
+*Last updated at 2026-05-18 17:30:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
