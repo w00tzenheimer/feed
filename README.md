@@ -28,13 +28,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [rems-project/sail](https://github.com/rems-project/sail)
   > Sail architecture definition language
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
+  > Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
   >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
 
 ### [tomrus88](https://github.com/tomrus88)
 - 🌟 👤 [tomrus88](https://github.com/tomrus88) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
-  > 🪅 Windows User Space Emulator 
+  > 🪅 Windows & Linux Userspace Emulator 
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [hchunhui/tiny386](https://github.com/hchunhui/tiny386)
@@ -48,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-18 17:30:38 UTC*
+*Last updated at 2026-05-18 19:49:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
