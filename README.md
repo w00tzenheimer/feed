@@ -31,6 +31,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
   > Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Sidenai/hyperion-disassembler](https://github.com/Sidenai/hyperion-disassembler)
+  > Native multi-arch disassembler & decompiler — PE/ELF/Mach-O, x86/x64/ARM64, Lua scripting, RTTI reco...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
@@ -52,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-18 21:15:47 UTC*
+*Last updated at 2026-05-18 23:05:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
