@@ -8,14 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Emanuele-web04/RemodexTextKit](https://github.com/Emanuele-web04/RemodexTextKit)
+  > Render and customize rich attributed text in SwiftUI
+
 
 <!-- nav -->
 [← 2026-05-18](archive/2026/05/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-19 03:58:21 UTC*
+*Last updated at 2026-05-19 07:53:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
