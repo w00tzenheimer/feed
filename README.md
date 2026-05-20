@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [mpv-player/mpv](https://github.com/mpv-player/mpv)
+  > 🎥 Command line media player
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net)
+  > 🎞 mpv.net is a media player for Windows with a modern GUI.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ErodedElk/BinaryAbyss](https://github.com/ErodedElk/BinaryAbyss) to [CrackerCat/BinaryAbyss](https://github.com/CrackerCat/BinaryAbyss)
   > 二进制安全系列课程。以 CTF(Capture The Flag) 为导向，预计将会包括 Basic(基础知识)、 Pwn(二进制漏洞利用) 与 Reverse(逆向工程) 三部分主要内容以及 Oth...
@@ -25,9 +31,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yunsmall/Android-Usbipdcpp](https://github.com/yunsmall/Android-Usbipdcpp) to [CrackerCat/Android-Usbipdcpp](https://github.com/CrackerCat/Android-Usbipdcpp)
   > Android USB/IP server app - share USB devices over network
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz) to [IuvenisSapiens/svg2tikz](https://github.com/IuvenisSapiens/svg2tikz)
+  > An Inkscape extension for exporting SVG paths as TikZ/PGF paths
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [swesterfeld/audiowmark](https://github.com/swesterfeld/audiowmark)
   > Audio Watermarking
+
+### [kijai](https://github.com/kijai)
+- 🍴 👤 [kijai](https://github.com/kijai) Forked [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) to [kijai/ComfyUI-LTXVideo](https://github.com/kijai/ComfyUI-LTXVideo)
+  > LTX-Video Support for ComfyUI
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom)
@@ -51,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-20 09:41:18 UTC*
+*Last updated at 2026-05-20 12:27:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
