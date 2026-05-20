@@ -38,6 +38,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [swesterfeld/audiowmark](https://github.com/swesterfeld/audiowmark)
   > Audio Watermarking
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [maxgoedjen/secretive-config-instructions](https://github.com/maxgoedjen/secretive-config-instructions)
+  > Community-maintained app configuration instructions for Secretive
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [verilog-proof/VerilLean](https://github.com/verilog-proof/VerilLean)
+  > A Lean-embedded framework to verify Verilog modules
 
 ### [kijai](https://github.com/kijai)
 - 🍴 👤 [kijai](https://github.com/kijai) Forked [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) to [kijai/ComfyUI-LTXVideo](https://github.com/kijai/ComfyUI-LTXVideo)
@@ -65,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-20 12:27:54 UTC*
+*Last updated at 2026-05-20 16:31:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
