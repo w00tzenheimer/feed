@@ -29,9 +29,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [swesterfeld/audiowmark](https://github.com/swesterfeld/audiowmark)
   > Audio Watermarking
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+  > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [justjake/opentui](https://github.com/justjake/opentui)
+  > OpenTUI is a library for building terminal user interfaces (TUIs)
+
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [Sanyam-G/switch](https://github.com/Sanyam-G/switch)
   > A keyboard-driven window switcher for macOS. Notarized. Free.
+- 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [stonerl/Thaw](https://github.com/stonerl/Thaw)
+  > Menu bar manager for macOS 26
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
@@ -42,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-20 05:08:01 UTC*
+*Last updated at 2026-05-20 09:41:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
