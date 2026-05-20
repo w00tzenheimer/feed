@@ -15,6 +15,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🎞 mpv.net is a media player for Windows with a modern GUI.
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [the-database/mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai)
   > Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ErodedElk/BinaryAbyss](https://github.com/ErodedElk/BinaryAbyss) to [CrackerCat/BinaryAbyss](https://github.com/CrackerCat/BinaryAbyss)
@@ -65,6 +66,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
 
+### [vitosans](https://github.com/vitosans)
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [DioCrafts/OpenFoundry](https://github.com/DioCrafts/OpenFoundry) to [vitosans/OpenFoundry](https://github.com/vitosans/OpenFoundry)
+  > 🏭 The open-source Palantir Foundry alternative. Connect any data source, build ontologies, create pi...
+
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [leoncoolmoon/NC2000-wasm](https://github.com/leoncoolmoon/NC2000-wasm)
   > 文曲星NC2000系列模拟器，浏览器版
@@ -75,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-20 19:28:34 UTC*
+*Last updated at 2026-05-20 21:59:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
