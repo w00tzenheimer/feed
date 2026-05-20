@@ -13,6 +13,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🎥 Command line media player
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net)
   > 🎞 mpv.net is a media player for Windows with a modern GUI.
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [the-database/mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai)
+  > Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ErodedElk/BinaryAbyss](https://github.com/ErodedElk/BinaryAbyss) to [CrackerCat/BinaryAbyss](https://github.com/CrackerCat/BinaryAbyss)
@@ -63,13 +65,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
 
+### [wangyu-](https://github.com/wangyu-)
+- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [leoncoolmoon/NC2000-wasm](https://github.com/leoncoolmoon/NC2000-wasm)
+  > 文曲星NC2000系列模拟器，浏览器版
+
 
 <!-- nav -->
 [← 2026-05-19](archive/2026/05/19.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-20 16:31:06 UTC*
+*Last updated at 2026-05-20 19:28:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
