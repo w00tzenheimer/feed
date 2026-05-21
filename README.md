@@ -13,6 +13,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aprz512/android-protectors](https://github.com/aprz512/android-protectors) to [CrackerCat/android-protectors](https://github.com/CrackerCat/android-protectors)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aprz512/Android-Crack](https://github.com/aprz512/Android-Crack) to [CrackerCat/Android-Crack](https://github.com/CrackerCat/Android-Crack)
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
+  > Packer/Protector for x86-64 ELF binaries on Linux
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cartazio/benchkit_for_harnesses](https://github.com/cartazio/benchkit_for_harnesses)
   > cause measuring models sans harness is like ignoring weather appropriate clothing
@@ -41,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-21 20:55:02 UTC*
+*Last updated at 2026-05-21 22:22:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
