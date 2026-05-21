@@ -13,13 +13,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aprz512/android-protectors](https://github.com/aprz512/android-protectors) to [CrackerCat/android-protectors](https://github.com/CrackerCat/android-protectors)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aprz512/Android-Crack](https://github.com/aprz512/Android-Crack) to [CrackerCat/Android-Crack](https://github.com/CrackerCat/Android-Crack)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cartazio/benchkit_for_harnesses](https://github.com/cartazio/benchkit_for_harnesses)
+  > cause measuring models sans harness is like ignoring weather appropriate clothing
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kageroumado/phosphene](https://github.com/kageroumado/phosphene)
   > A video wallpaper engine for macOS Tahoe
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [davidism/gha-update](https://github.com/davidism/gha-update) to [mrexodia/gha-update](https://github.com/mrexodia/gha-update)
-  > Update GitHub Actions version pins in GitHub workflow files.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
+  > Packer/Protector for x86-64 ELF binaries on Linux
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+  > A vector index built on TurboQuant, written in Rust with Python bindings
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
@@ -33,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-21 12:18:11 UTC*
+*Last updated at 2026-05-21 16:17:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
