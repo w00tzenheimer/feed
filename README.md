@@ -26,6 +26,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Packer/Protector for x86-64 ELF binaries on Linux
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
   > A vector index built on TurboQuant, written in Rust with Python bindings
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
@@ -39,7 +41,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-21 16:17:30 UTC*
+*Last updated at 2026-05-21 19:00:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
