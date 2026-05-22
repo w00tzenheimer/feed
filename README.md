@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [xzf-thu/Mega-ASR](https://github.com/xzf-thu/Mega-ASR) to [IuvenisSapiens/Mega-ASR](https://github.com/IuvenisSapiens/Mega-ASR)
   > First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios,...
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [luxonis/depthai](https://github.com/luxonis/depthai)
+  > DepthAI
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [entropyvortex/meta-llm-charter](https://github.com/entropyvortex/meta-llm-charter)
   > Compact operational charter that turns LLM coding agents into disciplined principal engineers. Eleve...
@@ -44,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-22 15:50:46 UTC*
+*Last updated at 2026-05-22 17:56:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
