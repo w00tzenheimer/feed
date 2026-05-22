@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [xzf-thu/Mega-ASR](https://github.com/xzf-thu/Mega-ASR) to [IuvenisSapiens/Mega-ASR](https://github.com/IuvenisSapiens/Mega-ASR)
   > First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios,...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [entropyvortex/meta-llm-charter](https://github.com/entropyvortex/meta-llm-charter)
+  > Compact operational charter that turns LLM coding agents into disciplined principal engineers. Eleve...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [StanFromIreland/pypy](https://github.com/StanFromIreland/pypy)
   > PyPy is a very fast and compliant implementation of the Python language.
@@ -25,6 +29,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [kageroumado/phosphene](https://github.com/kageroumado/phosphene)
   > A video wallpaper engine for macOS Tahoe
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lifting-bits/remill](https://github.com/lifting-bits/remill) to [mrexodia/remill](https://github.com/mrexodia/remill)
+  > Library for lifting machine code to LLVM bitcode
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [denoland/clawpatrol](https://github.com/denoland/clawpatrol)
@@ -36,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-22 12:24:26 UTC*
+*Last updated at 2026-05-22 15:50:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
