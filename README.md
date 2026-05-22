@@ -13,6 +13,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Python runtime for WeTextProcessing (does not depend on Pynini)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [k2-fsa/kaldifst](https://github.com/k2-fsa/kaldifst) to [IuvenisSapiens/kaldifst](https://github.com/IuvenisSapiens/kaldifst)
   > Python wrapper for OpenFST and its extensions from Kaldi. Also support reading/writing ark/scp files
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [xzf-thu/Mega-ASR](https://github.com/xzf-thu/Mega-ASR)
+  > First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios,...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [xzf-thu/Mega-ASR](https://github.com/xzf-thu/Mega-ASR) to [IuvenisSapiens/Mega-ASR](https://github.com/IuvenisSapiens/Mega-ASR)
+  > First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios,...
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [StanFromIreland/pypy](https://github.com/StanFromIreland/pypy)
+  > PyPy is a very fast and compliant implementation of the Python language.
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [kageroumado/phosphene](https://github.com/kageroumado/phosphene)
@@ -28,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-22 09:35:35 UTC*
+*Last updated at 2026-05-22 12:24:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
