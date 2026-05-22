@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [StanFromIreland/pypy](https://github.com/StanFromIreland/pypy)
   > PyPy is a very fast and compliant implementation of the Python language.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MelissaAutumn/MultiEd](https://github.com/MelissaAutumn/MultiEd)
+  > QT-based open-source editor for OldUnreal based Unreal Engine 1 games
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [kageroumado/phosphene](https://github.com/kageroumado/phosphene)
@@ -42,13 +44,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [denoland/clawpatrol](https://github.com/denoland/clawpatrol)
   > Security firewall for agents
 
+### [stevemk14ebr](https://github.com/stevemk14ebr)
+- 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)
+  > Perfect Green Screen Keys
+
 
 <!-- nav -->
 [← 2026-05-21](archive/2026/05/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-22 21:19:04 UTC*
+*Last updated at 2026-05-22 23:05:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
