@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [xdqi/anyfs](https://github.com/xdqi/anyfs)
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [tc39/proposal-discard-binding](https://github.com/tc39/proposal-discard-binding)
+  > Proposal to introduce discard bindings to ECMAScript
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jmillikin/rust-fuse](https://github.com/jmillikin/rust-fuse)
   > A FUSE server implementation for Rust.
@@ -43,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-23 15:04:28 UTC*
+*Last updated at 2026-05-23 17:04:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
