@@ -36,9 +36,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [tofsjonas/sortable](https://github.com/tofsjonas/sortable)
   > Vanilla JavaScript table sort
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tancheng/CGRA-Mapper](https://github.com/tancheng/CGRA-Mapper)
+  > An LLVM pass that can generate CDFG and map the target loops onto a parameterizable CGRA.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robert-yates/gdbserver9x](https://github.com/robert-yates/gdbserver9x)
+  > A primitive GDB server for debugging 32bit exes on retro windows OS'
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [microsoft/bf-tree](https://github.com/microsoft/bf-tree)
   > Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS R...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [HelithaSri/GhostLayer](https://github.com/HelithaSri/GhostLayer)
+  > A lightweight, always-on-top overlay for macOS that stays hidden in screen sharing/recording. Built ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter)
+  > Super simple-to-use, always-on-top floating text prompter for macOS. Perfect for quick videos or kee...
 
 
 <!-- nav -->
@@ -46,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-24 19:36:59 UTC*
+*Last updated at 2026-05-24 21:01:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
