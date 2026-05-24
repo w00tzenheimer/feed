@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [yugr/rust-slides](https://github.com/yugr/rust-slides)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms) to [CrackerCat/mkpms](https://github.com/CrackerCat/mkpms)
   > android 无痕probe 无痕hook kpm demo
@@ -58,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-24 21:01:10 UTC*
+*Last updated at 2026-05-24 23:00:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
