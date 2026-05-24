@@ -8,14 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/diskspd](https://github.com/microsoft/diskspd)
+  > DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Clou...
+
 
 <!-- nav -->
 [← 2026-05-23](archive/2026/05/23.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-24 08:34:32 UTC*
+*Last updated at 2026-05-24 10:43:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
