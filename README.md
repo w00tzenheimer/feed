@@ -24,9 +24,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [can1357/hvdetecc](https://github.com/can1357/hvdetecc) to [CrackerCat/hvdetecc](https://github.com/CrackerCat/hvdetecc)
   > Collection of hypervisor detections
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
+  > ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, aut...
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/diskspd](https://github.com/microsoft/diskspd)
   > DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Clou...
+
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [tofsjonas/sortable](https://github.com/tofsjonas/sortable)
+  > Vanilla JavaScript table sort
 
 
 <!-- nav -->
@@ -34,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-24 14:26:07 UTC*
+*Last updated at 2026-05-24 16:03:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
