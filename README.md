@@ -36,13 +36,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [tofsjonas/sortable](https://github.com/tofsjonas/sortable)
   > Vanilla JavaScript table sort
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [microsoft/bf-tree](https://github.com/microsoft/bf-tree)
+  > Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS R...
+
 
 <!-- nav -->
 [← 2026-05-23](archive/2026/05/23.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-24 16:03:24 UTC*
+*Last updated at 2026-05-24 18:00:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
