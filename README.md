@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
+  > Themida Devirt Results
+- 🍴 👤 [BeneficialCode](https://github.com/BeneficialCode) Forked [redteamfortress/PhantomKiller](https://github.com/redteamfortress/PhantomKiller) to [BeneficialCode/PhantomKiller](https://github.com/BeneficialCode/PhantomKiller)
+  > Another BYOVD process killer. works on all EDR's. fully signed.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [std-microblock/fripack](https://github.com/std-microblock/fripack) to [CrackerCat/fripack](https://github.com/CrackerCat/fripack)
   > Package your Frida script into an executable.
@@ -44,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-25 15:53:38 UTC*
+*Last updated at 2026-05-25 17:46:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
