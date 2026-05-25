@@ -32,9 +32,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [gbchu/ezexam](https://github.com/gbchu/ezexam) to [IuvenisSapiens/ezexam](https://github.com/IuvenisSapiens/ezexam)
   > A typst exam and handout template 
 
+### [JustasMasiulis](https://github.com/JustasMasiulis)
+- 🍴 👤 [JustasMasiulis](https://github.com/JustasMasiulis) Forked [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) to [JustasMasiulis/ida-pro-mcp](https://github.com/JustasMasiulis/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
   > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
+
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [DiscreteTom/stickdeck-rs](https://github.com/DiscreteTom/stickdeck-rs)
+  > Turn your SteamDeck into a joystick for your PC, with trackpad and gyro support!
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [josharian/git-cow-worktree](https://github.com/josharian/git-cow-worktree)
@@ -43,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [steipete/birdclaw](https://github.com/steipete/birdclaw)
   > Stores all your tweets nicely claw-able for agents.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)
+  > Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsid...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [kepano/defuddle](https://github.com/kepano/defuddle)
+  > Get the main content of any page as Markdown.
 
 
 <!-- nav -->
@@ -50,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-25 17:46:54 UTC*
+*Last updated at 2026-05-25 19:47:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
