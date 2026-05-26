@@ -21,6 +21,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhaoxuya520/reverse-skill-private](https://github.com/zhaoxuya520/reverse-skill-private) to [CrackerCat/reverse-skill-private](https://github.com/CrackerCat/reverse-skill-private)
   > 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [dmno-dev/varlock](https://github.com/dmno-dev/varlock)
+  > AI-safe .env files: Schemas for agents, Secrets for humans.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [agentrhq/authsome](https://github.com/agentrhq/authsome)
+  > Local credential vault for AI agents. Log in once via Oauth2 or API Key. Every agent stays authentic...
+
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google/ax](https://github.com/google/ax)
   > Google's open source distributed agent runtime
@@ -31,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-26 03:59:16 UTC*
+*Last updated at 2026-05-26 07:57:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
