@@ -34,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > AI-safe .env files: Schemas for agents, Secrets for humans.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [agentrhq/authsome](https://github.com/agentrhq/authsome)
   > Local credential vault for AI agents. Log in once via Oauth2 or API Key. Every agent stays authentic...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [justrach/codedb](https://github.com/justrach/codedb)
+  > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)
+  > Build product integrations with AI.
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google/ax](https://github.com/google/ax)
@@ -45,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-26 15:49:32 UTC*
+*Last updated at 2026-05-26 18:30:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
