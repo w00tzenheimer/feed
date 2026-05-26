@@ -38,6 +38,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)
   > Build product integrations with AI.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [rjs/shaping-skills](https://github.com/rjs/shaping-skills)
+  > Skills I use with Claude for shaping
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google/ax](https://github.com/google/ax)
@@ -49,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-26 18:30:21 UTC*
+*Last updated at 2026-05-26 20:56:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
