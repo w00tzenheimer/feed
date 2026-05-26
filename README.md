@@ -21,6 +21,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhaoxuya520/reverse-skill-private](https://github.com/zhaoxuya520/reverse-skill-private) to [CrackerCat/reverse-skill-private](https://github.com/CrackerCat/reverse-skill-private)
   > 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [upx/upx](https://github.com/upx/upx)
+  > UPX - the Ultimate Packer for eXecutables
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
+  > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [dmno-dev/varlock](https://github.com/dmno-dev/varlock)
   > AI-safe .env files: Schemas for agents, Secrets for humans.
@@ -37,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-26 07:57:59 UTC*
+*Last updated at 2026-05-26 15:49:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
