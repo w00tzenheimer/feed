@@ -27,6 +27,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [LLVMParty/loki](https://github.com/LLVMParty/loki)
   > Hardening code obfuscation against automated attacks
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [mrexodia/loki](https://github.com/mrexodia/loki)
+  > Hardening code obfuscation against automated attacks
+
+### [pwnall](https://github.com/pwnall)
+- 🍴 👤 [pwnall](https://github.com/pwnall) Forked [google/OpenSK](https://github.com/google/OpenSK) to [pwnall/OpenSK](https://github.com/pwnall/OpenSK)
+  > OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2...
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google/wasefire](https://github.com/google/wasefire)
+  > Secure firmware framework focusing on developer experience
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🍴 👤 [wangyu-](https://github.com/wangyu-) Forked [NiuTrans/compiler-notes](https://github.com/NiuTrans/compiler-notes) to [wangyu-/compiler-notes](https://github.com/wangyu-/compiler-notes)
@@ -37,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-27 21:02:14 UTC*
+*Last updated at 2026-05-27 23:19:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
