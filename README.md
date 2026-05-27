@@ -18,9 +18,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Andrea-lyz/selinux_seqno_fix](https://github.com/Andrea-lyz/selinux_seqno_fix) to [CrackerCat/selinux_seqno_fix](https://github.com/CrackerCat/selinux_seqno_fix)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eltavine/ksu-edge-seqno-demo](https://github.com/eltavine/ksu-edge-seqno-demo) to [CrackerCat/ksu-edge-seqno-demo](https://github.com/CrackerCat/ksu-edge-seqno-demo)
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [pwilkin/openmoss](https://github.com/pwilkin/openmoss)
+  > OpenMOSS pure C++ pipeline based on GGML
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [LLVMParty/loki](https://github.com/LLVMParty/loki)
+  > Hardening code obfuscation against automated attacks
 
 
 <!-- nav -->
@@ -28,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-27 14:28:33 UTC*
+*Last updated at 2026-05-27 18:00:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
