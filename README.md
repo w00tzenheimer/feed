@@ -28,13 +28,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [LLVMParty/loki](https://github.com/LLVMParty/loki)
   > Hardening code obfuscation against automated attacks
 
+### [wangyu-](https://github.com/wangyu-)
+- 🍴 👤 [wangyu-](https://github.com/wangyu-) Forked [NiuTrans/compiler-notes](https://github.com/NiuTrans/compiler-notes) to [wangyu-/compiler-notes](https://github.com/wangyu-/compiler-notes)
+
 
 <!-- nav -->
 [← 2026-05-26](archive/2026/05/26.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-27 18:00:38 UTC*
+*Last updated at 2026-05-27 21:02:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
