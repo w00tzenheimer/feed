@@ -16,6 +16,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye)
   > Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic ...
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [TIERS/X650_pixhawk6x_Jetson_Orin_Setup_Guide](https://github.com/TIERS/X650_pixhawk6x_Jetson_Orin_Setup_Guide)
+  > How to Set Up a Drone Using the X650, Pixhawk 6X, and Jetson Orin
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [CankayaUniversity/ceng-407-408-2022-2023-Autonomous-VTOL-Design](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Autonomous-VTOL-Design)
+  > Autonomous VTOL Design
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [zentrix-innovative-labs/galaxdb](https://github.com/zentrix-innovative-labs/galaxdb)
+  > GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of s...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [remorses/holocron](https://github.com/remorses/holocron)
@@ -31,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-28 08:44:24 UTC*
+*Last updated at 2026-05-28 12:31:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
