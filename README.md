@@ -25,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [zentrix-innovative-labs/galaxdb](https://github.com/zentrix-innovative-labs/galaxdb)
   > GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of s...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [elfmaster/ee-ecfs](https://github.com/elfmaster/ee-ecfs)
+  > A version of ECFS (Extended core file snapshot) technology that was revamped for the DARPA EBOSS pro...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [remorses/holocron](https://github.com/remorses/holocron)
   > Open source drop-in replacement for Mintlify as a Vite plugin
@@ -39,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-28 12:31:09 UTC*
+*Last updated at 2026-05-28 16:55:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
