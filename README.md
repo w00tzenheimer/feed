@@ -20,6 +20,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > How to Set Up a Drone Using the X650, Pixhawk 6X, and Jetson Orin
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [CankayaUniversity/ceng-407-408-2022-2023-Autonomous-VTOL-Design](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Autonomous-VTOL-Design)
   > Autonomous VTOL Design
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [bernhardpg/babyshark_vtol_model](https://github.com/bernhardpg/babyshark_vtol_model)
+  > Full dynamic model for the Babyshark 260 VTOL UAV.
+
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [torkbot/sandbox](https://github.com/torkbot/sandbox)
+  > Sandbox is a TypeScript-first Node.js library for spawning libkrun-backed microVMs.
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [zentrix-innovative-labs/galaxdb](https://github.com/zentrix-innovative-labs/galaxdb)
@@ -43,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-28 16:55:51 UTC*
+*Last updated at 2026-05-28 19:38:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
