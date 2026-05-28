@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [bernhardpg/babyshark_vtol_model](https://github.com/bernhardpg/babyshark_vtol_model)
   > Full dynamic model for the Babyshark 260 VTOL UAV.
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [x86byte/sbox](https://github.com/x86byte/sbox)
+  > Compile-time AES string obfuscation for C++
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [torkbot/sandbox](https://github.com/torkbot/sandbox)
   > Sandbox is a TypeScript-first Node.js library for spawning libkrun-backed microVMs.
@@ -49,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-28 19:38:17 UTC*
+*Last updated at 2026-05-28 21:58:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
