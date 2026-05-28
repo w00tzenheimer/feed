@@ -39,6 +39,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [elfmaster/ee-ecfs](https://github.com/elfmaster/ee-ecfs)
   > A version of ECFS (Extended core file snapshot) technology that was revamped for the DARPA EBOSS pro...
 
+### [namreeb](https://github.com/namreeb)
+- 🍴 👤 [namreeb](https://github.com/namreeb) Forked [wowsims/tbc-new](https://github.com/wowsims/tbc-new) to [namreeb/tbc-new](https://github.com/namreeb/tbc-new)
+  > World of Warcraft TBC Classic simulations.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [remorses/holocron](https://github.com/remorses/holocron)
   > Open source drop-in replacement for Mintlify as a Vite plugin
@@ -53,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-28 21:58:00 UTC*
+*Last updated at 2026-05-28 23:25:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
