@@ -46,6 +46,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
   > Fast LLM speculative inference server for consumer hardware.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm)
+  > Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [boredchilada/piptastic](https://github.com/boredchilada/piptastic)
@@ -59,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-29 19:33:08 UTC*
+*Last updated at 2026-05-29 21:54:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
