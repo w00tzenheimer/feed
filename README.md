@@ -22,6 +22,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LOBYXLYX/bet365](https://github.com/LOBYXLYX/bet365) to [CrackerCat/bet365](https://github.com/CrackerCat/bet365)
   > reverse engineered bet365 javascript vm
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [JoachimBe/rustlings](https://github.com/JoachimBe/rustlings)
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [rcarmo/go-busybox](https://github.com/rcarmo/go-busybox) to [NyaMisty/go-busybox](https://github.com/NyaMisty/go-busybox)
   > A sandboxable port of busybox for AI agents
@@ -34,13 +37,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [geoarrow/deck.gl-geoarrow](https://github.com/geoarrow/deck.gl-geoarrow)
   > deck.gl layers for rendering GeoArrow data
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ianhan/picograph](https://github.com/ianhan/picograph)
+  > PicoGraph is a Pi Pico 2 ISA video card that supports several PC graphics standards using DisplayLin...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [inkandswitch/bijou](https://github.com/inkandswitch/bijou)
+  > Bijective variable-length encoding for unsigned integers
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [boredchilada/piptastic](https://github.com/boredchilada/piptastic)
+  > Its not fantastic, its piptastic - Dependency auditor for Python projects: drift vs PyPI, known CVEs...
+
 
 <!-- nav -->
 [← 2026-05-28](archive/2026/05/28.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-29 12:18:29 UTC*
+*Last updated at 2026-05-29 16:44:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
