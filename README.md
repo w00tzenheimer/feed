@@ -28,13 +28,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [NyaMisty/sub2api](https://github.com/NyaMisty/sub2api)
   > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [russellromney/honker](https://github.com/russellromney/honker)
+  > SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/s...
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [geoarrow/deck.gl-geoarrow](https://github.com/geoarrow/deck.gl-geoarrow)
+  > deck.gl layers for rendering GeoArrow data
+
 
 <!-- nav -->
 [← 2026-05-28](archive/2026/05/28.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-29 08:43:36 UTC*
+*Last updated at 2026-05-29 12:18:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
