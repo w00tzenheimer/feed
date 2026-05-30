@@ -24,10 +24,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/SoLoad](https://github.com/niqiuqiux/SoLoad) to [CrackerCat/SoLoad](https://github.com/CrackerCat/SoLoad)
   > 一个独立于系统链接器的 Android ARM64 共享库加载器
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/CDisasm](https://github.com/niqiuqiux/CDisasm) to [CrackerCat/CDisasm](https://github.com/CrackerCat/CDisasm)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) to [CrackerCat/TEESimulator-RS](https://github.com/CrackerCat/TEESimulator-RS)
+  > Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superp...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qwq233/OhMyKeymint](https://github.com/qwq233/OhMyKeymint) to [CrackerCat/OhMyKeymint](https://github.com/CrackerCat/OhMyKeymint)
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [AMAPVOICE/PilotTTS](https://github.com/AMAPVOICE/PilotTTS)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [AMAPVOICE/PilotTTS](https://github.com/AMAPVOICE/PilotTTS) to [IuvenisSapiens/PilotTTS](https://github.com/IuvenisSapiens/PilotTTS)
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ggml-org/llama-install.sh](https://github.com/ggml-org/llama-install.sh)
+  > Build and install script for llama.app
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [desrdev/ghidra-fr60](https://github.com/desrdev/ghidra-fr60)
@@ -36,6 +43,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > PCSX2 Reliquary - PS2 Emulator for the nerds
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)
   > Tools for merging pretrained large language models.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [uenoku/circt-mockturtle-plugin](https://github.com/uenoku/circt-mockturtle-plugin)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [artemnovichkov/xcode-26-system-prompts](https://github.com/artemnovichkov/xcode-26-system-prompts)
+  > Xcode 26 system prompts and internal documentation
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [openai/human-eval-infilling](https://github.com/openai/human-eval-infilling)
+  > Code for the paper "Efficient Training of Language Models to Fill in the Middle"
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
@@ -46,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-30 11:24:17 UTC*
+*Last updated at 2026-05-30 13:48:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
