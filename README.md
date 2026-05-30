@@ -34,6 +34,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Ghidra Plugin for Fujitsu FR60 Processors. Focused on DVRP's MB91302A in the Sony PSX.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DiscoStarslayer/pcsx2-reliquary](https://github.com/DiscoStarslayer/pcsx2-reliquary)
   > PCSX2 Reliquary - PS2 Emulator for the nerds
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)
+  > Tools for merging pretrained large language models.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
@@ -44,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-30 09:21:52 UTC*
+*Last updated at 2026-05-30 11:24:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
