@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ringtailsoftware/uvm32](https://github.com/ringtailsoftware/uvm32) to [CrackerCat/uvm32](https://github.com/CrackerCat/uvm32)
   > Minimalist, dependency-free virtual machine sandbox for microcontrollers and other resource-constrai...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elyelysiox/recaptcha-vm](https://github.com/elyelysiox/recaptcha-vm) to [CrackerCat/recaptcha-vm](https://github.com/CrackerCat/recaptcha-vm)
+  > Reverse Engineered reCAPTCHA VM
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elyelysiox/recaptcha](https://github.com/elyelysiox/recaptcha) to [CrackerCat/elyelysiox-recaptcha](https://github.com/CrackerCat/elyelysiox-recaptcha)
+  > Documentation and reverse engineering of reCAPTCHA
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [najmus-sakib-hossain/gpui](https://github.com/najmus-sakib-hossain/gpui)
@@ -28,13 +32,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
   > Master programming by recreating your favorite technologies from scratch.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [edmcman/ooanalyzer-asp](https://github.com/edmcman/ooanalyzer-asp)
+
 
 <!-- nav -->
 [← 2026-05-30](archive/2026/05/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-31 11:01:36 UTC*
+*Last updated at 2026-05-31 13:54:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
