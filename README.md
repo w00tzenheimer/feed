@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [19h/ida-codedump](https://github.com/19h/ida-codedump)
+  > An IDA Pro plugin that lifts functions and their dependencies out of IDA Pro into self-contained art...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge) to [CrackerCat/PseudoForge](https://github.com/CrackerCat/PseudoForge)
   > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
@@ -27,6 +31,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🏗️ Single-Binary GPUI Desktop App — Pure Rust multimedia powerhouse with Video, 3D, Audio, PDF, Docu...
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yangwenbo99/touying2video](https://github.com/yangwenbo99/touying2video)
   > Converting a typst presentation (by touying) to a presentation video with AI voice over.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [solvixx/typst-writer](https://github.com/solvixx/typst-writer) to [IuvenisSapiens/typst-writer](https://github.com/IuvenisSapiens/typst-writer)
+  > A cross-platform WYSIWYG editor for Typst documents, featuring a component-based UI built with GPUI.
 
 ### [MaxtorCoder](https://github.com/MaxtorCoder)
 - 🌟 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
@@ -47,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-31 17:11:37 UTC*
+*Last updated at 2026-05-31 19:22:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
