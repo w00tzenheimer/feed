@@ -47,13 +47,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [minestrate/orchestrator](https://github.com/minestrate/orchestrator) to [SaruMC/orchestrator](https://github.com/SaruMC/orchestrator)
   > Spin up isolated Minecraft servers on demand via REST
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [aristoapp/awesome-second-brain](https://github.com/aristoapp/awesome-second-brain)
+  > A curated list of resources for making AI agents truly understand you through Context Engineering.
+
+### [papstuc](https://github.com/papstuc)
+- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
+  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
+
 
 <!-- nav -->
 [← 2026-05-30](archive/2026/05/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-31 21:04:03 UTC*
+*Last updated at 2026-05-31 23:04:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
