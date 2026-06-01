@@ -25,10 +25,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Simple, header-only, pattern matching and patching class + tool written in modern C++.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP) to [CrackerCat/MogVMP](https://github.com/CrackerCat/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [r8e8cd8/jni-forward-unidbg](https://github.com/r8e8cd8/jni-forward-unidbg) to [CrackerCat/jni-forward-unidbg](https://github.com/CrackerCat/jni-forward-unidbg)
+  > Unidbg with real device JNI forwarding agent
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
+  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Squid-Proxy-Lovers/ccp](https://github.com/Squid-Proxy-Lovers/ccp)
+  > Cephalopod Coordination Protocol (CCP) is a Rust-based client-server protocol for fast, reliable coo...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public)
   > Public repository of 2026 crackmes.one CTF RE challenge
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mudler/parakeet.cpp](https://github.com/mudler/parakeet.cpp)
+  > Parakeet implementation in C++ with ggml
 
 
 <!-- nav -->
@@ -36,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-01 04:43:19 UTC*
+*Last updated at 2026-06-01 10:23:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
