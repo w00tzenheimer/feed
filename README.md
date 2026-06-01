@@ -1,7 +1,7 @@
-# Daily GitHub Activity (2026-05-31)
+# Daily GitHub Activity (2026-06-01)
 
 <!-- nav -->
-[← 2026-05-30](archive/2026/05/30.md)
+[← 2026-05-31](archive/2026/05/31.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
@@ -9,59 +9,34 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [19h/ida-codedump](https://github.com/19h/ida-codedump)
-  > An IDA Pro plugin that lifts functions and their dependencies out of IDA Pro into self-contained art...
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+  > Using system APIs directly with adb/root privileges from normal apps through a Java process started ...
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge) to [CrackerCat/PseudoForge](https://github.com/CrackerCat/PseudoForge)
-  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook) to [CrackerCat/xiaojianbang-stealth-hook](https://github.com/CrackerCat/xiaojianbang-stealth-hook)
-  > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ringtailsoftware/uvm32](https://github.com/ringtailsoftware/uvm32) to [CrackerCat/uvm32](https://github.com/CrackerCat/uvm32)
-  > Minimalist, dependency-free virtual machine sandbox for microcontrollers and other resource-constrai...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elyelysiox/recaptcha-vm](https://github.com/elyelysiox/recaptcha-vm) to [CrackerCat/recaptcha-vm](https://github.com/CrackerCat/recaptcha-vm)
-  > Reverse Engineered reCAPTCHA VM
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elyelysiox/recaptcha](https://github.com/elyelysiox/recaptcha) to [CrackerCat/elyelysiox-recaptcha](https://github.com/CrackerCat/elyelysiox-recaptcha)
-  > Documentation and reverse engineering of reCAPTCHA
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/dexbgd](https://github.com/arkup/dexbgd) to [CrackerCat/dexbgd](https://github.com/CrackerCat/dexbgd)
+  > A native Android DEX debugger with bytecode-level stepping, live variable inspection, and runtime ma...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt) to [CrackerCat/themida-devirt](https://github.com/CrackerCat/themida-devirt)
+  > Themida Devirt Results
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/tc_deer](https://github.com/arkup/tc_deer) to [CrackerCat/tc_deer](https://github.com/CrackerCat/tc_deer)
+  > TriCore decompiler plugin for IDA Pro 9.2+
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/bgd](https://github.com/arkup/bgd) to [CrackerCat/bgd](https://github.com/CrackerCat/bgd)
+  > Windows x64 debugger that captures a live process and replays it offline in an emulator
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DeLuks2006/patimat](https://github.com/DeLuks2006/patimat) to [CrackerCat/patimat](https://github.com/CrackerCat/patimat)
+  > Simple, header-only, pattern matching and patching class + tool written in modern C++.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP) to [CrackerCat/MogVMP](https://github.com/CrackerCat/MogVMP)
+  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
 
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [najmus-sakib-hossain/gpui](https://github.com/najmus-sakib-hossain/gpui)
-  > 🏗️ Single-Binary GPUI Desktop App — Pure Rust multimedia powerhouse with Video, 3D, Audio, PDF, Docu...
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [najmus-sakib-hossain/gpui](https://github.com/najmus-sakib-hossain/gpui) to [IuvenisSapiens/gpui](https://github.com/IuvenisSapiens/gpui)
-  > 🏗️ Single-Binary GPUI Desktop App — Pure Rust multimedia powerhouse with Video, 3D, Audio, PDF, Docu...
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yangwenbo99/touying2video](https://github.com/yangwenbo99/touying2video)
-  > Converting a typst presentation (by touying) to a presentation video with AI voice over.
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [solvixx/typst-writer](https://github.com/solvixx/typst-writer) to [IuvenisSapiens/typst-writer](https://github.com/IuvenisSapiens/typst-writer)
-  > A cross-platform WYSIWYG editor for Typst documents, featuring a component-based UI built with GPUI.
-
-### [MaxtorCoder](https://github.com/MaxtorCoder)
-- 🌟 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-  > Master programming by recreating your favorite technologies from scratch.
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [edmcman/ooanalyzer-asp](https://github.com/edmcman/ooanalyzer-asp)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Vector35/darwin_typelib](https://github.com/Vector35/darwin_typelib)
-  > Darwin (iOS, macOS) Type Library Generation
-
-### [mitsuakki](https://github.com/mitsuakki)
-- 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [minestrate/orchestrator](https://github.com/minestrate/orchestrator) to [SaruMC/orchestrator](https://github.com/SaruMC/orchestrator)
-  > Spin up isolated Minecraft servers on demand via REST
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [aristoapp/awesome-second-brain](https://github.com/aristoapp/awesome-second-brain)
-  > A curated list of resources for making AI agents truly understand you through Context Engineering.
-
-### [papstuc](https://github.com/papstuc)
-- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
-  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public)
+  > Public repository of 2026 crackmes.one CTF RE challenge
 
 
 <!-- nav -->
-[← 2026-05-30](archive/2026/05/30.md)
+[← 2026-05-31](archive/2026/05/31.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-05-31 23:04:02 UTC*
+*Last updated at 2026-06-01 04:43:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/05) directory.*
 <!-- /archive-link -->
