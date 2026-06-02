@@ -1,54 +1,21 @@
-# Daily GitHub Activity (2026-06-01)
+# Daily GitHub Activity (2026-06-02)
 
 <!-- nav -->
-[← 2026-05-31](archive/2026/05/31.md)
+[← 2026-06-01](archive/2026/06/01.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
-  > Using system APIs directly with adb/root privileges from normal apps through a Java process started ...
-
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/dexbgd](https://github.com/arkup/dexbgd) to [CrackerCat/dexbgd](https://github.com/CrackerCat/dexbgd)
-  > A native Android DEX debugger with bytecode-level stepping, live variable inspection, and runtime ma...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt) to [CrackerCat/themida-devirt](https://github.com/CrackerCat/themida-devirt)
-  > Themida Devirt Results
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/tc_deer](https://github.com/arkup/tc_deer) to [CrackerCat/tc_deer](https://github.com/CrackerCat/tc_deer)
-  > TriCore decompiler plugin for IDA Pro 9.2+
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/bgd](https://github.com/arkup/bgd) to [CrackerCat/bgd](https://github.com/CrackerCat/bgd)
-  > Windows x64 debugger that captures a live process and replays it offline in an emulator
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DeLuks2006/patimat](https://github.com/DeLuks2006/patimat) to [CrackerCat/patimat](https://github.com/CrackerCat/patimat)
-  > Simple, header-only, pattern matching and patching class + tool written in modern C++.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP) to [CrackerCat/MogVMP](https://github.com/CrackerCat/MogVMP)
-  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [r8e8cd8/jni-forward-unidbg](https://github.com/r8e8cd8/jni-forward-unidbg) to [CrackerCat/jni-forward-unidbg](https://github.com/CrackerCat/jni-forward-unidbg)
-  > Unidbg with real device JNI forwarding agent
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
-  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Squid-Proxy-Lovers/ccp](https://github.com/Squid-Proxy-Lovers/ccp)
-  > Cephalopod Coordination Protocol (CCP) is a Rust-based client-server protocol for fast, reliable coo...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public)
-  > Public repository of 2026 crackmes.one CTF RE challenge
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mudler/parakeet.cpp](https://github.com/mudler/parakeet.cpp)
-  > Parakeet implementation in C++ with ggml
-
+The users you follow have no public activity today that matches the filter criteria.
 
 <!-- nav -->
-[← 2026-05-31](archive/2026/05/31.md)
+[← 2026-06-01](archive/2026/06/01.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-01 23:05:31 UTC*
+*Last updated at 2026-06-02 04:22:44 UTC*
 <!-- archive-link -->
-*Historical records are stored in the [`archive`](archive/2026/05) directory.*
+*Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
