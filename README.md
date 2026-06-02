@@ -49,6 +49,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sgraham/sqbe](https://github.com/sgraham/sqbe)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adam-040/Enigma](https://github.com/adam-040/Enigma)
+  > C++ reimplementation of Ghidra's analytical core (SoftwareModeling + Utility), stripped of Java/JVM ...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [iAnonymous3000/metadata-remover](https://github.com/iAnonymous3000/metadata-remover)
 
@@ -62,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-02 18:42:46 UTC*
+*Last updated at 2026-06-02 21:51:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
