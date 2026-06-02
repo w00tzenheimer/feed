@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
+  > Static devirtualizer for VMProtect 3.0-3.5. Lifts virtualized code to LLVM using Remill and strips t...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MapleSwan/enum_real_dirbase](https://github.com/MapleSwan/enum_real_dirbase) to [CrackerCat/enum_real_dirbase](https://github.com/CrackerCat/enum_real_dirbase)
   > 从MmPfnData中枚举进程和页目录基址
@@ -42,8 +46,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [huggingface/hf-mount](https://github.com/huggingface/hf-mount) to [jedisct1/hf-mount-encrypted](https://github.com/jedisct1/hf-mount-encrypted)
   > Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sgraham/sqbe](https://github.com/sgraham/sqbe)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [iAnonymous3000/metadata-remover](https://github.com/iAnonymous3000/metadata-remover)
+
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [curtisgalloway/paniolo](https://github.com/curtisgalloway/paniolo)
+  > Agent-friendly embedded target control: boot, serial, HID, HDMI capture, OCR
 
 
 <!-- nav -->
@@ -51,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-02 14:07:51 UTC*
+*Last updated at 2026-06-02 18:42:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
