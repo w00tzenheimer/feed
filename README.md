@@ -8,10 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
-  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
-
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MapleSwan/enum_real_dirbase](https://github.com/MapleSwan/enum_real_dirbase) to [CrackerCat/enum_real_dirbase](https://github.com/CrackerCat/enum_real_dirbase)
   > 从MmPfnData中枚举进程和页目录基址
@@ -26,9 +22,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ABI-ZTROS/AuroraSU](https://github.com/ABI-ZTROS/AuroraSU) to [CrackerCat/AuroraSU](https://github.com/CrackerCat/AuroraSU)
   > AuroraSU - Advanced Universal Root Overlay for Android
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [inspiros/typst-deixis](https://github.com/inspiros/typst-deixis)
+  > Typeset decoupled notes, connectors, and spatial highlights in Typst.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [inspiros/typst-deixis](https://github.com/inspiros/typst-deixis) to [IuvenisSapiens/typst-deixis](https://github.com/IuvenisSapiens/typst-deixis)
+  > Typeset decoupled notes, connectors, and spatial highlights in Typst.
+
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [ravinahp/flights-mcp](https://github.com/ravinahp/flights-mcp) to [NielsRogge/flights-mcp](https://github.com/NielsRogge/flights-mcp)
+  > An MCP server to search for flights.
+
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
+  > Bash for Agents
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) to [jedisct1/mlx-lm](https://github.com/jedisct1/mlx-lm)
   > Run LLMs with MLX
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [huggingface/hf-mount](https://github.com/huggingface/hf-mount) to [jedisct1/hf-mount-encrypted](https://github.com/jedisct1/hf-mount-encrypted)
+  > Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [iAnonymous3000/metadata-remover](https://github.com/iAnonymous3000/metadata-remover)
@@ -39,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-02 09:11:12 UTC*
+*Last updated at 2026-06-02 14:07:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
