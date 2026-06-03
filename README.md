@@ -25,6 +25,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A starter for ScreenCapture
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Mikachu2333/sc_starter](https://github.com/Mikachu2333/sc_starter) to [IuvenisSapiens/sc_starter](https://github.com/IuvenisSapiens/sc_starter)
   > A starter for ScreenCapture
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V)
+  > Light Image Video Generation Inference Framework
 
 ### [MaxtorCoder](https://github.com/MaxtorCoder)
 - 🌟 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
@@ -41,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [danfry1/bonsai-js](https://github.com/danfry1/bonsai-js)
   > A safe, zero-dependency expression language for rules, filters, and templates
+
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [uhop/stream-json](https://github.com/uhop/stream-json)
+  > A micro-library of stream components for building custom JSON and JSONC processing pipelines with a ...
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
@@ -60,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-03 14:47:27 UTC*
+*Last updated at 2026-06-03 18:48:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
