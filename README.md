@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🍴 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Forked [bdbai/nyquest](https://github.com/bdbai/nyquest) to [Chaoses-Ib/nyquest](https://github.com/Chaoses-Ib/nyquest)
+  > truly platform-native Rust HTTP client library
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [clarkluoluo/clark-utov](https://github.com/clarkluoluo/clark-utov) to [CrackerCat/clark-utov](https://github.com/CrackerCat/clark-utov)
   > clark-utov — automation + ledger tool for native algorithm recovery (public)
@@ -38,6 +42,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [danfry1/bonsai-js](https://github.com/danfry1/bonsai-js)
   > A safe, zero-dependency expression language for rules, filters, and templates
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+  > TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive ...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [azw413/Glass](https://github.com/azw413/Glass)
   > Glass - a fast and free IDA Pro alternative
@@ -52,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-03 09:55:43 UTC*
+*Last updated at 2026-06-03 14:47:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
