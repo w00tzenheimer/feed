@@ -15,6 +15,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [riven-labs/unstrip](https://github.com/riven-labs/unstrip) to [CrackerCat/unstrip](https://github.com/CrackerCat/unstrip)
   > Recover symbols, types, interfaces, and method signatures from stripped Go binaries. Ghidra, IDA, an...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [suyancc/openai-plus-vxt](https://github.com/suyancc/openai-plus-vxt) to [CrackerCat/openai-plus-vxt](https://github.com/CrackerCat/openai-plus-vxt)
+  > 一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dongshuyan/Awesome-Prompts](https://github.com/dongshuyan/Awesome-Prompts) to [CrackerCat/Awesome-Prompts](https://github.com/CrackerCat/Awesome-Prompts)
+  > 分享一下自创以及打野得到的各种优质prompt
+
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
+  > JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [facebookresearch/ProgramBench](https://github.com/facebookresearch/ProgramBench)
+  > Can Language Models Rebuild Programs From Scratch?
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yogthos/wavescope-mcp](https://github.com/yogthos/wavescope-mcp)
+  > Wavelet-based multi-resolution context management for LLMs via MCP
 
 ### [niieani](https://github.com/niieani)
 - 🍴 👤 [niieani](https://github.com/niieani) Forked [open-cli-collective/atlassian-cli](https://github.com/open-cli-collective/atlassian-cli) to [niieani/atlassian-cli](https://github.com/niieani/atlassian-cli)
@@ -28,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-04 08:52:04 UTC*
+*Last updated at 2026-06-04 11:59:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
