@@ -38,13 +38,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS)
   > Miso TTS is an 8 billion, highly emotive text-to-speech model
 
+### [vitosans](https://github.com/vitosans)
+- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+  > Fully automatic censorship removal for language models
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [p-e-w/heretic](https://github.com/p-e-w/heretic) to [vitosans/heretic](https://github.com/vitosans/heretic)
+  > Fully automatic censorship removal for language models
+
 
 <!-- nav -->
 [← 2026-06-03](archive/2026/06/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-04 11:59:48 UTC*
+*Last updated at 2026-06-04 15:36:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
