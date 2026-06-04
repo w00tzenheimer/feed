@@ -9,7 +9,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [the-database/yosh-rust](https://github.com/the-database/yosh-rust)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [the-database/yosh](https://github.com/the-database/yosh)
+  > A lean, high-throughput local manga/comic reader in Rust
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [riven-labs/unstrip](https://github.com/riven-labs/unstrip) to [CrackerCat/unstrip](https://github.com/CrackerCat/unstrip)
@@ -27,7 +28,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-04 04:27:07 UTC*
+*Last updated at 2026-06-04 08:52:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
