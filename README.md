@@ -43,10 +43,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A circuit-based Boolean satisfiability (SAT) solver
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MetalLikeCuda/mCemm](https://github.com/MetalLikeCuda/mCemm)
   > a GEMM (General Matrix Multiply) kernel generator
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sjmurdoch/gps-special-messages](https://github.com/sjmurdoch/gps-special-messages)
+  > Analysis of the GPS Special Message field
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sjmurdoch/emvlab-tests](https://github.com/sjmurdoch/emvlab-tests)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sjmurdoch/emvdecode](https://github.com/sjmurdoch/emvdecode)
+  > Demonstration of decoding EMV data structures
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ryomuk/TangNanoDCJ11MEM](https://github.com/ryomuk/TangNanoDCJ11MEM)
+  > Memory system and UART implemented on Tang Nano 20K for DEC DCJ11 PDP-11 Processor
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
   > A Ghidra agentic reverse engineering skill.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy)
+  > The code coverage tool for Python
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime)
@@ -62,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-05 15:57:12 UTC*
+*Last updated at 2026-06-05 18:03:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
