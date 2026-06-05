@@ -65,6 +65,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime)
   > Magenta RealTime 2: An Open-Weights Live Music Model
 
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [openai/tart](https://github.com/openai/tart)
+  > macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [crc-org/vfkit](https://github.com/crc-org/vfkit)
+
 ### [tomrus88](https://github.com/tomrus88)
 - 🌟 👤 [tomrus88](https://github.com/tomrus88) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
   > Yet another llvm based obfuscator based on goron.
@@ -75,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-05 20:49:02 UTC*
+*Last updated at 2026-06-05 22:18:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
