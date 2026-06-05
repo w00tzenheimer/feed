@@ -26,8 +26,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [saileaxh/iida-dfs](https://github.com/saileaxh/iida-dfs) to [CrackerCat/iida-dfs](https://github.com/CrackerCat/iida-dfs)
   > Machine-learning-based function similarity analysis that helps you quickly locate matching functions...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [smthemex/ComfyUI_JoyAI_Echo](https://github.com/smthemex/ComfyUI_JoyAI_Echo)
+  > Pushing the Frontier of Long Video Generation  Standalone, inference-only release for minute-level m...
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV)
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [google/private-membership](https://github.com/google/private-membership)
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nbulsi/also](https://github.com/nbulsi/also)
+  > A logic synthesis tool
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nbulsi/cirsat](https://github.com/nbulsi/cirsat)
+  > A circuit-based Boolean satisfiability (SAT) solver
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MetalLikeCuda/mCemm](https://github.com/MetalLikeCuda/mCemm)
+  > a GEMM (General Matrix Multiply) kernel generator
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
@@ -47,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-05 12:46:04 UTC*
+*Last updated at 2026-06-05 15:57:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
