@@ -33,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV)
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [littledivy/laufey](https://github.com/littledivy/laufey)
+  > Modern web native application framework
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [google/private-membership](https://github.com/google/private-membership)
 
@@ -71,7 +75,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-05 18:03:46 UTC*
+*Last updated at 2026-06-05 20:49:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
