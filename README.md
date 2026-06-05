@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
+  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV) to [CrackerCat/Type2-AMD-HV](https://github.com/CrackerCat/Type2-AMD-HV)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [CrackerCat/daily_stock_analysis](https://github.com/CrackerCat/daily_stock_analysis)
@@ -19,13 +23,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Windows kernel-mode minifilter driver providing process monitoring, memory inspection, filesystem/re...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OwenPawl/ghidra-re-skill](https://github.com/OwenPawl/ghidra-re-skill) to [CrackerCat/ghidra-re-skill](https://github.com/CrackerCat/ghidra-re-skill)
   > Codex Ghidra reverse engineering skill with headless workflows, bug-hunting bundles, and a live brid...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [saileaxh/iida-dfs](https://github.com/saileaxh/iida-dfs) to [CrackerCat/iida-dfs](https://github.com/CrackerCat/iida-dfs)
+  > Machine-learning-based function similarity analysis that helps you quickly locate matching functions...
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
+  > A Ghidra agentic reverse engineering skill.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime)
   > Magenta RealTime 2: An Open-Weights Live Music Model
+
+### [tomrus88](https://github.com/tomrus88)
+- 🌟 👤 [tomrus88](https://github.com/tomrus88) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
+  > Yet another llvm based obfuscator based on goron.
 
 
 <!-- nav -->
@@ -33,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-05 09:59:27 UTC*
+*Last updated at 2026-06-05 12:46:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
