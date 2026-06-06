@@ -1,86 +1,21 @@
-# Daily GitHub Activity (2026-06-05)
+# Daily GitHub Activity (2026-06-06)
 
 <!-- nav -->
-[← 2026-06-04](archive/2026/06/04.md)
+[← 2026-06-05](archive/2026/06/05.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
-  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
-
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV) to [CrackerCat/Type2-AMD-HV](https://github.com/CrackerCat/Type2-AMD-HV)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [CrackerCat/daily_stock_analysis](https://github.com/CrackerCat/daily_stock_analysis)
-  > LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system fo...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Hime7864/smm-dtc](https://github.com/Hime7864/smm-dtc) to [CrackerCat/smm-dtc](https://github.com/CrackerCat/smm-dtc)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli) to [CrackerCat/ghidra-cli](https://github.com/CrackerCat/ghidra-cli)
-  > Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer s...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eltavine/UserDrivenKernelAgent](https://github.com/eltavine/UserDrivenKernelAgent) to [CrackerCat/UserDrivenKernelAgent](https://github.com/CrackerCat/UserDrivenKernelAgent)
-  > Windows kernel-mode minifilter driver providing process monitoring, memory inspection, filesystem/re...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OwenPawl/ghidra-re-skill](https://github.com/OwenPawl/ghidra-re-skill) to [CrackerCat/ghidra-re-skill](https://github.com/CrackerCat/ghidra-re-skill)
-  > Codex Ghidra reverse engineering skill with headless workflows, bug-hunting bundles, and a live brid...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [saileaxh/iida-dfs](https://github.com/saileaxh/iida-dfs) to [CrackerCat/iida-dfs](https://github.com/CrackerCat/iida-dfs)
-  > Machine-learning-based function similarity analysis that helps you quickly locate matching functions...
-
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [smthemex/ComfyUI_JoyAI_Echo](https://github.com/smthemex/ComfyUI_JoyAI_Echo)
-  > Pushing the Frontier of Long Video Generation  Standalone, inference-only release for minute-level m...
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV)
-
-### [ggoodman](https://github.com/ggoodman)
-- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [littledivy/laufey](https://github.com/littledivy/laufey)
-  > Modern web native application framework
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [google/private-membership](https://github.com/google/private-membership)
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nbulsi/also](https://github.com/nbulsi/also)
-  > A logic synthesis tool
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nbulsi/cirsat](https://github.com/nbulsi/cirsat)
-  > A circuit-based Boolean satisfiability (SAT) solver
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MetalLikeCuda/mCemm](https://github.com/MetalLikeCuda/mCemm)
-  > a GEMM (General Matrix Multiply) kernel generator
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sjmurdoch/gps-special-messages](https://github.com/sjmurdoch/gps-special-messages)
-  > Analysis of the GPS Special Message field
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sjmurdoch/emvlab-tests](https://github.com/sjmurdoch/emvlab-tests)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sjmurdoch/emvdecode](https://github.com/sjmurdoch/emvdecode)
-  > Demonstration of decoding EMV data structures
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ryomuk/TangNanoDCJ11MEM](https://github.com/ryomuk/TangNanoDCJ11MEM)
-  > Memory system and UART implemented on Tang Nano 20K for DEC DCJ11 PDP-11 Processor
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
-  > A Ghidra agentic reverse engineering skill.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy)
-  > The code coverage tool for Python
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime)
-  > Magenta RealTime 2: An Open-Weights Live Music Model
-
-### [pwnall](https://github.com/pwnall)
-- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [openai/tart](https://github.com/openai/tart)
-  > macOS and Linux VMs on Apple Silicon to use in CI and other automations
-- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [crc-org/vfkit](https://github.com/crc-org/vfkit)
-
-### [tomrus88](https://github.com/tomrus88)
-- 🌟 👤 [tomrus88](https://github.com/tomrus88) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
-  > Yet another llvm based obfuscator based on goron.
-
+The users you follow have no public activity today that matches the filter criteria.
 
 <!-- nav -->
-[← 2026-06-04](archive/2026/06/04.md)
+[← 2026-06-05](archive/2026/06/05.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-05 22:18:03 UTC*
+*Last updated at 2026-06-06 00:11:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
