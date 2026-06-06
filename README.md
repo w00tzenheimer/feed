@@ -37,6 +37,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
   > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [simonw/micropython-wasm](https://github.com/simonw/micropython-wasm)
+  > Python library for running a MicroPython sandbox using WebAssembly
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [importRyan/Muggle](https://github.com/importRyan/Muggle)
@@ -47,6 +49,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Effect first Actor-based state management
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openclaw/agent-skills](https://github.com/openclaw/agent-skills)
   > Useful skills for agents and claws.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [AlemTuzlak/kiira](https://github.com/AlemTuzlak/kiira)
+  > Type-check the TypeScript & JavaScript code in your Markdown against your real project — in your edi...
 
 
 <!-- nav -->
@@ -54,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-06 18:10:22 UTC*
+*Last updated at 2026-06-06 20:12:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
