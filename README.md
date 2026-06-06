@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [rednote-hilab/dots.tts](https://github.com/rednote-hilab/dots.tts)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [rednote-hilab/dots.tts](https://github.com/rednote-hilab/dots.tts) to [IuvenisSapiens/dots.tts](https://github.com/IuvenisSapiens/dots.tts)
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [a-yiorgos/wambook](https://github.com/a-yiorgos/wambook)
+  > Warren's Abstract Machine: A Tutorial Reconstruction by Hassan Ait-Kaci
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
   > Yet another llvm based obfuscator based on goron.
@@ -38,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-06 10:08:47 UTC*
+*Last updated at 2026-06-06 12:07:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
