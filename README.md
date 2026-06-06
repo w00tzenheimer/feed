@@ -13,6 +13,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cctv18/oppo_oplus_realme_sm8850](https://github.com/cctv18/oppo_oplus_realme_sm8850) to [CrackerCat/oppo_oplus_realme_sm8850](https://github.com/CrackerCat/oppo_oplus_realme_sm8850)
   > An automatic kernel builder for Oppo/Oneplus/Realme Snapdragon sm8850 series in a completely new way...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Project-Silicium/Mu-Silicium](https://github.com/Project-Silicium/Mu-Silicium) to [CrackerCat/Mu-Silicium](https://github.com/CrackerCat/Mu-Silicium)
+  > Project Mu Port for ARM64-Based Devices
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cctv18/gki_build_action](https://github.com/cctv18/gki_build_action) to [CrackerCat/gki_build_action](https://github.com/CrackerCat/gki_build_action)
+  > An automatic kernel builder for 5.10 gki
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [NJU-Speech/Foley-Omni](https://github.com/NJU-Speech/Foley-Omni)
@@ -30,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
   > Yet another llvm based obfuscator based on goron.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
+  > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [importRyan/Muggle](https://github.com/importRyan/Muggle)
   > Muggle is an open source, privacy-friendly alternative to apps by Bluetooth smart mug manufacturers....
@@ -42,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-06 12:07:50 UTC*
+*Last updated at 2026-06-06 14:44:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
