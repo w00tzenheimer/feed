@@ -43,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Muggle is an open source, privacy-friendly alternative to apps by Bluetooth smart mug manufacturers....
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [matthewnitschke/EmberMate](https://github.com/matthewnitschke/EmberMate)
   > A menubar application for controlling ember mugs
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Handfish/effstate](https://github.com/Handfish/effstate)
+  > Effect first Actor-based state management
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [openclaw/agent-skills](https://github.com/openclaw/agent-skills)
+  > Useful skills for agents and claws.
 
 
 <!-- nav -->
@@ -50,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-06 14:44:51 UTC*
+*Last updated at 2026-06-06 16:09:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
