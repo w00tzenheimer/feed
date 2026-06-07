@@ -29,6 +29,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [neuregex/ComfyUI-BerniniR](https://github.com/neuregex/ComfyUI-BerniniR)
   > ByteDance Bernini-R (Wan2.2-T2V-A14B + source-id RoPE + APG) for ComfyUI: t2v/t2i, image & video edi...
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std)
+  > Capability-oriented version of the Rust standard library
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
   > Transform binaries into source-code-like projects that coding agents can traverse, analyze, and use ...
@@ -39,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-07 20:15:28 UTC*
+*Last updated at 2026-06-07 22:08:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
