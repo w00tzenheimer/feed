@@ -29,13 +29,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [neuregex/ComfyUI-BerniniR](https://github.com/neuregex/ComfyUI-BerniniR)
   > ByteDance Bernini-R (Wan2.2-T2V-A14B + source-id RoPE + APG) for ComfyUI: t2v/t2i, image & video edi...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
+  > Transform binaries into source-code-like projects that coding agents can traverse, analyze, and use ...
+
 
 <!-- nav -->
 [← 2026-06-06](archive/2026/06/06.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-07 05:25:16 UTC*
+*Last updated at 2026-06-07 09:20:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
