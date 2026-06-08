@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [josh-project/josh](https://github.com/josh-project/josh)
+  > Git at scale platform
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit) to [CrackerCat/KernelResearchKit](https://github.com/CrackerCat/KernelResearchKit)
   > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
@@ -31,6 +35,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Glass - a fast and free IDA Pro alternative
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry)
   > This project aims to compare and evaluate the telemetry of various EDR products.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bombaris34/il2cpp-pdb](https://github.com/bombaris34/il2cpp-pdb)
+  > Il2CppDumper fork with a native Rust PDB generator for x64 PE (GameAssembly.dll): function names, fu...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fabro-sh/fabro](https://github.com/fabro-sh/fabro)
@@ -42,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-08 16:00:53 UTC*
+*Last updated at 2026-06-08 19:22:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
