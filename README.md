@@ -1,49 +1,21 @@
-# Daily GitHub Activity (2026-06-07)
+# Daily GitHub Activity (2026-06-08)
 
 <!-- nav -->
-[← 2026-06-06](archive/2026/06/06.md)
+[← 2026-06-07](archive/2026/06/07.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [momo5502/ept-hook-detection](https://github.com/momo5502/ept-hook-detection)
-  > 🪝 Various EPT hook detection approaches
-
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🍴 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Forked [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) to [Chaoses-Ib/rustfmt](https://github.com/Chaoses-Ib/rustfmt)
-  > Format Rust code
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [ecoricemon/syn-locator](https://github.com/ecoricemon/syn-locator)
-  > A source mapper for syn syntax trees
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [ecoricemon/syn-sem](https://github.com/ecoricemon/syn-sem)
-  > An experimental semantic analyzer for a subset of Rust
-
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) to [CrackerCat/defending-code-reference-harness](https://github.com/CrackerCat/defending-code-reference-harness)
-  > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
-
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [RH-RunningHub/ComfyUI-RH-Bernini](https://github.com/RH-RunningHub/ComfyUI-RH-Bernini)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [neuregex/ComfyUI-BerniniR](https://github.com/neuregex/ComfyUI-BerniniR)
-  > ByteDance Bernini-R (Wan2.2-T2V-A14B + source-id RoPE + APG) for ComfyUI: t2v/t2i, image & video edi...
-
-### [ggoodman](https://github.com/ggoodman)
-- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std)
-  > Capability-oriented version of the Rust standard library
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
-  > Transform binaries into source-code-like projects that coding agents can traverse, analyze, and use ...
-
+The users you follow have no new public activity today.
 
 <!-- nav -->
-[← 2026-06-06](archive/2026/06/06.md)
+[← 2026-06-07](archive/2026/06/07.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-07 22:08:03 UTC*
+*Last updated at 2026-06-08 00:13:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
