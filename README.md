@@ -23,10 +23,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [llmsresearch/llm-flashcards](https://github.com/llmsresearch/llm-flashcards)
   > 300+ visual cards covering almost all large language model(LLMs) concepts and architectures. Best fo...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [phamann/js-compute-runtime](https://github.com/phamann/js-compute-runtime)
+  > JavaScript runtime for Fastly Compute@Edge
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [azw413/Glass](https://github.com/azw413/Glass)
   > Glass - a fast and free IDA Pro alternative
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry)
+  > This project aims to compare and evaluate the telemetry of various EDR products.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [fabro-sh/fabro](https://github.com/fabro-sh/fabro)
@@ -38,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-08 11:04:46 UTC*
+*Last updated at 2026-06-08 16:00:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
