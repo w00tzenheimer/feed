@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kwansy98/windbgskill](https://github.com/Kwansy98/windbgskill) to [CrackerCat/windbgskill](https://github.com/CrackerCat/windbgskill)
   > The windbg skill gives AI the ability to execute WinDbg commands. Typical use cases include kernel d...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dhoard/codex-profiles](https://github.com/dhoard/codex-profiles)
+  > Codex profiles
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
 
@@ -32,13 +36,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [saoudrizwan](https://github.com/saoudrizwan) Starred [cline/plugins](https://github.com/cline/plugins)
   > Official curated plugins for Cline CLI and extensions
 
+### [woct0rdho](https://github.com/woct0rdho)
+- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [ROCm/rocm-libraries](https://github.com/ROCm/rocm-libraries) to [woct0rdho/rocm-libraries](https://github.com/woct0rdho/rocm-libraries)
+  > super repo for rocm libraries
+
 
 <!-- nav -->
 [← 2026-06-08](archive/2026/06/08.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-09 03:56:20 UTC*
+*Last updated at 2026-06-09 07:56:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
