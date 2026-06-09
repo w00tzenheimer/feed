@@ -39,19 +39,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Draw and style precise time tables with ease in typst.
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Mambouna/timble](https://github.com/Mambouna/timble) to [IuvenisSapiens/timble](https://github.com/IuvenisSapiens/timble)
   > Draw and style precise time tables with ease in typst.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [kijai/ComfyUI-MemoryVisualization](https://github.com/kijai/ComfyUI-MemoryVisualization)
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dhoard/codex-profiles](https://github.com/dhoard/codex-profiles)
   > Codex profiles
 
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [nopoz/pfsense-dnscrypt-proxy](https://github.com/nopoz/pfsense-dnscrypt-proxy)
-  > pfSense package for DNSCrypt Proxy - encrypted DNS with full GUI support
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [estkme-group/lpac](https://github.com/estkme-group/lpac)
   > C-based eUICC LPA
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode)
+  > Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extensio...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Nimrobo/superdense](https://github.com/Nimrobo/superdense)
@@ -74,7 +73,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-09 15:13:14 UTC*
+*Last updated at 2026-06-09 18:10:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
