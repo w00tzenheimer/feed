@@ -1,54 +1,44 @@
-# Daily GitHub Activity (2026-06-08)
+# Daily GitHub Activity (2026-06-09)
 
 <!-- nav -->
-[← 2026-06-07](archive/2026/06/07.md)
+[← 2026-06-08](archive/2026/06/08.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [josh-project/josh](https://github.com/josh-project/josh)
-  > Git at scale platform
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit) to [CrackerCat/KernelResearchKit](https://github.com/CrackerCat/KernelResearchKit)
-  > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PLFJY/ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr) to [CrackerCat/ContextMenuMgr](https://github.com/CrackerCat/ContextMenuMgr)
-  > A Windows context menu management tool with new menu monitoring
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ljy2367765883/EDR-DataProtector](https://github.com/ljy2367765883/EDR-DataProtector) to [CrackerCat/EDR-DataProtector](https://github.com/CrackerCat/EDR-DataProtector)
-  > An experimental intranet security defense EDR
-
-### [goto-bus-stop](https://github.com/goto-bus-stop)
-- 🍴 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Forked [saphyr-rs/saphyr](https://github.com/saphyr-rs/saphyr) to [apollographql/apollo-saphyr](https://github.com/apollographql/apollo-saphyr)
-  > A set of crates dedicated to parsing YAML.
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [llmsresearch/llm-flashcards](https://github.com/llmsresearch/llm-flashcards)
-  > 300+ visual cards covering almost all large language model(LLMs) concepts and architectures. Best fo...
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [phamann/js-compute-runtime](https://github.com/phamann/js-compute-runtime)
-  > JavaScript runtime for Fastly Compute@Edge
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LadyDarknes/League-Offsets](https://github.com/LadyDarknes/League-Offsets) to [CrackerCat/League-Offsets](https://github.com/CrackerCat/League-Offsets)
+  > Updated league offsets
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernullist/knFileCatcher](https://github.com/kernullist/knFileCatcher) to [CrackerCat/knFileCatcher](https://github.com/CrackerCat/knFileCatcher)
+  > A Windows minifilter-backed file capture tool. Tracks processes that run under user-specified watch ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Atomos-X/Camera2Magic](https://github.com/Atomos-X/Camera2Magic) to [CrackerCat/Camera2Magic](https://github.com/CrackerCat/Camera2Magic)
+  > A Virtual Camera, support Android 10+
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kwansy98/windbgskill](https://github.com/Kwansy98/windbgskill) to [CrackerCat/windbgskill](https://github.com/CrackerCat/windbgskill)
+  > The windbg skill gives AI the ability to execute WinDbg commands. Typical use cases include kernel d...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [azw413/Glass](https://github.com/azw413/Glass)
-  > Glass - a fast and free IDA Pro alternative
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry)
-  > This project aims to compare and evaluate the telemetry of various EDR products.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bombaris34/il2cpp-pdb](https://github.com/bombaris34/il2cpp-pdb)
-  > Il2CppDumper fork with a native Rust PDB generator for x64 PE (GameAssembly.dll): function names, fu...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
 
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [fabro-sh/fabro](https://github.com/fabro-sh/fabro)
-  > ⚒️ The open source dark software factory for expert engineers.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Nimrobo/superdense](https://github.com/Nimrobo/superdense)
+
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
+  > Move and resize windows on macOS with keyboard shortcuts and snap areas
+
+### [saoudrizwan](https://github.com/saoudrizwan)
+- 🌟 👤 [saoudrizwan](https://github.com/saoudrizwan) Starred [cline/plugins](https://github.com/cline/plugins)
+  > Official curated plugins for Cline CLI and extensions
 
 
 <!-- nav -->
-[← 2026-06-07](archive/2026/06/07.md)
+[← 2026-06-08](archive/2026/06/08.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-08 23:13:47 UTC*
+*Last updated at 2026-06-09 03:56:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
