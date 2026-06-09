@@ -45,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dhoard/codex-profiles](https://github.com/dhoard/codex-profiles)
   > Codex profiles
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [always-further/runseal](https://github.com/always-further/runseal)
+  > Sealed execution environment for GitHub Actions. Stop supply chain attacks dead in their tracks.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [estkme-group/lpac](https://github.com/estkme-group/lpac)
@@ -54,6 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Nimrobo/superdense](https://github.com/Nimrobo/superdense)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [boristane/agent-skills](https://github.com/boristane/agent-skills)
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
@@ -73,7 +78,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-09 18:10:33 UTC*
+*Last updated at 2026-06-09 21:01:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
