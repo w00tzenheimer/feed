@@ -17,6 +17,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Virtual Camera, support Android 10+
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kwansy98/windbgskill](https://github.com/Kwansy98/windbgskill) to [CrackerCat/windbgskill](https://github.com/CrackerCat/windbgskill)
   > The windbg skill gives AI the ability to execute WinDbg commands. Typical use cases include kernel d...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dzxpert/VMXH](https://github.com/dzxpert/VMXH) to [CrackerCat/VMXH](https://github.com/CrackerCat/VMXH)
+  > probably an HV holy grail 
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [binsync/declib](https://github.com/binsync/declib) to [CrackerCat/declib](https://github.com/CrackerCat/declib)
+  > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) to [CrackerCat/CPA-Manager-Plus](https://github.com/CrackerCat/CPA-Manager-Plus)
+  > Management panel for CLI Proxy API with a Docker-ready Manager Server, SQLite usage analytics, reque...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ximeiorg/Xime](https://github.com/ximeiorg/Xime) to [CrackerCat/Xime](https://github.com/CrackerCat/Xime)
+  > 我的自用安卓输入法，基于Rime 构建，支持五笔/拼音/自定义方案。相关功能由本人设计的本地AI模型驱动
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) to [CrackerCat/mlir-tutorial](https://github.com/CrackerCat/mlir-tutorial)
+  > MLIR For Beginners tutorial
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [teismar/typst-zeitline](https://github.com/teismar/typst-zeitline)
@@ -40,6 +50,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [estkme-group/lpac](https://github.com/estkme-group/lpac)
+  > C-based eUICC LPA
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Nimrobo/superdense](https://github.com/Nimrobo/superdense)
@@ -62,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-09 11:23:40 UTC*
+*Last updated at 2026-06-09 15:13:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
