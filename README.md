@@ -18,9 +18,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kwansy98/windbgskill](https://github.com/Kwansy98/windbgskill) to [CrackerCat/windbgskill](https://github.com/CrackerCat/windbgskill)
   > The windbg skill gives AI the ability to execute WinDbg commands. Typical use cases include kernel d...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [teismar/typst-zeitline](https://github.com/teismar/typst-zeitline)
+  > A Typst package for plotting timelines.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [remimorvan/timeline-cv-typst](https://github.com/remimorvan/timeline-cv-typst)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [remimorvan/timeline-cv-typst](https://github.com/remimorvan/timeline-cv-typst) to [IuvenisSapiens/timeline-cv-typst](https://github.com/IuvenisSapiens/timeline-cv-typst)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [teismar/typst-zeitline](https://github.com/teismar/typst-zeitline) to [IuvenisSapiens/typst-zeitline](https://github.com/IuvenisSapiens/typst-zeitline)
+  > A Typst package for plotting timelines.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Mambouna/timble](https://github.com/Mambouna/timble)
+  > Draw and style precise time tables with ease in typst.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Mambouna/timble](https://github.com/Mambouna/timble) to [IuvenisSapiens/timble](https://github.com/IuvenisSapiens/timble)
+  > Draw and style precise time tables with ease in typst.
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dhoard/codex-profiles](https://github.com/dhoard/codex-profiles)
   > Codex profiles
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [nopoz/pfsense-dnscrypt-proxy](https://github.com/nopoz/pfsense-dnscrypt-proxy)
+  > pfSense package for DNSCrypt Proxy - encrypted DNS with full GUI support
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
@@ -46,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-09 07:56:26 UTC*
+*Last updated at 2026-06-09 11:23:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
