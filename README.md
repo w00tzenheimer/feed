@@ -23,9 +23,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [apple/coreai-models](https://github.com/apple/coreai-models)
   > Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [zed-industries/zed](https://github.com/zed-industries/zed) to [mrexodia/zed](https://github.com/mrexodia/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie)
-  > Open-source skill and harness for generating production ready Lottie animations with codex/claude co...
+  > Generate production-ready Lottie animations with Claude Code or Codex
 
 ### [saoudrizwan](https://github.com/saoudrizwan)
 - 🍴 👤 [saoudrizwan](https://github.com/saoudrizwan) Forked [anomalyco/models.dev](https://github.com/anomalyco/models.dev) to [saoudrizwan/models.dev](https://github.com/saoudrizwan/models.dev)
@@ -37,7 +41,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-10 08:52:03 UTC*
+*Last updated at 2026-06-10 12:25:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
