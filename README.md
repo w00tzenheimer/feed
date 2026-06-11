@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > QQNT 绕过环境检测，防止冻结/踢下线。
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/ITScape](https://github.com/V4bel/ITScape) to [CrackerCat/ITScape](https://github.com/CrackerCat/ITScape)
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [Livox-SDK/Livox-SDK2](https://github.com/Livox-SDK/Livox-SDK2)
+  > Drivers for receiving LiDAR data and controlling lidar, support Lidar HAP and Mid-360.
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [apple/container](https://github.com/apple/container)
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
@@ -47,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-11 18:18:31 UTC*
+*Last updated at 2026-06-11 21:24:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
