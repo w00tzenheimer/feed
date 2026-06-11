@@ -31,6 +31,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [youssofal/MTPLX](https://github.com/youssofal/MTPLX) to [dip-proto/MTPLX](https://github.com/dip-proto/MTPLX)
   > 2.24x decode TPS increase On Qwen 3.6 27B @ temp 0.6 | Native MTP Speculative Decoding On Apple Sili...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [encrypted-spaces/prototype](https://github.com/encrypted-spaces/prototype)
+  > A cryptographic framework for building collaborative applications over an untrusted server. Research...
 
 ### [johnyob](https://github.com/johnyob)
 - 🌟 👤 [johnyob](https://github.com/johnyob) Starred [H-Yulong/TEAL](https://github.com/H-Yulong/TEAL)
@@ -45,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-11 14:40:45 UTC*
+*Last updated at 2026-06-11 18:18:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
