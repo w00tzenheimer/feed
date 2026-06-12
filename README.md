@@ -17,6 +17,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)
 
+### [hasherezade](https://github.com/hasherezade)
+- 🍴 👤 [hasherezade](https://github.com/hasherezade) Forked [suleram/View8](https://github.com/suleram/View8) to [hasherezade/View8](https://github.com/hasherezade/View8)
+  > View8 - Decompiles serialized V8 objects back into high-level readable code.
+
 ### [ltdrdata](https://github.com/ltdrdata)
 - 🌟 👤 [ltdrdata](https://github.com/ltdrdata) Starred [skishore23/clauden](https://github.com/skishore23/clauden)
   > Automatic Multi-account Claude OAuth rotating proxy
@@ -45,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-12 19:08:46 UTC*
+*Last updated at 2026-06-12 21:51:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
