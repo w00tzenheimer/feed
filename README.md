@@ -30,6 +30,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)
   > An offensive data enrichment pipeline
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
 
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
@@ -43,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-12 12:56:22 UTC*
+*Last updated at 2026-06-12 16:24:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
