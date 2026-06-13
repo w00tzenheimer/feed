@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [bootandy/dust](https://github.com/bootandy/dust)
   > A more intuitive version of du in rust
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [transiient/Nikon-D5300-Firmware-Archive](https://github.com/transiient/Nikon-D5300-Firmware-Archive)
+  > Old Firmware files for the Nikon D5300 DSLR digital camera
+
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [Whispergate/berlin](https://github.com/Whispergate/berlin)
   > Cross-platform CPU-based virtual machine detection framework for modern offensive security.
@@ -32,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-13 14:08:43 UTC*
+*Last updated at 2026-06-13 16:17:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
