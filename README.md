@@ -1,55 +1,30 @@
-# Daily GitHub Activity (2026-06-12)
+# Daily GitHub Activity (2026-06-13)
 
 <!-- nav -->
-[← 2026-06-11](archive/2026/06/11.md)
+[← 2026-06-12](archive/2026/06/12.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [0xBlackash/CVE-2026-0073](https://github.com/0xBlackash/CVE-2026-0073)
-  > CVE-2026-0073
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [Joe1sn/S-inject](https://github.com/Joe1sn/S-inject)
-  > 支持x86/x64的DLL和Shellcode 的Windows注入的免杀工具，支持图形化界面
-
-### [NyaMisty](https://github.com/NyaMisty)
-- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)
-
-### [hasherezade](https://github.com/hasherezade)
-- 🍴 👤 [hasherezade](https://github.com/hasherezade) Forked [suleram/View8](https://github.com/suleram/View8) to [hasherezade/View8](https://github.com/hasherezade/View8)
-  > View8 - Decompiles serialized V8 objects back into high-level readable code.
-
-### [ltdrdata](https://github.com/ltdrdata)
-- 🌟 👤 [ltdrdata](https://github.com/ltdrdata) Starred [skishore23/clauden](https://github.com/skishore23/clauden)
-  > Automatic Multi-account Claude OAuth rotating proxy
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) to [CrackerCat/cnc-ddraw](https://github.com/CrackerCat/cnc-ddraw)
+  > GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better c...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kinginu/PixelMask](https://github.com/kinginu/PixelMask) to [CrackerCat/PixelMask](https://github.com/CrackerCat/PixelMask)
+  > LSPosed / Vector module that spoofs a Pixel device profile inside Google Photos to unlock Pixel-only...
 
 ### [maskelihileci](https://github.com/maskelihileci)
-- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-  > Self-hosted AI workspace. 
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
-  > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)
-  > An offensive data enrichment pipeline
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
-  > IDA Pro RPC for assisted RE-tasks
-
-### [papstuc](https://github.com/papstuc)
-- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
-  > Make You Happy!
-- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [illera88/Ponce](https://github.com/illera88/Ponce)
-  > IDA 2016 plugin contest winner! Symbolic Execution just one-click away!
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [Whispergate/berlin](https://github.com/Whispergate/berlin)
+  > Cross-platform CPU-based virtual machine detection framework for modern offensive security.
 
 
 <!-- nav -->
-[← 2026-06-11](archive/2026/06/11.md)
+[← 2026-06-12](archive/2026/06/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-12 23:21:28 UTC*
+*Last updated at 2026-06-13 04:12:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
