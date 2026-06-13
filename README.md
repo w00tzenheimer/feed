@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [Whispergate/berlin](https://github.com/Whispergate/berlin)
   > Cross-platform CPU-based virtual machine detection framework for modern offensive security.
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [matu6968/cpptools-proxy](https://github.com/matu6968/cpptools-proxy)
+  > A proxy to allow Microsoft C/C++ language servers to work on VSCode forks 
 
 
 <!-- nav -->
@@ -36,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-13 18:11:47 UTC*
+*Last updated at 2026-06-13 20:18:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
