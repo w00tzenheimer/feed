@@ -14,9 +14,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kinginu/PixelMask](https://github.com/kinginu/PixelMask) to [CrackerCat/PixelMask](https://github.com/CrackerCat/PixelMask)
   > LSPosed / Vector module that spoofs a Pixel device profile inside Google Photos to unlock Pixel-only...
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [bootandy/dust](https://github.com/bootandy/dust)
+  > A more intuitive version of du in rust
+
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [Whispergate/berlin](https://github.com/Whispergate/berlin)
   > Cross-platform CPU-based virtual machine detection framework for modern offensive security.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retooling-io/workshop-nohat25](https://github.com/retooling-io/workshop-nohat25)
+  > Ghost in the Machine: Live Fire Threat Actor Dissection
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CynicRus/DWARFHelper](https://github.com/CynicRus/DWARFHelper)
+  > DWARFHelper is a plugin for x64dbg, designed to load DWARF debug symbols from executable files (e.g....
 
 
 <!-- nav -->
@@ -24,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-13 08:24:04 UTC*
+*Last updated at 2026-06-13 11:18:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
