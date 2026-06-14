@@ -25,6 +25,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT)
+  > Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k to...
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr)
+  > macOS CLI for OCR and searchable PDFs using Apple's Vision framework.
 
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [tw93/Kami](https://github.com/tw93/Kami)
@@ -36,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-14 15:08:00 UTC*
+*Last updated at 2026-06-14 17:23:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
