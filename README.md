@@ -26,13 +26,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
 
+### [quippy-dev](https://github.com/quippy-dev)
+- 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [tw93/Kami](https://github.com/tw93/Kami)
+  > 👩‍🚒 Good content deserves good paper.
+
 
 <!-- nav -->
 [← 2026-06-13](archive/2026/06/13.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-14 12:00:35 UTC*
+*Last updated at 2026-06-14 15:08:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
