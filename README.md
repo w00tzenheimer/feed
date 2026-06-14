@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zengfr/frida-codeshare-scripts](https://github.com/zengfr/frida-codeshare-scripts) to [CrackerCat/frida-codeshare-scripts](https://github.com/CrackerCat/frida-codeshare-scripts)
   > frida-codeshare-scripts.collection of useful FRIDA scripts.A curated list of Frida resources.纯实用frid...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [qianchd/SnapTeX](https://github.com/qianchd/SnapTeX)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [qianchd/SnapTeX](https://github.com/qianchd/SnapTeX) to [IuvenisSapiens/SnapTeX](https://github.com/IuvenisSapiens/SnapTeX)
+
 ### [hasherezade](https://github.com/hasherezade)
 - 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [hasherezade/View8](https://github.com/hasherezade/View8)
   > View8 - Decompiles serialized V8 objects back into high-level readable code.
@@ -42,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr)
   > macOS CLI for OCR and searchable PDFs using Apple's Vision framework.
 
+### [papstuc](https://github.com/papstuc)
+- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [Z3Prover/z3](https://github.com/Z3Prover/z3)
+  > The Z3 Theorem Prover
+
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [tw93/Kami](https://github.com/tw93/Kami)
   > 👩‍🚒 Good content deserves good paper.
@@ -52,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-14 21:17:24 UTC*
+*Last updated at 2026-06-14 23:11:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
