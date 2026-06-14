@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [hasherezade/View8](https://github.com/hasherezade/View8)
   > View8 - Decompiles serialized V8 objects back into high-level readable code.
 
+### [kijai](https://github.com/kijai)
+- 🌟 👤 [kijai](https://github.com/kijai) Starred [woct0rdho/SageAttention](https://github.com/woct0rdho/SageAttention)
+  > Fork of SageAttention for Windows wheels and easy installation
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [justrach/codedb](https://github.com/justrach/codedb)
   > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
@@ -48,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-14 19:41:42 UTC*
+*Last updated at 2026-06-14 21:17:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
