@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zengfr/frida-codeshare-scripts](https://github.com/zengfr/frida-codeshare-scripts) to [CrackerCat/frida-codeshare-scripts](https://github.com/CrackerCat/frida-codeshare-scripts)
   > frida-codeshare-scripts.collection of useful FRIDA scripts.A curated list of Frida resources.纯实用frid...
 
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [hasherezade/View8](https://github.com/hasherezade/View8)
+  > View8 - Decompiles serialized V8 objects back into high-level readable code.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [justrach/codedb](https://github.com/justrach/codedb)
   > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
@@ -44,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-14 17:23:00 UTC*
+*Last updated at 2026-06-14 19:41:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
