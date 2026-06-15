@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A modern X11 server written from scratch in Rust.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wizardengineer/psprecomp](https://github.com/wizardengineer/psprecomp)
   > PSP static recompiler: Rust analyze/decode/emit pipeline producing C++17, with an SDL2 + OpenGL runt...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra)
+  > 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc comman...
 
 ### [saoudrizwan](https://github.com/saoudrizwan)
 - 🍴 👤 [saoudrizwan](https://github.com/saoudrizwan) Forked [anomalyco/models.dev](https://github.com/anomalyco/models.dev) to [cline/models.dev](https://github.com/cline/models.dev)
@@ -44,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-15 16:20:28 UTC*
+*Last updated at 2026-06-15 20:26:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
