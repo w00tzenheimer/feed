@@ -8,15 +8,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that checks its own work.
+
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [biggerstar/wedecode](https://github.com/biggerstar/wedecode)
   > 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [NervJS/taro](https://github.com/NervJS/taro)
   > 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [lballabio/QuantLib](https://github.com/lballabio/QuantLib)
+  > The QuantLib C++ library
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
   > rax is a CPU emulator that checks its own work.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joske/yserver](https://github.com/joske/yserver)
+  > A modern X11 server written from scratch in Rust.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wizardengineer/psprecomp](https://github.com/wizardengineer/psprecomp)
+  > PSP static recompiler: Rust analyze/decode/emit pipeline producing C++17, with an SDL2 + OpenGL runt...
 
 ### [saoudrizwan](https://github.com/saoudrizwan)
 - 🍴 👤 [saoudrizwan](https://github.com/saoudrizwan) Forked [anomalyco/models.dev](https://github.com/anomalyco/models.dev) to [cline/models.dev](https://github.com/cline/models.dev)
@@ -32,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-15 10:56:34 UTC*
+*Last updated at 2026-06-15 16:20:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
