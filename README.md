@@ -31,6 +31,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > PSP static recompiler: Rust analyze/decode/emit pipeline producing C++17, with an SDL2 + OpenGL runt...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra)
   > 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc comman...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
+  > Tool to statically recompile N64 games into native executables
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ### [saoudrizwan](https://github.com/saoudrizwan)
 - 🍴 👤 [saoudrizwan](https://github.com/saoudrizwan) Forked [anomalyco/models.dev](https://github.com/anomalyco/models.dev) to [cline/models.dev](https://github.com/cline/models.dev)
@@ -46,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-15 20:26:48 UTC*
+*Last updated at 2026-06-15 23:04:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
