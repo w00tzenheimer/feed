@@ -13,6 +13,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A cross-platform framework using Vue.js
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [SFML/SFML](https://github.com/SFML/SFML)
   > Simple and Fast Multimedia Library
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [CrazyNutLz/XiNanYiKeStudy](https://github.com/CrazyNutLz/XiNanYiKeStudy)
+  > 西南医科大学专业技术人员继续教育平台学习工具
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lkimuk/ReArk](https://github.com/lkimuk/ReArk) to [CrackerCat/ReArk](https://github.com/CrackerCat/ReArk)
@@ -32,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-16 10:12:10 UTC*
+*Last updated at 2026-06-16 15:59:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
