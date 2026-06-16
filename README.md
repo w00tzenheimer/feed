@@ -1,58 +1,34 @@
-# Daily GitHub Activity (2026-06-15)
+# Daily GitHub Activity (2026-06-16)
 
 <!-- nav -->
-[← 2026-06-14](archive/2026/06/14.md)
+[← 2026-06-15](archive/2026/06/15.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [19h](https://github.com/19h)
-- 🌟 👤 [19h](https://github.com/19h) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
-  > rax is a CPU emulator that checks its own work.
-
 ### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [biggerstar/wedecode](https://github.com/biggerstar/wedecode)
-  > 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [NervJS/taro](https://github.com/NervJS/taro)
-  > 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [lballabio/QuantLib](https://github.com/lballabio/QuantLib)
-  > The QuantLib C++ library
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [dcloudio/uni-app](https://github.com/dcloudio/uni-app)
+  > A cross-platform framework using Vue.js
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [SFML/SFML](https://github.com/SFML/SFML)
+  > Simple and Fast Multimedia Library
 
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
-  > rax is a CPU emulator that checks its own work.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joske/yserver](https://github.com/joske/yserver)
-  > A modern X11 server written from scratch in Rust.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wizardengineer/psprecomp](https://github.com/wizardengineer/psprecomp)
-  > PSP static recompiler: Rust analyze/decode/emit pipeline producing C++17, with an SDL2 + OpenGL runt...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra)
-  > 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc comman...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
-  > Tool to statically recompile N64 games into native executables
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lkimuk/ReArk](https://github.com/lkimuk/ReArk) to [CrackerCat/ReArk](https://github.com/CrackerCat/ReArk)
+  > 鸿蒙 HarmonyOS NEXT HAP/ABC 专业逆向工具，支持反汇编、反编译、Agent智能分析、签名识别、包体浏览、信息查看等功能。
 
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [antirez/ds4](https://github.com/antirez/ds4)
-  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
-
-### [saoudrizwan](https://github.com/saoudrizwan)
-- 🍴 👤 [saoudrizwan](https://github.com/saoudrizwan) Forked [anomalyco/models.dev](https://github.com/anomalyco/models.dev) to [cline/models.dev](https://github.com/cline/models.dev)
-  > An open-source database of AI models.
-
-### [tomrus88](https://github.com/tomrus88)
-- 🌟 👤 [tomrus88](https://github.com/tomrus88) Starred [Apich-Organization/ensia](https://github.com/Apich-Organization/ensia)
-  > OLLVM-Next (Ensia): The next generation LLVM based Obfuscator
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math)
+  > Techniques and numbers for estimating system's performance from first-principles
 
 
 <!-- nav -->
-[← 2026-06-14](archive/2026/06/14.md)
+[← 2026-06-15](archive/2026/06/15.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-15 23:04:14 UTC*
+*Last updated at 2026-06-16 04:50:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
