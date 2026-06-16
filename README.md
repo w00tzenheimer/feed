@@ -35,6 +35,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker)
   > Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeTh...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [localai-org/privacy-filter.cpp](https://github.com/localai-org/privacy-filter.cpp)
+  > OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math)
@@ -46,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-16 19:47:11 UTC*
+*Last updated at 2026-06-16 22:16:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
