@@ -17,6 +17,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A powerful desktop full-text search tool built with Python, PyQt5, and Xapian
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [an0027/anytxt-searcher-qt](https://github.com/an0027/anytxt-searcher-qt) to [IuvenisSapiens/anytxt-searcher-qt](https://github.com/IuvenisSapiens/anytxt-searcher-qt)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [libertywing/FlashMemory-Deepseek-V4](https://github.com/libertywing/FlashMemory-Deepseek-V4)
+  > FlashMemory DS-V4 Retriever: a lightweight retriever that sparsifies DeepSeek-V4 CSA KV-cache. Weigh...
+
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
   > Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most p...
@@ -45,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-17 21:11:40 UTC*
+*Last updated at 2026-06-17 23:41:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
