@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+  > Lore is a next-generation, open source revision control system
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhizhuodemao/miniapp-cdp-mcp](https://github.com/zhizhuodemao/miniapp-cdp-mcp) to [CrackerCat/miniapp-cdp-mcp](https://github.com/CrackerCat/miniapp-cdp-mcp)
   > 微信小程序逆向工程 MCP 服务器，让你的 AI 编码助手（如 Claude、Cursor、Antigravity）能够直接通过 Chrome DevTools Protocol (CDP) 调试和分...
@@ -16,13 +20,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MIYU5200/HighRiskASNs](https://github.com/MIYU5200/HighRiskASNs) to [CrackerCat/HighRiskASNs](https://github.com/CrackerCat/HighRiskASNs)
   > High-risk IP and ASN lists based on bot traffic ratio and abuse score
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that checks its own work.
+
 
 <!-- nav -->
 [← 2026-06-17](archive/2026/06/17.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-18 09:17:57 UTC*
+*Last updated at 2026-06-18 13:30:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
