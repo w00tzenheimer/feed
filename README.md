@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MIYU5200/HighRiskASNs](https://github.com/MIYU5200/HighRiskASNs) to [CrackerCat/HighRiskASNs](https://github.com/CrackerCat/HighRiskASNs)
   > High-risk IP and ASN lists based on bot traffic ratio and abuse score
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Saganaki22/WavTTS-ComfyUI](https://github.com/Saganaki22/WavTTS-ComfyUI)
+  > WavTTS nodes for ComfyUI - zero-shot text-to-speech with reference-audio / native aimdo dynamic VRAM
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
   > rax is a CPU emulator that checks its own work.
@@ -30,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-18 17:16:46 UTC*
+*Last updated at 2026-06-18 20:29:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
