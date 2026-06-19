@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) to [dip-proto/ponytail](https://github.com/dip-proto/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kernullist/CodersRoundTable](https://github.com/kernullist/CodersRoundTable)
+  > Gamified code review: four legendary tech personas debate your source code with real-time speech bub...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [FredySandoval/showsignature](https://github.com/FredySandoval/showsignature)
   > A CLI that extracts the useful structure from source files: signatures, imports, types, variables, c...
@@ -22,7 +26,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-19 18:58:20 UTC*
+*Last updated at 2026-06-19 20:41:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
