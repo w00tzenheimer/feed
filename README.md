@@ -8,14 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) to [dip-proto/ponytail](https://github.com/dip-proto/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
 
 <!-- nav -->
 [← 2026-06-18](archive/2026/06/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-19 07:12:23 UTC*
+*Last updated at 2026-06-19 12:11:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
