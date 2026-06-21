@@ -14,13 +14,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Leeksov/usbliter8-patchfinder](https://github.com/Leeksov/usbliter8-patchfinder)
   > arm64e kernelcache patchfinder for A12/A13 usbliter8 jailbreak research. Finds 20 patch targets auto...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ofalkenberg/zig-wasi-components](https://github.com/ofalkenberg/zig-wasi-components)
+  > Complete support for WASI components for Zig / wasi 0.2 / wasi 0.3
+
 
 <!-- nav -->
 [← 2026-06-20](archive/2026/06/20.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-21 10:33:29 UTC*
+*Last updated at 2026-06-21 13:10:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
