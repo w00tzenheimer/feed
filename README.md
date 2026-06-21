@@ -17,6 +17,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ofalkenberg/zig-wasi-components](https://github.com/ofalkenberg/zig-wasi-components)
   > Complete support for WASI components for Zig / wasi 0.2 / wasi 0.3
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Mrbaeksang/deepcloak](https://github.com/Mrbaeksang/deepcloak)
+  > Local-first deep research agent that reads the whole web — even pages behind Cloudflare, Datadome, T...
 
 
 <!-- nav -->
@@ -24,7 +26,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-21 17:45:02 UTC*
+*Last updated at 2026-06-21 19:49:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
