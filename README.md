@@ -1,36 +1,24 @@
-# Daily GitHub Activity (2026-06-21)
+# Daily GitHub Activity (2026-06-22)
 
 <!-- nav -->
-[← 2026-06-20](archive/2026/06/20.md)
+[← 2026-06-21](archive/2026/06/21.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Lynnette177](https://github.com/Lynnette177)
-- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
-  > Dopamine is a semi-untethered jailbreak for iOS 15 and 16
-- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Leeksov/usbliter8-kernel-patchfinder](https://github.com/Leeksov/usbliter8-kernel-patchfinder)
-  > arm64e kernelcache patchfinder for A12/A13 usbliter8 jailbreak research. Finds 20 patch targets auto...
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ofalkenberg/zig-wasi-components](https://github.com/ofalkenberg/zig-wasi-components)
-  > Complete support for WASI components for Zig / wasi 0.2 / wasi 0.3
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Mrbaeksang/deepcloak](https://github.com/Mrbaeksang/deepcloak)
-  > Local-first deep research agent that reads the whole web — even pages behind Cloudflare, Datadome, T...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Avarok-Cybersecurity/atlas](https://github.com/Avarok-Cybersecurity/atlas)
-  > Pure Rust Inference Engine
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [quilin-ai/agent-bridge](https://github.com/quilin-ai/agent-bridge)
+  > A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex...
 
 
 <!-- nav -->
-[← 2026-06-20](archive/2026/06/20.md)
+[← 2026-06-21](archive/2026/06/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-21 23:19:18 UTC*
+*Last updated at 2026-06-22 04:53:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
