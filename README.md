@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [michal-kapala](https://github.com/michal-kapala)
+- 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [SPEARTECH/scops2_server_revive](https://github.com/SPEARTECH/scops2_server_revive)
+  > the revived server for splinter cell chaos theory for ps2!
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [quilin-ai/agent-bridge](https://github.com/quilin-ai/agent-bridge)
   > A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex...
@@ -24,7 +28,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-22 15:56:01 UTC*
+*Last updated at 2026-06-22 19:35:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
