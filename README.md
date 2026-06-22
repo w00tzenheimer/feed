@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JCLemme/wiggle-wiggle](https://github.com/JCLemme/wiggle-wiggle)
+  > find and extract wiggle stereographs from your photos
+
 ### [michal-kapala](https://github.com/michal-kapala)
 - 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [SPEARTECH/scops2_server_revive](https://github.com/SPEARTECH/scops2_server_revive)
   > the revived server for splinter cell chaos theory for ps2!
@@ -28,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-22 19:35:25 UTC*
+*Last updated at 2026-06-22 22:07:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
