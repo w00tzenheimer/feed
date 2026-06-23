@@ -17,12 +17,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
   > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
+  > PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ profess...
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [MikeWuPing/UEFI_Contra](https://github.com/MikeWuPing/UEFI_Contra)
   > 这是一个将红白机经典《魂斗罗》（Contra）移植到 **UEFI Shell** 环境的技术实验项目。游戏作为 UEFI 应用程序（.efi 文件）运行，直接通过 GOP（Graphics Outp...
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [19h/ida-structor](https://github.com/19h/ida-structor)
+  > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [19h/ida-codedump](https://github.com/19h/ida-codedump)
+  > An IDA Pro plugin that lifts functions and their dependencies out of IDA Pro into self-contained art...
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
@@ -35,6 +43,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark)
   > AEON vLLM Ultimate — vLLM 0.23.0 built from source for DGX Spark / Blackwell (sm_121a/GB10). One ima...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nova452/ComfyUI-ConditioningKrea2Rebalance](https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance)
+  > A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 al...
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md)
+  > The best notepad for you and your agents
 
 
 <!-- nav -->
@@ -42,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 21:01:04 UTC*
+*Last updated at 2026-06-23 23:10:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
