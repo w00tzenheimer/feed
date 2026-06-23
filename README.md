@@ -8,14 +8,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zboralski/galago](https://github.com/zboralski/galago) to [CrackerCat/galago](https://github.com/CrackerCat/galago)
+  > Galago extracts encryption keys from ARM64 Android native libraries through controlled emulation.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dbalsom/pc-emulation-book](https://github.com/dbalsom/pc-emulation-book) to [CrackerCat/pc-emulation-book](https://github.com/CrackerCat/pc-emulation-book)
+  > An mdbook based emulation guide for the IBM PC/XT
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [MikeWuPing/UEFI_Contra](https://github.com/MikeWuPing/UEFI_Contra)
+  > 这是一个将红白机经典《魂斗罗》（Contra）移植到 **UEFI Shell** 环境的技术实验项目。游戏作为 UEFI 应用程序（.efi 文件）运行，直接通过 GOP（Graphics Outp...
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+  > Fully automatic censorship removal for language models
+
 
 <!-- nav -->
 [← 2026-06-22](archive/2026/06/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 00:11:10 UTC*
+*Last updated at 2026-06-23 05:05:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
