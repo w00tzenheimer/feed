@@ -24,9 +24,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
+  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [pulseengine/kiln](https://github.com/pulseengine/kiln)
   > Kiln — WebAssembly runtime for safety-critical systems. Full Component Model and WASI 0.2 support. P...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark)
+  > AEON vLLM Ultimate — vLLM 0.23.0 built from source for DGX Spark / Blackwell (sm_121a/GB10). One ima...
 
 
 <!-- nav -->
@@ -34,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 18:01:19 UTC*
+*Last updated at 2026-06-23 21:01:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
