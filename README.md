@@ -24,13 +24,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [pulseengine/kiln](https://github.com/pulseengine/kiln)
+  > Kiln — WebAssembly runtime for safety-critical systems. Full Component Model and WASI 0.2 support. P...
+
 
 <!-- nav -->
 [← 2026-06-22](archive/2026/06/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 12:36:14 UTC*
+*Last updated at 2026-06-23 15:52:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
