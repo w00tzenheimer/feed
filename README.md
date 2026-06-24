@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > AI API gateway that ends manual channel switching with smart routing, auto failover, exponential coo...
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [VitoHowe/glm-coding](https://github.com/VitoHowe/glm-coding) to [NyaMisty/glm-coding](https://github.com/NyaMisty/glm-coding)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [adshao/flounder](https://github.com/adshao/flounder)
   > Autonomous white-hat security auditor
@@ -47,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 20:49:54 UTC*
+*Last updated at 2026-06-24 22:21:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
