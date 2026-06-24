@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
   > Easily create full virtual machines that are sandboxed for development or computer use models.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor)
+  > Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, unified memory pressure, therm...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor) to [mrexodia/spark-doctor](https://github.com/mrexodia/spark-doctor)
+  > Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, unified memory pressure, therm...
 
 
 <!-- nav -->
@@ -43,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 16:23:54 UTC*
+*Last updated at 2026-06-24 18:53:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
