@@ -1,7 +1,7 @@
-# Daily GitHub Activity (2026-06-23)
+# Daily GitHub Activity (2026-06-24)
 
 <!-- nav -->
-[← 2026-06-22](archive/2026/06/22.md)
+[← 2026-06-23](archive/2026/06/23.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
@@ -9,54 +9,30 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zboralski/galago](https://github.com/zboralski/galago) to [CrackerCat/galago](https://github.com/CrackerCat/galago)
-  > Galago extracts encryption keys from ARM64 Android native libraries through controlled emulation.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dbalsom/pc-emulation-book](https://github.com/dbalsom/pc-emulation-book) to [CrackerCat/pc-emulation-book](https://github.com/CrackerCat/pc-emulation-book)
-  > An mdbook based emulation guide for the IBM PC/XT
-
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
-  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
-  > PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ profess...
-
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [MikeWuPing/UEFI_Contra](https://github.com/MikeWuPing/UEFI_Contra)
-  > 这是一个将红白机经典《魂斗罗》（Contra）移植到 **UEFI Shell** 环境的技术实验项目。游戏作为 UEFI 应用程序（.efi 文件）运行，直接通过 GOP（Graphics Outp...
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
-  > Fully automatic censorship removal for language models
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [19h/ida-structor](https://github.com/19h/ida-structor)
-  > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [19h/ida-codedump](https://github.com/19h/ida-codedump)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [entropykit/entropia](https://github.com/entropykit/entropia) to [CrackerCat/entropia](https://github.com/CrackerCat/entropia)
+  > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/VixlDebugger](https://github.com/XiaoWaaay/VixlDebugger) to [CrackerCat/XiaoWaaay-VixlDebugger](https://github.com/CrackerCat/XiaoWaaay-VixlDebugger)
+  > 基于unicorn+Vixl+dobby项目的trace技术
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/ida-lifter](https://github.com/19h/ida-lifter) to [CrackerCat/ida-lifter](https://github.com/CrackerCat/ida-lifter)
+  > An IDA Hex-Rays microcode filter that lifts AVX/AVX2/AVX-512/AVX10 and VMX/VT-x instructions to intr...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ggggmllll/NDK_SIMPLE_KPM](https://github.com/ggggmllll/NDK_SIMPLE_KPM) to [CrackerCat/NDK_SIMPLE_KPM](https://github.com/CrackerCat/NDK_SIMPLE_KPM)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/ida-codedump](https://github.com/19h/ida-codedump) to [CrackerCat/ida-codedump](https://github.com/CrackerCat/ida-codedump)
   > An IDA Pro plugin that lifts functions and their dependencies out of IDA Pro into self-contained art...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/ida-structor](https://github.com/19h/ida-structor) to [CrackerCat/ida-structor](https://github.com/CrackerCat/ida-structor)
+  > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/ida-oxidizer](https://github.com/19h/ida-oxidizer) to [CrackerCat/ida-oxidizer](https://github.com/CrackerCat/ida-oxidizer)
 
-### [ggoodman](https://github.com/ggoodman)
-- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
-  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [pulseengine/kiln](https://github.com/pulseengine/kiln)
-  > Kiln — WebAssembly runtime for safety-critical systems. Full Component Model and WASI 0.2 support. P...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark)
-  > AEON vLLM Ultimate — vLLM 0.23.0 built from source for DGX Spark / Blackwell (sm_121a/GB10). One ima...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nova452/ComfyUI-ConditioningKrea2Rebalance](https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance)
-  > A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 al...
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md)
-  > The best notepad for you and your agents
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [caidaoli/ccLoad](https://github.com/caidaoli/ccLoad) to [NyaMisty/ccLoad](https://github.com/NyaMisty/ccLoad)
+  > AI API gateway that ends manual channel switching with smart routing, auto failover, exponential coo...
 
 
 <!-- nav -->
-[← 2026-06-22](archive/2026/06/22.md)
+[← 2026-06-23](archive/2026/06/23.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 23:10:50 UTC*
+*Last updated at 2026-06-24 03:58:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
