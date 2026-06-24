@@ -33,13 +33,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [adshao/flounder](https://github.com/adshao/flounder) to [joydo/flounder](https://github.com/joydo/flounder)
   > Autonomous white-hat security auditor
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
+  > Easily create full virtual machines that are sandboxed for development or computer use models.
+
 
 <!-- nav -->
 [← 2026-06-23](archive/2026/06/23.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 07:50:38 UTC*
+*Last updated at 2026-06-24 10:54:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
