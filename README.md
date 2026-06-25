@@ -16,9 +16,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MartinKayJr/abcde-android](https://github.com/MartinKayJr/abcde-android) to [CrackerCat/abcde-android](https://github.com/CrackerCat/abcde-android)
   > 鸿蒙.abc逆向反编译工具-Android端 | Harmony .abc file decompilation tool Android version
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
-  > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [umans-ai/website](https://github.com/umans-ai/website)
 
 
 <!-- nav -->
@@ -26,7 +25,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 12:24:37 UTC*
+*Last updated at 2026-06-25 15:41:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
