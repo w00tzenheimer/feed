@@ -12,13 +12,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [19h](https://github.com/19h) Forked [rust-vmm/linux-loader](https://github.com/rust-vmm/linux-loader) to [19h/linux-loader](https://github.com/19h/linux-loader)
   > Linux kernel loader
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [modem-dev/drizzle-scoped-db](https://github.com/modem-dev/drizzle-scoped-db)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/fARM64](https://github.com/binsnake/fARM64)
+  > ARM64 decoder and encoder
+
 
 <!-- nav -->
 [← 2026-06-24](archive/2026/06/24.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 21:00:01 UTC*
+*Last updated at 2026-06-25 22:40:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
