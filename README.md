@@ -23,9 +23,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32)
   > Public mirror for win32-pr
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym)
-  > CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously as...
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [swimmwatch/cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp)
+  > ⚡ CloakBrowser MCP server for AI agents: Playwright-powered browsing, clean tool forwarding, Docker ...
 
 
 <!-- nav -->
@@ -33,7 +35,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 12:14:18 UTC*
+*Last updated at 2026-06-26 15:25:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
