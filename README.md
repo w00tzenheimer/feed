@@ -1,7 +1,7 @@
-# Daily GitHub Activity (2026-06-26)
+# Daily GitHub Activity (2026-06-27)
 
 <!-- nav -->
-[← 2026-06-25](archive/2026/06/25.md)
+[← 2026-06-26](archive/2026/06/26.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
@@ -9,37 +9,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZacharyZcR/vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp) to [CrackerCat/vmware-mcp](https://github.com/CrackerCat/vmware-mcp)
-  > MCP server for controlling VMware Workstation Pro virtual machines
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) to [CrackerCat/Unlimited-OCR](https://github.com/CrackerCat/Unlimited-OCR)
-  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll) to [CrackerCat/bad-epoll](https://github.com/CrackerCat/bad-epoll)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8) to [CrackerCat/usbliter8](https://github.com/CrackerCat/usbliter8)
-  > An A12/A13 SecureROM exploit
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [haokeyy/and_library](https://github.com/haokeyy/and_library) to [CrackerCat/and_library](https://github.com/CrackerCat/and_library)
-  > 自用的Delphi代码库。多年前收集和编写的delphi库，多基于windows核心编程技术，用于游戏程序的调试和补丁程序的编写。仓底货，备份在github了。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kevinmuoz/capa-binja-explorer](https://github.com/kevinmuoz/capa-binja-explorer) to [CrackerCat/capa-binja-explorer](https://github.com/CrackerCat/capa-binja-explorer)
 
-### [NUL0x4C](https://github.com/NUL0x4C)
-- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32)
-  > Public mirror for win32-pr
-
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [Punshnut/macos-launchy](https://github.com/Punshnut/macos-launchy)
-  > Launchy Launchpad is the free open-source launchpad alternative macOS users have been waiting for!
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
-  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [swimmwatch/cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp)
-  > ⚡ CloakBrowser MCP server for AI agents: Playwright-powered browsing, clean tool forwarding, Docker ...
+### [geohot](https://github.com/geohot)
+- 🌟 👤 [geohot](https://github.com/geohot) Starred [THUDM/slime](https://github.com/THUDM/slime)
+  > slime is an LLM post-training framework for RL Scaling.
 
 
 <!-- nav -->
-[← 2026-06-25](archive/2026/06/25.md)
+[← 2026-06-26](archive/2026/06/26.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 23:11:22 UTC*
+*Last updated at 2026-06-27 03:51:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
