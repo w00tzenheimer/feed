@@ -15,13 +15,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [THUDM/slime](https://github.com/THUDM/slime)
   > slime is an LLM post-training framework for RL Scaling.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
+  > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
+
 
 <!-- nav -->
 [← 2026-06-26](archive/2026/06/26.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 09:31:19 UTC*
+*Last updated at 2026-06-27 11:37:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
