@@ -27,6 +27,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
 
 <!-- nav -->
@@ -34,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 21:09:15 UTC*
+*Last updated at 2026-06-27 23:06:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
