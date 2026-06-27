@@ -18,6 +18,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
   > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tomasz-lisowski/swsim](https://github.com/tomasz-lisowski/swsim)
+  > A software SIM card.
 
 
 <!-- nav -->
@@ -25,7 +27,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 11:37:52 UTC*
+*Last updated at 2026-06-27 13:51:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
