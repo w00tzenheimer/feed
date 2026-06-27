@@ -23,6 +23,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Exxact-Software/local-agent-benchmark](https://github.com/Exxact-Software/local-agent-benchmark)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tonyd2wild/deepseek-v4-flash-dgx-spark](https://github.com/tonyd2wild/deepseek-v4-flash-dgx-spark)
   > Working recipe to serve DeepSeek-V4-Flash across two NVIDIA DGX Spark (GB10) nodes with vLLM (TP=2, ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context](https://github.com/MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context)
+  > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
 
 
 <!-- nav -->
@@ -30,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 15:18:45 UTC*
+*Last updated at 2026-06-27 17:15:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
