@@ -25,6 +25,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Working recipe to serve DeepSeek-V4-Flash across two NVIDIA DGX Spark (GB10) nodes with vLLM (TP=2, ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context](https://github.com/MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context)
   > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+  > Run frontier AI locally.
 
 
 <!-- nav -->
@@ -32,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 19:26:28 UTC*
+*Last updated at 2026-06-27 21:09:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
