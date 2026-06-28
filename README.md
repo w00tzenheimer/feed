@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [jfecher/ante](https://github.com/jfecher/ante)
+  > A safe, easy systems language
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elqahtani/postoko](https://github.com/elqahtani/postoko) to [CrackerCat/postoko](https://github.com/CrackerCat/postoko)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wuji-labs/nopua](https://github.com/wuji-labs/nopua) to [CrackerCat/nopua](https://github.com/CrackerCat/nopua)
@@ -45,6 +49,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > llama.cpp fork optimized for NVIDIA DGX Spark / GB10 (Blackwell, SM 12.1) — TurboQuant weights + KV,...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pasky/pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor)
   > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexknowshtml/claude-memory-health](https://github.com/alexknowshtml/claude-memory-health)
+  > Claude Code skill for auditing your MEMORY.md index — size, orphans, broken links, staleness
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coolthor/musubi](https://github.com/coolthor/musubi)
+  > Musubi (結び) — a knowledge-graph companion for flat-file markdown note systems. Ties your notes toget...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [p-e-w/arrows](https://github.com/p-e-w/arrows)
+  > A frontend for creative writing with LLMs
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
@@ -58,7 +68,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 21:06:34 UTC*
+*Last updated at 2026-06-28 23:07:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
