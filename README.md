@@ -29,6 +29,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [bikini/exploitarium](https://github.com/bikini/exploitarium) to [joydo/exploitarium](https://github.com/joydo/exploitarium)
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+  > Self-hosted AI workspace. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michaelw9999/advanced-gguf-quantizer](https://github.com/michaelw9999/advanced-gguf-quantizer)
+  > A CUDA-accelerated GGUF quantization tool for NVFP4/MXFP6/Q_K, utilizing layer by layer quantization...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [silveroxides/convert_to_quant](https://github.com/silveroxides/convert_to_quant)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [localai-org/apex-quant](https://github.com/localai-org/apex-quant)
+  >  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
   > World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skill...
@@ -41,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 11:10:58 UTC*
+*Last updated at 2026-06-28 13:56:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
