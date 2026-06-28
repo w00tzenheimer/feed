@@ -1,42 +1,30 @@
-# Daily GitHub Activity (2026-06-27)
+# Daily GitHub Activity (2026-06-28)
 
 <!-- nav -->
-[← 2026-06-26](archive/2026/06/26.md)
+[← 2026-06-27](archive/2026/06/27.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kevinmuoz/capa-binja-explorer](https://github.com/kevinmuoz/capa-binja-explorer) to [CrackerCat/capa-binja-explorer](https://github.com/CrackerCat/capa-binja-explorer)
+### [PxYu](https://github.com/PxYu)
+- 🌟 👤 [PxYu](https://github.com/PxYu) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+  > TradingAgents: Multi-Agents LLM Financial Trading Framework
+- 🌟 👤 [PxYu](https://github.com/PxYu) Starred [virattt/dexter](https://github.com/virattt/dexter)
+  > An autonomous agent for deep financial research
 
-### [geohot](https://github.com/geohot)
-- 🌟 👤 [geohot](https://github.com/geohot) Starred [THUDM/slime](https://github.com/THUDM/slime)
-  > slime is an LLM post-training framework for RL Scaling.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
-  > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tomasz-lisowski/swsim](https://github.com/tomasz-lisowski/swsim)
-  > A software SIM card.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Exxact-Software/local-agent-benchmark](https://github.com/Exxact-Software/local-agent-benchmark)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tonyd2wild/deepseek-v4-flash-dgx-spark](https://github.com/tonyd2wild/deepseek-v4-flash-dgx-spark)
-  > Working recipe to serve DeepSeek-V4-Flash across two NVIDIA DGX Spark (GB10) nodes with vLLM (TP=2, ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context](https://github.com/MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context)
-  > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
-  > Run frontier AI locally.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
-  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+### [joydo](https://github.com/joydo)
+- 🍴 👤 [joydo](https://github.com/joydo) Forked [bikini/exploitarium](https://github.com/bikini/exploitarium) to [joydo/exploitarium](https://github.com/joydo/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 
 <!-- nav -->
-[← 2026-06-26](archive/2026/06/26.md)
+[← 2026-06-27](archive/2026/06/27.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 23:06:42 UTC*
+*Last updated at 2026-06-28 04:13:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
