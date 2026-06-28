@@ -37,6 +37,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [silveroxides/convert_to_quant](https://github.com/silveroxides/convert_to_quant)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [localai-org/apex-quant](https://github.com/localai-org/apex-quant)
   >  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+  > FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
+  > llama.cpp fork with additional SOTA quants and improved performance
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [croll83/llama.cpp-dgx](https://github.com/croll83/llama.cpp-dgx)
+  > llama.cpp fork optimized for NVIDIA DGX Spark / GB10 (Blackwell, SM 12.1) — TurboQuant weights + KV,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pasky/pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor)
+  > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
@@ -50,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 13:56:42 UTC*
+*Last updated at 2026-06-28 15:21:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
