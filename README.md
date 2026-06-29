@@ -41,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dockur/macos](https://github.com/dockur/macos)
   > MacOS inside a Docker container.
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Vanilagy/turbores](https://github.com/Vanilagy/turbores)
+  > An extremely fast WASM Apple ProRes video decoder
+
 ### [vitosans](https://github.com/vitosans)
 - 🌟 👤 [vitosans](https://github.com/vitosans) Starred [rorsaeed/ai-prompt-assistant-pro](https://github.com/rorsaeed/ai-prompt-assistant-pro)
 
@@ -50,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-29 20:04:12 UTC*
+*Last updated at 2026-06-29 22:11:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
