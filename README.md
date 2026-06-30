@@ -16,10 +16,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
   > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
 
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [pathwaycom/bdh](https://github.com/pathwaycom/bdh)
+  > BDH (Dragon Hatchling) – Architecture and Code
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [choria-io/fisk](https://github.com/choria-io/fisk)
   > A fluent-style, type-safe command-line parser for Go. 
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Concyclics/GraphMem](https://github.com/Concyclics/GraphMem)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)
+  > System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
+
+### [johnyob](https://github.com/johnyob)
+- 🌟 👤 [johnyob](https://github.com/johnyob) Starred [plclub/sf-in-lean](https://github.com/plclub/sf-in-lean)
+  > Development repo for translating Software Foundations to Lean
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp)
@@ -45,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 15:31:20 UTC*
+*Last updated at 2026-06-30 18:00:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
