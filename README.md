@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [commaai/openpilot](https://github.com/commaai/openpilot)
+  > openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system o...
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
   > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
@@ -28,6 +32,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
   > Docker configuration for running VLLM on dual DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
+  > DFlash: Block Diffusion for Flash Speculative Decoding
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [poteto/noodle](https://github.com/poteto/noodle)
@@ -39,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 12:12:40 UTC*
+*Last updated at 2026-06-30 15:31:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
