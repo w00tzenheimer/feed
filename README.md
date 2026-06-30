@@ -24,6 +24,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [choria-io/fisk](https://github.com/choria-io/fisk)
   > A fluent-style, type-safe command-line parser for Go. 
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Concyclics/GraphMem](https://github.com/Concyclics/GraphMem)
+- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/zig-silithium](https://github.com/jedisct1/zig-silithium) public
+  > Silithium: Compact, Efficient and Non-separable Hybrid Signatures.
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)
   > System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 
@@ -48,6 +50,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [poteto/noodle](https://github.com/poteto/noodle)
   > Orchestrate agents using skills
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [kentcdodds/kody](https://github.com/kentcdodds/kody)
+  > An experimental personal assistant platform built on Cloudflare Workers and MCP
 
 
 <!-- nav -->
@@ -55,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 18:00:20 UTC*
+*Last updated at 2026-06-30 20:57:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
