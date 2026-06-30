@@ -12,6 +12,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
   > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [choria-io/fisk](https://github.com/choria-io/fisk)
+  > A fluent-style, type-safe command-line parser for Go. 
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Concyclics/GraphMem](https://github.com/Concyclics/GraphMem)
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp)
   > MCP stdio server for radare2
@@ -34,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 09:46:34 UTC*
+*Last updated at 2026-06-30 12:12:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
