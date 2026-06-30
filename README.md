@@ -46,6 +46,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Docker configuration for running VLLM on dual DGX Sparks
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
   > DFlash: Block Diffusion for Flash Speculative Decoding
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [poteto/noodle](https://github.com/poteto/noodle)
@@ -59,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 20:57:25 UTC*
+*Last updated at 2026-06-30 22:19:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
