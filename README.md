@@ -41,13 +41,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [containerd/nerdctl](https://github.com/containerd/nerdctl)
   > contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, ...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gsanhueza/pi-llama-cpp](https://github.com/gsanhueza/pi-llama-cpp)
+  > Pi extension for llama.cpp integration
+
 
 <!-- nav -->
 [← 2026-06-30](archive/2026/06/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 09:56:38 UTC*
+*Last updated at 2026-07-01 12:38:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
