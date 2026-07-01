@@ -47,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [abemedia/cargo-npm](https://github.com/abemedia/cargo-npm)
   > Package and distribute Rust CLI binaries as npm packages without postinstall scripts.
 
+### [jedisct1](https://github.com/jedisct1)
+- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [dip-proto/x402-fastly](https://github.com/dip-proto/x402-fastly) public
+  > x402 monetization gateway for the Fastly CDN.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [containerd/nerdctl](https://github.com/containerd/nerdctl)
   > contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, ...
@@ -60,6 +64,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > tool-eval-bench: Qwen3.6-27B GGUF Q8_K_XL vs NVIDIA NVFP4 — head-to-head tool-calling quality compar...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench)
   > Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-tur...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/ifstruct](https://github.com/Liquid4All/ifstruct)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Weschera/spark-bench](https://github.com/Weschera/spark-bench)
+  > Mixed-capability LLM benchmark for DGX Spark — 57 scenarios, 10 domains, partial-credit grading, tri...
 
 
 <!-- nav -->
@@ -67,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 18:00:54 UTC*
+*Last updated at 2026-07-01 20:48:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
