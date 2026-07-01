@@ -54,6 +54,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [containerd/nerdctl](https://github.com/containerd/nerdctl)
   > contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [AsahiLinux/kisd](https://github.com/AsahiLinux/kisd)
+  > Kanzi-in-System / DebugUSB UART support for Linux hosts
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [yuyuyureka/m1n1](https://github.com/yuyuyureka/m1n1)
+  > A bootloader and experimentation playground for Apple Silicon
+
+### [kijai](https://github.com/kijai)
+- 🍴 👤 [kijai](https://github.com/kijai) Forked [Comfy-Org/comfy-model-tools](https://github.com/Comfy-Org/comfy-model-tools) to [kijai/comfy-model-tools](https://github.com/kijai/comfy-model-tools)
+  > Utility scripts for packaging models for ComfyUI.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gsanhueza/pi-llama-cpp](https://github.com/gsanhueza/pi-llama-cpp)
@@ -67,6 +75,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/ifstruct](https://github.com/Liquid4All/ifstruct)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Weschera/spark-bench](https://github.com/Weschera/spark-bench)
   > Mixed-capability LLM benchmark for DGX Spark — 57 scenarios, 10 domains, partial-credit grading, tri...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lostb1t/Gelato](https://github.com/lostb1t/Gelato)
+  > Jellyfin Stremio Integration Plugin
 
 
 <!-- nav -->
@@ -74,7 +84,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 20:48:19 UTC*
+*Last updated at 2026-07-01 22:20:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
