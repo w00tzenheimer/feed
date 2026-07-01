@@ -1,67 +1,24 @@
-# Daily GitHub Activity (2026-06-30)
+# Daily GitHub Activity (2026-07-01)
 
 <!-- nav -->
-[← 2026-06-29](archive/2026/06/29.md)
+[← 2026-06-30](archive/2026/06/30.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [commaai/openpilot](https://github.com/commaai/openpilot)
-  > openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system o...
-
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
-  > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
-
-### [jakehemmerle](https://github.com/jakehemmerle)
-- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [pathwaycom/bdh](https://github.com/pathwaycom/bdh)
-  > BDH (Dragon Hatchling) – Architecture and Code
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [choria-io/fisk](https://github.com/choria-io/fisk)
-  > A fluent-style, type-safe command-line parser for Go. 
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Concyclics/GraphMem](https://github.com/Concyclics/GraphMem)
-- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/zig-silithium](https://github.com/jedisct1/zig-silithium) public
-  > Silithium: Compact, Efficient and Non-separable Hybrid Signatures.
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)
-  > System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
-
-### [johnyob](https://github.com/johnyob)
-- 🌟 👤 [johnyob](https://github.com/johnyob) Starred [plclub/sf-in-lean](https://github.com/plclub/sf-in-lean)
-  > Development repo for translating Software Foundations to Lean
-
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp)
-  > MCP stdio server for radare2
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
-  > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [crowdere/Awesome-RE-MCP](https://github.com/crowdere/Awesome-RE-MCP)
-  > A curated list of reverse engineering tools with MCP servers
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
-  > Docker configuration for running VLLM on dual DGX Sparks
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
-  > DFlash: Block Diffusion for Flash Speculative Decoding
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [antirez/ds4](https://github.com/antirez/ds4)
-  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [poteto/noodle](https://github.com/poteto/noodle)
-  > Orchestrate agents using skills
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [kentcdodds/kody](https://github.com/kentcdodds/kody)
-  > An experimental personal assistant platform built on Cloudflare Workers and MCP
+### [EloiStree](https://github.com/EloiStree)
+- 🍴 👤 [EloiStree](https://github.com/EloiStree) Forked [DylanPirotte/MonsCookieFactoryXR](https://github.com/DylanPirotte/MonsCookieFactoryXR) to [EloiStree/2025_06_22_upm_mons_cookie_factory_xr](https://github.com/EloiStree/2025_06_22_upm_mons_cookie_factory_xr)
+  > On fait un travail de groupe pour réaliser une cookie factory
 
 
 <!-- nav -->
-[← 2026-06-29](archive/2026/06/29.md)
+[← 2026-06-30](archive/2026/06/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 22:19:48 UTC*
+*Last updated at 2026-07-01 00:11:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
