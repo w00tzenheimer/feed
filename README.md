@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [spektor56/OpenpilotToolkit](https://github.com/spektor56/OpenpilotToolkit)
+  > Openpilot Toolkit (OPTK) is a class library and toolkit for interacting with your openpilot / commaa...
+
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [multipath-tcp/mptcp_net-next](https://github.com/multipath-tcp/mptcp_net-next)
   > Development version of the Upstream MultiPath TCP Linux kernel 🐧
@@ -29,13 +33,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Phhofm](https://github.com/Phhofm) Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
   > Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most p...
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [abemedia/cargo-npm](https://github.com/abemedia/cargo-npm)
+  > Package and distribute Rust CLI binaries as npm packages without postinstall scripts.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [containerd/nerdctl](https://github.com/containerd/nerdctl)
+  > contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, ...
+
 
 <!-- nav -->
 [← 2026-06-30](archive/2026/06/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 05:24:51 UTC*
+*Last updated at 2026-07-01 09:56:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
