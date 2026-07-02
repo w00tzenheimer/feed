@@ -32,10 +32,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [shrine-maiden-heavy-industries/kokorowatari](https://github.com/shrine-maiden-heavy-industries/kokorowatari)
   > An SDR/DDR SDRAM controller library for Torii
 
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OwenPawl/cerberus-re-skill](https://github.com/OwenPawl/cerberus-re-skill)
   > cerberus-re is a local Apple-focused reverse-engineering workbench for building a repeatable three-h...
@@ -47,6 +43,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > PE/ELF x86/x64 CFG extractor
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turbo-tan/llama.cpp-tq3](https://github.com/turbo-tan/llama.cpp-tq3)
   > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
+  >  ggml speech-to-text inference for 16+ model families
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [blader/baton](https://github.com/blader/baton)
+  > Baton — clean session handoffs: pass in-progress work to the next agent with a single verified markd...
 
 
 <!-- nav -->
@@ -54,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 15:19:22 UTC*
+*Last updated at 2026-07-02 17:52:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
