@@ -49,10 +49,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
   > Godot reverse engineering tools
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) to [mrexodia/gdsdecomp](https://github.com/mrexodia/gdsdecomp)
+  > Godot reverse engineering tools
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
+  > Inspect: A framework for large language model evaluations
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [blader/baton](https://github.com/blader/baton)
   > Baton — clean session handoffs: pass in-progress work to the next agent with a single verified markd...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [dzhng/skills](https://github.com/dzhng/skills)
 
 
 <!-- nav -->
@@ -60,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 21:12:52 UTC*
+*Last updated at 2026-07-02 23:11:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
