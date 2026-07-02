@@ -45,6 +45,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
   >  ggml speech-to-text inference for 16+ model families
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
+  > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [blader/baton](https://github.com/blader/baton)
@@ -56,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 17:52:54 UTC*
+*Last updated at 2026-07-02 19:36:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
