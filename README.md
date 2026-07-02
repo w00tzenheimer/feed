@@ -11,6 +11,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [commaai/vamOS](https://github.com/commaai/vamOS)
   > a new operating system for comma 3X and comma four
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [commaai/hardware](https://github.com/commaai/hardware)
+  > the home for all comma.ai hardware
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WangWei-CM/KSword](https://github.com/WangWei-CM/KSword) to [CrackerCat/KSword](https://github.com/CrackerCat/KSword)
@@ -22,11 +24,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter) to [CrackerCat/AutoHunter](https://github.com/CrackerCat/AutoHunter)
   > 自动化 SRC 漏洞挖掘系统：FOFA 资产测绘 + LLM 多 worker 自主挖掘/审核/情报沉淀。Powered By StanleyNull
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lethalbit/Foxy](https://github.com/lethalbit/Foxy)
+  > FUSE-base file proxy with CoW capabilities
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [shrine-maiden-heavy-industries/bakeneko](https://github.com/shrine-maiden-heavy-industries/bakeneko)
+  > PCIe Gateware core for Torii
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [shrine-maiden-heavy-industries/kokorowatari](https://github.com/shrine-maiden-heavy-industries/kokorowatari)
+  > An SDR/DDR SDRAM controller library for Torii
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OwenPawl/cerberus-re-skill](https://github.com/OwenPawl/cerberus-re-skill)
   > cerberus-re is a local Apple-focused reverse-engineering workbench for building a repeatable three-h...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lukesdevlab/youtube](https://github.com/lukesdevlab/youtube)
+  > Prompts and model configs used in my videos.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
+  > PE/ELF x86/x64 CFG extractor
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turbo-tan/llama.cpp-tq3](https://github.com/turbo-tan/llama.cpp-tq3)
+  > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
 
 
 <!-- nav -->
@@ -34,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 12:10:21 UTC*
+*Last updated at 2026-07-02 15:19:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
