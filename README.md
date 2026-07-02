@@ -47,6 +47,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   >  ggml speech-to-text inference for 16+ model families
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
   > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
+  > Godot reverse engineering tools
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [blader/baton](https://github.com/blader/baton)
@@ -58,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 19:36:37 UTC*
+*Last updated at 2026-07-02 21:12:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
