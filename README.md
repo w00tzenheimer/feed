@@ -13,6 +13,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Jirubizu/reclass-rs](https://github.com/Jirubizu/reclass-rs) to [CrackerCat/reclass-rs](https://github.com/CrackerCat/reclass-rs)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [handhand/HackThisAndroid](https://github.com/handhand/HackThisAndroid) to [CrackerCat/HackThisAndroid](https://github.com/CrackerCat/HackThisAndroid)
   > android项目，用ndk来实现app保护，同时也提供frida脚本去进行攻击
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) to [CrackerCat/CyberMeowfia](https://github.com/CrackerCat/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by VEGA. 
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [gmh5225/ios-location-spoofer](https://github.com/gmh5225/ios-location-spoofer)
@@ -26,7 +28,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 07:25:46 UTC*
+*Last updated at 2026-07-03 10:40:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
