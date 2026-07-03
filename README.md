@@ -20,11 +20,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) to [CrackerCat/CyberMeowfia](https://github.com/CrackerCat/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by VEGA. 
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [qt/qtbridge-rust](https://github.com/qt/qtbridge-rust)
+  > Qt Bridge for Rust. Qt Bridges enables developers to provide application logic written in a foreign ...
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [gmh5225/ios-location-spoofer](https://github.com/gmh5225/ios-location-spoofer)
   > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
   > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [hiae-aead/hiae-bitsliced](https://github.com/hiae-aead/hiae-bitsliced)
+  > Bitsliced HiAE implementation (no side channels, even without hardware AES support).
+
+### [michal-kapala](https://github.com/michal-kapala)
+- 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [StrongPC123/Crysis-1-Source-Full](https://github.com/StrongPC123/Crysis-1-Source-Full)
+  > Crysis 1 Full Source (Developed by CryTek). For NON COMMERCIAL Purposes only. Leaked. 
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [minestrate/php-client](https://github.com/minestrate/php-client) to [SaruMC/php-client](https://github.com/SaruMC/php-client)
@@ -53,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 15:17:55 UTC*
+*Last updated at 2026-07-03 17:36:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
