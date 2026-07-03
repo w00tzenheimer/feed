@@ -1,71 +1,32 @@
-# Daily GitHub Activity (2026-07-02)
+# Daily GitHub Activity (2026-07-03)
 
 <!-- nav -->
-[← 2026-07-01](archive/2026/07/01.md)
+[← 2026-07-02](archive/2026/07/02.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [commaai/vamOS](https://github.com/commaai/vamOS)
-  > a new operating system for comma 3X and comma four
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [commaai/hardware](https://github.com/commaai/hardware)
-  > the home for all comma.ai hardware
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WangWei-CM/KSword](https://github.com/WangWei-CM/KSword) to [CrackerCat/KSword](https://github.com/CrackerCat/KSword)
-  > 最强的开源ARK
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) to [CrackerCat/Droidspaces-OSS](https://github.com/CrackerCat/Droidspaces-OSS)
-  > A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions native...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [anshug/claude-mythos](https://github.com/anshug/claude-mythos) to [CrackerCat/claude-mythos](https://github.com/CrackerCat/claude-mythos)
-  > Prompt framework that makes LLMs discover real, exploitable vulnerabilities. Six specialized agents ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter) to [CrackerCat/AutoHunter](https://github.com/CrackerCat/AutoHunter)
-  > 自动化 SRC 漏洞挖掘系统：FOFA 资产测绘 + LLM 多 worker 自主挖掘/审核/情报沉淀。Powered By StanleyNull
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc) to [CrackerCat/iommu-driver-poc](https://github.com/CrackerCat/iommu-driver-poc)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Jirubizu/reclass-rs](https://github.com/Jirubizu/reclass-rs) to [CrackerCat/reclass-rs](https://github.com/CrackerCat/reclass-rs)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [handhand/HackThisAndroid](https://github.com/handhand/HackThisAndroid) to [CrackerCat/HackThisAndroid](https://github.com/CrackerCat/HackThisAndroid)
+  > android项目，用ndk来实现app保护，同时也提供frida脚本去进行攻击
 
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lethalbit/Foxy](https://github.com/lethalbit/Foxy)
-  > FUSE-base file proxy with CoW capabilities
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [shrine-maiden-heavy-industries/bakeneko](https://github.com/shrine-maiden-heavy-industries/bakeneko)
-  > PCIe Gateware core for Torii
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [shrine-maiden-heavy-industries/kokorowatari](https://github.com/shrine-maiden-heavy-industries/kokorowatari)
-  > An SDR/DDR SDRAM controller library for Torii
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OwenPawl/cerberus-re-skill](https://github.com/OwenPawl/cerberus-re-skill)
-  > cerberus-re is a local Apple-focused reverse-engineering workbench for building a repeatable three-h...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
-  > Framework for evaluating and improving agents 
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lukesdevlab/youtube](https://github.com/lukesdevlab/youtube)
-  > Prompts and model configs used in my videos.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
-  > PE/ELF x86/x64 CFG extractor
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turbo-tan/llama.cpp-tq3](https://github.com/turbo-tan/llama.cpp-tq3)
-  > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
-  >  ggml speech-to-text inference for 16+ model families
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
-  > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
-  > Godot reverse engineering tools
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) to [mrexodia/gdsdecomp](https://github.com/mrexodia/gdsdecomp)
-  > Godot reverse engineering tools
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
-  > Inspect: A framework for large language model evaluations
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [blader/baton](https://github.com/blader/baton)
-  > Baton — clean session handoffs: pass in-progress work to the next agent with a single verified markd...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [dzhng/skills](https://github.com/dzhng/skills)
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [gmh5225/ios-location-spoofer](https://github.com/gmh5225/ios-location-spoofer)
+  > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
+  > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
 
 
 <!-- nav -->
-[← 2026-07-01](archive/2026/07/01.md)
+[← 2026-07-02](archive/2026/07/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 23:11:41 UTC*
+*Last updated at 2026-07-03 03:39:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
