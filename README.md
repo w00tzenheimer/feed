@@ -26,9 +26,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
   > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [minestrate/php-client](https://github.com/minestrate/php-client) to [SaruMC/php-client](https://github.com/SaruMC/php-client)
+  > PHP client for minestrate, especially for @pmmp
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mprahboamey/atom](https://github.com/mprahboamey/atom)
   > optical attention via wave interference in holographic crystals verified to float precision. the mat...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ewhauser/gbash](https://github.com/ewhauser/gbash)
+  > Pure Go bash implementation for agent sandboxes
 
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [milankovo/struct-compare](https://github.com/milankovo/struct-compare)
@@ -37,13 +43,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [docker/compose](https://github.com/docker/compose)
   > Define and run multi-container applications with Docker
 
+### [vitosans](https://github.com/vitosans)
+- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+
 
 <!-- nav -->
 [← 2026-07-02](archive/2026/07/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 12:58:12 UTC*
+*Last updated at 2026-07-03 15:17:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
