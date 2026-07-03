@@ -48,6 +48,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ewhauser/gbash](https://github.com/ewhauser/gbash)
   > Pure Go bash implementation for agent sandboxes
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla)
+  > Personal macOS meeting transcription — OpenAI / Speechmatics / on-device Whisper, per-note summary p...
+
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [milankovo/struct-compare](https://github.com/milankovo/struct-compare)
 
@@ -65,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 21:11:39 UTC*
+*Last updated at 2026-07-03 23:08:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
