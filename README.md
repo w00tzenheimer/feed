@@ -22,13 +22,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [a9gent/mindfs](https://github.com/a9gent/mindfs)
   > Access your personal AI agents and workstation data anywhere, anytime through MindFS.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
+  > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
+
 
 <!-- nav -->
 [← 2026-07-03](archive/2026/07/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 06:49:48 UTC*
+*Last updated at 2026-07-04 09:25:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
