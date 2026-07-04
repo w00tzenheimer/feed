@@ -11,6 +11,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [EloiStree](https://github.com/EloiStree)
 - 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [PlummersSoftwareLLC/TinyRetroPad](https://github.com/PlummersSoftwareLLC/TinyRetroPad)
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [weak1337/IntelOpRegionFingerprint](https://github.com/weak1337/IntelOpRegionFingerprint)
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
@@ -25,7 +28,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 03:33:05 UTC*
+*Last updated at 2026-07-04 06:49:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
