@@ -30,13 +30,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
   > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)
+  > Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
+  > cut Fable 5 token usage by rendering text context as images
+
 
 <!-- nav -->
 [← 2026-07-03](archive/2026/07/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 15:08:44 UTC*
+*Last updated at 2026-07-04 17:10:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
