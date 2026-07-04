@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
+  > A powerful obfuscator for JavaScript and Node.js
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [dakra/sodium.el](https://github.com/dakra/sodium.el)
   > Emacs bindings for libsodium
@@ -29,6 +33,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
   > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [open-webui/open-terminal](https://github.com/open-webui/open-terminal)
+  > A computer you can curl ⚡
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)
@@ -36,13 +42,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
   > cut Fable 5 token usage by rendering text context as images
 
+### [wangyu-](https://github.com/wangyu-)
+- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [izivkov/CasioGShockSmartSync](https://github.com/izivkov/CasioGShockSmartSync)
+- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [izivkov/gshock-smart-sync-webapp](https://github.com/izivkov/gshock-smart-sync-webapp)
+
 
 <!-- nav -->
 [← 2026-07-03](archive/2026/07/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 21:02:11 UTC*
+*Last updated at 2026-07-04 23:00:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
