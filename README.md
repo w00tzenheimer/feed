@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [dakra/sodium.el](https://github.com/dakra/sodium.el)
+  > Emacs bindings for libsodium
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [a9gent/mindfs](https://github.com/a9gent/mindfs)
   > Access your personal AI agents and workstation data anywhere, anytime through MindFS.
@@ -32,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 11:35:53 UTC*
+*Last updated at 2026-07-04 13:42:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
