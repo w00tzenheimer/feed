@@ -11,6 +11,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [ArcaneNibble/wine-linux-calls](https://github.com/ArcaneNibble/wine-linux-calls)
   > Demonstrations of mixing Linux code into Wine processes
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs)
+  > High level bindings to the quickjs javascript engine
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [dockur/windows](https://github.com/dockur/windows)
@@ -33,6 +35,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > DSpark-style speculative decoding draft head for Qwen3.6-27B AEON: training recipe, paired eval harn...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marksunner/dgx-spark-single-stack](https://github.com/marksunner/dgx-spark-single-stack)
   > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/container](https://github.com/aerovato/container)
+  > Safely run OpenCode, Codex, Claude Code with full permissions.
 
 
 <!-- nav -->
@@ -40,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 10:18:59 UTC*
+*Last updated at 2026-07-05 12:19:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
