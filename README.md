@@ -30,11 +30,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [automataIA/wasm-typst-studio-rs](https://github.com/automataIA/wasm-typst-studio-rs) to [IuvenisSapiens/wasm-typst-studio-rs](https://github.com/IuvenisSapiens/wasm-typst-studio-rs)
   > A WASM-powered Typst Studio built with Rust and Leptos. Features real-time document compilation to S...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [aws-samples/sample-bedrock-api-proxy](https://github.com/aws-samples/sample-bedrock-api-proxy) to [NyaMisty/sample-bedrock-api-proxy](https://github.com/NyaMisty/sample-bedrock-api-proxy)
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [dockur/windows](https://github.com/dockur/windows)
   > Windows inside a Docker container.
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [HarryR/z80ai](https://github.com/HarryR/z80ai)
   > Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train con...
+
+### [maikel233](https://github.com/maikel233)
+- 🍴 👤 [maikel233](https://github.com/maikel233) Forked [mweimerskirch/lovelace-hacomfoairmqtt](https://github.com/mweimerskirch/lovelace-hacomfoairmqtt) to [maikel233/lovelace-hacomfoairmqtt](https://github.com/maikel233/lovelace-hacomfoairmqtt)
+- 🍴 👤 [maikel233](https://github.com/maikel233) Forked [TimWeyand/lovelace-comfoair](https://github.com/TimWeyand/lovelace-comfoair) to [maikel233/lovelace-comfoair](https://github.com/maikel233/lovelace-comfoair)
+  > Homeassistant Lovelace Comfoair card  
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [dockur/macos](https://github.com/dockur/macos)
@@ -56,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
   > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+  > MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Patvessel/ComfyUI-krea2_projector_delta](https://github.com/Patvessel/ComfyUI-krea2_projector_delta)
+  > This is a custom node for the Krea2 model with a variable dynamic Delta value, designed to integrate...
 
 ### [qop1832](https://github.com/qop1832)
 - 🌟 👤 [qop1832](https://github.com/qop1832) Starred [TrinityCore/WowPacketParser](https://github.com/TrinityCore/WowPacketParser)
@@ -69,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 18:06:55 UTC*
+*Last updated at 2026-07-05 20:17:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
