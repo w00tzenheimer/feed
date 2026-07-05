@@ -18,10 +18,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android) to [CrackerCat/bad-epoll-android](https://github.com/CrackerCat/bad-epoll-android)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anekys/BinderTracer](https://github.com/Anekys/BinderTracer) to [CrackerCat/BinderTracer](https://github.com/CrackerCat/BinderTracer)
   > Android Binder transaction tracer
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vvb2060/pxeboot](https://github.com/vvb2060/pxeboot) to [CrackerCat/pxeboot](https://github.com/CrackerCat/pxeboot)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BruceLi20110501/Pulsar_RAT](https://github.com/BruceLi20110501/Pulsar_RAT) to [CrackerCat/Pulsar_RAT](https://github.com/CrackerCat/Pulsar_RAT)
+  > Pulsar RAT现有官方仓库已被下架，此仓库为个人二开版，禁止商用
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)
   > Lightweight (7MB) Terminal-first AI-native dev workspace
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [calstfrancis/zerkalo](https://github.com/calstfrancis/zerkalo) to [IuvenisSapiens/zerkalo](https://github.com/IuvenisSapiens/zerkalo)
+  > GTK4 Typst editor with live preview, LSP completions, spell check, git sync, and academic writing to...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [automataIA/wasm-typst-studio-rs](https://github.com/automataIA/wasm-typst-studio-rs) to [IuvenisSapiens/wasm-typst-studio-rs](https://github.com/IuvenisSapiens/wasm-typst-studio-rs)
+  > A WASM-powered Typst Studio built with Rust and Leptos. Features real-time document compilation to S...
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [dockur/windows](https://github.com/dockur/windows)
@@ -61,7 +68,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 14:46:27 UTC*
+*Last updated at 2026-07-05 16:12:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
