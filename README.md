@@ -14,6 +14,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs)
   > High level bindings to the quickjs javascript engine
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android) to [CrackerCat/bad-epoll-android](https://github.com/CrackerCat/bad-epoll-android)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anekys/BinderTracer](https://github.com/Anekys/BinderTracer) to [CrackerCat/BinderTracer](https://github.com/CrackerCat/BinderTracer)
+  > Android Binder transaction tracer
+
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)
+  > Lightweight (7MB) Terminal-first AI-native dev workspace
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [dockur/windows](https://github.com/dockur/windows)
   > Windows inside a Docker container.
@@ -37,6 +46,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/container](https://github.com/aerovato/container)
   > Safely run OpenCode, Codex, Claude Code with full permissions.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
+  > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
+
+### [qop1832](https://github.com/qop1832)
+- 🌟 👤 [qop1832](https://github.com/qop1832) Starred [TrinityCore/WowPacketParser](https://github.com/TrinityCore/WowPacketParser)
+  > World of Warcraft Packet Parser
+- 🍴 👤 [qop1832](https://github.com/qop1832) Forked [TrinityCore/WowPacketParser](https://github.com/TrinityCore/WowPacketParser) to [qop1832/WowPacketParser](https://github.com/qop1832/WowPacketParser)
+  > World of Warcraft Packet Parser
 
 
 <!-- nav -->
@@ -44,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 12:19:00 UTC*
+*Last updated at 2026-07-05 14:46:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
