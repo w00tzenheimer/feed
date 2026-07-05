@@ -55,6 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Safely run OpenCode, Codex, Claude Code with full permissions.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
   > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
 
 ### [qop1832](https://github.com/qop1832)
 - 🌟 👤 [qop1832](https://github.com/qop1832) Starred [TrinityCore/WowPacketParser](https://github.com/TrinityCore/WowPacketParser)
@@ -68,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 16:12:11 UTC*
+*Last updated at 2026-07-05 18:06:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
