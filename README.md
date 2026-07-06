@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [withastro/compiler-rs](https://github.com/withastro/compiler-rs)
+  > The Astro compiler
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude) to [CrackerCat/FuckClaude](https://github.com/CrackerCat/FuckClaude)
 
@@ -29,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [WebAssembly/wabt](https://github.com/WebAssembly/wabt) to [dip-proto/wabt](https://github.com/dip-proto/wabt)
   > The WebAssembly Binary Toolkit
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker)
+  > Open Service Broker API Specification
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
   > Implements harmful/harmless refusal removal using pure HF Transformers
@@ -46,6 +54,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Animated border beam effect for React
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [BennyKok/lfg](https://github.com/BennyKok/lfg)
   > lfg — run and manage your AI coding agents (Claude Code / Codex / OpenCode) on your own VPS
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+  > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mitos-run/mitos](https://github.com/mitos-run/mitos)
+  > Millisecond microVM sandbox forking for AI agents on Kubernetes. Firecracker VMs that restore from m...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [nervosys/HyperMachine](https://github.com/nervosys/HyperMachine)
+  > Agentic hypervisors for the 21st century
 
 ### [vitosans](https://github.com/vitosans)
 - 🌟 👤 [vitosans](https://github.com/vitosans) Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
@@ -57,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 20:02:55 UTC*
+*Last updated at 2026-07-06 22:16:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
