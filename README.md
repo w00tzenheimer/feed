@@ -21,9 +21,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [pre-commit/identify](https://github.com/pre-commit/identify) to [Naville/identify](https://github.com/Naville/identify)
   > File identification library for Python
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [WebAssembly/wabt](https://github.com/WebAssembly/wabt) to [dip-proto/wabt](https://github.com/dip-proto/wabt)
+  > The WebAssembly Binary Toolkit
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
   > Implements harmful/harmless refusal removal using pure HF Transformers
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dreamfast/ungguf](https://github.com/dreamfast/ungguf)
+  > GGUF -> Safetensor converter
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [confident-ai/deepeval](https://github.com/confident-ai/deepeval)
+  > The LLM Evaluation Framework
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [centerforaisafety/HarmBench](https://github.com/centerforaisafety/HarmBench)
+  > HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam)
@@ -41,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 14:28:24 UTC*
+*Last updated at 2026-07-06 17:46:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
