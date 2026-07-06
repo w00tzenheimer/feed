@@ -21,6 +21,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [pre-commit/identify](https://github.com/pre-commit/identify) to [Naville/identify](https://github.com/Naville/identify)
   > File identification library for Python
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [WebAssembly/wabt](https://github.com/WebAssembly/wabt) to [dip-proto/wabt](https://github.com/dip-proto/wabt)
   > The WebAssembly Binary Toolkit
@@ -34,6 +38,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The LLM Evaluation Framework
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [centerforaisafety/HarmBench](https://github.com/centerforaisafety/HarmBench)
   > HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
+  > llama-benchy - llama-bench style benchmarking tool for all backends
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam)
@@ -51,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 17:46:03 UTC*
+*Last updated at 2026-07-06 20:02:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
