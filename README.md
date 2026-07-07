@@ -11,10 +11,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [canyie/TransitionPlayer](https://github.com/canyie/TransitionPlayer) to [CrackerCat/TransitionPlayer](https://github.com/CrackerCat/TransitionPlayer)
   > CVE-2026-0091, play with an issue in android window management to perform arbitrary code execution i...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kuliantnt/qq-maid-bot](https://github.com/kuliantnt/qq-maid-bot) to [CrackerCat/qq-maid-bot](https://github.com/CrackerCat/qq-maid-bot)
+  > 通用女仆机器人本地版 Rust 服务
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/Januscape](https://github.com/V4bel/Januscape) to [CrackerCat/Januscape](https://github.com/CrackerCat/Januscape)
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [tensorforger/FluxRT](https://github.com/tensorforger/FluxRT)
   > Real-time stream editing pipeline powered by the FLUX.2-klein-4B model, optimized for consumer GPUs
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [benedict-armstrong/presio](https://github.com/benedict-armstrong/presio)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [benedict-armstrong/presio](https://github.com/benedict-armstrong/presio) to [IuvenisSapiens/presio](https://github.com/IuvenisSapiens/presio)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [benedict-armstrong/presio-typst-package](https://github.com/benedict-armstrong/presio-typst-package)
+
+### [michal-kapala](https://github.com/michal-kapala)
+- 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [ollama/ollama](https://github.com/ollama/ollama)
+  > Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models...
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [ldelbreil26/coony](https://github.com/ldelbreil26/coony)
@@ -28,6 +38,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official Jina AI Remote MCP Server
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
   > A Patch for GIMP 3+ for Photoshop Users
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)
+  > Tencent Hy3 295B MoE (NVFP4) on 2x NVIDIA DGX Spark — TP2 over 200GbE, 256K context, 26 tok/s end-to...
 
 
 <!-- nav -->
@@ -35,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 11:54:23 UTC*
+*Last updated at 2026-07-07 14:45:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
