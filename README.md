@@ -43,13 +43,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)
   > Tencent Hy3 295B MoE (NVFP4) on 2x NVIDIA DGX Spark — TP2 over 200GbE, 256K context, 26 tok/s end-to...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use)
+  > 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [iFurySt/open-browser-use](https://github.com/iFurySt/open-browser-use)
+  > 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, ...
+
 
 <!-- nav -->
 [← 2026-07-06](archive/2026/07/06.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 17:20:08 UTC*
+*Last updated at 2026-07-07 20:01:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
