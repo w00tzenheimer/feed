@@ -27,13 +27,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Ajarmar/universal-pokemon-randomizer-zx](https://github.com/Ajarmar/universal-pokemon-randomizer-zx)
   > Public repository of source code for the Universal Pokemon Randomizer ZX
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/a6b-k-expansion](https://github.com/hikarioyama/a6b-k-expansion)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
+  > A project to improve skills of large language models
+
 
 <!-- nav -->
 [← 2026-07-07](archive/2026/07/07.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 10:22:09 UTC*
+*Last updated at 2026-07-08 12:22:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
