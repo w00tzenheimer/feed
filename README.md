@@ -32,6 +32,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
   > A project to improve skills of large language models
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/vLLm-0.24-optimized-NVIDIA-Nemotron-Lab-Puzzle-75B-A9B-A4Q-MTP3-NVFP4-KV-2.7M-Pool-Single-DGX-Spark](https://github.com/drowzeys/vLLm-0.24-optimized-NVIDIA-Nemotron-Lab-Puzzle-75B-A9B-A4Q-MTP3-NVFP4-KV-2.7M-Pool-Single-DGX-Spark)
+  > Nemotron Puzzle-75B-A9B on ONE DGX Spark: vLLM 0.24 + A4Q + MTP k=3 + NVFP4 KV, 2.71M-token pool, 22...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark](https://github.com/MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark)
+  > Serve NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 on a single DGX Spark (GB10) node with vLLM 0.24 i...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
 
 
 <!-- nav -->
@@ -39,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 15:24:05 UTC*
+*Last updated at 2026-07-08 17:40:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
