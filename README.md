@@ -23,6 +23,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Relyze](https://github.com/Relyze)
 - 🌟 👤 [Relyze](https://github.com/Relyze) Starred [19h/aletheia](https://github.com/19h/aletheia)
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [haxymad/Pairip-Deobfuscating](https://github.com/haxymad/Pairip-Deobfuscating)
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Ajarmar/universal-pokemon-randomizer-zx](https://github.com/Ajarmar/universal-pokemon-randomizer-zx)
   > Public repository of source code for the Universal Pokemon Randomizer ZX
@@ -37,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark](https://github.com/MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark)
   > Serve NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 on a single DGX Spark (GB10) node with vLLM 0.24 i...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+  > The open-source AI voice studio. Clone, dictate, create.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/nitro](https://github.com/aerovato/nitro)
+  > A tiny and efficient harness for running Bash commands.
 
 
 <!-- nav -->
@@ -44,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 19:38:41 UTC*
+*Last updated at 2026-07-08 21:11:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
