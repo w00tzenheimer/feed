@@ -20,6 +20,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter for safety-critical execution
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter for safety-critical execution
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [james-howard/AWDLControl](https://github.com/james-howard/AWDLControl)
+  > A Mac utility to automatically disable AWDL to reduce lag spikes when playing online games
+
+### [sklam](https://github.com/sklam)
+- 🌟 👤 [sklam](https://github.com/sklam) Starred [RayanDhib/Qorona](https://github.com/RayanDhib/Qorona)
+  > Synthetic coronal imagery from global MHD solutions via line-of-sight integration of the magnetic sq...
+
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [woldann/exoproc](https://github.com/woldann/exoproc)
   > Cross-process instrumentation for Windows x64 in TypeScript — hook functions, redirect threads, and ...
@@ -30,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 15:18:24 UTC*
+*Last updated at 2026-07-09 17:59:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
