@@ -22,6 +22,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A 7-Zip plugin that enables decompression of Android boot images
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) to [CrackerCat/dependency_runner](https://github.com/CrackerCat/dependency_runner)
   > ldd for Windows - and more!
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [KSwordDEV/KSwordSandbox](https://github.com/KSwordDEV/KSwordSandbox) to [CrackerCat/KSwordSandbox](https://github.com/CrackerCat/KSwordSandbox)
+  > Windows sandbox to analyze virus automatically
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [KSwordDEV/Plugins](https://github.com/KSwordDEV/Plugins) to [CrackerCat/KSwordPlugins](https://github.com/CrackerCat/KSwordPlugins)
+  > KSword plugin marketplace catalog and distributable plugins
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JustVugg/colibri](https://github.com/JustVugg/colibri) to [CrackerCat/colibri](https://github.com/CrackerCat/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) to [CrackerCat/DesktopCommanderMCP](https://github.com/CrackerCat/DesktopCommanderMCP)
+  > This is MCP server for Claude that gives it terminal control, file system search and diff file editi...
 
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [nez1336/bewithereddaisy](https://github.com/nez1336/bewithereddaisy)
@@ -32,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 14:36:24 UTC*
+*Last updated at 2026-07-10 16:59:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
