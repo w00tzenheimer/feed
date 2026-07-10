@@ -34,13 +34,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [nez1336/bewithereddaisy](https://github.com/nez1336/bewithereddaisy)
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [lukearend/x86-bootloader](https://github.com/lukearend/x86-bootloader)
+  > write your own bootloader!
+
 
 <!-- nav -->
 [← 2026-07-09](archive/2026/07/09.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 18:39:00 UTC*
+*Last updated at 2026-07-10 20:25:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
