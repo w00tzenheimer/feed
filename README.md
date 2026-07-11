@@ -20,6 +20,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [meowdiocre/ss-overlay-hook](https://github.com/meowdiocre/ss-overlay-hook) to [CrackerCat/ss-overlay-hook](https://github.com/CrackerCat/ss-overlay-hook)
   > DLL injection + ImGui overlay by hijacking SteelSeries GameOverlay internals.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nyaoouo/idalib-mcp](https://github.com/nyaoouo/idalib-mcp) to [CrackerCat/idalib-mcp](https://github.com/CrackerCat/idalib-mcp)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0avx/0avx.github.io](https://github.com/0avx/0avx.github.io) to [CrackerCat/0avx.github.io](https://github.com/CrackerCat/0avx.github.io)
+  > Technical blog posts on low-level software research, focusing on anti-cheat systems and game securit...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
@@ -37,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 11:08:53 UTC*
+*Last updated at 2026-07-11 13:35:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
