@@ -21,6 +21,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > DLL injection + ImGui overlay by hijacking SteelSeries GameOverlay internals.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nyaoouo/idalib-mcp](https://github.com/nyaoouo/idalib-mcp) to [CrackerCat/idalib-mcp](https://github.com/CrackerCat/idalib-mcp)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
+  > Local-LLM-first agentic coding assistant, with everything you need out of the box.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [whatchamacallem/libhatchet](https://github.com/whatchamacallem/libhatchet)
+  > libhatchet is a fast-compiling, lightweight, bespoke C17/C++23 alternative to the C++ standard libra...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
   > The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being exec...
@@ -31,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 07:13:31 UTC*
+*Last updated at 2026-07-11 09:41:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
