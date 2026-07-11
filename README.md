@@ -11,6 +11,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
   > The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Pro...
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [vectordotdev/vrl](https://github.com/vectordotdev/vrl)
+  > Vector Remap Language
+
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/YukiZygisk](https://github.com/Anatdx/YukiZygisk) to [CrackerCat/YukiZygisk](https://github.com/CrackerCat/YukiZygisk)
+  > A new kernel-level Zygisk implementation designed to explore better, cleaner, and more flexible ways...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [devirtz/ss-overlay-hook](https://github.com/devirtz/ss-overlay-hook) to [CrackerCat/ss-overlay-hook](https://github.com/CrackerCat/ss-overlay-hook)
+  > DLL injection + ImGui overlay by hijacking SteelSeries GameOverlay internals.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nyaoouo/idalib-mcp](https://github.com/nyaoouo/idalib-mcp) to [CrackerCat/idalib-mcp](https://github.com/CrackerCat/idalib-mcp)
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
+  > The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being exec...
 
 
 <!-- nav -->
@@ -18,7 +31,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 04:15:07 UTC*
+*Last updated at 2026-07-11 07:13:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
