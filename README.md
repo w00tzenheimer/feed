@@ -23,6 +23,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0avx/0avx.github.io](https://github.com/0avx/0avx.github.io) to [CrackerCat/0avx.github.io](https://github.com/CrackerCat/0avx.github.io)
   > Technical blog posts on low-level software research, focusing on anti-cheat systems and game securit...
 
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [bitdefender/bddisasm](https://github.com/bitdefender/bddisasm)
+  > bddisasm is a fast, lightweight, x86/x64 instruction decoder.  The project also features a fast, bas...
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [CNCKitchen/stlTexturizer](https://github.com/CNCKitchen/stlTexturizer)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
   > Local-LLM-first agentic coding assistant, with everything you need out of the box.
@@ -39,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 16:01:23 UTC*
+*Last updated at 2026-07-11 17:56:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
