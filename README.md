@@ -17,7 +17,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/YukiZygisk](https://github.com/Anatdx/YukiZygisk) to [CrackerCat/YukiZygisk](https://github.com/CrackerCat/YukiZygisk)
   > A new kernel-level Zygisk implementation designed to explore better, cleaner, and more flexible ways...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [devirtz/ss-overlay-hook](https://github.com/devirtz/ss-overlay-hook) to [CrackerCat/ss-overlay-hook](https://github.com/CrackerCat/ss-overlay-hook)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [meowdiocre/ss-overlay-hook](https://github.com/meowdiocre/ss-overlay-hook) to [CrackerCat/ss-overlay-hook](https://github.com/CrackerCat/ss-overlay-hook)
   > DLL injection + ImGui overlay by hijacking SteelSeries GameOverlay internals.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nyaoouo/idalib-mcp](https://github.com/nyaoouo/idalib-mcp) to [CrackerCat/idalib-mcp](https://github.com/CrackerCat/idalib-mcp)
 
@@ -37,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 09:41:21 UTC*
+*Last updated at 2026-07-11 11:08:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
