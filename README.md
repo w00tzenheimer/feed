@@ -40,9 +40,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [whatchamacallem/libhatchet](https://github.com/whatchamacallem/libhatchet)
   > libhatchet is a fast-compiling, lightweight, bespoke C17/C++23 alternative to the C++ standard libra...
 
+### [namreeb](https://github.com/namreeb)
+- 🍴 👤 [namreeb](https://github.com/namreeb) Forked [Cheesehyvel/magesim-tbc2](https://github.com/Cheesehyvel/magesim-tbc2) to [namreeb/magesim-tbc2](https://github.com/namreeb/magesim-tbc2)
+  > MageSim TBC in C++
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
   > The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being exec...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [VoidNullable/lific](https://github.com/VoidNullable/lific)
+  > Local-first, lightweight issue tracker. Single Rust binary, SQLite-backed, MCP-native.
+
+### [shnaps666](https://github.com/shnaps666)
+- 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
 
 <!-- nav -->
@@ -50,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 22:54:01 UTC*
+*Last updated at 2026-07-11 23:59:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
