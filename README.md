@@ -11,10 +11,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wesmar/EfiTool](https://github.com/wesmar/EfiTool) to [CrackerCat/EfiTool](https://github.com/CrackerCat/EfiTool)
   > 0/68 VirusTotal. NT AUTHORITY\SYSTEM before the logon screen. No disk writes. No kernel driver. No P...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research) to [CrackerCat/cve-2026-25262-sm8450-research](https://github.com/CrackerCat/cve-2026-25262-sm8450-research)
+  > CVE-2026-25262 applicability to Snapdragon 8 Gen 1 — experimental results
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [danveloper/flash-pi-dsv4](https://github.com/danveloper/flash-pi-dsv4)
+  > DeepSeek-V4-Flash on a Raspberry Pi 5 (8GB)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
+  > 🤖 WebMCP
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
@@ -36,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 11:13:35 UTC*
+*Last updated at 2026-07-12 13:35:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
