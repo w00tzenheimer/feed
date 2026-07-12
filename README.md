@@ -14,6 +14,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research) to [CrackerCat/cve-2026-25262-sm8450-research](https://github.com/CrackerCat/cve-2026-25262-sm8450-research)
   > CVE-2026-25262 applicability to Snapdragon 8 Gen 1 — experimental results
 
+### [dword64](https://github.com/dword64)
+- 🍴 👤 [dword64](https://github.com/dword64) Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [dword64/Vencord](https://github.com/dword64/Vencord)
+  > The cutest Discord modification
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -42,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 13:35:27 UTC*
+*Last updated at 2026-07-12 15:00:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
