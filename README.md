@@ -30,6 +30,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
   > Use Codex from Claude Code to review code or delegate tasks.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [per-simmons/clone-app-pat-pro-public](https://github.com/per-simmons/clone-app-pat-pro-public)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
+  > A set of agent skills that help improve different parts of a product, from animations and typography...
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [gywan94/m5stack-tab5-nc1020](https://github.com/gywan94/m5stack-tab5-nc1020)
@@ -47,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 20:55:03 UTC*
+*Last updated at 2026-07-12 21:55:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
