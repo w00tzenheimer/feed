@@ -42,6 +42,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [caprinux/rel-fuscate](https://github.com/caprinux/rel-fuscate)
   > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku)
@@ -57,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 17:16:13 UTC*
+*Last updated at 2026-07-13 19:26:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
