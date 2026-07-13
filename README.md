@@ -1,55 +1,29 @@
-# Daily GitHub Activity (2026-07-12)
+# Daily GitHub Activity (2026-07-13)
 
 <!-- nav -->
-[← 2026-07-11](archive/2026/07/11.md)
+[← 2026-07-12](archive/2026/07/12.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
+  > 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其...
+
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wesmar/EfiTool](https://github.com/wesmar/EfiTool) to [CrackerCat/EfiTool](https://github.com/CrackerCat/EfiTool)
-  > 0/68 VirusTotal. NT AUTHORITY\SYSTEM before the logon screen. No disk writes. No kernel driver. No P...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research) to [CrackerCat/cve-2026-25262-sm8450-research](https://github.com/CrackerCat/cve-2026-25262-sm8450-research)
-  > CVE-2026-25262 applicability to Snapdragon 8 Gen 1 — experimental results
-
-### [dword64](https://github.com/dword64)
-- 🍴 👤 [dword64](https://github.com/dword64) Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [dword64/Vencord](https://github.com/dword64/Vencord)
-  > The cutest Discord modification
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
-  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [danveloper/flash-pi-dsv4](https://github.com/danveloper/flash-pi-dsv4)
-  > DeepSeek-V4-Flash on a Raspberry Pi 5 (8GB)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
-  > 🤖 WebMCP
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
-  > Use Codex from Claude Code to review code or delegate tasks.
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [per-simmons/clone-app-pat-pro-public](https://github.com/per-simmons/clone-app-pat-pro-public)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
-  > A set of agent skills that help improve different parts of a product, from animations and typography...
-
-### [wangyu-](https://github.com/wangyu-)
-- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [gywan94/m5stack-tab5-nc1020](https://github.com/gywan94/m5stack-tab5-nc1020)
-  > nc1020，nc2000，nc2600等模拟器，在tab5上运行，运行前必须在sd卡上有相应rom，和nor
-- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [sbhhbs/lava_collection](https://github.com/sbhhbs/lava_collection)
-  > 收集曾经的文曲星 lava 程序
-- 🍴 👤 [wangyu-](https://github.com/wangyu-) Forked [sbhhbs/lava_collection](https://github.com/sbhhbs/lava_collection) to [wangyu-/lava_collection](https://github.com/wangyu-/lava_collection)
-  > 收集曾经的文曲星 lava 程序
-- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [gywan94/cardputer-nc1020emu](https://github.com/gywan94/cardputer-nc1020emu)
-  > m5stack，nc1020 模拟器，可以半速运行，需要sd卡选择载入rom和nor
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle) to [CrackerCat/CVE-2026-43499-popsicle](https://github.com/CrackerCat/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tsunam9/MemHvHooked](https://github.com/tsunam9/MemHvHooked) to [CrackerCat/MemHvHooked](https://github.com/CrackerCat/MemHvHooked)
 
 
 <!-- nav -->
-[← 2026-07-11](archive/2026/07/11.md)
+[← 2026-07-12](archive/2026/07/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 23:59:13 UTC*
+*Last updated at 2026-07-13 03:49:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
