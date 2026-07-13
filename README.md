@@ -27,6 +27,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hyuunnn/ida-slides](https://github.com/hyuunnn/ida-slides)
+  > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [caprinux/rel-fuscate](https://github.com/caprinux/rel-fuscate)
+  > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku)
   > High-performance JavaScript/TypeScript compiler toolchain in Zig.
@@ -41,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 11:16:11 UTC*
+*Last updated at 2026-07-13 14:43:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
