@@ -23,6 +23,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [EloiStree](https://github.com/EloiStree) Forked [maji-git/godot-oauth2-deviceflow](https://github.com/maji-git/godot-oauth2-deviceflow) to [EloiStree/2026_07_13_gdp_fork_godot_oauth2_device_flow](https://github.com/EloiStree/2026_07_13_gdp_fork_godot_oauth2_device_flow)
   > Authenticate OAuth2 Applications via Device Flow
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [windreamer/flash-attention3-wheels](https://github.com/windreamer/flash-attention3-wheels)
+  > Pre-built wheels that erase Flash Attention 3 installation headaches.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [windreamer/flash-attention3-wheels](https://github.com/windreamer/flash-attention3-wheels) to [IuvenisSapiens/flash-attention3-wheels](https://github.com/IuvenisSapiens/flash-attention3-wheels)
+  > Pre-built wheels that erase Flash Attention 3 installation headaches.
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [giannisanni/neutronstar](https://github.com/giannisanni/neutronstar)
+  > Giant MoE models on a single consumer GPU by streaming experts from SSD. CUDA fork of antirez/ds4: r...
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -47,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 14:43:08 UTC*
+*Last updated at 2026-07-13 17:16:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
