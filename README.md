@@ -17,6 +17,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tsunam9/MemHvHooked](https://github.com/tsunam9/MemHvHooked) to [CrackerCat/MemHvHooked](https://github.com/CrackerCat/MemHvHooked)
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [maji-git/godot-oauth2-deviceflow](https://github.com/maji-git/godot-oauth2-deviceflow)
+  > Authenticate OAuth2 Applications via Device Flow
+- 🍴 👤 [EloiStree](https://github.com/EloiStree) Forked [maji-git/godot-oauth2-deviceflow](https://github.com/maji-git/godot-oauth2-deviceflow) to [EloiStree/2026_07_13_gdp_fork_godot_oauth2_device_flow](https://github.com/EloiStree/2026_07_13_gdp_fork_godot_oauth2_device_flow)
+  > Authenticate OAuth2 Applications via Device Flow
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -25,13 +31,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku)
   > High-performance JavaScript/TypeScript compiler toolchain in Zig.
 
+### [wanttobeno](https://github.com/wanttobeno)
+- 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [Chunyu33/viap](https://github.com/Chunyu33/viap)
+  > Windows应用管理、数据迁移工具。
+
 
 <!-- nav -->
 [← 2026-07-12](archive/2026/07/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 07:24:22 UTC*
+*Last updated at 2026-07-13 11:16:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
