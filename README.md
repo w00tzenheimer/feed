@@ -33,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [giannisanni/neutronstar](https://github.com/giannisanni/neutronstar)
   > Giant MoE models on a single consumer GPU by streaming experts from SSD. CUDA fork of antirez/ds4: r...
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [Dicklesworthstone/asupersync](https://github.com/Dicklesworthstone/asupersync)
+  > Async runtime for Rust where correctness is structural: region-owned tasks, cancel-correct protocols...
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -46,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xp987/symbridge](https://github.com/xp987/symbridge)
   > Live IDA ↔ x64dbg annotation and type synchronization bridge
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [xp987/symbridge](https://github.com/xp987/symbridge) to [mrexodia/symbridge](https://github.com/mrexodia/symbridge)
+  > Live IDA ↔ x64dbg annotation and type synchronization bridge
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thomasunise/visionbridge](https://github.com/thomasunise/visionbridge)
+  > Give text-only LLMs vision. A tiny OpenAI-compatible proxy that lets reasoning models (DeepSeek, Qwe...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku)
@@ -61,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 22:03:39 UTC*
+*Last updated at 2026-07-13 23:56:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
