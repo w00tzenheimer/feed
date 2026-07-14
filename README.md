@@ -24,9 +24,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [fairydreaming/llama.cpp](https://github.com/fairydreaming/llama.cpp) to [NyaMisty/llama.cpp](https://github.com/NyaMisty/llama.cpp)
   > LLM inference in C/C++
 
+### [can1357](https://github.com/can1357)
+- 🌟 👤 [can1357](https://github.com/can1357) Starred [watzon/semantouch](https://github.com/watzon/semantouch)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
+### [woct0rdho](https://github.com/woct0rdho)
+- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [woct0rdho/llama.cpp](https://github.com/woct0rdho/llama.cpp)
+  > LLM inference in C/C++
 
 
 <!-- nav -->
@@ -34,7 +41,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 17:17:45 UTC*
+*Last updated at 2026-07-14 19:24:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
