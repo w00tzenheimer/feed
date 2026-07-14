@@ -30,6 +30,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [videlalvaro/leet-llm](https://github.com/videlalvaro/leet-llm)
+  > A hands-on Swift and Metal course for building LLM inference from first principles on Apple silicon,...
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [woct0rdho/llama.cpp](https://github.com/woct0rdho/llama.cpp)
@@ -41,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 21:03:31 UTC*
+*Last updated at 2026-07-14 22:59:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
