@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [open-feature/rust-sdk](https://github.com/open-feature/rust-sdk)
   > Rust implementation of the OpenFeature SDK
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sslotin/amh-code](https://github.com/sslotin/amh-code)
+  > Complete implementations from "Algorithms for Modern Hardware"
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Marisa-Chan/GhidrOrean](https://github.com/Marisa-Chan/GhidrOrean)
   > Ghidra Oreans DeVirt
@@ -30,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 16:25:52 UTC*
+*Last updated at 2026-07-15 18:10:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
