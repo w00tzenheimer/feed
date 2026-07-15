@@ -15,6 +15,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sslotin/amh-code](https://github.com/sslotin/amh-code)
   > Complete implementations from "Algorithms for Modern Hardware"
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [stefanha/git-publish](https://github.com/stefanha/git-publish)
+  > Prepare and store patch revisions as git tags
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Marisa-Chan/GhidrOrean](https://github.com/Marisa-Chan/GhidrOrean)
@@ -34,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 18:10:46 UTC*
+*Last updated at 2026-07-15 20:13:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
