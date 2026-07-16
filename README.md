@@ -32,6 +32,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
   > 176 vulnerabilities in Samsung preinstalled Android apps
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ron4fun/HashLibPlus](https://github.com/ron4fun/HashLibPlus)
+  > HashLibPlus is a recommended C++11 hashing library that provides a fluent interface for computing ha...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ntsc-rs/ntsc-rs](https://github.com/ntsc-rs/ntsc-rs)
+  > Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
@@ -46,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 19:17:58 UTC*
+*Last updated at 2026-07-16 21:05:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
