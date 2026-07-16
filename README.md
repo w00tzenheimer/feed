@@ -21,6 +21,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-mod...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr) to [IuvenisSapiens/franken_ocr](https://github.com/IuvenisSapiens/franken_ocr)
   > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-mod...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [avifenesh/bw24](https://github.com/avifenesh/bw24)
+  > From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative dec...
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
+  > Framework for evaluating and improving agents 
 
 
 <!-- nav -->
@@ -28,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 04:11:04 UTC*
+*Last updated at 2026-07-16 07:24:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
