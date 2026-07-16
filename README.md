@@ -8,14 +8,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
+  > 🦊 Firefox in WebAssembly
+
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xai-org/grok-build](https://github.com/xai-org/grok-build) to [CrackerCat/grok-build](https://github.com/CrackerCat/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr)
+  > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-mod...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr) to [IuvenisSapiens/franken_ocr](https://github.com/IuvenisSapiens/franken_ocr)
+  > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-mod...
+
 
 <!-- nav -->
 [← 2026-07-15](archive/2026/07/15.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 00:01:24 UTC*
+*Last updated at 2026-07-16 04:11:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
