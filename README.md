@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
+  > Skills for Design Engineers.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)
+  > Your clothes, extracted and organized with gpt-image.
 
 
 <!-- nav -->
@@ -34,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 07:24:35 UTC*
+*Last updated at 2026-07-16 10:12:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
