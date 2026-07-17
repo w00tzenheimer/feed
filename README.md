@@ -63,6 +63,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > FFXIV Launcher with TTS is a guide to add high-quality Text-to-Speech (TTS) to Final Fantasy XIV usi...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keifufu/XivVoices](https://github.com/keifufu/XivVoices)
   > FFXIV TTS Plugin
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)
+  > A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Cjbuilds/Codex-Orchestration](https://github.com/Cjbuilds/Codex-Orchestration)
@@ -74,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 20:08:22 UTC*
+*Last updated at 2026-07-17 21:56:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
