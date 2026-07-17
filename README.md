@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ericmigi/googlehome-mcp](https://github.com/ericmigi/googlehome-mcp)
   > MCP server for controlling Google Home devices (lights, locks, thermostats, speakers, routines) via ...
 
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [KSwordDEV/KSword](https://github.com/KSwordDEV/KSword)
+  > KSword 5.1 is an open-source Windows toolkit for ARK, kernel debugging, and system forensics.  中文：KS...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Cjbuilds/Codex-Orchestration](https://github.com/Cjbuilds/Codex-Orchestration)
   > Bring any model to Codex, assign them any role, use them in /goal or any workflow.
@@ -34,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 08:16:05 UTC*
+*Last updated at 2026-07-17 10:49:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
