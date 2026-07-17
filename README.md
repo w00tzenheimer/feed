@@ -19,6 +19,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Surgical x64 VEH/VCH dumper. Walks the vectored exception handler list, extracts each handler as a s...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Yu9191/wloc](https://github.com/Yu9191/wloc) to [CrackerCat/wloc](https://github.com/CrackerCat/wloc)
   > 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root) to [CrackerCat/duchamp-root](https://github.com/CrackerCat/duchamp-root)
+  > Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU integration
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ericmigi/googlehome-mcp](https://github.com/ericmigi/googlehome-mcp)
@@ -27,6 +29,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [KSwordDEV/KSword](https://github.com/KSwordDEV/KSword)
   > KSword 5.1 is an open-source Windows toolkit for ARK, kernel debugging, and system forensics.  中文：KS...
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [bedrock-v/Vedrock](https://github.com/bedrock-v/Vedrock) to [mitsuakki/vedrock](https://github.com/mitsuakki/vedrock)
+  > Lightweight Minecraft: Bedrock Edition server software written in V
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Cjbuilds/Codex-Orchestration](https://github.com/Cjbuilds/Codex-Orchestration)
@@ -38,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 10:49:58 UTC*
+*Last updated at 2026-07-17 12:12:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
