@@ -54,6 +54,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [mitsuakki](https://github.com/mitsuakki) Made [mitsuakki/blog](https://github.com/mitsuakki/blog) public
   > My personal blog where i write reverse and software engineering posts
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RenNagasaki/Echokraut](https://github.com/RenNagasaki/Echokraut)
+  > A TTS Dalamud Plugin that breaks the silence! For self hosted TTS Services.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sebane1/RoleplayingVoiceDalamud](https://github.com/Sebane1/RoleplayingVoiceDalamud)
+  > Spoken in game voices, enhanced mod management, Twitch integration, and more!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MinhakaDev/FFXIV-TTS](https://github.com/MinhakaDev/FFXIV-TTS)
+  > FFXIV Launcher with TTS is a guide to add high-quality Text-to-Speech (TTS) to Final Fantasy XIV usi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keifufu/XivVoices](https://github.com/keifufu/XivVoices)
+  > FFXIV TTS Plugin
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Cjbuilds/Codex-Orchestration](https://github.com/Cjbuilds/Codex-Orchestration)
   > Bring any model to Codex, assign them any role, use them in /goal or any workflow.
@@ -64,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 14:45:39 UTC*
+*Last updated at 2026-07-17 16:17:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
