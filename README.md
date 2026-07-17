@@ -1,58 +1,36 @@
-# Daily GitHub Activity (2026-07-16)
+# Daily GitHub Activity (2026-07-17)
 
 <!-- nav -->
-[← 2026-07-15](archive/2026/07/15.md)
+[← 2026-07-16](archive/2026/07/16.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
-  > 🦊 Firefox in WebAssembly
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xai-org/grok-build](https://github.com/xai-org/grok-build) to [CrackerCat/grok-build](https://github.com/CrackerCat/grok-build)
-  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-
-### [EloiStree](https://github.com/EloiStree)
-- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [shaunabanana/unity-websocket-server](https://github.com/shaunabanana/unity-websocket-server)
-  > A simple, zero-dependency WebSocket server for Unity.
-
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr)
-  > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-mod...
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr) to [IuvenisSapiens/franken_ocr](https://github.com/IuvenisSapiens/franken_ocr)
-  > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-mod...
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [avifenesh/bw24](https://github.com/avifenesh/bw24)
-  > From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative dec...
-
-### [eybisi](https://github.com/eybisi)
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
-  > 176 vulnerabilities in Samsung preinstalled Android apps
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ron4fun/HashLibPlus](https://github.com/ron4fun/HashLibPlus)
-  > HashLibPlus is a recommended C++11 hashing library that provides a fluent interface for computing ha...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ntsc-rs/ntsc-rs](https://github.com/ntsc-rs/ntsc-rs)
-  > Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) to [CrackerCat/ghostlock-oneplus](https://github.com/CrackerCat/ghostlock-oneplus)
+  > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xTracepacket/imgui-forge-mcp](https://github.com/0xTracepacket/imgui-forge-mcp) to [CrackerCat/imgui-forge-mcp](https://github.com/CrackerCat/imgui-forge-mcp)
+  > Design Dear ImGui menus from a JSON spec — live C++ preview with hot-reload, an MCP server for progr...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernelwernel/llarm](https://github.com/kernelwernel/llarm) to [CrackerCat/llarm](https://github.com/CrackerCat/llarm)
+  > ARM emulator, assembler, and disassembler libraries/tools
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xxFURYWOLFxx/veh-dumper](https://github.com/xxFURYWOLFxx/veh-dumper) to [CrackerCat/veh-dumper](https://github.com/CrackerCat/veh-dumper)
+  > Surgical x64 VEH/VCH dumper. Walks the vectored exception handler list, extracts each handler as a s...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Yu9191/wloc](https://github.com/Yu9191/wloc) to [CrackerCat/wloc](https://github.com/CrackerCat/wloc)
+  > 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
-  > Framework for evaluating and improving agents 
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
-  > Skills for Design Engineers.
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)
-  > Your clothes, extracted and organized with gpt-image.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Cjbuilds/Codex-Orchestration](https://github.com/Cjbuilds/Codex-Orchestration)
+  > Bring any model to Codex, assign them any role, use them in /goal or any workflow.
 
 
 <!-- nav -->
-[← 2026-07-15](archive/2026/07/15.md)
+[← 2026-07-16](archive/2026/07/16.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 21:05:00 UTC*
+*Last updated at 2026-07-17 02:55:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
