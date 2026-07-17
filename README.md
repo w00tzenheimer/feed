@@ -14,11 +14,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xTracepacket/imgui-forge-mcp](https://github.com/0xTracepacket/imgui-forge-mcp) to [CrackerCat/imgui-forge-mcp](https://github.com/CrackerCat/imgui-forge-mcp)
   > Design Dear ImGui menus from a JSON spec — live C++ preview with hot-reload, an MCP server for progr...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernelwernel/llarm](https://github.com/kernelwernel/llarm) to [CrackerCat/llarm](https://github.com/CrackerCat/llarm)
-  > ARM emulator, assembler, and disassembler libraries/tools
+  > ARM emulator, assembly, and disassembly libraries/tools
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xxFURYWOLFxx/veh-dumper](https://github.com/xxFURYWOLFxx/veh-dumper) to [CrackerCat/veh-dumper](https://github.com/CrackerCat/veh-dumper)
   > Surgical x64 VEH/VCH dumper. Walks the vectored exception handler list, extracts each handler as a s...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Yu9191/wloc](https://github.com/Yu9191/wloc) to [CrackerCat/wloc](https://github.com/CrackerCat/wloc)
   > 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ericmigi/googlehome-mcp](https://github.com/ericmigi/googlehome-mcp)
+  > MCP server for controlling Google Home devices (lights, locks, thermostats, speakers, routines) via ...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Cjbuilds/Codex-Orchestration](https://github.com/Cjbuilds/Codex-Orchestration)
@@ -30,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 02:55:34 UTC*
+*Last updated at 2026-07-17 05:45:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
