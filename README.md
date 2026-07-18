@@ -20,8 +20,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [gradio-app/trackio](https://github.com/gradio-app/trackio) to [NielsRogge/trackio](https://github.com/NielsRogge/trackio)
   > A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗
 
-### [can1357](https://github.com/can1357)
-- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [offerdaoai/skills](https://github.com/offerdaoai/skills)
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate)
@@ -41,7 +41,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 17:57:26 UTC*
+*Last updated at 2026-07-18 19:16:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
