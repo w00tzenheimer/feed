@@ -34,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Single header Parser Combinators for C
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [WerWolv/PatternLanguage](https://github.com/WerWolv/PatternLanguage)
   > The Pattern Language used by the ImHex Hex Editor
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kormax/felica-tool](https://github.com/kormax/felica-tool)
+  > Application for analyzing characteristics of FeliCa cards
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kormax/android-universal-reader](https://github.com/kormax/android-universal-reader)
+  > Apple VAS and Google Smart Tap Android NFC Reader Demo App
 
 
 <!-- nav -->
@@ -41,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 19:16:07 UTC*
+*Last updated at 2026-07-18 20:54:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
