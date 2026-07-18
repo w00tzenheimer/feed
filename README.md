@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
   > Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tongjiling1688-boop/university-mathematics-textbook](https://github.com/tongjiling1688-boop/university-mathematics-textbook) to [IuvenisSapiens/university-mathematics-textbook](https://github.com/IuvenisSapiens/university-mathematics-textbook)
+  > 融合高等数学与线性代数的中文 LaTeX 教材
+
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
@@ -35,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 10:20:39 UTC*
+*Last updated at 2026-07-18 11:54:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
