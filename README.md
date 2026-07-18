@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [gradio-app/trackio](https://github.com/gradio-app/trackio) to [NielsRogge/trackio](https://github.com/NielsRogge/trackio)
   > A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [lemonade-sdk/llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) to [NyaMisty/llamacpp-rocmfpx-ci](https://github.com/NyaMisty/llamacpp-rocmfpx-ci)
+  > Fresh builds of llama.cpp with AMD ROCm™ 7 acceleration
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [offerdaoai/skills](https://github.com/offerdaoai/skills)
 
@@ -45,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 21:54:31 UTC*
+*Last updated at 2026-07-18 22:54:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
