@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tongjiling1688-boop/university-mathematics-textbook](https://github.com/tongjiling1688-boop/university-mathematics-textbook) to [IuvenisSapiens/university-mathematics-textbook](https://github.com/IuvenisSapiens/university-mathematics-textbook)
   > 融合高等数学与线性代数的中文 LaTeX 教材
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [gradio-app/trackio](https://github.com/gradio-app/trackio) to [NielsRogge/trackio](https://github.com/NielsRogge/trackio)
+  > A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗
+
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
@@ -29,17 +33,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [steve-chavez/CParseC](https://github.com/steve-chavez/CParseC)
   > Single header Parser Combinators for C
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
-  > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
-
 
 <!-- nav -->
 [← 2026-07-17](archive/2026/07/17.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 11:54:44 UTC*
+*Last updated at 2026-07-18 13:24:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
