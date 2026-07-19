@@ -1,55 +1,32 @@
-# Daily GitHub Activity (2026-07-18)
+# Daily GitHub Activity (2026-07-19)
 
 <!-- nav -->
-[← 2026-07-17](archive/2026/07/17.md)
+[← 2026-07-18](archive/2026/07/18.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
+### [19h](https://github.com/19h)
+- 🍴 👤 [19h](https://github.com/19h) Forked [IronLanguages/ironpython2](https://github.com/IronLanguages/ironpython2) to [19h/ironpython2](https://github.com/19h/ironpython2)
+  > Implementation of the Python programming language for .NET Framework; built on top of the Dynamic La...
+
 ### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
-  > Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)
+  > The official source code repository for the calibre ebook manager
 
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tongjiling1688-boop/university-mathematics-textbook](https://github.com/tongjiling1688-boop/university-mathematics-textbook) to [IuvenisSapiens/university-mathematics-textbook](https://github.com/IuvenisSapiens/university-mathematics-textbook)
-  > 融合高等数学与线性代数的中文 LaTeX 教材
-
-### [NielsRogge](https://github.com/NielsRogge)
-- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [gradio-app/trackio](https://github.com/gradio-app/trackio) to [NielsRogge/trackio](https://github.com/NielsRogge/trackio)
-  > A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗
-
-### [NyaMisty](https://github.com/NyaMisty)
-- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [lemonade-sdk/llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) to [NyaMisty/llamacpp-rocmfpx-ci](https://github.com/NyaMisty/llamacpp-rocmfpx-ci)
-  > Fresh builds of llama.cpp with AMD ROCm™ 7 acceleration
-
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [offerdaoai/skills](https://github.com/offerdaoai/skills)
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate)
-  > Rust method delegation with less boilerplate
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Angel2mp3/LinkDetoxer](https://github.com/Angel2mp3/LinkDetoxer)
-  > A comprehensive website to remove any and all tracking data from links you may want to share
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Daivuk/PureDOOM](https://github.com/Daivuk/PureDOOM)
-  > Pure DOOM - Single Header Doom Source Port
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [steve-chavez/CParseC](https://github.com/steve-chavez/CParseC)
-  > Single header Parser Combinators for C
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [WerWolv/PatternLanguage](https://github.com/WerWolv/PatternLanguage)
-  > The Pattern Language used by the ImHex Hex Editor
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kormax/felica-tool](https://github.com/kormax/felica-tool)
-  > Application for analyzing characteristics of FeliCa cards
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kormax/android-universal-reader](https://github.com/kormax/android-universal-reader)
-  > Apple VAS and Google Smart Tap Android NFC Reader Demo App
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
+  > 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
 
 <!-- nav -->
-[← 2026-07-17](archive/2026/07/17.md)
+[← 2026-07-18](archive/2026/07/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 23:57:17 UTC*
+*Last updated at 2026-07-19 03:39:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
