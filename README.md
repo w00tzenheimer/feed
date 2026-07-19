@@ -24,6 +24,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Linuxoid-cn/CVE-2026-43499-Poc-Analysis](https://github.com/Linuxoid-cn/CVE-2026-43499-Poc-Analysis) to [CrackerCat/CVE-2026-43499-Poc-Analysis](https://github.com/CrackerCat/CVE-2026-43499-Poc-Analysis)
   > Vulnerability analysis and Proof of Concept (PoC) for CVE-2026-43499 affecting Xiaomi devices. For e...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Comfy-Org/comfy-model-tools](https://github.com/Comfy-Org/comfy-model-tools)
+  > Utility scripts for packaging models for ComfyUI.
+
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent)
+  > Maka — local-first AI desktop assistant
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
@@ -46,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 14:59:46 UTC*
+*Last updated at 2026-07-19 16:04:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
