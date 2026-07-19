@@ -33,6 +33,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jztan/qt4-doc-mcp-server](https://github.com/jztan/qt4-doc-mcp-server) to [mrexodia/qt-doc-mcp](https://github.com/mrexodia/qt-doc-mcp)
   > Offline MCP Server for Qt 4.8.4 documentation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anomalyco/browser-control](https://github.com/anomalyco/browser-control)
+  > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
@@ -44,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 13:25:36 UTC*
+*Last updated at 2026-07-19 14:59:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
