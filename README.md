@@ -17,6 +17,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The official source code repository for the calibre ebook manager
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh)
   > PDF2zh for Zotero | Zotero PDF中文翻译插件
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [sunnypilot/sunnypilot](https://github.com/sunnypilot/sunnypilot)
+  > sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving e...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc) to [CrackerCat/wp2shell-poc](https://github.com/CrackerCat/wp2shell-poc)
@@ -56,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 20:55:17 UTC*
+*Last updated at 2026-07-19 21:57:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
