@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Wren6991/CodeSizer](https://github.com/Wren6991/CodeSizer)
   > Why is that binary so big?
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [robtaylor/origin-shell](https://github.com/robtaylor/origin-shell)
+  > Nix flake + design: \src source-location provenance through ABC standard-cell mapping (LibreLane + p...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [robtaylor/apb-formal](https://github.com/robtaylor/apb-formal)
+  > Reusable, FOSS-verified APB-lite protocol compliance checker (SystemVerilog + SymbiYosys), grounded ...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrooted/sandbox-shenanigans](https://github.com/unrooted/sandbox-shenanigans)
@@ -45,13 +49,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
   > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [RustedBytes/unlimited-ocr-server](https://github.com/RustedBytes/unlimited-ocr-server)
+  > An inference server for the Unlimited-OCR model
+
 
 <!-- nav -->
 [← 2026-07-19](archive/2026/07/19.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 16:26:28 UTC*
+*Last updated at 2026-07-20 18:55:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
