@@ -51,6 +51,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Write code that works on both, UIKit and AppKit.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [openbao/openbao-plugins](https://github.com/openbao/openbao-plugins)
   > A first-party collection of external plugins for OpenBao, including additional auth & secrets engine...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [photon-cat/gcd-xray](https://github.com/photon-cat/gcd-xray)
+  > analyze and rebuild gcd firmware files with this tool
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
@@ -66,7 +68,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 20:19:41 UTC*
+*Last updated at 2026-07-21 22:05:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
