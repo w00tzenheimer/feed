@@ -28,10 +28,33 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GrammaTech/lifter-eval](https://github.com/GrammaTech/lifter-eval)
   > Binary Analysis and Rewriting Tool Evaluation -- https://grammatech.gitlab.io/lifter-eval/
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pnnl/memgaze](https://github.com/pnnl/memgaze)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pookjw/ExtensionFoundationObjCDemo](https://github.com/pookjw/ExtensionFoundationObjCDemo)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+  > Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChimeHQ/Extendable](https://github.com/ChimeHQ/Extendable)
+  > A set of utilities for more pleasant work with ExtensionKit
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChimeHQ/AsyncXPCConnection](https://github.com/ChimeHQ/AsyncXPCConnection)
+  > Concurrency support for NSXPCConnection
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChimeHQ/KeyCodes](https://github.com/ChimeHQ/KeyCodes)
+  > AppKit Carbon key codes to UIKey-compatible enums
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChimeHQ/Glyph](https://github.com/ChimeHQ/Glyph)
+  > Abstractions for working with TextKit 1 and 2
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nicklockwood/Expression](https://github.com/nicklockwood/Expression)
+  > A cross-platform Swift library for evaluating mathematical expressions at runtime
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mattmassicotte/nsui](https://github.com/mattmassicotte/nsui)
+  > AppKit and UIKit without conditional compilation
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mattmassicotte/MainOffender](https://github.com/mattmassicotte/MainOffender)
+  > Utilities for transitioning to Swift Concurrency
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mattmassicotte/TextEditingReference](https://github.com/mattmassicotte/TextEditingReference)
+  > A non-curated collection of tools for working with text on Apple platforms
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
   > High-performance single-GPU inference for selected model checkpoints and GPUs.
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)
+  > Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/li...
 
 
 <!-- nav -->
@@ -39,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 16:25:03 UTC*
+*Last updated at 2026-07-21 18:16:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
