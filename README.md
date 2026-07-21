@@ -47,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Utilities for transitioning to Swift Concurrency
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mattmassicotte/TextEditingReference](https://github.com/mattmassicotte/TextEditingReference)
   > A non-curated collection of tools for working with text on Apple platforms
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ZeeZide/UXKit](https://github.com/ZeeZide/UXKit)
+  > Write code that works on both, UIKit and AppKit.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [openbao/openbao-plugins](https://github.com/openbao/openbao-plugins)
+  > A first-party collection of external plugins for OpenBao, including additional auth & secrets engine...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
@@ -62,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 18:16:59 UTC*
+*Last updated at 2026-07-21 20:19:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
