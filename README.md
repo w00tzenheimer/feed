@@ -31,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Naville](https://github.com/Naville)
 - 🚀 👤 [Naville](https://github.com/Naville) Made [UrsulaProject/KatyPerry](https://github.com/UrsulaProject/KatyPerry) public
 
+### [cubiq](https://github.com/cubiq)
+- 🍴 👤 [cubiq](https://github.com/cubiq) Forked [pkElectronics/athena-klipper-module](https://github.com/pkElectronics/athena-klipper-module) to [cubiq/athena-klipper-module](https://github.com/cubiq/athena-klipper-module)
+  > Custom klipper modules for the Athena Printer
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [pinojs/pino-opentelemetry-transport](https://github.com/pinojs/pino-opentelemetry-transport)
   > OpenTelemetry transport for Pino
@@ -48,13 +52,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X3 and X4 e-readers
 
+### [snipe](https://github.com/snipe)
+- 🍴 👤 [snipe](https://github.com/snipe) Forked [inventree/InvenTree](https://github.com/inventree/InvenTree) to [snipe/InvenTree](https://github.com/snipe/InvenTree)
+  > Open Source Inventory Management System
+
 
 <!-- nav -->
 [← 2026-07-21](archive/2026/07/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 14:04:35 UTC*
+*Last updated at 2026-07-22 16:21:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
