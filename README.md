@@ -18,6 +18,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [opensoldat/opensoldat](https://github.com/opensoldat/opensoldat)
   > OpenSoldat is a unique 2D (side-view) multiplayer action game
 
+### [kweatherman](https://github.com/kweatherman)
+- 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [milankovo/struct-compare](https://github.com/milankovo/struct-compare)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
@@ -28,7 +31,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 03:32:36 UTC*
+*Last updated at 2026-07-22 06:32:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
