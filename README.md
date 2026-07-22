@@ -51,6 +51,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X3 and X4 e-readers
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
 
 ### [snipe](https://github.com/snipe)
 - 🍴 👤 [snipe](https://github.com/snipe) Forked [inventree/InvenTree](https://github.com/inventree/InvenTree) to [snipe/InvenTree](https://github.com/snipe/InvenTree)
@@ -62,7 +64,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 20:17:29 UTC*
+*Last updated at 2026-07-22 22:07:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
