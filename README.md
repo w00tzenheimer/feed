@@ -14,6 +14,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499) to [CrackerCat/Android-CVE-2026-43499](https://github.com/CrackerCat/Android-CVE-2026-43499)
   > Android version CVE-2026-43499 tester
 
+### [Lynnette177](https://github.com/Lynnette177)
+- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [cimryan/teslausb](https://github.com/cimryan/teslausb)
+  > Steps and scripts for turning a Raspberry Pi into a useful USB drive for a Tesla
+
+### [Naville](https://github.com/Naville)
+- 🚀 👤 [Naville](https://github.com/Naville) Made [UrsulaProject/KatyPerry](https://github.com/UrsulaProject/KatyPerry) public
+
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [pinojs/pino-opentelemetry-transport](https://github.com/pinojs/pino-opentelemetry-transport)
+  > OpenTelemetry transport for Pino
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [opensoldat/opensoldat](https://github.com/opensoldat/opensoldat)
   > OpenSoldat is a unique 2D (side-view) multiplayer action game
@@ -31,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 06:32:10 UTC*
+*Last updated at 2026-07-22 09:28:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
