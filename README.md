@@ -8,11 +8,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [godot-rust/gdext](https://github.com/godot-rust/gdext)
+  > Rust bindings for Godot 4
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [UnrealSharp/UnrealSharp](https://github.com/UnrealSharp/UnrealSharp)
+  > UnrealSharp is a plugin to Unreal Engine 5, which enables developers to create games using C# (.NET1...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/ScreenOff](https://github.com/Dere3046/ScreenOff) to [CrackerCat/ScreenOff](https://github.com/CrackerCat/ScreenOff)
   > CVE-2026-52910 kernel crash PoC. screen goes off.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499) to [CrackerCat/Android-CVE-2026-43499](https://github.com/CrackerCat/Android-CVE-2026-43499)
   > Android version CVE-2026-43499 tester
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc) to [CrackerCat/ida_rpc](https://github.com/CrackerCat/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [laolanya123/unicorn-dfm](https://github.com/laolanya123/unicorn-dfm) to [CrackerCat/unicorn-dfm](https://github.com/CrackerCat/unicorn-dfm)
+  > unicorn-dfm | DFM 坐标解密静态库 (Unicorn+Capstone) | Author: laolanya | TG: @qihuaiCJ
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [cimryan/teslausb](https://github.com/cimryan/teslausb)
@@ -42,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 09:28:40 UTC*
+*Last updated at 2026-07-22 11:49:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
