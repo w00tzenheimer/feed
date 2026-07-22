@@ -1,74 +1,34 @@
-# Daily GitHub Activity (2026-07-21)
+# Daily GitHub Activity (2026-07-22)
 
 <!-- nav -->
-[← 2026-07-20](archive/2026/07/20.md)
+[← 2026-07-21](archive/2026/07/21.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
-  > Model Context Protocol for WinDbg.
-
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [SignTools/admanager-tool](https://github.com/SignTools/admanager-tool)
-  > TIGI Software Apps Manager backup management tool
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/ScreenOff](https://github.com/Dere3046/ScreenOff) to [CrackerCat/ScreenOff](https://github.com/CrackerCat/ScreenOff)
+  > CVE-2026-52910 kernel crash PoC. screen goes off.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499) to [CrackerCat/Android-CVE-2026-43499](https://github.com/CrackerCat/Android-CVE-2026-43499)
+  > Android version CVE-2026-43499 tester
 
 ### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [timrid/Iso14443aAnalyzer](https://github.com/timrid/Iso14443aAnalyzer)
-  > Iso14443a Analyzer
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Rocky5/XBMC4Gamers](https://github.com/Rocky5/XBMC4Gamers)
-  > This is a skin with custom python scripts (allow each profile to have there own saves) for people th...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xbmc4xbox/xbmc4xbox.github.io](https://github.com/xbmc4xbox/xbmc4xbox.github.io)
-  > Official source repository for XBMC plugin add-ons 
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xbmc4xbox/visualization.milkdrop](https://github.com/xbmc4xbox/visualization.milkdrop)
-  > Milkdrop visualizer for XBMC
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GrammaTech/lifter-eval](https://github.com/GrammaTech/lifter-eval)
-  > Binary Analysis and Rewriting Tool Evaluation -- https://grammatech.gitlab.io/lifter-eval/
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pnnl/memgaze](https://github.com/pnnl/memgaze)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pookjw/ExtensionFoundationObjCDemo](https://github.com/pookjw/ExtensionFoundationObjCDemo)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
-  > Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. ...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChimeHQ/Extendable](https://github.com/ChimeHQ/Extendable)
-  > A set of utilities for more pleasant work with ExtensionKit
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChimeHQ/AsyncXPCConnection](https://github.com/ChimeHQ/AsyncXPCConnection)
-  > Concurrency support for NSXPCConnection
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChimeHQ/KeyCodes](https://github.com/ChimeHQ/KeyCodes)
-  > AppKit Carbon key codes to UIKey-compatible enums
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChimeHQ/Glyph](https://github.com/ChimeHQ/Glyph)
-  > Abstractions for working with TextKit 1 and 2
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nicklockwood/Expression](https://github.com/nicklockwood/Expression)
-  > A cross-platform Swift library for evaluating mathematical expressions at runtime
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mattmassicotte/nsui](https://github.com/mattmassicotte/nsui)
-  > AppKit and UIKit without conditional compilation
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mattmassicotte/MainOffender](https://github.com/mattmassicotte/MainOffender)
-  > Utilities for transitioning to Swift Concurrency
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mattmassicotte/TextEditingReference](https://github.com/mattmassicotte/TextEditingReference)
-  > A non-curated collection of tools for working with text on Apple platforms
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ZeeZide/UXKit](https://github.com/ZeeZide/UXKit)
-  > Write code that works on both, UIKit and AppKit.
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [openbao/openbao-plugins](https://github.com/openbao/openbao-plugins)
-  > A first-party collection of external plugins for OpenBao, including additional auth & secrets engine...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [photon-cat/gcd-xray](https://github.com/photon-cat/gcd-xray)
-  > analyze and rebuild gcd firmware files with this tool
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [opensoldat/opensoldat](https://github.com/opensoldat/opensoldat)
+  > OpenSoldat is a unique 2D (side-view) multiplayer action game
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
-  > High-performance single-GPU inference for selected model checkpoints and GPUs.
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)
-  > Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/li...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
+  > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
 
 
 <!-- nav -->
-[← 2026-07-20](archive/2026/07/20.md)
+[← 2026-07-21](archive/2026/07/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 23:57:18 UTC*
+*Last updated at 2026-07-22 03:32:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
