@@ -28,8 +28,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An easy-to-use, high-performance dex deobfuscation library.
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
-  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
+  > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
 
 
 <!-- nav -->
@@ -37,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 10:26:06 UTC*
+*Last updated at 2026-07-23 12:25:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
