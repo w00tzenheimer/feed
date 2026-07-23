@@ -32,6 +32,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
   > A framework for few-shot evaluation of language models.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xingyaoww/code-act](https://github.com/xingyaoww/code-act)
+  > Official Repo for ICML 2024 paper "Executable Code Actions Elicit Better LLM Agents" by Xingyao Wang...
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui)
+  > A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, S...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go)
+  > Supercharge AI Agents, Safely
 
 
 <!-- nav -->
@@ -39,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 15:11:18 UTC*
+*Last updated at 2026-07-23 17:26:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
