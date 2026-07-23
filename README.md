@@ -27,14 +27,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)
   > An easy-to-use, high-performance dex deobfuscation library.
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
-  > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
-  > A framework for few-shot evaluation of language models.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xingyaoww/code-act](https://github.com/xingyaoww/code-act)
-  > Official Repo for ICML 2024 paper "Executable Code Actions Elicit Better LLM Agents" by Xingyao Wang...
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui)
   > A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, S...
@@ -47,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 21:07:59 UTC*
+*Last updated at 2026-07-23 22:59:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
