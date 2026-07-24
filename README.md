@@ -30,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ssveitch/kemeleon-py](https://github.com/ssveitch/kemeleon-py)
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [f3rb123/kill_flutter](https://github.com/f3rb123/kill_flutter)
+  > Flutter SSL Pinning Bypass Tool for Android & iOS — works on any Flutter version without pattern dat...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit)
@@ -61,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 12:22:02 UTC*
+*Last updated at 2026-07-24 14:58:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
