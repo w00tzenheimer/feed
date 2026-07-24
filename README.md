@@ -12,6 +12,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/mkbootfsAlone](https://github.com/Anatdx/mkbootfsAlone) to [CrackerCat/mkbootfsAlone](https://github.com/CrackerCat/mkbootfsAlone)
   > Standalone Android NDK port of AOSP mkbootfs for embedding and AnyKernel3 workflows
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dispa1r/Integrated_kernel_module](https://github.com/Dispa1r/Integrated_kernel_module) to [CrackerCat/Integrated_kernel_module](https://github.com/CrackerCat/Integrated_kernel_module)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) to [CrackerCat/exploitgym](https://github.com/CrackerCat/exploitgym)
+  > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -28,13 +30,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Humalike/hermes-humalike-plugin](https://github.com/Humalike/hermes-humalike-plugin)
   > A Hermes Agent plugin that makes your bot feel like a person in the chat instead of a bot. It plugs ...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
+
 
 <!-- nav -->
 [← 2026-07-23](archive/2026/07/23.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 04:18:11 UTC*
+*Last updated at 2026-07-24 07:34:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
