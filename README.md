@@ -34,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [f3rb123/kill_flutter](https://github.com/f3rb123/kill_flutter)
   > Flutter SSL Pinning Bypass Tool for Android & iOS — works on any Flutter version without pattern dat...
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Gyoonus/deoptfuscator](https://github.com/Gyoonus/deoptfuscator)
+  > Deobfuscator for Android Application
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit)
@@ -41,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iksteen/shellglass](https://github.com/iksteen/shellglass)
   > Mirror a pty as live HTML in your browser or to an ssh client
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
-  > DecBench: How close are we to recovering perfect decompilation from binaries?
+  > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iksteen/shellglass](https://github.com/iksteen/shellglass) to [mrexodia/shellglass](https://github.com/mrexodia/shellglass)
   > Mirror a pty as live HTML in your browser or to an ssh client
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -54,6 +58,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [block/buzz](https://github.com/block/buzz)
   > A hive mind communication platform
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux)
+  > Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s offic...
 
 ### [shnaps666](https://github.com/shnaps666)
 - 🍴 👤 [shnaps666](https://github.com/shnaps666) Forked [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) to [shnaps666/any-auto-register](https://github.com/shnaps666/any-auto-register)
@@ -65,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 18:21:05 UTC*
+*Last updated at 2026-07-24 20:22:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
