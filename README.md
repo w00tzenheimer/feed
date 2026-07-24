@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) to [CrackerCat/exploitgym](https://github.com/CrackerCat/exploitgym)
   > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🚀 👤 [NielsRogge](https://github.com/NielsRogge) Made [huggingface/pwc-cli](https://github.com/huggingface/pwc-cli) public
+  > A Command-Line Interface (CLI) to interact with Papers with Code. For humans and agents.
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [black-forest-labs/Self-Flow](https://github.com/black-forest-labs/Self-Flow)
   > [ICML'26] Code and website for Self-Flow: Self-Supervised Flow Matching for Scalable Multi-Modal Syn...
@@ -57,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 10:22:40 UTC*
+*Last updated at 2026-07-24 12:22:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
