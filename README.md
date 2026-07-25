@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dumbasPL](https://github.com/dumbasPL)
 - 🌟 👤 [dumbasPL](https://github.com/dumbasPL) Starred [gekkehenkie11/esphome_gree_ac](https://github.com/gekkehenkie11/esphome_gree_ac)
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Thomas-Tsai/partclone](https://github.com/Thomas-Tsai/partclone)
+  > Partclone provides utilities to backup a partition smartly and it is designed for higher compatibili...
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/Vedrock](https://github.com/bedrock-v/Vedrock)
   > Lightweight Minecraft: Bedrock Edition server software written in V
@@ -30,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 19:13:29 UTC*
+*Last updated at 2026-07-25 20:56:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
