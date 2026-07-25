@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yunsmall/DBY-W09_kernel_hack](https://github.com/yunsmall/DBY-W09_kernel_hack) to [CrackerCat/DBY-W09_kernel_hack](https://github.com/CrackerCat/DBY-W09_kernel_hack)
   > 绕过华为 MatePad 11 (DBY-W09) HarmonyOS 4.2 内核模块签名验证
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [wbopan/moffee](https://github.com/wbopan/moffee) to [IuvenisSapiens/moffee](https://github.com/IuvenisSapiens/moffee)
+  > moffee: Make Markdown Ready to Present
+
 ### [dumbasPL](https://github.com/dumbasPL)
 - 🌟 👤 [dumbasPL](https://github.com/dumbasPL) Starred [gekkehenkie11/esphome_gree_ac](https://github.com/gekkehenkie11/esphome_gree_ac)
 
@@ -34,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 20:56:48 UTC*
+*Last updated at 2026-07-25 22:02:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
