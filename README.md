@@ -14,6 +14,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ThePedroo/CSOLoader](https://github.com/ThePedroo/CSOLoader) to [CrackerCat/CSOLoader](https://github.com/CrackerCat/CSOLoader)
   > Traceless and system-linker-independent custom linker for Android and Linux.
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [plotly/plotly.py](https://github.com/plotly/plotly.py)
+  > The interactive graphing library for Python :sparkles:
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+  > Flexible and powerful data analysis / manipulation library for Python, providing labeled data struct...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [plotly/Kaleido](https://github.com/plotly/Kaleido)
+  > Fast static image export for web-based visualization libraries
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail)
+  > Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
+  > All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, S...
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/protocol](https://github.com/bedrock-v/protocol)
   > A protocol library written in V for Minecraft: Bedrock Edition 
@@ -35,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 12:06:34 UTC*
+*Last updated at 2026-07-26 14:38:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
