@@ -27,6 +27,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
   > All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, S...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2)
+  > Universal Extractor 2 is a tool to extract files from any type of archive or installer.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fox-it/dissect](https://github.com/fox-it/dissect)
+  > Dissect is a digital forensics & incident response framework and toolset that allows you to quickly ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fox-it/dissect.apfs](https://github.com/fox-it/dissect.apfs)
+  > Dissect module implementing a parser for the APFS file system, a commonly used Apple filesystem
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/protocol](https://github.com/bedrock-v/protocol)
@@ -49,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 18:02:46 UTC*
+*Last updated at 2026-07-26 20:11:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
