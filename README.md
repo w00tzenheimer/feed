@@ -45,6 +45,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
   > Open source replacement for the Xbox360 XeCrypt suite.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)
+  > Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-)
@@ -55,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 20:11:54 UTC*
+*Last updated at 2026-07-26 22:01:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
