@@ -14,6 +14,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ThePedroo/CSOLoader](https://github.com/ThePedroo/CSOLoader) to [CrackerCat/CSOLoader](https://github.com/CrackerCat/CSOLoader)
   > Traceless and system-linker-independent custom linker for Android and Linux.
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/protocol](https://github.com/bedrock-v/protocol)
+  > A protocol library written in V for Minecraft: Bedrock Edition 
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/nbt](https://github.com/bedrock-v/nbt)
+  > Nbt library for Minecraft: Bedrock Edition written in V
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/raknet](https://github.com/bedrock-v/raknet)
+  > V library for RakNet protocol.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-)
 
@@ -23,7 +31,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 07:37:06 UTC*
+*Last updated at 2026-07-26 10:03:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
