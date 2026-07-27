@@ -25,10 +25,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Video editing with Python
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [marcelwoo/moviepy2_cuda](https://github.com/marcelwoo/moviepy2_cuda) to [IuvenisSapiens/moviepy2_cuda](https://github.com/IuvenisSapiens/moviepy2_cuda)
   > Video editing with Python
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Chunyu33/light-c](https://github.com/Chunyu33/light-c)
+  > A free, minimalist, lightweight, and high-performance C-drive cleanup tool.
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [xshaduwulfx/proton-linuwux](https://github.com/xshaduwulfx/proton-linuwux)
   > Custom Proton builds patched in order to make HV bypass working on Linux.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
+  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [DanMcInerney/orchflows](https://github.com/DanMcInerney/orchflows)
@@ -40,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 08:33:50 UTC*
+*Last updated at 2026-07-27 12:27:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
