@@ -25,10 +25,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 86-DOS OEM modules for the IBM PC
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TheBrokenPipe/ExeOnlyDump](https://github.com/TheBrokenPipe/ExeOnlyDump)
   > Linux Execute-Only Binary Dumper
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [YosysHQ/property-ir](https://github.com/YosysHQ/property-ir)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kunchenguid/treehouse](https://github.com/kunchenguid/treehouse)
+  > Manage worktrees without managing worktrees.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ab3lkaizen/SCEHUB](https://github.com/ab3lkaizen/SCEHUB)
+  > SCEWIN binaries and solutions for various error messages
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [terminatorul/NvStrapsReBar](https://github.com/terminatorul/NvStrapsReBar)
+  > Resizable BAR for Turring GTX 1600 / RTX 2000 GPUs
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [marcover9000/code-kanban](https://github.com/marcover9000/code-kanban)
   > Lightweight kanban boards for VSCode, embedded in your workspace as plain JSON files.
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog)
+  > Google Cloud Knowledge Catalog Tools and Samples
 
 
 <!-- nav -->
@@ -36,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 14:18:24 UTC*
+*Last updated at 2026-07-28 16:42:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
