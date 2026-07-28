@@ -11,6 +11,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
   > PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ profess...
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
+  > AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。
+
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tiwe0/wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc) to [CrackerCat/wxshadow-hook-poc](https://github.com/CrackerCat/wxshadow-hook-poc)
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [marcover9000/code-kanban](https://github.com/marcover9000/code-kanban)
@@ -22,7 +27,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 05:50:11 UTC*
+*Last updated at 2026-07-28 08:40:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
