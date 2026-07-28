@@ -37,6 +37,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [marcover9000/code-kanban](https://github.com/marcover9000/code-kanban)
   > Lightweight kanban boards for VSCode, embedded in your workspace as plain JSON files.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+  > Build local voice agents with open-source models
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog)
   > Google Cloud Knowledge Catalog Tools and Samples
@@ -47,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 18:17:04 UTC*
+*Last updated at 2026-07-28 20:17:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
