@@ -26,6 +26,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [cubiq](https://github.com/cubiq) Forked [pkElectronics/athena-klipper-module](https://github.com/pkElectronics/athena-klipper-module) to [cubiq/athena-klipper-module](https://github.com/cubiq/athena-klipper-module)
   > Custom klipper modules for the Athena Printer
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [F2u0a0d3/takopii](https://github.com/F2u0a0d3/takopii)
+  > Android banker-malware education framework. 4 specimen APKs (0/75 VT), 95 detection rules, 8,300+ li...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DanielFergisz/FC1307A-PSX-DVR](https://github.com/DanielFergisz/FC1307A-PSX-DVR)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Nicolai-Electronics/rp2040-i2c-interface](https://github.com/Nicolai-Electronics/rp2040-i2c-interface)
@@ -41,6 +45,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [saoudrizwan](https://github.com/saoudrizwan)
 - 🍴 👤 [saoudrizwan](https://github.com/saoudrizwan) Forked [vercel/ai](https://github.com/vercel/ai) to [cline/ai](https://github.com/cline/ai)
   > The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source librar...
+- 🌟 👤 [saoudrizwan](https://github.com/saoudrizwan) Starred [dominiccooney/qwanban](https://github.com/dominiccooney/qwanban)
+  > Hyper-V hosts for agentic workers.
 
 
 <!-- nav -->
@@ -48,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 17:18:28 UTC*
+*Last updated at 2026-07-29 19:22:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
