@@ -22,8 +22,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [flankerhqd/cyvisguard](https://github.com/flankerhqd/cyvisguard) to [CrackerCat/cyvisguard](https://github.com/CrackerCat/cyvisguard)
   > Security control plane for AI agents — identity and delegation, capability policy, data-flow taint a...
 
+### [cubiq](https://github.com/cubiq)
+- 🍴 👤 [cubiq](https://github.com/cubiq) Forked [pkElectronics/athena-klipper-module](https://github.com/pkElectronics/athena-klipper-module) to [cubiq/athena-klipper-module](https://github.com/cubiq/athena-klipper-module)
+  > Custom klipper modules for the Athena Printer
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DanielFergisz/FC1307A-PSX-DVR](https://github.com/DanielFergisz/FC1307A-PSX-DVR)
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [digimata/quill](https://github.com/digimata/quill)
+  > Ultraminimalist macOS recording + transcription.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Panchangam18/attune-app](https://github.com/Panchangam18/attune-app)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
+  > Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSee...
 
 ### [saoudrizwan](https://github.com/saoudrizwan)
 - 🍴 👤 [saoudrizwan](https://github.com/saoudrizwan) Forked [vercel/ai](https://github.com/vercel/ai) to [cline/ai](https://github.com/cline/ai)
@@ -35,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 06:34:50 UTC*
+*Last updated at 2026-07-29 09:40:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
