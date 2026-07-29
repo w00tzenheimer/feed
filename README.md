@@ -28,6 +28,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DanielFergisz/FC1307A-PSX-DVR](https://github.com/DanielFergisz/FC1307A-PSX-DVR)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Nicolai-Electronics/rp2040-i2c-interface](https://github.com/Nicolai-Electronics/rp2040-i2c-interface)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [yaspar-org/semi-persistent](https://github.com/yaspar-org/semi-persistent)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [digimata/quill](https://github.com/digimata/quill)
@@ -46,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 15:09:48 UTC*
+*Last updated at 2026-07-29 17:18:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
