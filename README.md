@@ -8,9 +8,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
+  > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
+
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [Chaoses-Ib/ib-shell](https://github.com/Chaoses-Ib/ib-shell)
   > Some desktop environment libraries, mainly for Windows Shell (Windows' built-in desktop environment)...
+
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/Androidhwdetect](https://github.com/niqiuqiux/Androidhwdetect) to [CrackerCat/Androidhwdetect](https://github.com/CrackerCat/Androidhwdetect)
+  > ARM64 Android hardware breakpoint and watchpoint self-check tool
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [flankerhqd/cyvisguard](https://github.com/flankerhqd/cyvisguard) to [CrackerCat/cyvisguard](https://github.com/CrackerCat/cyvisguard)
+  > Security control plane for AI agents — identity and delegation, capability policy, data-flow taint a...
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DanielFergisz/FC1307A-PSX-DVR](https://github.com/DanielFergisz/FC1307A-PSX-DVR)
 
 
 <!-- nav -->
@@ -18,7 +31,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 00:00:17 UTC*
+*Last updated at 2026-07-29 03:30:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
