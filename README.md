@@ -37,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [digimata/quill](https://github.com/digimata/quill)
-  > Ultraminimalist macOS recording + transcription.
+  > Ultra-minimalist macOS recording + transcription.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Panchangam18/attune-app](https://github.com/Panchangam18/attune-app)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
   > Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSee...
@@ -54,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 19:22:07 UTC*
+*Last updated at 2026-07-29 20:59:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
