@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mchughalex/skate3recomp](https://github.com/mchughalex/skate3recomp) to [CrackerCat/skate3recomp](https://github.com/CrackerCat/skate3recomp)
   > A native recompilation of Skate 3 for Windows, Linux, and macOS.
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [kelnishi/WACS](https://github.com/kelnishi/WACS)
+  > Pure C# WebAssembly toolchain for .NET - interpreter, AOT transpiler, NativeAOT builder, and compone...
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
@@ -30,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [Lil-Ran/build-bindiff-for-ida-9](https://github.com/Lil-Ran/build-bindiff-for-ida-9)
   > Use GitHub Actions to build BinDiff 8 and BinExport 12 for various IDA Pro 9.x on Windows, macOS, an...
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [HalfTimeOfLife/mispSK](https://github.com/HalfTimeOfLife/mispSK)
+  > Collection of Python scripts automating operations on MISP instances (via PyMISP).
+
 ### [niieani](https://github.com/niieani)
 - 🚀 👤 [niieani](https://github.com/niieani) Made [niieani/agentsmith](https://github.com/niieani/agentsmith) public
 
@@ -39,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 07:36:23 UTC*
+*Last updated at 2026-07-30 10:28:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
