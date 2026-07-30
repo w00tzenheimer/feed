@@ -30,6 +30,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pcm720/fc1307-tools](https://github.com/pcm720/fc1307-tools)
+  > Miscellaneous utilities for FC1307 SD-IDE chip
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [hrvach/deskhop](https://github.com/hrvach/deskhop)
+  > Fast Desktop Switching Device
+
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [Lil-Ran/build-bindiff-for-ida-9](https://github.com/Lil-Ran/build-bindiff-for-ida-9)
   > Use GitHub Actions to build BinDiff 8 and BinExport 12 for various IDA Pro 9.x on Windows, macOS, an...
@@ -47,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 12:47:09 UTC*
+*Last updated at 2026-07-30 15:13:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
