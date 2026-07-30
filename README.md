@@ -55,6 +55,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [digimata/quill](https://github.com/digimata/quill)
   > Ultra-minimalist macOS recording + transcription.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [spmurrayzzz/minimax-rs](https://github.com/spmurrayzzz/minimax-rs)
+  > Custom inference engine to run Minimax-M2.X series of models on dual RTX Pro 6000 (sm120)
 
 ### [niieani](https://github.com/niieani)
 - 🚀 👤 [niieani](https://github.com/niieani) Made [niieani/agentsmith](https://github.com/niieani/agentsmith) public
@@ -65,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 19:38:21 UTC*
+*Last updated at 2026-07-30 21:14:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
