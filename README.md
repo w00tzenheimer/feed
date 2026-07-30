@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [kelnishi/WACS](https://github.com/kelnishi/WACS)
   > Pure C# WebAssembly toolchain for .NET - interpreter, AOT transpiler, NativeAOT builder, and compone...
 
+### [Fatmike-GH](https://github.com/Fatmike-GH)
+- 🌟 👤 [Fatmike-GH](https://github.com/Fatmike-GH) Starred [WangXuan95/TinyZZZ](https://github.com/WangXuan95/TinyZZZ)
+  > TinyZZZ includes GZIP, LZ4, ZSTD, LZMA compression algorithms written in C language, unlike the offi...
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
@@ -35,6 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Miscellaneous utilities for FC1307 SD-IDE chip
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [hrvach/deskhop](https://github.com/hrvach/deskhop)
   > Fast Desktop Switching Device
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bucanero/apollo-ps5](https://github.com/bucanero/apollo-ps5)
+  > Apollo Save Tool (PS5)
 
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [Lil-Ran/build-bindiff-for-ida-9](https://github.com/Lil-Ran/build-bindiff-for-ida-9)
@@ -43,6 +49,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [HalfTimeOfLife/mispSK](https://github.com/HalfTimeOfLife/mispSK)
   > Collection of Python scripts automating operations on MISP instances (via PyMISP).
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [digimata/quill](https://github.com/digimata/quill)
+  > Ultra-minimalist macOS recording + transcription.
 
 ### [niieani](https://github.com/niieani)
 - 🚀 👤 [niieani](https://github.com/niieani) Made [niieani/agentsmith](https://github.com/niieani/agentsmith) public
@@ -53,7 +63,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 15:13:40 UTC*
+*Last updated at 2026-07-30 17:39:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
