@@ -41,6 +41,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Fast Desktop Switching Device
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bucanero/apollo-ps5](https://github.com/bucanero/apollo-ps5)
   > Apollo Save Tool (PS5)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gnutools/binutils-gdb](https://github.com/gnutools/binutils-gdb)
+  > GNU Binutils, GNU Debugger - Read only mirror of https://sourceware.org/git/binutils-gdb.git
 
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [Lil-Ran/build-bindiff-for-ida-9](https://github.com/Lil-Ran/build-bindiff-for-ida-9)
@@ -63,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 17:39:07 UTC*
+*Last updated at 2026-07-30 19:38:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
