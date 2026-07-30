@@ -1,62 +1,21 @@
-# Daily GitHub Activity (2026-07-29)
+# Daily GitHub Activity (2026-07-30)
 
 <!-- nav -->
-[← 2026-07-28](archive/2026/07/28.md)
+[← 2026-07-29](archive/2026/07/29.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
-  > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
-
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [Chaoses-Ib/ib-shell](https://github.com/Chaoses-Ib/ib-shell)
-  > Some desktop environment libraries, mainly for Windows Shell (Windows' built-in desktop environment)...
-
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/Androidhwdetect](https://github.com/niqiuqiux/Androidhwdetect) to [CrackerCat/Androidhwdetect](https://github.com/CrackerCat/Androidhwdetect)
-  > ARM64 Android hardware breakpoint and watchpoint self-check tool
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [flankerhqd/cyvisguard](https://github.com/flankerhqd/cyvisguard) to [CrackerCat/cyvisguard](https://github.com/CrackerCat/cyvisguard)
-  > Security control plane for AI agents — identity and delegation, capability policy, data-flow taint a...
-
-### [cubiq](https://github.com/cubiq)
-- 🍴 👤 [cubiq](https://github.com/cubiq) Forked [pkElectronics/athena-klipper-module](https://github.com/pkElectronics/athena-klipper-module) to [cubiq/athena-klipper-module](https://github.com/cubiq/athena-klipper-module)
-  > Custom klipper modules for the Athena Printer
-
-### [eybisi](https://github.com/eybisi)
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [F2u0a0d3/takopii](https://github.com/F2u0a0d3/takopii)
-  > Android banker-malware education framework. 4 specimen APKs (0/75 VT), 95 detection rules, 8,300+ li...
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DanielFergisz/FC1307A-PSX-DVR](https://github.com/DanielFergisz/FC1307A-PSX-DVR)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Nicolai-Electronics/rp2040-i2c-interface](https://github.com/Nicolai-Electronics/rp2040-i2c-interface)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [yaspar-org/semi-persistent](https://github.com/yaspar-org/semi-persistent)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [McMCCRU/SNANDer](https://github.com/McMCCRU/SNANDer)
-  > SNANDer - Serial Nor/nAND/Eeprom programmeR  (based on CH341A)
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [digimata/quill](https://github.com/digimata/quill)
-  > Ultra-minimalist macOS recording + transcription.
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [Panchangam18/attune-app](https://github.com/Panchangam18/attune-app)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
-  > Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSee...
-
-### [saoudrizwan](https://github.com/saoudrizwan)
-- 🍴 👤 [saoudrizwan](https://github.com/saoudrizwan) Forked [vercel/ai](https://github.com/vercel/ai) to [cline/ai](https://github.com/cline/ai)
-  > The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source librar...
-- 🌟 👤 [saoudrizwan](https://github.com/saoudrizwan) Starred [dominiccooney/qwanban](https://github.com/dominiccooney/qwanban)
-  > Hyper-V hosts for agentic workers.
-
+The users you follow have no new public activity today.
 
 <!-- nav -->
-[← 2026-07-28](archive/2026/07/28.md)
+[← 2026-07-29](archive/2026/07/29.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 22:07:39 UTC*
+*Last updated at 2026-07-30 00:02:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
