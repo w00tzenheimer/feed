@@ -10,13 +10,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko) to [CrackerCat/ghostlock-rothko](https://github.com/CrackerCat/ghostlock-rothko)
-  > CVE-2026-43499 GhostLock exploit for Redmi K70 Ultra (rothko) - data-only physmap overwrite
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lightrion/skills](https://github.com/Lightrion/skills) to [CrackerCat/Lightrion-skills](https://github.com/CrackerCat/Lightrion-skills)
   > Claude Agent Skills for AOSP platform development and Android app development, powered by the Lightr...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize)
   > MOSS-Transcribe-Diarize 0.9B is an open-source SOTA end-to-end audio understanding model for long-fo...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [localai-org/moss-transcribe.cpp](https://github.com/localai-org/moss-transcribe.cpp)
+  > moss-transcribe.cpp is a from-scratch C++17 inference port of OpenMOSS MOSS-Transcribe-Diarize, buil...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize) to [IuvenisSapiens/MOSS-Transcribe-Diarize](https://github.com/IuvenisSapiens/MOSS-Transcribe-Diarize)
+  > MOSS-Transcribe-Diarize 0.9B is an open-source SOTA end-to-end audio understanding model for long-fo...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [localai-org/moss-transcribe.cpp](https://github.com/localai-org/moss-transcribe.cpp) to [IuvenisSapiens/moss-transcribe.cpp](https://github.com/IuvenisSapiens/moss-transcribe.cpp)
+  > moss-transcribe.cpp is a from-scratch C++17 inference port of OpenMOSS MOSS-Transcribe-Diarize, buil...
+
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [yuyangalin/ImageWAM](https://github.com/yuyangalin/ImageWAM) to [NielsRogge/ImageWAM](https://github.com/NielsRogge/ImageWAM)
+  > ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?
 
 ### [PxYu](https://github.com/PxYu)
 - 🌟 👤 [PxYu](https://github.com/PxYu) Starred [luda66/stock-analyzer](https://github.com/luda66/stock-analyzer)
@@ -50,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 12:03:17 UTC*
+*Last updated at 2026-07-31 15:22:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
