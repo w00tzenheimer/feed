@@ -49,6 +49,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [HimClix/rexa](https://github.com/HimClix/rexa)
   > High-performance pure-Go regex engine with PCRE features. Drop-in regexp replacement that beats stdl...
 
+### [kb-1000](https://github.com/kb-1000)
+- 🚀 👤 [kb-1000](https://github.com/kb-1000) Made [kb-1000/empty-directory](https://github.com/kb-1000/empty-directory) public
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark)
+  > DeepSeek V4 Flash DSpark 1M NVFP4 KV recipe for 2x DGX Spark
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ddoemonn/interior](https://github.com/ddoemonn/interior)
   > micro-interactions for react, built for the half-second after a click
@@ -63,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 17:42:25 UTC*
+*Last updated at 2026-07-31 19:39:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
