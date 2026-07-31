@@ -45,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Shauren](https://github.com/Shauren) Forked [ElunaLuaEngine/ElunaTrinityWotlk](https://github.com/ElunaLuaEngine/ElunaTrinityWotlk) to [Shauren/ElunaTrinityWotlk](https://github.com/Shauren/ElunaTrinityWotlk)
   > Eluna Lua Engine merged with Trinity 3.3.5
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [HimClix/rexa](https://github.com/HimClix/rexa)
+  > High-performance pure-Go regex engine with PCRE features. Drop-in regexp replacement that beats stdl...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ddoemonn/interior](https://github.com/ddoemonn/interior)
   > micro-interactions for react, built for the half-second after a click
@@ -59,7 +63,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 15:22:07 UTC*
+*Last updated at 2026-07-31 17:42:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
