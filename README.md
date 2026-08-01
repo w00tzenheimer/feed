@@ -34,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [linsmod/-vc-dev-debuging-tool-for-ai-agent](https://github.com/linsmod/-vc-dev-debuging-tool-for-ai-agent) to [mrexodia/-vc-dev-debuging-tool-for-ai-agent](https://github.com/mrexodia/-vc-dev-debuging-tool-for-ai-agent)
   > aidbg: bringing an "AI-friendly gdb" back to Windows
 
+### [wangyu-](https://github.com/wangyu-)
+- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [sarah-walker-pcem/pcem](https://github.com/sarah-walker-pcem/pcem)
+  > PCem
+
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
   > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
@@ -44,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 20:57:56 UTC*
+*Last updated at 2026-08-01 22:02:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
