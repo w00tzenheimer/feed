@@ -13,6 +13,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Johnny520/wcx](https://github.com/Johnny520/wcx) to [CrackerCat/wcx](https://github.com/CrackerCat/wcx)
   > 一个集成了微信 Xposed 模块与去混淆分析工具的综合项目
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YinMo19/fanqie-rs](https://github.com/YinMo19/fanqie-rs) to [CrackerCat/fanqie-rs](https://github.com/CrackerCat/fanqie-rs)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [alexander-hanel/APTnotes-md](https://github.com/alexander-hanel/APTnotes-md) to [CrackerCat/APTnotes-md](https://github.com/CrackerCat/APTnotes-md)
+  > APTNotes various public documents, whitepapers and articles about APT campaigns converted to Markdow...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) to [mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
@@ -26,7 +28,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 06:32:42 UTC*
+*Last updated at 2026-08-01 09:08:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
