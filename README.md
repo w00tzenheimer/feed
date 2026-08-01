@@ -1,7 +1,7 @@
-# Daily GitHub Activity (2026-07-31)
+# Daily GitHub Activity (2026-08-01)
 
 <!-- nav -->
-[← 2026-07-30](archive/2026/07/30.md)
+[← 2026-07-31](archive/2026/07/31.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
@@ -9,68 +9,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko) to [CrackerCat/ghostlock-rothko](https://github.com/CrackerCat/ghostlock-rothko)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lightrion/skills](https://github.com/Lightrion/skills) to [CrackerCat/Lightrion-skills](https://github.com/CrackerCat/Lightrion-skills)
-  > Claude Agent Skills for AOSP platform development and Android app development, powered by the Lightr...
-
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize)
-  > MOSS-Transcribe-Diarize 0.9B is an open-source SOTA end-to-end audio understanding model for long-fo...
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [localai-org/moss-transcribe.cpp](https://github.com/localai-org/moss-transcribe.cpp)
-  > moss-transcribe.cpp is a from-scratch C++17 inference port of OpenMOSS MOSS-Transcribe-Diarize, buil...
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize) to [IuvenisSapiens/MOSS-Transcribe-Diarize](https://github.com/IuvenisSapiens/MOSS-Transcribe-Diarize)
-  > MOSS-Transcribe-Diarize 0.9B is an open-source SOTA end-to-end audio understanding model for long-fo...
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [localai-org/moss-transcribe.cpp](https://github.com/localai-org/moss-transcribe.cpp) to [IuvenisSapiens/moss-transcribe.cpp](https://github.com/IuvenisSapiens/moss-transcribe.cpp)
-  > moss-transcribe.cpp is a from-scratch C++17 inference port of OpenMOSS MOSS-Transcribe-Diarize, buil...
-
-### [NielsRogge](https://github.com/NielsRogge)
-- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [yuyangalin/ImageWAM](https://github.com/yuyangalin/ImageWAM) to [NielsRogge/ImageWAM](https://github.com/NielsRogge/ImageWAM)
-  > ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?
-
-### [PxYu](https://github.com/PxYu)
-- 🌟 👤 [PxYu](https://github.com/PxYu) Starred [luda66/stock-analyzer](https://github.com/luda66/stock-analyzer)
-  > AI-powered stock analysis skill with technical indicators, chart generation and investment SOP
-- 🌟 👤 [PxYu](https://github.com/PxYu) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-  > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
-- 🌟 👤 [PxYu](https://github.com/PxYu) Starred [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
-  > "Vibe-Trading: Your Personal Trading Agent"
-- 🌟 👤 [PxYu](https://github.com/PxYu) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
-  > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
-- 🌟 👤 [PxYu](https://github.com/PxYu) Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
-  > AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a v...
-- 🌟 👤 [PxYu](https://github.com/PxYu) Starred [QuantConnect/Lean](https://github.com/QuantConnect/Lean)
-  > Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-
-### [Shauren](https://github.com/Shauren)
-- 🍴 👤 [Shauren](https://github.com/Shauren) Forked [ElunaLuaEngine/ElunaTrinityWotlk](https://github.com/ElunaLuaEngine/ElunaTrinityWotlk) to [Shauren/ElunaTrinityWotlk](https://github.com/Shauren/ElunaTrinityWotlk)
-  > Eluna Lua Engine merged with Trinity 3.3.5
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [HimClix/rexa](https://github.com/HimClix/rexa)
-  > High-performance pure-Go regex engine with PCRE features. Drop-in regexp replacement that beats stdl...
-
-### [kb-1000](https://github.com/kb-1000)
-- 🚀 👤 [kb-1000](https://github.com/kb-1000) Made [kb-1000/empty-directory](https://github.com/kb-1000/empty-directory) public
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Johnny520/APKAnalyzer](https://github.com/Johnny520/APKAnalyzer) to [CrackerCat/APKAnalyzer](https://github.com/CrackerCat/APKAnalyzer)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Johnny520/wcx](https://github.com/Johnny520/wcx) to [CrackerCat/wcx](https://github.com/CrackerCat/wcx)
+  > 一个集成了微信 Xposed 模块与去混淆分析工具的综合项目
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YinMo19/fanqie-rs](https://github.com/YinMo19/fanqie-rs) to [CrackerCat/fanqie-rs](https://github.com/CrackerCat/fanqie-rs)
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark)
-  > DeepSeek V4 Flash DSpark 1M NVFP4 KV recipe for 2x DGX Spark
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [ddoemonn/interior](https://github.com/ddoemonn/interior)
-  > micro-interactions for react, built for the half-second after a click
-
-### [wangyu-](https://github.com/wangyu-)
-- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [xtulnx/NC2000](https://github.com/xtulnx/NC2000)
-  > Retro device nc2000/nc2600/nc1020 emulator (6502 cpu).  文曲星nc2000/nc2600/nc1020模拟器
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) to [mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
+  > DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/alexzhang13.github.io](https://github.com/alexzhang13/alexzhang13.github.io)
+  > Personal website.
 
 
 <!-- nav -->
-[← 2026-07-30](archive/2026/07/30.md)
+[← 2026-07-31](archive/2026/07/31.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 23:05:00 UTC*
+*Last updated at 2026-08-01 03:21:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
