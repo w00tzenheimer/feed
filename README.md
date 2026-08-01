@@ -16,6 +16,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [alexander-hanel/APTnotes-md](https://github.com/alexander-hanel/APTnotes-md) to [CrackerCat/APTnotes-md](https://github.com/CrackerCat/APTnotes-md)
   > APTNotes various public documents, whitepapers and articles about APT campaigns converted to Markdow...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Zenardi/racestudio-macos](https://github.com/Zenardi/racestudio-macos)
+  > RaceStudio for MacOS
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [koxudaxi/tstring-structured-data](https://github.com/koxudaxi/tstring-structured-data)
+  > Parser-first JSON, TOML, and YAML backends for Python 3.14 PEP 750 template strings
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [koxudaxi/tstring-html](https://github.com/koxudaxi/tstring-html)
+  > XSS-safe HTML templating for Python 3.14 t-strings (PEP 750), written in Rust
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) to [mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
   > DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
@@ -34,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 17:03:53 UTC*
+*Last updated at 2026-08-01 19:14:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
