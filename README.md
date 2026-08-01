@@ -22,13 +22,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/alexzhang13.github.io](https://github.com/alexzhang13/alexzhang13.github.io)
   > Personal website.
 
+### [woldann](https://github.com/woldann)
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+
 
 <!-- nav -->
 [← 2026-07-31](archive/2026/07/31.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 11:19:48 UTC*
+*Last updated at 2026-08-01 13:35:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
