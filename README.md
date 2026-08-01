@@ -21,6 +21,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/alexzhang13.github.io](https://github.com/alexzhang13/alexzhang13.github.io)
   > Personal website.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks](https://github.com/drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks)
+  > DeepSeek-V4-Flash-DSpark abliterated (uncensored) · ~100% refusal bypass · C1 ~57 tok/s · 1M ctx · 2...
 
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
@@ -32,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 13:35:47 UTC*
+*Last updated at 2026-08-01 15:03:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
