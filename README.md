@@ -31,6 +31,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Personal website.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks](https://github.com/drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks)
   > DeepSeek-V4-Flash-DSpark abliterated (uncensored) · ~100% refusal bypass · C1 ~57 tok/s · 1M ctx · 2...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [linsmod/-vc-dev-debuging-tool-for-ai-agent](https://github.com/linsmod/-vc-dev-debuging-tool-for-ai-agent) to [mrexodia/-vc-dev-debuging-tool-for-ai-agent](https://github.com/mrexodia/-vc-dev-debuging-tool-for-ai-agent)
+  > aidbg: bringing an "AI-friendly gdb" back to Windows
 
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
@@ -42,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 19:14:18 UTC*
+*Last updated at 2026-08-01 20:57:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
