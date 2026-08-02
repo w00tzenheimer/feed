@@ -13,6 +13,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yfe404/jsvm](https://github.com/yfe404/jsvm) to [CrackerCat/yfe404-jsvm](https://github.com/CrackerCat/yfe404-jsvm)
   > A small, fast V8 runner for one-shot JavaScript.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [AsahiLinux/avd-fw](https://github.com/AsahiLinux/avd-fw)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MarcinZukowski/pivco-huffman](https://github.com/MarcinZukowski/pivco-huffman)
+  > PIVoted COding Huffman implementation
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MarcinZukowski/simd.dev](https://github.com/MarcinZukowski/simd.dev)
+  > A database of SIMD intrinsics plus related tooling
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MarcinZukowski/memgrem](https://github.com/MarcinZukowski/memgrem)
+  > Memory Gremlins
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ArcaneNibble/kuro-no-chikai](https://github.com/ArcaneNibble/kuro-no-chikai)
+  > AngelScript disassembler (WIP/experiment)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ArcaneNibble/wine-linux-calls](https://github.com/ArcaneNibble/wine-linux-calls)
+  > Demonstrations of mixing Linux code into Wine processes
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
   > Pi extension: rewrite rough prompts into precise technical prompts before send
@@ -25,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 13:36:19 UTC*
+*Last updated at 2026-08-02 15:05:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
