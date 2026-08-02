@@ -25,6 +25,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > AngelScript disassembler (WIP/experiment)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ArcaneNibble/wine-linux-calls](https://github.com/ArcaneNibble/wine-linux-calls)
   > Demonstrations of mixing Linux code into Wine processes
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pybricks/pybricks-micropython](https://github.com/pybricks/pybricks-micropython)
+  > MicroPython firmware for Pybricks-compatible devices.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
@@ -32,13 +34,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [x64dbg/GleeBug](https://github.com/x64dbg/GleeBug) to [mrexodia/GleeBug](https://github.com/mrexodia/GleeBug)
   > Debugging Framework for Windows.
 
+### [woldann](https://github.com/woldann)
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [JSPrismarine/JSPrismarine](https://github.com/JSPrismarine/JSPrismarine)
+  > Dedicated Minecraft Bedrock Edition server written in TypeScript.
+
 
 <!-- nav -->
 [← 2026-08-01](archive/2026/08/01.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 15:05:27 UTC*
+*Last updated at 2026-08-02 17:04:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
