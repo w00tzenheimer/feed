@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [hiddewie/OpenRailwayMap-vector](https://github.com/hiddewie/OpenRailwayMap-vector)
   > OpenRailwayMap vector tiles
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [angristan/MacThrottle](https://github.com/angristan/MacThrottle)
+  > Menu bar app to know when your Mac is thermal throttling
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Xilinion/TPHT](https://github.com/Xilinion/TPHT)
   > Tiny Pointer Hash Table
@@ -51,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 21:07:41 UTC*
+*Last updated at 2026-08-03 23:05:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
