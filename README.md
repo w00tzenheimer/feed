@@ -37,6 +37,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sanohiro/casty](https://github.com/sanohiro/casty)
   > Run a real Chrome browser inside your terminal. Uses CDP screencast + Kitty graphics protocol.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [epoch-research/MirrorCode](https://github.com/epoch-research/MirrorCode)
+  > Public repository for MirrorCode
 
 
 <!-- nav -->
@@ -44,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 15:45:21 UTC*
+*Last updated at 2026-08-03 17:54:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
