@@ -39,6 +39,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Run a real Chrome browser inside your terminal. Uses CDP screencast + Kitty graphics protocol.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [epoch-research/MirrorCode](https://github.com/epoch-research/MirrorCode)
   > Public repository for MirrorCode
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
+  > Bridge between agents and IDA Pro.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Inkling-Small-NVFP4-Dual-DGX-Sparks](https://github.com/MiaAI-Lab/Inkling-Small-NVFP4-Dual-DGX-Sparks)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [boldsoftware/meat](https://github.com/boldsoftware/meat)
+  > meat.dev
 
 
 <!-- nav -->
@@ -46,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 17:54:32 UTC*
+*Last updated at 2026-08-03 19:42:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
