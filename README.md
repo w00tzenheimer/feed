@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate)
+  > Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours ...
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)
+  > The world’s fastest framework for building websites.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [asLody/dexdec](https://github.com/asLody/dexdec) to [CrackerCat/dexdec](https://github.com/CrackerCat/dexdec)
   > Fast, accurate Android decompilation for humans and AI agents.
@@ -16,6 +22,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [hiddewie/OpenRailwayMap-vector](https://github.com/hiddewie/OpenRailwayMap-vector)
   > OpenRailwayMap vector tiles
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Xilinion/TPHT](https://github.com/Xilinion/TPHT)
+  > Tiny Pointer Hash Table
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ParkerRex/garmin-firmware](https://github.com/ParkerRex/garmin-firmware)
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
@@ -33,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 12:28:48 UTC*
+*Last updated at 2026-08-03 15:45:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
