@@ -8,9 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aakk007/RogueCleaner](https://github.com/aakk007/RogueCleaner) to [CrackerCat/RogueCleaner](https://github.com/CrackerCat/RogueCleaner)
+  > 流氓软件克星：扫描和清理 Windows 流氓右键菜单、自启动、计划任务、服务、浏览器插件和文件关联残留
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)
   > 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
+
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [openai/codex-security](https://github.com/openai/codex-security) to [NielsRogge/codex-security](https://github.com/NielsRogge/codex-security)
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [heheyas/context-scaling](https://github.com/heheyas/context-scaling)
@@ -20,17 +28,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [yc-software/qm](https://github.com/yc-software/qm)
   > Multiplayer agent harness for work
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wevm/frog](https://github.com/wevm/frog)
-  > Automated friction logging for agents.
-
 
 <!-- nav -->
 [← 2026-08-03](archive/2026/08/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 11:26:57 UTC*
+*Last updated at 2026-08-04 14:24:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
