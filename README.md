@@ -38,6 +38,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
   > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [i-snyder/pi-windows-nul-fix](https://github.com/i-snyder/pi-windows-nul-fix)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
   > The open-source AI voice studio. Clone, dictate, create.
@@ -48,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-05 19:40:18 UTC*
+*Last updated at 2026-08-05 21:15:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
