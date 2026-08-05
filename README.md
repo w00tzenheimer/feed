@@ -14,13 +14,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) to [CrackerCat/pytorch-lightning](https://github.com/CrackerCat/pytorch-lightning)
   > Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [SandAI-org/MAGI-2-preview](https://github.com/SandAI-org/MAGI-2-preview)
+  > MAGI-2-preview: Scaling Video Generation Models Efficiently
+
 
 <!-- nav -->
 [← 2026-08-04](archive/2026/08/04.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-05 04:13:28 UTC*
+*Last updated at 2026-08-05 07:42:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
