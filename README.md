@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V)
   > Lightweight Image Video Action Generation Inference Framework
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jserv/subleq](https://github.com/jserv/subleq)
+  > A Forth environment on a single-Instruction 16-bit SUBLEQ machine
+
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [awakecoding/openspecs](https://github.com/awakecoding/openspecs)
   > Microsoft Open Specifications Windows Protocols Skill
@@ -29,7 +33,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 14:55:47 UTC*
+*Last updated at 2026-08-07 15:59:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
