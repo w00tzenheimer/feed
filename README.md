@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > GhostLock One-Tap Execution App
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/Zapscape](https://github.com/V4bel/Zapscape) to [CrackerCat/Zapscape](https://github.com/CrackerCat/Zapscape)
 
+### [ggoodman](https://github.com/ggoodman)
+- 🍴 👤 [ggoodman](https://github.com/ggoodman) Forked [denoland/celld](https://github.com/denoland/celld) to [torkbot/celld](https://github.com/torkbot/celld)
+  > self-hosted, distributed Durable Objects
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V)
   > Lightweight Image Video Action Generation Inference Framework
@@ -22,6 +26,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jserv/subleq](https://github.com/jserv/subleq)
   > A Forth environment on a single-Instruction 16-bit SUBLEQ machine
+
+### [justinfargnoli](https://github.com/justinfargnoli)
+- 🌟 👤 [justinfargnoli](https://github.com/justinfargnoli) Starred [justinfargnoli/koi](https://github.com/justinfargnoli/koi)
+  > Compiler for the Calculus of Inductive Constructions
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Dicklesworthstone/doodlestein_self_releaser](https://github.com/Dicklesworthstone/doodlestein_self_releaser)
+  > Local release tool that reuses your GitHub Actions workflow YAML to build via nektos/act when CI que...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [sheawinkler/ContextLattice](https://github.com/sheawinkler/ContextLattice)
+  > The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, p...
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [awakecoding/openspecs](https://github.com/awakecoding/openspecs)
@@ -33,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 15:59:48 UTC*
+*Last updated at 2026-08-07 17:02:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
