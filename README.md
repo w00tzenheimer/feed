@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > GhostLock One-Tap Execution App
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/Zapscape](https://github.com/V4bel/Zapscape) to [CrackerCat/Zapscape](https://github.com/CrackerCat/Zapscape)
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V)
+  > Lightweight Image Video Action Generation Inference Framework
+
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [awakecoding/openspecs](https://github.com/awakecoding/openspecs)
   > Microsoft Open Specifications Windows Protocols Skill
@@ -25,7 +29,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 05:42:58 UTC*
+*Last updated at 2026-08-07 07:21:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
