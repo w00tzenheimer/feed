@@ -76,6 +76,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The binary you run is not the program you wrote.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xoreaxeaxeax/mchammer](https://github.com/xoreaxeaxeax/mchammer)
   > machine check exploitation
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ibm-power-utilities/powerpc-utils](https://github.com/ibm-power-utilities/powerpc-utils)
+  > Suite of utilities for Linux on Power systems
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ibm-power-utilities/librtas](https://github.com/ibm-power-utilities/librtas)
+  > librtas library for Linux on Power systems
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [HelloClyde/bbk9588-emulator](https://github.com/HelloClyde/bbk9588-emulator)
@@ -87,7 +91,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 13:48:57 UTC*
+*Last updated at 2026-08-08 14:34:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
