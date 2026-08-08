@@ -12,6 +12,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [vnpy/vnpy](https://github.com/vnpy/vnpy)
   > 基于Python的开源量化交易平台开发框架
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dawwinci/agile-net-devirtualizer](https://github.com/dawwinci/agile-net-devirtualizer) to [CrackerCat/agile-net-devirtualizer](https://github.com/CrackerCat/agile-net-devirtualizer)
+  > Generic devirtualizer for Agile.NET (SecureTeam/CodeVeil) VM-based method protection — reconstructs ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dawwinci/krypton-devirtualizer](https://github.com/dawwinci/krypton-devirtualizer) to [CrackerCat/krypton-devirtualizer](https://github.com/CrackerCat/krypton-devirtualizer)
+  > .NET Reactor devirtualizer
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [LAOGOU-666/Comfyui_LG_Tools](https://github.com/LAOGOU-666/Comfyui_LG_Tools)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [LAOGOU-666/Comfyui_LG_Tools](https://github.com/LAOGOU-666/Comfyui_LG_Tools) to [IuvenisSapiens/Comfyui_LG_Tools](https://github.com/IuvenisSapiens/Comfyui_LG_Tools)
@@ -46,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 06:59:03 UTC*
+*Last updated at 2026-08-08 07:54:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
