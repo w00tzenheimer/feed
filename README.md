@@ -36,6 +36,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Parse memory regions from Qualcomm XBL config DTB images
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/KallRecon](https://github.com/Dere3046/KallRecon) to [CrackerCat/KallRecon](https://github.com/CrackerCat/KallRecon)
   > reconstruct kallsyms on ARM64 GKI, depends only on sprint_symbol.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [can1357/pon](https://github.com/can1357/pon) to [CrackerCat/pon](https://github.com/CrackerCat/pon)
+  > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [purseclab/D-helix](https://github.com/purseclab/D-helix) to [CrackerCat/D-helix](https://github.com/CrackerCat/D-helix)
+  > a generic decompiler testing framework that can automatically vet the decompilation correctness on t...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WangEn/open-kimi-ppt-skill](https://github.com/WangEn/open-kimi-ppt-skill) to [CrackerCat/open-kimi-ppt-skill](https://github.com/CrackerCat/open-kimi-ppt-skill)
+  > 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI a...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [LAOGOU-666/Comfyui_LG_Tools](https://github.com/LAOGOU-666/Comfyui_LG_Tools)
@@ -71,7 +77,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 11:32:03 UTC*
+*Last updated at 2026-08-08 12:55:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
