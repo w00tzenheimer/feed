@@ -17,6 +17,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Generic devirtualizer for Agile.NET (SecureTeam/CodeVeil) VM-based method protection — reconstructs ...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dawwinci/krypton-devirtualizer](https://github.com/dawwinci/krypton-devirtualizer) to [CrackerCat/krypton-devirtualizer](https://github.com/CrackerCat/krypton-devirtualizer)
   > .NET Reactor devirtualizer
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dump-GUY/BTR_CLI](https://github.com/Dump-GUY/BTR_CLI) to [CrackerCat/BTR_CLI](https://github.com/CrackerCat/BTR_CLI)
+  > Offensive PoC tool for BTR.sys - Microsoft Defender's Boot Time Removal Tool. Supporting material fo...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [can1357/xstd](https://github.com/can1357/xstd) to [CrackerCat/can1357-xstd](https://github.com/CrackerCat/can1357-xstd)
+  > A portable header only library extending the C++20 STL.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lukasmaar/kernelsnitch](https://github.com/lukasmaar/kernelsnitch) to [CrackerCat/kernelsnitch](https://github.com/CrackerCat/kernelsnitch)
+  > A software-only timing side channel combined with cross-cache reuse to leak exploit-relevant kernel ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lukasmaar/qaic-page-uaf](https://github.com/lukasmaar/qaic-page-uaf) to [CrackerCat/qaic-page-uaf](https://github.com/CrackerCat/qaic-page-uaf)
+  > Privilege Escalation via a Page Use-After-Free in Qualcomm's AI Accelerator Linux Kernel Driver
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/Type_info](https://github.com/Dere3046/Type_info) to [CrackerCat/Type_info](https://github.com/CrackerCat/Type_info)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/RaPLT](https://github.com/Dere3046/RaPLT) to [CrackerCat/RaPLT](https://github.com/CrackerCat/RaPLT)
+  > PLT hook
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/Safemod](https://github.com/Dere3046/Safemod) to [CrackerCat/Safemod](https://github.com/CrackerCat/Safemod)
+  > sukisu presence detector.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/arb_inspector](https://github.com/Dere3046/arb_inspector) to [CrackerCat/arb_inspector](https://github.com/CrackerCat/arb_inspector)
+  > A lightweight tool to extract Anti-Rollback (ARB) version from Qualcomm ELF firmware images (e.g., x...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/xbl-dtb](https://github.com/Dere3046/xbl-dtb) to [CrackerCat/xbl-dtb](https://github.com/CrackerCat/xbl-dtb)
+  > Parse memory regions from Qualcomm XBL config DTB images
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/KallRecon](https://github.com/Dere3046/KallRecon) to [CrackerCat/KallRecon](https://github.com/CrackerCat/KallRecon)
+  > reconstruct kallsyms on ARM64 GKI, depends only on sprint_symbol.
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [LAOGOU-666/Comfyui_LG_Tools](https://github.com/LAOGOU-666/Comfyui_LG_Tools)
@@ -52,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 07:54:30 UTC*
+*Last updated at 2026-08-08 08:46:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
