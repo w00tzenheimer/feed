@@ -66,6 +66,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Rom browser frontend for Pico Loader.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [LNH-team/dspico](https://github.com/LNH-team/dspico)
   > Documentation repository for the DSpico flashcard
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xoreaxeaxeax/mmiotic](https://github.com/xoreaxeaxeax/mmiotic)
+  > Latency x-ray for undocumented hardware
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
+  > The binary you run is not the program you wrote.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xoreaxeaxeax/mchammer](https://github.com/xoreaxeaxeax/mchammer)
+  > machine check exploitation
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [HelloClyde/bbk9588-emulator](https://github.com/HelloClyde/bbk9588-emulator)
@@ -77,7 +87,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 12:55:21 UTC*
+*Last updated at 2026-08-08 13:48:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
