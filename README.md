@@ -15,6 +15,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [LAOGOU-666/Comfyui_LG_Tools](https://github.com/LAOGOU-666/Comfyui_LG_Tools)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [LAOGOU-666/Comfyui_LG_Tools](https://github.com/LAOGOU-666/Comfyui_LG_Tools) to [IuvenisSapiens/Comfyui_LG_Tools](https://github.com/IuvenisSapiens/Comfyui_LG_Tools)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [TTPlanetPig/Comfyui_TTP_Toolset](https://github.com/TTPlanetPig/Comfyui_TTP_Toolset) to [IuvenisSapiens/Comfyui_TTP_Toolset](https://github.com/IuvenisSapiens/Comfyui_TTP_Toolset)
+  > for tile the image for advanced control or modification 
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [cardenluo/ComfyUI-Apt_Preset](https://github.com/cardenluo/ComfyUI-Apt_Preset)
+  > make workflow easy
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [cardenluo/ComfyUI-Apt_Preset](https://github.com/cardenluo/ComfyUI-Apt_Preset) to [IuvenisSapiens/ComfyUI-Apt_Preset](https://github.com/IuvenisSapiens/ComfyUI-Apt_Preset)
+  > make workflow easy
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yichengup/ComfyUI-YCNodes_Toolkit](https://github.com/yichengup/ComfyUI-YCNodes_Toolkit)
+  > 主要是一些前端类的节点集合，有趣，有用
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Pitpe12/ComfyUI-Visual-Image-Crop](https://github.com/Pitpe12/ComfyUI-Visual-Image-Crop) to [IuvenisSapiens/ComfyUI-Visual-Image-Crop](https://github.com/IuvenisSapiens/ComfyUI-Visual-Image-Crop)
+  > Interactive visual image crop node for ComfyUI
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Ugleh/ComfyUI-interactive-crop](https://github.com/Ugleh/ComfyUI-interactive-crop) to [IuvenisSapiens/ComfyUI-interactive-crop](https://github.com/IuvenisSapiens/ComfyUI-interactive-crop)
+  > ComfyUI node for realtime cropping with an interactive selection
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [hanatos/vkdt](https://github.com/hanatos/vkdt)
@@ -34,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 05:00:43 UTC*
+*Last updated at 2026-08-08 06:59:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
