@@ -88,6 +88,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > use aig/mig/xmg/xag for mapping
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [iiiiiisdfda/E-Syn](https://github.com/iiiiiisdfda/E-Syn)
   > E-Syn: E-Graph Rewriting with Technology-Aware Cost Functions for Logic Synthesis (DAC 2024)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gnomeria/usbtree](https://github.com/gnomeria/usbtree)
+  > Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux;...
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [HelloClyde/bbk9588-emulator](https://github.com/HelloClyde/bbk9588-emulator)
@@ -99,7 +101,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 15:33:40 UTC*
+*Last updated at 2026-08-08 16:37:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
