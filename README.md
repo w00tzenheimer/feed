@@ -44,6 +44,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mrexodia/oh-my-pi](https://github.com/mrexodia/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [robinebers/openusage](https://github.com/robinebers/openusage)
@@ -55,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 11:32:50 UTC*
+*Last updated at 2026-08-09 12:58:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
