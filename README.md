@@ -63,6 +63,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A modular Swift SDK for audio processing with MLX on Apple Silicon
 - 🍴 👤 [niieani](https://github.com/niieani) Forked [AsamK/signal-cli](https://github.com/AsamK/signal-cli) to [niieani/signal-cli](https://github.com/niieani/signal-cli)
   > signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [pasrom/meeting-transcriber](https://github.com/pasrom/meeting-transcriber)
+  > On-device meeting transcriber for macOS — auto-records Teams/Zoom/Webex, transcribes & separates spe...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [dokterbob/macos-speech-server](https://github.com/dokterbob/macos-speech-server)
+  > Local, fast and efficient Speech to Text (STT) and Text to Speech (TTS) on MacOS with OpenAI-compati...
 
 
 <!-- nav -->
@@ -70,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 22:35:00 UTC*
+*Last updated at 2026-08-09 23:34:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
