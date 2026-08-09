@@ -36,6 +36,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [emollick](https://github.com/emollick) Forked [the-infocom-files/amfv](https://github.com/the-infocom-files/amfv) to [emollick/mind-forever-voyaging](https://github.com/emollick/mind-forever-voyaging)
   > A Mind Forever Voyaging
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox)
+  > Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly ju...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
+  > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)
 
@@ -53,6 +59,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > pi is 🐐
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ammaarreshi/RedAlert2-Mac-iOS-iPad](https://github.com/ammaarreshi/RedAlert2-Mac-iOS-iPad)
   > Red Alert 2 + Yuri's Revenge running natively on iPhone and iPad. EA never released RA2's source, so...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Blaizzy/mlx-audio-swift](https://github.com/Blaizzy/mlx-audio-swift)
+  > A modular Swift SDK for audio processing with MLX on Apple Silicon
+- 🍴 👤 [niieani](https://github.com/niieani) Forked [AsamK/signal-cli](https://github.com/AsamK/signal-cli) to [niieani/signal-cli](https://github.com/niieani/signal-cli)
+  > signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 
 
 <!-- nav -->
@@ -60,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 21:36:08 UTC*
+*Last updated at 2026-08-09 22:35:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
