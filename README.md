@@ -35,13 +35,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [0xnonce404/fanqie-rs](https://github.com/0xnonce404/fanqie-rs) to [joydo/7news](https://github.com/joydo/7news)
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [robinebers/openusage](https://github.com/robinebers/openusage)
+  > Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsag...
+
 
 <!-- nav -->
 [← 2026-08-08](archive/2026/08/08.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 05:48:28 UTC*
+*Last updated at 2026-08-09 07:01:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
