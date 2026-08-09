@@ -45,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [robinebers/openusage](https://github.com/robinebers/openusage)
   > Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsag...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [angristan/pi-extensions](https://github.com/angristan/pi-extensions)
+  > pi is 🐐
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ammaarreshi/RedAlert2-Mac-iOS-iPad](https://github.com/ammaarreshi/RedAlert2-Mac-iOS-iPad)
+  > Red Alert 2 + Yuri's Revenge running natively on iPhone and iPad. EA never released RA2's source, so...
 
 
 <!-- nav -->
@@ -52,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 15:35:01 UTC*
+*Last updated at 2026-08-09 16:39:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
