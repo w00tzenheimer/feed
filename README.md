@@ -32,8 +32,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [guojijun/ComfyUI_GJJ_Nodes](https://github.com/guojijun/ComfyUI_GJJ_Nodes)
   > GJJ 自制 ComfyUI 节点合集，提供图像分割、音频处理、动态插槽、自动尺寸适配等实用功能，所有节点均遵循统一规范开发。
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)
+
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [0xnonce404/fanqie-rs](https://github.com/0xnonce404/fanqie-rs) to [joydo/7news](https://github.com/joydo/7news)
+
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
+  > An IDA Hex-Rays microcode filter that lifts AVX/AVX2/AVX-512/AVX10 and VMX/VT-x instructions to intr...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
@@ -48,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 09:43:07 UTC*
+*Last updated at 2026-08-09 10:38:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
