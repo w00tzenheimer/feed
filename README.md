@@ -1,7 +1,7 @@
-# Daily GitHub Activity (2026-08-09)
+# Daily GitHub Activity (2026-08-10)
 
 <!-- nav -->
-[← 2026-08-08](archive/2026/08/08.md)
+[← 2026-08-09](archive/2026/08/09.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
@@ -9,72 +9,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DesktopECHO/ika](https://github.com/DesktopECHO/ika) to [CrackerCat/ika](https://github.com/CrackerCat/ika)
-  > Android 16 desktop environment with GPU acceleration.  Ika-build creates an Android VM from source a...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xixiaobei-bei/KernelSU_on_Huawei](https://github.com/xixiaobei-bei/KernelSU_on_Huawei) to [CrackerCat/KernelSU_on_Huawei](https://github.com/CrackerCat/KernelSU_on_Huawei)
-  > A KernelSU kernel open source project for Huawei device
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aonez/Keka](https://github.com/aonez/Keka) to [CrackerCat/Keka](https://github.com/CrackerCat/Keka)
-  > The macOS & iOS file archiver
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [stupside/castor](https://github.com/stupside/castor) to [CrackerCat/castor](https://github.com/CrackerCat/castor)
-  > Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in rea...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [china794/jiakao-baodian-dump](https://github.com/china794/jiakao-baodian-dump) to [CrackerCat/jiakao-baodian-dump](https://github.com/CrackerCat/jiakao-baodian-dump)
+  > 驾考宝典 car.db 最新全量题库 6406题(202608061421) 逆向提取 | 在线刷题: https://china794.github.io/jiakao-baodian-dump/ ...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR)
-  > [CVPR 2026] Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-st...
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [naxci1/ComfyUI-FlashVSR_Stable](https://github.com/naxci1/ComfyUI-FlashVSR_Stable)
-  > High-performance Video Super Resolution for ComfyUI with VRAM optimization.
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [NikoDemon80/ComfyUI-H3-Motion-Context](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context)
-  > Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [NikoDemon80/ComfyUI-H3-Motion-Context](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context) to [IuvenisSapiens/ComfyUI-H3-Motion-Context](https://github.com/IuvenisSapiens/ComfyUI-H3-Motion-Context)
-  > Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [moonwhaler/comfyui-seedvr2-tilingupscaler](https://github.com/moonwhaler/comfyui-seedvr2-tilingupscaler)
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [moonwhaler/comfyui-seedvr2-tilingupscaler](https://github.com/moonwhaler/comfyui-seedvr2-tilingupscaler) to [IuvenisSapiens/comfyui-seedvr2-tilingupscaler](https://github.com/IuvenisSapiens/comfyui-seedvr2-tilingupscaler)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [guojijun/ComfyUI_GJJ_Nodes](https://github.com/guojijun/ComfyUI_GJJ_Nodes)
-  > GJJ 自制 ComfyUI 节点合集，提供图像分割、音频处理、动态插槽、自动尺寸适配等实用功能，所有节点均遵循统一规范开发。
-
-### [emollick](https://github.com/emollick)
-- 🍴 👤 [emollick](https://github.com/emollick) Forked [the-infocom-files/amfv](https://github.com/the-infocom-files/amfv) to [emollick/mind-forever-voyaging](https://github.com/emollick/mind-forever-voyaging)
-  > A Mind Forever Voyaging
-
-### [eybisi](https://github.com/eybisi)
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox)
-  > Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly ju...
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
-  > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
-
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)
-
-### [joydo](https://github.com/joydo)
-- 🍴 👤 [joydo](https://github.com/joydo) Forked [0xnonce404/fanqie-rs](https://github.com/0xnonce404/fanqie-rs) to [joydo/7news](https://github.com/joydo/7news)
-
-### [maskelihileci](https://github.com/maskelihileci)
-- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
-  > An IDA Hex-Rays microcode filter that lifts AVX/AVX2/AVX-512/AVX10 and VMX/VT-x instructions to intr...
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [robinebers/openusage](https://github.com/robinebers/openusage)
-  > Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsag...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [angristan/pi-extensions](https://github.com/angristan/pi-extensions)
-  > pi is 🐐
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [ammaarreshi/RedAlert2-Mac-iOS-iPad](https://github.com/ammaarreshi/RedAlert2-Mac-iOS-iPad)
-  > Red Alert 2 + Yuri's Revenge running natively on iPhone and iPad. EA never released RA2's source, so...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [Blaizzy/mlx-audio-swift](https://github.com/Blaizzy/mlx-audio-swift)
-  > A modular Swift SDK for audio processing with MLX on Apple Silicon
-- 🍴 👤 [niieani](https://github.com/niieani) Forked [AsamK/signal-cli](https://github.com/AsamK/signal-cli) to [niieani/signal-cli](https://github.com/niieani/signal-cli)
-  > signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [pasrom/meeting-transcriber](https://github.com/pasrom/meeting-transcriber)
-  > On-device meeting transcriber for macOS — auto-records Teams/Zoom/Webex, transcribes & separates spe...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [dokterbob/macos-speech-server](https://github.com/dokterbob/macos-speech-server)
-  > Local, fast and efficient Speech to Text (STT) and Text to Speech (TTS) on MacOS with OpenAI-compati...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ptmaster/ComfyUI-PT_H3ConcatAVLatent](https://github.com/ptmaster/ComfyUI-PT_H3ConcatAVLatent)
+  > Minimax video audio Concat AV Latent for any video into Minimax H3 sampler
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [GoogleChromeLabs/chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing)
 
 
 <!-- nav -->
-[← 2026-08-08](archive/2026/08/08.md)
+[← 2026-08-09](archive/2026/08/09.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 23:34:23 UTC*
+*Last updated at 2026-08-10 02:05:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
