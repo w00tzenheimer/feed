@@ -17,13 +17,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Minimax video audio Concat AV Latent for any video into Minimax H3 sampler
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [GoogleChromeLabs/chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing)
 
+### [stevemk14ebr](https://github.com/stevemk14ebr)
+- 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [HexRaysSA/ida-codemode](https://github.com/HexRaysSA/ida-codemode)
+  > ⚠️ Experimental prerelease ⚠️ IDA Code Mode gives agents a compact Python execution surface over the...
+
 
 <!-- nav -->
 [← 2026-08-09](archive/2026/08/09.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 02:05:09 UTC*
+*Last updated at 2026-08-10 04:41:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
