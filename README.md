@@ -13,6 +13,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 驾考宝典 car.db 最新全量题库 6406题(202608061421) 逆向提取 | 在线刷题: https://china794.github.io/jiakao-baodian-dump/ ...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [chen-006/gpt56_api_detector](https://github.com/chen-006/gpt56_api_detector) to [CrackerCat/gpt56_api_detector](https://github.com/CrackerCat/gpt56_api_detector)
   > 用于检测api是否路由真实gpt5.6模型
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI) to [CrackerCat/WeChat-AI](https://github.com/CrackerCat/WeChat-AI)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/KernCall](https://github.com/Dere3046/KernCall) to [CrackerCat/KernCall](https://github.com/CrackerCat/KernCall)
+  > kernel syscall channel library for no-source kernel programming
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ptmaster/ComfyUI-PT_H3ConcatAVLatent](https://github.com/ptmaster/ComfyUI-PT_H3ConcatAVLatent)
@@ -33,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 11:50:21 UTC*
+*Last updated at 2026-08-10 13:16:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
