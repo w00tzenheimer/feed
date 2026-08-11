@@ -20,9 +20,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [devkitPro/dsi](https://github.com/devkitPro/dsi)
   > Team Twiizers DSi exploits
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [souffle-lang/souffle](https://github.com/souffle-lang/souffle)
-  > Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthe...
+### [ltdrdata](https://github.com/ltdrdata)
+- 🌟 👤 [ltdrdata](https://github.com/ltdrdata) Starred [Comfy-Org/comfy-mcp](https://github.com/Comfy-Org/comfy-mcp)
+  > Local MCP server for ComfyUI — run your local ComfyUI from AI agents
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [micromark/micromark](https://github.com/micromark/micromark)
@@ -34,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 09:01:44 UTC*
+*Last updated at 2026-08-11 10:52:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
