@@ -51,6 +51,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [micromark/micromark](https://github.com/micromark/micromark)
   > small, safe, and great commonmark (optionally gfm, mdx) compliant markdown parser
+- 🍴 👤 [niieani](https://github.com/niieani) Forked [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) to [niieani/executor](https://github.com/niieani/executor)
+  > The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js f...
 
 
 <!-- nav -->
@@ -58,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 22:48:04 UTC*
+*Last updated at 2026-08-11 23:44:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
