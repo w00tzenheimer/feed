@@ -24,13 +24,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [souffle-lang/souffle](https://github.com/souffle-lang/souffle)
   > Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthe...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [micromark/micromark](https://github.com/micromark/micromark)
+  > small, safe, and great commonmark (optionally gfm, mdx) compliant markdown parser
+
 
 <!-- nav -->
 [← 2026-08-10](archive/2026/08/10.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 04:21:43 UTC*
+*Last updated at 2026-08-11 05:54:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
