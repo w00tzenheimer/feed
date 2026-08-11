@@ -15,10 +15,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhuzhu-Top/xdec](https://github.com/zhuzhu-Top/xdec) to [CrackerCat/xdec](https://github.com/CrackerCat/xdec)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DubheStar/python-abe-injector](https://github.com/DubheStar/python-abe-injector) to [CrackerCat/python-abe-injector](https://github.com/CrackerCat/python-abe-injector)
   > Chrome App-Bound Encryption (ABE) 解密研究工具 - 纯 Python 版本（Hell's Gate + NtCreateThreadEx + 句柄复制）
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated) to [CrackerCat/Privisolated](https://github.com/CrackerCat/Privisolated)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [radareorg/r2flutter](https://github.com/radareorg/r2flutter) to [CrackerCat/r2flutter](https://github.com/CrackerCat/r2flutter)
+  > Parsing Flutter Constant Pools for radare2
 
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [komoot/photon](https://github.com/komoot/photon)
   > an open source geocoder for openstreetmap data
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [maxcountryman/headers-accept](https://github.com/maxcountryman/headers-accept)
+  > 🤝 The missing `Accept` implementation for `headers::Header`.
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [devkitPro/dsi](https://github.com/devkitPro/dsi)
@@ -45,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 13:13:47 UTC*
+*Last updated at 2026-08-11 15:01:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
