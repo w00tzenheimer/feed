@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DubheStar/python-abe-injector](https://github.com/DubheStar/python-abe-injector) to [CrackerCat/python-abe-injector](https://github.com/CrackerCat/python-abe-injector)
   > Chrome App-Bound Encryption (ABE) 解密研究工具 - 纯 Python 版本（Hell's Gate + NtCreateThreadEx + 句柄复制）
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [komoot/photon](https://github.com/komoot/photon)
+  > an open source geocoder for openstreetmap data
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [devkitPro/dsi](https://github.com/devkitPro/dsi)
   > Team Twiizers DSi exploits
@@ -23,6 +27,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ltdrdata](https://github.com/ltdrdata)
 - 🌟 👤 [ltdrdata](https://github.com/ltdrdata) Starred [Comfy-Org/comfy-mcp](https://github.com/Comfy-Org/comfy-mcp)
   > Local MCP server for ComfyUI — run your local ComfyUI from AI agents
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [eset/ipyida](https://github.com/eset/ipyida) to [mrexodia/ipyida](https://github.com/mrexodia/ipyida)
+  > IPython console integration for IDA Pro
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [micromark/micromark](https://github.com/micromark/micromark)
@@ -34,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 11:46:45 UTC*
+*Last updated at 2026-08-11 13:13:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
