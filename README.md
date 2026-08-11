@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [radareorg/r2flutter](https://github.com/radareorg/r2flutter) to [CrackerCat/r2flutter](https://github.com/CrackerCat/r2flutter)
   > Parsing Flutter Constant Pools for radare2
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ModelTC/Minimax-H3-Turbo](https://github.com/ModelTC/Minimax-H3-Turbo)
+  > Distill Minimax-H3 into 4 steps
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [komoot/photon](https://github.com/komoot/photon)
   > an open source geocoder for openstreetmap data
@@ -28,6 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [devkitPro/dsi](https://github.com/devkitPro/dsi)
   > Team Twiizers DSi exploits
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [myskyko/aig](https://github.com/myskyko/aig)
 
 ### [ltdrdata](https://github.com/ltdrdata)
 - 🌟 👤 [ltdrdata](https://github.com/ltdrdata) Starred [Comfy-Org/comfy-mcp](https://github.com/Comfy-Org/comfy-mcp)
@@ -50,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 15:01:11 UTC*
+*Last updated at 2026-08-11 17:00:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
