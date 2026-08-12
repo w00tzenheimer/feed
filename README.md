@@ -31,13 +31,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box) to [CrackerCat/Integrity-Box](https://github.com/CrackerCat/Integrity-Box)
   > A toolkit for managing Play Integrity & System Environment
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
+  > Private, searchable screen history for macOS.
+
 
 <!-- nav -->
 [← 2026-08-11](archive/2026/08/11.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 10:09:44 UTC*
+*Last updated at 2026-08-12 11:49:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
