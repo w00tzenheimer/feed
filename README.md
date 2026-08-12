@@ -11,6 +11,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [Neoexm/Shittim-Server](https://github.com/Neoexm/Shittim-Server)
   > Blue Archive Private Server For Steam
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [raygon-renderer/thermite](https://github.com/raygon-renderer/thermite)
+  > Thermite SIMD: Melt your CPU
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [quarkslab/android-hardware-attestation-demo](https://github.com/quarkslab/android-hardware-attestation-demo) to [CrackerCat/android-hardware-attestation-demo](https://github.com/CrackerCat/android-hardware-attestation-demo)
@@ -30,6 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Local-first AI knowledge base for PDFs, Office docs, web clips and Markdown notes — ask your whole l...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box) to [CrackerCat/Integrity-Box](https://github.com/CrackerCat/Integrity-Box)
   > A toolkit for managing Play Integrity & System Environment
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [miner7222/LTBox](https://github.com/miner7222/LTBox) to [CrackerCat/LTBox](https://github.com/CrackerCat/LTBox)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
@@ -41,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 11:49:55 UTC*
+*Last updated at 2026-08-12 13:17:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
