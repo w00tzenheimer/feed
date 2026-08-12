@@ -34,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A toolkit for managing Play Integrity & System Environment
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [miner7222/LTBox](https://github.com/miner7222/LTBox) to [CrackerCat/LTBox](https://github.com/CrackerCat/LTBox)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
+  > Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
   > Private, searchable screen history for macOS.
@@ -46,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 15:00:34 UTC*
+*Last updated at 2026-08-12 16:58:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
