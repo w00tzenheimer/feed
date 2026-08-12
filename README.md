@@ -45,6 +45,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/libdecomp](https://github.com/dmaivel/libdecomp)
   > Library for decompiling multi-architecture disassembly (ARM64, X86, X86-64) into source code (C, Zig...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [itskovacs/trip](https://github.com/itskovacs/trip)
+  > 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/jot](https://github.com/badlogic/jot)
+  > Minimal self-hosted markdown editor with inline comment threads
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [angristan/netclode](https://github.com/angristan/netclode)
+  > Self hosted cloud coding agent with k3s + kata containers + cloud hypervisor microVMs + tailscale + ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/pi-dictate](https://github.com/amosblomqvist/pi-dictate)
+  > Dictation extension for pi
 
 
 <!-- nav -->
@@ -52,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 22:45:09 UTC*
+*Last updated at 2026-08-12 23:46:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
