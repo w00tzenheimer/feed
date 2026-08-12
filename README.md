@@ -43,6 +43,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Private, searchable screen history for macOS.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/libdecomp](https://github.com/dmaivel/libdecomp)
+  > Library for decompiling multi-architecture disassembly (ARM64, X86, X86-64) into source code (C, Zig...
 
 
 <!-- nav -->
@@ -50,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 18:00:50 UTC*
+*Last updated at 2026-08-12 20:00:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
