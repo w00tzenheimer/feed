@@ -11,6 +11,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rikonaka/pistol-rs](https://github.com/rikonaka/pistol-rs)
   > A Rust Library about Cybersecurity and Nmap
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rikonaka/pcapture-rs](https://github.com/rikonaka/pcapture-rs)
+  > A new generation of traffic capture library.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mmert11/vexa](https://github.com/mmert11/vexa) to [CrackerCat/vexa](https://github.com/CrackerCat/vexa)
@@ -30,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 08:23:08 UTC*
+*Last updated at 2026-08-13 10:10:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
