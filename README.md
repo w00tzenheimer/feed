@@ -51,6 +51,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [typeonce-dev/ai-automation](https://github.com/typeonce-dev/ai-automation)
   > Set of re-usable static rules, checks, scripts, and all sort of AI output quality tools
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
+  > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 
 
 <!-- nav -->
@@ -58,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 18:00:52 UTC*
+*Last updated at 2026-08-13 19:56:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
