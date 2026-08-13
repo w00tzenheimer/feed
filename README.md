@@ -26,6 +26,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Fatmike-GH](https://github.com/Fatmike-GH) Starred [Fatmike-GH/Fatpack](https://github.com/Fatmike-GH/Fatpack)
   > A Windows PE packer for executables (x64) with LZMA compression and with full TLS (Thread Local Stor...
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
@@ -44,13 +48,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [typeonce-dev/ai-automation](https://github.com/typeonce-dev/ai-automation)
+  > Set of re-usable static rules, checks, scripts, and all sort of AI output quality tools
+
 
 <!-- nav -->
 [← 2026-08-12](archive/2026/08/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 16:58:44 UTC*
+*Last updated at 2026-08-13 18:00:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
