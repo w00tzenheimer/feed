@@ -46,11 +46,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [am-will/gooey-pi](https://github.com/am-will/gooey-pi)
-  > A native-feeling macOS desktop workspace for Prime Agent
+  > Desktop workspace for Pi, OMP, and Prime Agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
   > LLVM based obfuscator
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [radkawar/screenlogger](https://github.com/radkawar/screenlogger) to [mrexodia/screenlogger](https://github.com/mrexodia/screenlogger)
   > Private, searchable screen history for macOS.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
 
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
@@ -62,7 +64,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 15:54:59 UTC*
+*Last updated at 2026-08-14 16:56:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
