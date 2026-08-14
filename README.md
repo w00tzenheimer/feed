@@ -13,6 +13,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) to [CrackerCat/skitter-creek-bath-salts](https://github.com/CrackerCat/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [alibaba/open-code-review](https://github.com/alibaba/open-code-review) to [NielsRogge/open-code-review](https://github.com/NielsRogge/open-code-review)
+  > Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: determinist...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [LineaLabs/lineapy](https://github.com/LineaLabs/lineapy)
   > Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks i...
@@ -30,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 06:16:36 UTC*
+*Last updated at 2026-08-14 08:18:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
