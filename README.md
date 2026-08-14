@@ -11,6 +11,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs)
   > libgit2 bindings for Rust
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide)
+  > An idiomatic, lean, fast & safe pure Rust implementation of Git
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject) to [CrackerCat/sukinject](https://github.com/CrackerCat/sukinject)
@@ -25,9 +27,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [LineaLabs/lineapy](https://github.com/LineaLabs/lineapy)
   > Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks i...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [inducer/pycparserext](https://github.com/inducer/pycparserext)
+  > Extensions for Eli Bendersky's pycparser
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
+  > LLVM based obfuscator
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
@@ -46,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 13:14:20 UTC*
+*Last updated at 2026-08-14 14:54:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
