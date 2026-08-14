@@ -49,6 +49,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A native-feeling macOS desktop workspace for Prime Agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
   > LLVM based obfuscator
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [radkawar/screenlogger](https://github.com/radkawar/screenlogger) to [mrexodia/screenlogger](https://github.com/mrexodia/screenlogger)
+  > Private, searchable screen history for macOS.
 
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
@@ -60,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 14:54:37 UTC*
+*Last updated at 2026-08-14 15:54:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
