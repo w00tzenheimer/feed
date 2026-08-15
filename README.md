@@ -35,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ad-si/Woxi](https://github.com/ad-si/Woxi)
   > Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
+  > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [rfc-editor-drafts/FinalReview-rfc10032](https://github.com/rfc-editor-drafts/FinalReview-rfc10032)
   > A repo for Final Review of RFC-to-be 10032
@@ -58,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 19:23:39 UTC*
+*Last updated at 2026-08-15 20:26:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
