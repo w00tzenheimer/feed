@@ -21,6 +21,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/HooKern](https://github.com/Dere3046/HooKern) to [CrackerCat/HooKern](https://github.com/CrackerCat/HooKern)
   > kernel hook library
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ad-si/Woxi](https://github.com/ad-si/Woxi)
+  > Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
 
@@ -30,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 07:33:29 UTC*
+*Last updated at 2026-08-15 08:32:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
