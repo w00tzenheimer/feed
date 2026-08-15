@@ -35,6 +35,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ad-si/Woxi](https://github.com/ad-si/Woxi)
   > Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [radareorg/r2flutter](https://github.com/radareorg/r2flutter)
+  > Dart/Flutter support for radare2
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
+  > LLVM based obfuscator
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [lief-project/LIEF](https://github.com/lief-project/LIEF)
+  > LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+  > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
   > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
@@ -66,7 +78,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 22:25:46 UTC*
+*Last updated at 2026-08-15 23:23:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
