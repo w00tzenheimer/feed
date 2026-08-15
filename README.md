@@ -48,13 +48,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tkmru](https://github.com/tkmru) Starred [tkmru/bjlint-cli](https://github.com/tkmru/bjlint-cli)
   > A blackjack CLI trainer that warns you when your play deviates from basic strategy.  you can practic...
 
+### [wangyu-](https://github.com/wangyu-)
+- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [HelloClyde/BBK9588-NC2000](https://github.com/HelloClyde/BBK9588-NC2000)
+  > BBK9588-NC2000模拟器：在步步高 9588 上运行文曲星 NC2000/NC2600 固件的原生 BDA 移植
+
 
 <!-- nav -->
 [← 2026-08-14](archive/2026/08/14.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 17:23:13 UTC*
+*Last updated at 2026-08-15 18:34:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
