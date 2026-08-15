@@ -22,6 +22,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > kernel hook library
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [huoji120/QWEN-EXO-booster](https://github.com/huoji120/QWEN-EXO-booster) to [CrackerCat/QWEN-EXO-booster](https://github.com/CrackerCat/QWEN-EXO-booster)
   > QWEN-EXO model-native memory and inference booster for SGLang
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator) to [CrackerCat/LeetObfuscator](https://github.com/CrackerCat/LeetObfuscator)
+  > LLVM based obfuscator
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/BlockDeviceHook](https://github.com/Dere3046/BlockDeviceHook) to [CrackerCat/BlockDeviceHook](https://github.com/CrackerCat/BlockDeviceHook)
+  > Hook BlockDevice
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [pengzenzen-creator/abl-patch-toolkit](https://github.com/pengzenzen-creator/abl-patch-toolkit) to [CrackerCat/abl-patch-toolkit](https://github.com/CrackerCat/abl-patch-toolkit)
+  > ABL patch toolkit for Snapdragon 8 Elite (SM8750) - fake locked bootloader
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ad-si/Woxi](https://github.com/ad-si/Woxi)
@@ -36,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 12:43:13 UTC*
+*Last updated at 2026-08-15 13:32:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
