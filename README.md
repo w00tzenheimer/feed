@@ -28,6 +28,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Hook BlockDevice
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [pengzenzen-creator/abl-patch-toolkit](https://github.com/pengzenzen-creator/abl-patch-toolkit) to [CrackerCat/abl-patch-toolkit](https://github.com/CrackerCat/abl-patch-toolkit)
   > ABL patch toolkit for Snapdragon 8 Elite (SM8750) - fake locked bootloader
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [djskncxm/DuckREVM](https://github.com/djskncxm/DuckREVM) to [CrackerCat/DuckREVM](https://github.com/CrackerCat/DuckREVM)
+  > 抽象出来的还原框架
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ad-si/Woxi](https://github.com/ad-si/Woxi)
@@ -42,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 13:32:42 UTC*
+*Last updated at 2026-08-15 14:26:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
