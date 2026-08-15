@@ -41,6 +41,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ARahim3/mlx-dspark](https://github.com/ARahim3/mlx-dspark)
+  > Up to 3.3× faster LLM decoding on Apple Silicon, lossless. Native MLX port of DeepSeek's DSpark & z-...
 
 ### [tkmru](https://github.com/tkmru)
 - 🌟 👤 [tkmru](https://github.com/tkmru) Starred [tkmru/bjlint-cli](https://github.com/tkmru/bjlint-cli)
@@ -52,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 15:24:35 UTC*
+*Last updated at 2026-08-15 16:28:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
