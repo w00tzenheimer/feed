@@ -43,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [rfc-editor-drafts/FinalReview-rfc10032](https://github.com/rfc-editor-drafts/FinalReview-rfc10032)
   > A repo for Final Review of RFC-to-be 10032
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ziyao233/lynx-js](https://github.com/ziyao233/lynx-js)
+  > Add QuickJS to lynx as JavaScript engine.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ARahim3/mlx-dspark](https://github.com/ARahim3/mlx-dspark)
@@ -62,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 21:24:35 UTC*
+*Last updated at 2026-08-15 22:25:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
