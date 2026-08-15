@@ -21,13 +21,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/HooKern](https://github.com/Dere3046/HooKern) to [CrackerCat/HooKern](https://github.com/CrackerCat/HooKern)
   > kernel hook library
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
+
 
 <!-- nav -->
 [← 2026-08-14](archive/2026/08/14.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 06:43:20 UTC*
+*Last updated at 2026-08-15 07:33:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
