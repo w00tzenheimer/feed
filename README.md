@@ -26,13 +26,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [snarktank/ralph](https://github.com/snarktank/ralph)
   > Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leancontext/website](https://github.com/leancontext/website)
+
+### [seifreed](https://github.com/seifreed)
+- 🚀 👤 [seifreed](https://github.com/seifreed) Made [seifreed/viewdns](https://github.com/seifreed/viewdns) public
+
 
 <!-- nav -->
 [← 2026-08-15](archive/2026/08/15.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 16:29:41 UTC*
+*Last updated at 2026-08-16 17:22:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
