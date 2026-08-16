@@ -26,6 +26,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [snarktank/ralph](https://github.com/snarktank/ralph)
   > Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [COMBINE-lab/cf1-rs](https://github.com/COMBINE-lab/cf1-rs)
+  > An subset of Cuttlefish 1, rewritten in Rust, to provide maximal unitigs and tiling information for ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leancontext/website](https://github.com/leancontext/website)
 
@@ -38,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 18:33:54 UTC*
+*Last updated at 2026-08-16 19:23:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
