@@ -14,6 +14,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LifeArchiveProject/WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) to [CrackerCat/WeChatDataAnalysis](https://github.com/CrackerCat/WeChatDataAnalysis)
   > 微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出聊天记录，朋友圈，收藏等大量便捷功能
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [rfc-editor-drafts/FinalReview-rfc10032](https://github.com/rfc-editor-drafts/FinalReview-rfc10032) to [jedisct1/FinalReview-rfc10032](https://github.com/jedisct1/FinalReview-rfc10032)
+  > A repo for Final Review of RFC-to-be 10032
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mohammad-alattas/APISignature](https://github.com/mohammad-alattas/APISignature)
+  > APISignature is a plugin for x64dbg that help the malware analysts & reverse engineers during analys...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)
   > Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh So...
@@ -24,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 07:02:09 UTC*
+*Last updated at 2026-08-17 08:47:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
