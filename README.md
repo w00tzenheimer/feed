@@ -30,6 +30,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)
   > Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh So...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [kunchenguid/vision](https://github.com/kunchenguid/vision)
+  > Agent skill that mines your repo's history to draft a VISION.md, stress-tests it with hard hypotheti...
 
 
 <!-- nav -->
@@ -37,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 15:28:15 UTC*
+*Last updated at 2026-08-17 16:31:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
