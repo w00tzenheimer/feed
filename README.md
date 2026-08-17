@@ -14,6 +14,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LifeArchiveProject/WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) to [CrackerCat/WeChatDataAnalysis](https://github.com/CrackerCat/WeChatDataAnalysis)
   > 微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出聊天记录，朋友圈，收藏等大量便捷功能
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [yetone/cumora](https://github.com/yetone/cumora)
+  > Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with ...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [rfc-editor-drafts/FinalReview-rfc10032](https://github.com/rfc-editor-drafts/FinalReview-rfc10032) to [jedisct1/FinalReview-rfc10032](https://github.com/jedisct1/FinalReview-rfc10032)
   > A repo for Final Review of RFC-to-be 10032
@@ -33,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 14:31:36 UTC*
+*Last updated at 2026-08-17 15:28:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
