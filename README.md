@@ -17,6 +17,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [rfc-editor-drafts/FinalReview-rfc10032](https://github.com/rfc-editor-drafts/FinalReview-rfc10032) to [jedisct1/FinalReview-rfc10032](https://github.com/jedisct1/FinalReview-rfc10032)
   > A repo for Final Review of RFC-to-be 10032
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ctz/graviola](https://github.com/ctz/graviola)
+  > High quality, fast and easy to build cryptography for Rust
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)
@@ -28,7 +30,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 10:34:52 UTC*
+*Last updated at 2026-08-17 11:29:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
