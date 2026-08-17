@@ -24,6 +24,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ctz/graviola](https://github.com/ctz/graviola)
   > High quality, fast and easy to build cryptography for Rust
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+  > Fully automatic censorship removal for language models
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mpsops/mps-bitsandbytes](https://github.com/mpsops/mps-bitsandbytes)
+  > 8-bit quantization for PyTorch on Apple Silicon (M1/M2/M3/M4)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [blasty/ida-tui](https://github.com/blasty/ida-tui) to [mrexodia/ida-tui](https://github.com/mrexodia/ida-tui)
 
@@ -39,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 18:44:02 UTC*
+*Last updated at 2026-08-17 19:30:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
