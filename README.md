@@ -20,6 +20,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ctz/graviola](https://github.com/ctz/graviola)
   > High quality, fast and easy to build cryptography for Rust
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [blasty/ida-tui](https://github.com/blasty/ida-tui) to [mrexodia/ida-tui](https://github.com/mrexodia/ida-tui)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)
   > Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh So...
@@ -30,7 +33,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 12:50:47 UTC*
+*Last updated at 2026-08-17 13:41:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
