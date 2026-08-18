@@ -24,6 +24,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
   > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Alain00/blobatar](https://github.com/Alain00/blobatar)
+
 ### [tkmru](https://github.com/tkmru)
 - 🌟 👤 [tkmru](https://github.com/tkmru) Starred [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)
   > Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aik...
@@ -34,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 16:34:57 UTC*
+*Last updated at 2026-08-18 17:30:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
