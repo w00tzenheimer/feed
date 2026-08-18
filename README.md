@@ -12,6 +12,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [tettethu/VibeGame](https://github.com/tettethu/VibeGame)
   > VibeGame: Vibe Your Dream Game -- An open-source self-evolving multi-agent framework with an AI-Nati...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter)
+  > 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot require...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
+  > A Microsoft Windows® USB installation media preparer for GNU+Linux
+
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [praydog/ttdshim](https://github.com/praydog/ttdshim)
   > Instrumenting WinDBG's TTD (Time Travel Debugging)
@@ -37,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 19:30:01 UTC*
+*Last updated at 2026-08-18 20:27:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
