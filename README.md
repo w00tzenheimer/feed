@@ -8,11 +8,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [tettethu/VibeGame](https://github.com/tettethu/VibeGame)
+  > VibeGame: Vibe Your Dream Game -- An open-source self-evolving multi-agent framework with an AI-Nati...
+
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [praydog/ttdshim](https://github.com/praydog/ttdshim)
   > Instrumenting WinDBG's TTD (Time Travel Debugging)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [kanren3/windbg-mcp-rs](https://github.com/kanren3/windbg-mcp-rs)
   > A WinDbg plugin that turns the current debugging session into an MCP server for command docs, debugg...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
+  > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
 
 
 <!-- nav -->
@@ -20,7 +28,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 08:40:40 UTC*
+*Last updated at 2026-08-18 09:37:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
