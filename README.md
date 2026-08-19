@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [mvp-ai-lab/RAVEN](https://github.com/mvp-ai-lab/RAVEN)
   > Implementation of our paper "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-mo...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [langston-barrett/tree-splicer](https://github.com/langston-barrett/tree-splicer)
+  > Simple grammar-based test case generator
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
   > IDA Pro resources, scripts, and configurations
@@ -37,7 +41,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 12:53:36 UTC*
+*Last updated at 2026-08-19 13:47:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
