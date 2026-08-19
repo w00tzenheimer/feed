@@ -45,6 +45,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [triskellib/triskel](https://github.com/triskellib/triskel) to [mrexodia/triskel](https://github.com/mrexodia/triskel)
   > A graphing library for Control Flow Graphs
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack](https://github.com/ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Entrpi/ds4-on-spark](https://github.com/Entrpi/ds4-on-spark)
+  > Entrpi/ds4, a Blackwell CUDA perf fork of antirez/ds4 on NVIDIA DGX Spark: one-command install, ~3x ...
 
 
 <!-- nav -->
@@ -52,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 22:27:58 UTC*
+*Last updated at 2026-08-19 23:25:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
