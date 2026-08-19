@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [mvp-ai-lab/RAVEN](https://github.com/mvp-ai-lab/RAVEN)
   > Implementation of our paper "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-mo...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [trustsig-eu/wasm2c-tableflip](https://github.com/trustsig-eu/wasm2c-tableflip)
+  > wasm2c sandbox escape. An untrusted WebAssembly module breaks out of the generated C sandbox and exe...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [langston-barrett/tree-splicer](https://github.com/langston-barrett/tree-splicer)
   > Simple grammar-based test case generator
@@ -43,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 15:34:27 UTC*
+*Last updated at 2026-08-19 16:34:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
