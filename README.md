@@ -20,6 +20,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [NoizAI/AudioX-Turbo](https://github.com/NoizAI/AudioX-Turbo)
   > 🚀 Fastest Anything-to-Audio Gen for conditioned sound and music creation.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yunpeng1998/Qwen-Video-Edit](https://github.com/yunpeng1998/Qwen-Video-Edit)
+  > This repository contains the code for "Qwen-Video-Edit: Instruction-Based Video Editing by Repurposi...
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [mvp-ai-lab/RAVEN](https://github.com/mvp-ai-lab/RAVEN)
@@ -31,7 +33,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 06:50:25 UTC*
+*Last updated at 2026-08-19 07:41:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
