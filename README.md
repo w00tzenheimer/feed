@@ -1,49 +1,29 @@
-# Daily GitHub Activity (2026-08-18)
+# Daily GitHub Activity (2026-08-19)
 
 <!-- nav -->
-[← 2026-08-17](archive/2026/08/17.md)
+[← 2026-08-18](archive/2026/08/18.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [tettethu/VibeGame](https://github.com/tettethu/VibeGame)
-  > VibeGame: Vibe Your Dream Game -- An open-source self-evolving multi-agent framework with an AI-Nati...
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter)
-  > 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot require...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
-  > A Microsoft Windows® USB installation media preparer for GNU+Linux
-
-### [kweatherman](https://github.com/kweatherman)
-- 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [praydog/ttdshim](https://github.com/praydog/ttdshim)
-  > Instrumenting WinDBG's TTD (Time Travel Debugging)
-- 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [kanren3/windbg-mcp-rs](https://github.com/kanren3/windbg-mcp-rs)
-  > A WinDbg plugin that turns the current debugging session into an MCP server for command docs, debugg...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
-  > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
-  > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [Alain00/blobatar](https://github.com/Alain00/blobatar)
-
-### [tkmru](https://github.com/tkmru)
-- 🌟 👤 [tkmru](https://github.com/tkmru) Starred [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)
-  > Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aik...
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [R0rt1z2/GhostLock-5.10](https://github.com/R0rt1z2/GhostLock-5.10) to [CrackerCat/GhostLock-5.10](https://github.com/CrackerCat/GhostLock-5.10)
+  > Kernel root exploit (CVE-2026-43499) for some 5.X devices (mostly Amazon)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Ymjie/ShellStepVEH](https://github.com/Ymjie/ShellStepVEH) to [CrackerCat/ShellStepVEH](https://github.com/CrackerCat/ShellStepVEH)
+  > veh single-step shellcode
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [monovibe/s26u-m3q-temp-root](https://github.com/monovibe/s26u-m3q-temp-root) to [CrackerCat/s26u-m3q-temp-root](https://github.com/CrackerCat/s26u-m3q-temp-root)
+  > Temporary KernelSU root and LSPosed recovery app for Galaxy S26 Ultra SM-S948N AZG3
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark) to [CrackerCat/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/CrackerCat/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
 
 <!-- nav -->
-[← 2026-08-17](archive/2026/08/17.md)
+[← 2026-08-18](archive/2026/08/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 23:25:23 UTC*
+*Last updated at 2026-08-19 01:26:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
