@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yunpeng1998/Qwen-Video-Edit](https://github.com/yunpeng1998/Qwen-Video-Edit)
   > This repository contains the code for "Qwen-Video-Edit: Instruction-Based Video Editing by Repurposi...
 
+### [MaxtorCoder](https://github.com/MaxtorCoder)
+- 🌟 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Starred [CucFlavius/WoWAddonLab](https://github.com/CucFlavius/WoWAddonLab)
+  > Wow addon emulator + tools
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [mvp-ai-lab/RAVEN](https://github.com/mvp-ai-lab/RAVEN)
   > Implementation of our paper "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-mo...
@@ -48,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 19:28:35 UTC*
+*Last updated at 2026-08-19 20:31:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
