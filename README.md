@@ -25,6 +25,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Qwen3.8 27B on SGLang for DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
   > OBLITERATE THE CHAINS THAT BIND YOU
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
+  > Message passing based allocator
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai)
@@ -36,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 10:34:16 UTC*
+*Last updated at 2026-08-20 11:29:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
