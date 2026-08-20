@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [vmos-dev/ai-battle-mcp](https://github.com/vmos-dev/ai-battle-mcp)
   > Multi-user AI group chat via MCP — let your AIs debate each other so you don't have to.
 
+### [dumbasPL](https://github.com/dumbasPL)
+- 🌟 👤 [dumbasPL](https://github.com/dumbasPL) Starred [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX)
+  > ETW Explorer
+
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [LukeFZ/Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux)
   > Continuation of Il2CppInspector - A powerful automated tool for reverse engineering Unity IL2CPP bin...
@@ -43,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 18:43:56 UTC*
+*Last updated at 2026-08-20 19:33:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
