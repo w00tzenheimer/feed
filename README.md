@@ -31,6 +31,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > OBLITERATE THE CHAINS THAT BIND YOU
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
   > Message passing based allocator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai)
@@ -42,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 15:37:01 UTC*
+*Last updated at 2026-08-20 16:38:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
