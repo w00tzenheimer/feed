@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) to [CrackerCat/Supervisor-Skills](https://github.com/CrackerCat/Supervisor-Skills)
+  > 将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [vmos-dev/ai-battle-mcp](https://github.com/vmos-dev/ai-battle-mcp)
   > Multi-user AI group chat via MCP — let your AIs debate each other so you don't have to.
@@ -38,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 11:29:39 UTC*
+*Last updated at 2026-08-20 12:55:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
