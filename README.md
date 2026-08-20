@@ -14,13 +14,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
   > OBLITERATE THE CHAINS THAT BIND YOU
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai)
+  > An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and al...
+
 
 <!-- nav -->
 [← 2026-08-19](archive/2026/08/19.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 03:53:26 UTC*
+*Last updated at 2026-08-20 04:40:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
