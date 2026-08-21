@@ -16,6 +16,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [werasik2aa/SPD-VBMETA-TOOL](https://github.com/werasik2aa/SPD-VBMETA-TOOL) to [CrackerCat/SPD-VBMETA-TOOL](https://github.com/CrackerCat/SPD-VBMETA-TOOL)
   > Spreadtrum vbmeta creation tool for windows! GUI based.
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [FireRedTeam/FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3)
+  > FireRedTTS3: Multilingual and Multi-Dialect Voice Cloning with Instruction-Guided Voice Design and S...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [FireRedTeam/FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3) to [IuvenisSapiens/FireRedTTS3](https://github.com/IuvenisSapiens/FireRedTTS3)
+  > FireRedTTS3: Multilingual and Multi-Dialect Voice Cloning with Instruction-Guided Voice Design and S...
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [makerspet/oomwoo](https://github.com/makerspet/oomwoo)
   > Open-source vacuum robot cleaner
@@ -48,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 14:38:20 UTC*
+*Last updated at 2026-08-21 15:36:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
