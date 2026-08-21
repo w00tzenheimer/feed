@@ -21,6 +21,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > FireRedTTS3: Multilingual and Multi-Dialect Voice Cloning with Instruction-Guided Voice Design and S...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [FireRedTeam/FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3) to [IuvenisSapiens/FireRedTTS3](https://github.com/IuvenisSapiens/FireRedTTS3)
   > FireRedTTS3: Multilingual and Multi-Dialect Voice Cloning with Instruction-Guided Voice Design and S...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Saganaki22/FireRedTTS3-ComfyUI](https://github.com/Saganaki22/FireRedTTS3-ComfyUI)
+  > FireRedTTS3 for ComfyUI: multilingual zero-shot voice cloning, voice design, speech editing, Whisper...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Saganaki22/FireRedTTS3-ComfyUI](https://github.com/Saganaki22/FireRedTTS3-ComfyUI) to [IuvenisSapiens/FireRedTTS3-ComfyUI](https://github.com/IuvenisSapiens/FireRedTTS3-ComfyUI)
+  > FireRedTTS3 for ComfyUI: multilingual zero-shot voice cloning, voice design, speech editing, Whisper...
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [makerspet/oomwoo](https://github.com/makerspet/oomwoo)
@@ -54,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 15:36:40 UTC*
+*Last updated at 2026-08-21 16:38:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
