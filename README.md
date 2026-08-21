@@ -26,6 +26,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Saganaki22/FireRedTTS3-ComfyUI](https://github.com/Saganaki22/FireRedTTS3-ComfyUI) to [IuvenisSapiens/FireRedTTS3-ComfyUI](https://github.com/IuvenisSapiens/FireRedTTS3-ComfyUI)
   > FireRedTTS3 for ComfyUI: multilingual zero-shot voice cloning, voice design, speech editing, Whisper...
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [FireRedTeam/FireRedAudio](https://github.com/FireRedTeam/FireRedAudio)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [FireRedTeam/FireRedAudio](https://github.com/FireRedTeam/FireRedAudio) to [IuvenisSapiens/FireRedAudio](https://github.com/IuvenisSapiens/FireRedAudio)
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [makerspet/oomwoo](https://github.com/makerspet/oomwoo)
@@ -40,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [r4m0n/ZenStates-Linux](https://github.com/r4m0n/ZenStates-Linux)
+  > Dynamically edit AMD Ryzen processor P-States
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [do-md/domd](https://github.com/do-md/domd)
@@ -59,7 +64,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 17:32:01 UTC*
+*Last updated at 2026-08-21 18:40:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
