@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Doby-Xu/WithEveryone](https://github.com/Doby-Xu/WithEveryone)
 
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [asciinema/agg](https://github.com/asciinema/agg)
+  > asciinema gif generator
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
@@ -36,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 11:29:31 UTC*
+*Last updated at 2026-08-21 12:54:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
