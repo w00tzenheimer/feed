@@ -50,13 +50,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [do-md/domd](https://github.com/do-md/domd)
   > 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, ma...
 
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [umanovskis/baremetal-arm](https://github.com/umanovskis/baremetal-arm)
-  > An ebook about bare-metal programming for ARM
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code)
   > VS Code in the terminal
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+  > A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 
 <!-- nav -->
@@ -64,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 18:40:48 UTC*
+*Last updated at 2026-08-21 19:27:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
