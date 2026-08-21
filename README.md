@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [werasik2aa/SPD-VBMETA-TOOL](https://github.com/werasik2aa/SPD-VBMETA-TOOL) to [CrackerCat/SPD-VBMETA-TOOL](https://github.com/CrackerCat/SPD-VBMETA-TOOL)
   > Spreadtrum vbmeta creation tool for windows! GUI based.
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [do-md/domd](https://github.com/do-md/domd)
+  > 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, ma...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code)
   > VS Code in the terminal
@@ -26,7 +30,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 05:35:52 UTC*
+*Last updated at 2026-08-21 06:53:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
