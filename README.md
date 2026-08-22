@@ -31,6 +31,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [denialwm/denial](https://github.com/denialwm/denial) to [CrackerCat/denial](https://github.com/CrackerCat/denial)
   > Denial is a Flutter-native Wayland compositor that puts Flutter at the foundation of the desktop, un...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [FireRedTeam/FireRedAudio](https://github.com/FireRedTeam/FireRedAudio)
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [beebls/youtube-music-history-scrobbler](https://github.com/beebls/youtube-music-history-scrobbler)
   > 🎵⬇️ Automatically format your YouTube Music history so you can upload it to Last.fm
@@ -45,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 13:33:52 UTC*
+*Last updated at 2026-08-22 14:25:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
