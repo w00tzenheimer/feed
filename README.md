@@ -31,13 +31,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [denialwm/denial](https://github.com/denialwm/denial) to [CrackerCat/denial](https://github.com/CrackerCat/denial)
   > Denial is a Flutter-native Wayland compositor that puts Flutter at the foundation of the desktop, un...
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [beebls/youtube-music-history-scrobbler](https://github.com/beebls/youtube-music-history-scrobbler)
+  > 🎵⬇️ Automatically format your YouTube Music history so you can upload it to Last.fm
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
+  > A user-friendly GUI to manage systemd units
+
 
 <!-- nav -->
 [← 2026-08-21](archive/2026/08/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 09:30:02 UTC*
+*Last updated at 2026-08-22 10:27:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
