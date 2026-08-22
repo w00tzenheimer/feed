@@ -8,17 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [geohot](https://github.com/geohot)
-- 🌟 👤 [geohot](https://github.com/geohot) Starred [modular/modular](https://github.com/modular/modular)
-  > The Modular Platform (includes MAX & Mojo)
-
+The users you follow have no public activity today that matches the filter criteria.
 
 <!-- nav -->
 [← 2026-08-21](archive/2026/08/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 04:36:07 UTC*
+*Last updated at 2026-08-22 05:30:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
