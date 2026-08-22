@@ -30,6 +30,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 三角洲行动OBS锁头插件(电脑端) – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。5L2G5YW25a6e5Lul5LiK5YW...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [denialwm/denial](https://github.com/denialwm/denial) to [CrackerCat/denial](https://github.com/CrackerCat/denial)
   > Denial is a Flutter-native Wayland compositor that puts Flutter at the foundation of the desktop, un...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wesmar/OnionDownloader](https://github.com/wesmar/OnionDownloader) to [CrackerCat/OnionDownloader](https://github.com/CrackerCat/OnionDownloader)
+  > Onion Downloader - Multi-circuit Tor download manager for .onion files. Single portable, full-featur...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [FireRedTeam/FireRedAudio](https://github.com/FireRedTeam/FireRedAudio)
@@ -37,6 +39,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [beebls/youtube-music-history-scrobbler](https://github.com/beebls/youtube-music-history-scrobbler)
   > 🎵⬇️ Automatically format your YouTube Music history so you can upload it to Last.fm
+
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [ShareLab-SII/VA-Judger](https://github.com/ShareLab-SII/VA-Judger)
+  > VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation. To our k...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
@@ -48,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 16:28:09 UTC*
+*Last updated at 2026-08-22 17:23:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
