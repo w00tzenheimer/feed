@@ -47,6 +47,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
   > A user-friendly GUI to manage systemd units
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang)
+  > A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving sys...
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
 
 
 <!-- nav -->
@@ -54,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 17:23:43 UTC*
+*Last updated at 2026-08-22 18:35:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
