@@ -10,7 +10,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer)
-  > Lightweight Rust LSP that trades incompleteness for performance and low memory usage
+  > Lightweight Rust LSP optimized for low memory usage
 
 ### [michal-kapala](https://github.com/michal-kapala)
 - 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [pituluk/ubi-gs-cpp](https://github.com/pituluk/ubi-gs-cpp)
@@ -30,7 +30,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 10:27:37 UTC*
+*Last updated at 2026-08-23 11:23:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
