@@ -28,6 +28,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [tkmru](https://github.com/tkmru)
 - 🌟 👤 [tkmru](https://github.com/tkmru) Starred [ishiki-emo/mojicast](https://github.com/ishiki-emo/mojicast)
+- 🌟 👤 [tkmru](https://github.com/tkmru) Starred [ghidra-user-jp/mecha_ghidra](https://github.com/ghidra-user-jp/mecha_ghidra)
+  > GhidraMCP for headless
 
 
 <!-- nav -->
@@ -35,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 15:25:55 UTC*
+*Last updated at 2026-08-23 16:29:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
