@@ -11,10 +11,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer)
   > Lightweight Rust LSP optimized for low memory usage
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [WuBingzheng/primitive_fixed_point_decimal](https://github.com/WuBingzheng/primitive_fixed_point_decimal)
+  > Primitive fixed-point decimal types in Rust.
 
 ### [michal-kapala](https://github.com/michal-kapala)
 - 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [pituluk/ubi-gs-cpp](https://github.com/pituluk/ubi-gs-cpp)
   > Ubisoft Game Service in C++
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [cea-sec/miasm](https://github.com/cea-sec/miasm)
+  > Reverse engineering framework in Python
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
@@ -37,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 19:24:25 UTC*
+*Last updated at 2026-08-23 20:27:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
