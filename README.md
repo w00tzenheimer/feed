@@ -24,13 +24,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [the-open-agent/openagent](https://github.com/the-open-agent/openagent)
   > ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use...
 
+### [tkmru](https://github.com/tkmru)
+- 🌟 👤 [tkmru](https://github.com/tkmru) Starred [ishiki-emo/mojicast](https://github.com/ishiki-emo/mojicast)
+
 
 <!-- nav -->
 [← 2026-08-22](archive/2026/08/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 13:34:18 UTC*
+*Last updated at 2026-08-23 14:26:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
