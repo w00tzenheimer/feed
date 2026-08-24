@@ -14,6 +14,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [und3ath/xollvm](https://github.com/und3ath/xollvm) to [CrackerCat/xollvm](https://github.com/CrackerCat/xollvm)
   > Modern LLVM Obfuscator
 
+### [ZEROWyt](https://github.com/ZEROWyt)
+- 🌟 👤 [ZEROWyt](https://github.com/ZEROWyt) Starred [CatCaller/Discord-Overlay](https://github.com/CatCaller/Discord-Overlay)
+  > After Discord patching the new overlay hijack, here the fix :D
+
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [vercel-labs/quickjs-wasi](https://github.com/vercel-labs/quickjs-wasi)
+  > Snapshotable JavaScript runtime via WebAssembly. Runs QuickJS-NG compiled to WASM with the ability t...
+
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🍴 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Forked [maxcountryman/headers-accept](https://github.com/maxcountryman/headers-accept) to [goto-bus-stop/headers-accept](https://github.com/goto-bus-stop/headers-accept)
+  > 🤝 The missing `Accept` implementation for `headers::Header`.
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [mikehaertel/minrx](https://github.com/mikehaertel/minrx)
   > Minimal matcher for POSIX Extended Regular Expressions
@@ -42,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 17:33:26 UTC*
+*Last updated at 2026-08-24 18:45:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
