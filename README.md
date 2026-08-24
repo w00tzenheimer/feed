@@ -24,8 +24,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
   > A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR an...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC)
+  > Modern VNC Server and client, web based and secure
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [selkies-project/selkies](https://github.com/selkies-project/selkies)
+  > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
+  > DeepSeek v4 Flash EXL3 on one DGX Spark
+
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)
   > Free and open-source macOS menu bar toolkit.
 
 
@@ -34,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 14:46:40 UTC*
+*Last updated at 2026-08-24 15:42:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
