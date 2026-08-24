@@ -49,6 +49,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)
   > Free and open-source macOS menu bar toolkit.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [angristan/ncda](https://github.com/angristan/ncda)
+  > ncdu but for file access, with eBPF
 
 
 <!-- nav -->
@@ -56,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 20:33:50 UTC*
+*Last updated at 2026-08-24 21:32:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
