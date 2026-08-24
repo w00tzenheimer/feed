@@ -11,6 +11,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird) to [CrackerCat/NoWarbird](https://github.com/CrackerCat/NoWarbird)
   > NoWarbird - Warbird devirtualization project
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [und3ath/xollvm](https://github.com/und3ath/xollvm) to [CrackerCat/xollvm](https://github.com/CrackerCat/xollvm)
+  > Modern LLVM Obfuscator
 
 
 <!-- nav -->
@@ -18,7 +20,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 03:06:28 UTC*
+*Last updated at 2026-08-24 04:49:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
