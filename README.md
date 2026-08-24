@@ -43,6 +43,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
   > DeepSeek v4 Flash EXL3 on one DGX Spark
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [poncippg-spec/Free-Solace-ImGui-Interface](https://github.com/poncippg-spec/Free-Solace-ImGui-Interface)
+  > Free offline Windows interface built with C++20, Dear ImGui, Win32, and DirectX 11.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)
@@ -54,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 19:32:14 UTC*
+*Last updated at 2026-08-24 20:33:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
