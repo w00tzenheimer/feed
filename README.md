@@ -17,6 +17,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [mikehaertel/minrx](https://github.com/mikehaertel/minrx)
   > Minimal matcher for POSIX Extended Regular Expressions
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [jedisct1/llvm-project](https://github.com/jedisct1/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
@@ -28,7 +30,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 09:51:44 UTC*
+*Last updated at 2026-08-24 10:39:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
