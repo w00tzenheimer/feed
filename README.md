@@ -13,6 +13,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Baidaidai-GFWD/Android_Flashing_Knowledge](https://github.com/Baidaidai-GFWD/Android_Flashing_Knowledge) to [CrackerCat/Android_Flashing_Knowledge](https://github.com/CrackerCat/Android_Flashing_Knowledge)
   > To Tell You How to Flashing Android, and The Know About What You Should Need
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/flutter-win64-re](https://github.com/lwtw123456/flutter-win64-re) to [CrackerCat/flutter-win64-re](https://github.com/CrackerCat/flutter-win64-re)
+  > 面向 Windows x64 Flutter/Dart AOT 应用的逆向工程研究，聚焦运行时分析、内存定位与补丁验证，并探索通用的 Dart AOT 分析方法与工具。目前包含 Reqable 和 R...
 
 
 <!-- nav -->
@@ -20,7 +22,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 03:01:44 UTC*
+*Last updated at 2026-08-25 04:41:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
