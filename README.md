@@ -30,13 +30,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
   > My AI learning system.
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [laude-institute/headlong](https://github.com/laude-institute/headlong)
+  > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
+
 
 <!-- nav -->
 [← 2026-08-24](archive/2026/08/24.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 15:46:31 UTC*
+*Last updated at 2026-08-25 16:40:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
