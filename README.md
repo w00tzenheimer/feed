@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Static single-page git repository browser
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
   > My AI learning system.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [laude-institute/headlong](https://github.com/laude-institute/headlong)
+  > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [laude-institute/headlong](https://github.com/laude-institute/headlong)
@@ -40,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 16:40:42 UTC*
+*Last updated at 2026-08-25 17:34:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
