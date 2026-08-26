@@ -20,6 +20,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [JamilHsu/ProjectDivaController](https://github.com/JamilHsu/ProjectDivaController)
   > Use iPad/tablet as a controller to play Hatsune Miku: Project Diva
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [xboot/xboot](https://github.com/xboot/xboot)
+  > The extensible bootloader for embedded system with application engine, write once, run everywhere.
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Vector35/debugger](https://github.com/Vector35/debugger)
+  > Binary Ninja debugger
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [msoos/cryptominisat](https://github.com/msoos/cryptominisat)
+  > An advanced SAT solver
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [stanford-centaur/pono](https://github.com/stanford-centaur/pono)
+  > Pono: A flexible and extensible SMT-based model checker
+
 ### [ostrowr](https://github.com/ostrowr)
 - 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [resyncgg/dacquiri](https://github.com/resyncgg/dacquiri)
   > A strong, compile-time enforced authorization framework for rust applications.
@@ -34,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 11:33:13 UTC*
+*Last updated at 2026-08-26 12:59:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
