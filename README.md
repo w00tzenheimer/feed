@@ -29,6 +29,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An advanced SAT solver
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [stanford-centaur/pono](https://github.com/stanford-centaur/pono)
   > Pono: A flexible and extensible SMT-based model checker
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker)
+  > cwe_checker finds vulnerable patterns in binary executables
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark) to [mrexodia/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/mrexodia/Qwen3.8-27B-SGLang-DGX-Spark)
+  > Qwen3.8 27B on SGLang for DGX Spark
 
 ### [ostrowr](https://github.com/ostrowr)
 - 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [resyncgg/dacquiri](https://github.com/resyncgg/dacquiri)
@@ -44,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 12:59:14 UTC*
+*Last updated at 2026-08-26 13:59:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
