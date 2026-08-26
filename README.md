@@ -12,10 +12,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JingMatrix/pixel-ksu-root](https://github.com/JingMatrix/pixel-ksu-root) to [CrackerCat/pixel-ksu-root](https://github.com/CrackerCat/pixel-ksu-root)
   > adb-driven KernelSU loader for stock Google Pixel: temporary kernel R/W via CVE-2026-43499 (GhostLoc...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LMCache/LMCache](https://github.com/LMCache/LMCache)
-  > LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
-
 ### [ostrowr](https://github.com/ostrowr)
 - 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [resyncgg/dacquiri](https://github.com/resyncgg/dacquiri)
   > A strong, compile-time enforced authorization framework for rust applications.
@@ -26,7 +22,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 01:36:22 UTC*
+*Last updated at 2026-08-26 03:08:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
