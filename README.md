@@ -20,6 +20,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [JamilHsu/ProjectDivaController](https://github.com/JamilHsu/ProjectDivaController)
   > Use iPad/tablet as a controller to play Hatsune Miku: Project Diva
 
+### [johnyob](https://github.com/johnyob)
+- 🌟 👤 [johnyob](https://github.com/johnyob) Starred [RyanGibb/package-managers-a-la-carte-presentation](https://github.com/RyanGibb/package-managers-a-la-carte-presentation)
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [xboot/xboot](https://github.com/xboot/xboot)
   > The extensible bootloader for embedded system with application engine, write once, run everywhere.
@@ -35,6 +38,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark) to [mrexodia/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/mrexodia/Qwen3.8-27B-SGLang-DGX-Spark)
   > Qwen3.8 27B on SGLang for DGX Spark
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/Qwen3.8-Flash-Next-Dual-DGX-Sparks](https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Dual-DGX-Sparks) to [mrexodia/Qwen3.8-Flash-Next-Dual-DGX-Sparks](https://github.com/mrexodia/Qwen3.8-Flash-Next-Dual-DGX-Sparks)
+  > Qwen3.8-Flash-Next-NVFP4 · 2× DGX Spark · SGLang TP2
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xBakeer/qwen38-flash-next-spark](https://github.com/0xBakeer/qwen38-flash-next-spark)
+  > Run Qwen3.8-Flash-Next (180B) on a single DGX Spark by keeping its 51B n-gram embedding table on NVM...
 
 ### [ostrowr](https://github.com/ostrowr)
 - 🌟 👤 [ostrowr](https://github.com/ostrowr) Starred [resyncgg/dacquiri](https://github.com/resyncgg/dacquiri)
@@ -50,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 19:05:55 UTC*
+*Last updated at 2026-08-26 22:55:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
