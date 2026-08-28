@@ -16,6 +16,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 简单的 QT6 程序逆向，学习型。实现 UPDF 所有本地功能解锁，无水印，无限次数，无需登录，离线可用。
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/SWF-Decompiler-Hack](https://github.com/lwtw123456/SWF-Decompiler-Hack) to [CrackerCat/SWF-Decompiler-Hack](https://github.com/CrackerCat/SWF-Decompiler-Hack)
   > 学习型逆向项目，实现了硕思闪客精灵的无限期试用。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jprx/darwin-vm](https://github.com/jprx/darwin-vm) to [CrackerCat/darwin-vm](https://github.com/CrackerCat/darwin-vm)
+  > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [lucasg/idarop](https://github.com/lucasg/idarop)
+  > ROP database plugin for IDA
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [lucasg/Dependencies](https://github.com/lucasg/Dependencies)
+  > A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load d...
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [thesecretclub/SandboxBootkit](https://github.com/thesecretclub/SandboxBootkit)
+  > Bootkit for Windows Sandbox to disable DSE/PatchGuard.
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [ajkhoury/Windbg2Struct](https://github.com/ajkhoury/Windbg2Struct)
+  > Takes a Windbg dumped structure (using the 'dt' command) and formats it into a C structure
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [zodiacon/WindowsInternals](https://github.com/zodiacon/WindowsInternals)
+  > Windows Internals Book 7th edition Tools
+
+### [Razzue](https://github.com/Razzue)
+- 🌟 👤 [Razzue](https://github.com/Razzue) Starred [Applet-LLC/OpenInputBridge](https://github.com/Applet-LLC/OpenInputBridge)
+  > Clean-room, original-protocol-compatible reimplementation of the Interception keyboard/mouse kernel ...
 
 
 <!-- nav -->
@@ -23,7 +41,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-28 01:22:26 UTC*
+*Last updated at 2026-08-28 14:09:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
