@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VibRev/bn-headless-mcp](https://github.com/VibRev/bn-headless-mcp) to [CrackerCat/bn-headless-mcp](https://github.com/CrackerCat/bn-headless-mcp)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VibRev/vibrev](https://github.com/VibRev/vibrev) to [CrackerCat/vibrev](https://github.com/CrackerCat/vibrev)
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [BRuteLogic/unKover](https://github.com/BRuteLogic/unKover)
+  > 403 Access Bypass Tester
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/pi-memento](https://github.com/thebabush/pi-memento)
   > Agents that edit their own memory: nested context transactions for the pi coding agent. Commit, comp...
@@ -34,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-29 13:04:21 UTC*
+*Last updated at 2026-08-29 17:35:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
