@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VibRev/bn-headless-mcp](https://github.com/VibRev/bn-headless-mcp) to [CrackerCat/bn-headless-mcp](https://github.com/CrackerCat/bn-headless-mcp)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VibRev/vibrev](https://github.com/VibRev/vibrev) to [CrackerCat/vibrev](https://github.com/CrackerCat/vibrev)
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [iSlammedMyKindle/godotGem](https://github.com/iSlammedMyKindle/godotGem)
+  > Use the controllers from one computer and use them on another
+
 ### [emollick](https://github.com/emollick)
 - 🍴 👤 [emollick](https://github.com/emollick) Forked [Token-Gremlin/natural-disasters](https://github.com/Token-Gremlin/natural-disasters) to [emollick/abyssal-living-deep](https://github.com/emollick/abyssal-living-deep)
   > Fully procedural cinematic ocean and extreme weather simulation in the browser. Multi-cascade FFT wa...
@@ -46,12 +50,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp)
   > Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 to...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/pi-memento](https://github.com/thebabush/pi-memento)
-  > Agents that edit their own memory: nested context transactions for the pi coding agent. Commit, comp...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binius-zk/binius64](https://github.com/binius-zk/binius64)
-  > Binary Proofs, Blazing Fast
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
@@ -62,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-29 20:42:00 UTC*
+*Last updated at 2026-08-29 23:07:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
