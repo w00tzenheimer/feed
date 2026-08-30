@@ -11,6 +11,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [daffainfo/vol-rs](https://github.com/daffainfo/vol-rs)
   > Volatility 3 ported to Rust. Same output, much faster.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [attacksurge/ax](https://github.com/attacksurge/ax)
+  > The Distributed Scanning Framework for Everybody! Control Your Infrastructure, Scale Your Scanning-O...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [uphiago/recon-skills](https://github.com/uphiago/recon-skills)
+  > Recon & pentest skill pack. CORS, XSS, SQLi, SSRF, RCE, WordPress, MCP, cloud, subdomain takeover, a...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+  > SecLists is the security tester's companion. It's a collection of multiple types of lists used durin...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [epi052/feroxbuster](https://github.com/epi052/feroxbuster)
+  > A fast, simple, recursive content discovery tool written in Rust.
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [kmaida/deslop-skills](https://github.com/kmaida/deslop-skills)
@@ -28,14 +36,26 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > NVME driver for Windows 2000
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [techomancer/iris](https://github.com/techomancer/iris)
   > SGI Indy Emulator
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Rtone/cmux](https://github.com/Rtone/cmux)
+  > Enables GSM 0710 multiplex using n_gsm line dicipline
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drakoarmy/datadome-rs](https://github.com/drakoarmy/datadome-rs)
+  > High-end Rust DataDome deobfuscator & solver with VM disassembly — all 3 challenge types (tags, inte...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/bg-be-gone](https://github.com/cristeigabriela/bg-be-gone)
+  > Claude's attempt at making me a local, GPU-backed background remover using BiRefNet. Pretty good!
+
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [mandiant/flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng)
   > FakeNet-NG - Next Generation Dynamic Network Analysis Tool
+
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [phil-opp/blog_os](https://github.com/phil-opp/blog_os)
+  > Writing an OS in Rust
 
 
 <!-- nav -->
@@ -43,7 +63,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-30 19:10:58 UTC*
+*Last updated at 2026-08-30 22:32:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
