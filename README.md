@@ -1,66 +1,28 @@
-# Daily GitHub Activity (2026-08-29)
+# Daily GitHub Activity (2026-08-30)
 
 <!-- nav -->
-[← 2026-08-28](archive/2026/08/28.md)
+[← 2026-08-29](archive/2026/08/29.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Mas0nShi/tauri-dumper](https://github.com/Mas0nShi/tauri-dumper) to [CrackerCat/tauri-dumper](https://github.com/CrackerCat/tauri-dumper)
-  > 🦀 A tool for dump Tauri assets
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/iShellPro-Hack](https://github.com/lwtw123456/iShellPro-Hack) to [CrackerCat/iShellPro-Hack](https://github.com/CrackerCat/iShellPro-Hack)
-  > 面向 Tauri 2 / WebView2 应用的逆向工程研究，运行时patch，实现了 iShellPro 所有本地功能解锁，无需登录，离线可用。
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/HardBreacher](https://github.com/MSNightmare/HardBreacher) to [CrackerCat/HardBreacher](https://github.com/CrackerCat/HardBreacher)
-  > Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Icex0/firebase-pentest-skill](https://github.com/Icex0/firebase-pentest-skill) to [CrackerCat/firebase-pentest-skill](https://github.com/CrackerCat/firebase-pentest-skill)
-  > Firebase pentest checklist as an agent skill, with automatic OpenFirebase setup
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VibRev/ida-headless-mcp](https://github.com/VibRev/ida-headless-mcp) to [CrackerCat/ida-headless-mcp-](https://github.com/CrackerCat/ida-headless-mcp-)
-  > Rust-native, multi-session headless IDA Pro MCP server with isolated workers and stdio or Streamable...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VibRev/bn-headless-mcp](https://github.com/VibRev/bn-headless-mcp) to [CrackerCat/bn-headless-mcp](https://github.com/CrackerCat/bn-headless-mcp)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VibRev/vibrev](https://github.com/VibRev/vibrev) to [CrackerCat/vibrev](https://github.com/CrackerCat/vibrev)
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [kmaida/deslop-skills](https://github.com/kmaida/deslop-skills)
+  > Skills for AI agents to remove or prevent slop in generated frontend UI design and written content.
 
-### [EloiStree](https://github.com/EloiStree)
-- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [iSlammedMyKindle/godotGem](https://github.com/iSlammedMyKindle/godotGem)
-  > Use the controllers from one computer and use them on another
-
-### [emollick](https://github.com/emollick)
-- 🍴 👤 [emollick](https://github.com/emollick) Forked [Token-Gremlin/natural-disasters](https://github.com/Token-Gremlin/natural-disasters) to [emollick/abyssal-living-deep](https://github.com/emollick/abyssal-living-deep)
-  > Fully procedural cinematic ocean and extreme weather simulation in the browser. Multi-cascade FFT wa...
-
-### [eybisi](https://github.com/eybisi)
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [BRuteLogic/unKover](https://github.com/BRuteLogic/unKover)
-  > 403 Access Bypass Tester
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zchee/imectl](https://github.com/zchee/imectl)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zchee/fastexec](https://github.com/zchee/fastexec)
-  > Package fastexec is a high-throughput, low-latency alternative to os/exec for spawning external proc...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zchee/ane-python](https://github.com/zchee/ane-python)
-  > Python bindings for Apple Neural Engine (ANE) via AppleNeuralEngine.framework APIs using Cython
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zchee/tree-sitter-metal](https://github.com/zchee/tree-sitter-metal)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrphrazer/ghidra-headless-mcp](https://github.com/mrphrazer/ghidra-headless-mcp)
-  > Headless Ghidra MCP server — giving AI agents deep reverse-engineering capabilities.
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrphrazer/binary-cartography](https://github.com/mrphrazer/binary-cartography)
-  > Technical webinars on reverse engineering, malware analysis, and software protection.
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrphrazer/obfuscation_detection_ghidra](https://github.com/mrphrazer/obfuscation_detection_ghidra)
-  > Ghidra plugin to identify obfuscated code and other interesting code constructs
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp)
-  > Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 to...
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
-  > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DJLougen/Qwen3.8-Flash-Next-One-DGX-Spark](https://github.com/DJLougen/Qwen3.8-Flash-Next-One-DGX-Spark)
+  > Serving Qwen3.8-Flash-Next on a single NVIDIA DGX Spark
 
 
 <!-- nav -->
-[← 2026-08-28](archive/2026/08/28.md)
+[← 2026-08-29](archive/2026/08/29.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-29 23:07:22 UTC*
+*Last updated at 2026-08-30 04:37:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
