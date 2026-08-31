@@ -23,6 +23,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Animated HTML presentations from a single Typst file, and a slide deck and handout as PDF from the s...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Loewe1000/typstage](https://github.com/Loewe1000/typstage) to [IuvenisSapiens/typstage](https://github.com/IuvenisSapiens/typstage)
   > Animated HTML presentations from a single Typst file, and a slide deck and handout as PDF from the s...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Loewe1000/Typst-Schule](https://github.com/Loewe1000/Typst-Schule)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Loewe1000/Typst-Schule](https://github.com/Loewe1000/Typst-Schule) to [IuvenisSapiens/Typst-Schule](https://github.com/IuvenisSapiens/Typst-Schule)
 
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [InternetBot/Silly-67](https://github.com/InternetBot/Silly-67)
@@ -58,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-31 16:53:38 UTC*
+*Last updated at 2026-08-31 21:48:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
