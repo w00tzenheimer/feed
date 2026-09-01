@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
+  > A framework for building compiled Node.js add-ons in Rust via Node-API
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [superturtlee/a2tp](https://github.com/superturtlee/a2tp) to [CrackerCat/a2tp](https://github.com/CrackerCat/a2tp)
 
@@ -28,9 +32,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [CalebFenton/simplify](https://github.com/CalebFenton/simplify)
   > Android virtual machine and deobfuscator
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sam-paech/auto-antislop](https://github.com/sam-paech/auto-antislop)
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [lukeed/lane](https://github.com/lukeed/lane)
   > Copy-on-write worktrees with memory that survives them
@@ -44,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-01 20:48:07 UTC*
+*Last updated at 2026-09-01 23:09:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
