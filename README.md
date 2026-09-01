@@ -31,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sam-paech/auto-antislop](https://github.com/sam-paech/auto-antislop)
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [lukeed/lane](https://github.com/lukeed/lane)
+  > Copy-on-write worktrees with memory that survives them
+
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [zhaosiying12138/CuTeDSL-Fully-OpenSourced](https://github.com/zhaosiying12138/CuTeDSL-Fully-OpenSourced) to [woct0rdho/CuTe-NTR](https://github.com/woct0rdho/CuTe-NTR)
 
@@ -40,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-01 17:42:46 UTC*
+*Last updated at 2026-09-01 20:48:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
