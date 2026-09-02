@@ -31,12 +31,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Local-first search across your workspace, built for humans and AI agents.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
   > GLM-5.3 Flash EXL3 for 2x DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/atlas](https://github.com/alesha-pro/atlas)
+  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ljtn/epiq](https://github.com/ljtn/epiq)
   > Distributed, code-native issue tracker - audit workflows via time-travel
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
   > Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
+  > Local-first search across your workspace, built for humans and AI agents.
 
 
 <!-- nav -->
@@ -44,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-02 17:44:56 UTC*
+*Last updated at 2026-09-02 20:47:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
