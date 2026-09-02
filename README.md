@@ -22,6 +22,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 一款适用于安卓设备的WLAN渗透测试工具（汉化版）
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [huami1314/DarkSpeed](https://github.com/huami1314/DarkSpeed) to [CrackerCat/DarkSpeed](https://github.com/CrackerCat/DarkSpeed)
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll)
+  > :electron: O-MVLL is a code obfuscation tool based on LLVM for native code (Android and iOS).
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
+  > Local-first search across your workspace, built for humans and AI agents.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
+  > GLM-5.3 Flash EXL3 for 2x DGX Sparks
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ljtn/epiq](https://github.com/ljtn/epiq)
   > Distributed, code-native issue tracker - audit workflows via time-travel
@@ -34,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-02 13:25:31 UTC*
+*Last updated at 2026-09-02 17:44:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
