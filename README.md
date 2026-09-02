@@ -20,6 +20,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A minimal AI coding agent runtime. Pure bash + awk, zero runtime dependencies.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oftenshui/stryker-backzh](https://github.com/oftenshui/stryker-backzh) to [CrackerCat/stryker-backzh](https://github.com/CrackerCat/stryker-backzh)
   > 一款适用于安卓设备的WLAN渗透测试工具（汉化版）
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [huami1314/DarkSpeed](https://github.com/huami1314/DarkSpeed) to [CrackerCat/DarkSpeed](https://github.com/CrackerCat/DarkSpeed)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jayminwest/warren](https://github.com/jayminwest/warren)
@@ -28,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ljtn/epiq](https://github.com/ljtn/epiq)
   > Distributed, code-native issue tracker - audit workflows via time-travel
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
+  > Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming ...
 
 
 <!-- nav -->
@@ -35,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-02 03:45:01 UTC*
+*Last updated at 2026-09-02 08:36:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
