@@ -22,10 +22,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 一款适用于安卓设备的WLAN渗透测试工具（汉化版）
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [huami1314/DarkSpeed](https://github.com/huami1314/DarkSpeed) to [CrackerCat/DarkSpeed](https://github.com/CrackerCat/DarkSpeed)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jayminwest/warren](https://github.com/jayminwest/warren)
-  > Run coding agents like infrastructure, not terminal sessions. Warren manages isolation, lifecycle, s...
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ljtn/epiq](https://github.com/ljtn/epiq)
   > Distributed, code-native issue tracker - audit workflows via time-travel
@@ -38,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-02 08:36:32 UTC*
+*Last updated at 2026-09-02 13:25:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
