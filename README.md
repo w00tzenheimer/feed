@@ -1,46 +1,28 @@
-# Daily GitHub Activity (2026-09-02)
+# Daily GitHub Activity (2026-09-03)
 
 <!-- nav -->
-[← 2026-09-01](archive/2026/09/01.md)
+[← 2026-09-02](archive/2026/09/02.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Evelynkaz/x64dbg-mcp](https://github.com/Evelynkaz/x64dbg-mcp) to [CrackerCat/x64dbg-mcp-](https://github.com/CrackerCat/x64dbg-mcp-)
-  > x64dbg-mcp write by AI (haha)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xMarcio/pocindex](https://github.com/0xMarcio/pocindex) to [CrackerCat/cve-0xMarcio](https://github.com/CrackerCat/cve-0xMarcio)
-  > Search 82,000+ public CVE proof-of-concept exploits from GitHub, Nuclei, ExploitDB, Metasploit and V...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DogNavy/DoGNAVY-Exploitation](https://github.com/DogNavy/DoGNAVY-Exploitation) to [CrackerCat/DoGNAVY-Exploitation](https://github.com/CrackerCat/DoGNAVY-Exploitation)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query) to [CrackerCat/bad_query](https://github.com/CrackerCat/bad_query)
-  > Sandbox escape PoC for iOS 26 and 27.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lloydzhou/bash-agent](https://github.com/lloydzhou/bash-agent) to [CrackerCat/bash-agent](https://github.com/CrackerCat/bash-agent)
-  > A minimal AI coding agent runtime. Pure bash + awk, zero runtime dependencies.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oftenshui/stryker-backzh](https://github.com/oftenshui/stryker-backzh) to [CrackerCat/stryker-backzh](https://github.com/CrackerCat/stryker-backzh)
-  > 一款适用于安卓设备的WLAN渗透测试工具（汉化版）
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [huami1314/DarkSpeed](https://github.com/huami1314/DarkSpeed) to [CrackerCat/DarkSpeed](https://github.com/CrackerCat/DarkSpeed)
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [cloud-hypervisor/fuse-backend-rs](https://github.com/cloud-hypervisor/fuse-backend-rs)
+  > Rust crate for implementing FUSE backends
 
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll)
-  > :electron: O-MVLL is a code obfuscation tool based on LLVM for native code (Android and iOS).
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [ljtn/epiq](https://github.com/ljtn/epiq)
-  > Distributed, code-native issue tracker - audit workflows via time-travel
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
-  > Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming ...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
-  > Local-first search across your workspace, built for humans and AI agents.
+### [stevemk14ebr](https://github.com/stevemk14ebr)
+- 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+  > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 
 
 <!-- nav -->
-[← 2026-09-01](archive/2026/09/01.md)
+[← 2026-09-02](archive/2026/09/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-02 23:08:06 UTC*
+*Last updated at 2026-09-03 03:45:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
