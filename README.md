@@ -42,6 +42,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [githubnext/chopin](https://github.com/githubnext/chopin)
   > Let's compose rich plans together
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade)
+  > The TypeScript framework for building modular agents around an immutable event log.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [humanlayer/skills](https://github.com/humanlayer/skills)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [modem-dev/hunk](https://github.com/modem-dev/hunk)
+  > Review-first terminal diff viewer for agentic coders
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
@@ -53,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-03 17:40:27 UTC*
+*Last updated at 2026-09-03 20:44:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
