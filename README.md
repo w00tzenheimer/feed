@@ -8,9 +8,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)
+  > Crowdstrike Falcon 0day Privilege Escalation Vulnerability
+
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [cloud-hypervisor/fuse-backend-rs](https://github.com/cloud-hypervisor/fuse-backend-rs)
   > Rust crate for implementing FUSE backends
+
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [bbaudio-2025/Comfyui-MMH3-UltimateUpscale](https://github.com/bbaudio-2025/Comfyui-MMH3-UltimateUpscale)
+  > Upscale long, high-resolution MiniMax H3 video on a VRAM-limited GPU in a single node.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [bbaudio-2025/Comfyui-MMH3-UltimateUpscale](https://github.com/bbaudio-2025/Comfyui-MMH3-UltimateUpscale) to [IuvenisSapiens/Comfyui-MMH3-UltimateUpscale](https://github.com/IuvenisSapiens/Comfyui-MMH3-UltimateUpscale)
+  > Upscale long, high-resolution MiniMax H3 video on a VRAM-limited GPU in a single node.
+
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [minimallyexceptional/awesome-omarchy](https://github.com/minimallyexceptional/awesome-omarchy)
+  > A curated list of awesome tools, themes, and tips and tricks for Omarchy
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot)
@@ -18,6 +34,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [OpenVDN/vdn-minimax-h3](https://github.com/OpenVDN/vdn-minimax-h3)
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lcapossio/fpgacapZero](https://github.com/lcapossio/fpgacapZero)
+  > fcapz: Open-source, vendor-agnostic full-featured FPGA debug cores. Embedded Logic analyzer, Embedde...
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [githubnext/chopin](https://github.com/githubnext/chopin)
+  > Let's compose rich plans together
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
@@ -29,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-03 13:24:05 UTC*
+*Last updated at 2026-09-03 17:40:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
