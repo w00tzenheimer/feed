@@ -15,6 +15,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [cloud-hypervisor/fuse-backend-rs](https://github.com/cloud-hypervisor/fuse-backend-rs)
   > Rust crate for implementing FUSE backends
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+  > ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [bbaudio-2025/Comfyui-MMH3-UltimateUpscale](https://github.com/bbaudio-2025/Comfyui-MMH3-UltimateUpscale)
@@ -38,6 +40,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lcapossio/fpgacapZero](https://github.com/lcapossio/fpgacapZero)
   > fcapz: Open-source, vendor-agnostic full-featured FPGA debug cores. Embedded Logic analyzer, Embedde...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wasi-master/13ft](https://github.com/wasi-master/13ft)
+  > My own custom 12ft.io replacement
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [githubnext/chopin](https://github.com/githubnext/chopin)
@@ -58,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-03 20:44:54 UTC*
+*Last updated at 2026-09-03 23:05:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
