@@ -34,6 +34,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [R44VC0RP/browserooms](https://github.com/R44VC0RP/browserooms)
 - 🍴 👤 [dword64](https://github.com/dword64) Forked [ergrelet/themida-unmutate-bn](https://github.com/ergrelet/themida-unmutate-bn) to [dword64/themida-unmutate-bn](https://github.com/dword64/themida-unmutate-bn)
   > A Binary Ninja plugin to deobfuscate Themida, WinLicense and Code Virtualizer 3.x's mutation-based o...
+- 🍴 👤 [dword64](https://github.com/dword64) Forked [ergrelet/themida-unmutate](https://github.com/ergrelet/themida-unmutate) to [dword64/themida-unmutate](https://github.com/dword64/themida-unmutate)
+  > Static deobfuscator for Themida, WinLicense and Code Virtualizer 3.x's mutation-based obfuscation.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sleirsgoevy/ps5-linuxldr](https://github.com/sleirsgoevy/ps5-linuxldr)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sleirsgoevy/vita-uvdb](https://github.com/sleirsgoevy/vita-uvdb)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy)
+  > Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)
+  > Cloud-native OSS search engine for observability
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+  > Open-Source Frontier Voice AI
 
 
 <!-- nav -->
@@ -41,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-04 13:18:36 UTC*
+*Last updated at 2026-09-04 17:28:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
