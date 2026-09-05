@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex)
+  > Make Zotero effective for us LaTeX holdouts
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fulu2778/Gemini-For-HyperOS4](https://github.com/fulu2778/Gemini-For-HyperOS4) to [CrackerCat/Gemini-For-HyperOS4](https://github.com/CrackerCat/Gemini-For-HyperOS4)
   > Gemini For HyperOS4: power-key Gemini Overlay + white-bar Circle to Search (libxposed API102)
@@ -27,7 +31,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-05 10:15:36 UTC*
+*Last updated at 2026-09-05 13:45:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
