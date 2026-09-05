@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > "Vibe-Trading: Your Personal Trading Agent"
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)
   > Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [DeathShotXD/0xM0nCrush](https://github.com/DeathShotXD/0xM0nCrush)
+  > Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, ...
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Togetherbench/SWE-Together](https://github.com/Togetherbench/SWE-Together)
@@ -40,10 +42,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nopjne/drmdmp64_mass](https://github.com/nopjne/drmdmp64_mass)
   > DreamDumper64 - Mass storage
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nopjne/DaisyDrive64](https://github.com/nopjne/DaisyDrive64)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [askeksa/Shrinkler](https://github.com/askeksa/Shrinkler)
+  > Cruncher for Amiga executables
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench)
-  > ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ByteRay-AI/drift-corpus](https://github.com/ByteRay-AI/drift-corpus)
+  > Drift Corpus : repository of Windows Kernel patch diffs.
 
 
 <!-- nav -->
@@ -51,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-05 18:53:43 UTC*
+*Last updated at 2026-09-05 21:00:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
