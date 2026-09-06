@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [FRRouting/frr](https://github.com/FRRouting/frr)
+  > The FRRouting Protocol Suite
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [xberg-io/xberg](https://github.com/xberg-io/xberg)
   > Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structu...
@@ -23,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
   > Emulation framework for Android & iOS native libraries
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/jsdmp](https://github.com/JustasMasiulis/jsdmp)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pavel-fokin/percept](https://github.com/pavel-fokin/percept)
+  > A cognitive architecture for AI agents: typed projections, mental models, and memory
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [colanode/colanode](https://github.com/colanode/colanode)
@@ -38,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-06 12:43:14 UTC*
+*Last updated at 2026-09-06 16:02:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
