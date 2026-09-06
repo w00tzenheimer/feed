@@ -16,21 +16,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [xberg-io/xberg](https://github.com/xberg-io/xberg)
   > Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structu...
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
+  > A curated list of various bug bounty tools
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [frida/frida](https://github.com/frida/frida)
+  > Main repo for hosting release binaries
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Junchao-cs/SolarWM](https://github.com/Junchao-cs/SolarWM)
   > Open data and scalable training for long-horizon video world models.
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ramapcsx2/gbs-control](https://github.com/ramapcsx2/gbs-control)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [RyanJK5/rjk-duck](https://github.com/RyanJK5/rjk-duck)
+  > Zero boilerplate generic type erasure, powered by C++26 reflection.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jbcoe/cc-protocol](https://github.com/jbcoe/cc-protocol)
+  > A type erased value-type for C++ using reflection
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
-  > Emulation framework for Android & iOS native libraries
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/jsdmp](https://github.com/JustasMasiulis/jsdmp)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pavel-fokin/percept](https://github.com/pavel-fokin/percept)
-  > A cognitive architecture for AI agents: typed projections, mental models, and memory
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
-  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuixiAI/open-gpu-kernel-modules](https://github.com/QuixiAI/open-gpu-kernel-modules)
+  > P2P support for nvidia consumer cards
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [colanode/colanode](https://github.com/colanode/colanode)
@@ -46,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-06 16:02:58 UTC*
+*Last updated at 2026-09-06 18:56:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
