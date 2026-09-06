@@ -35,10 +35,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jbcoe/cc-protocol](https://github.com/jbcoe/cc-protocol)
   > A type erased value-type for C++ using reflection
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuixiAI/open-gpu-kernel-modules](https://github.com/QuixiAI/open-gpu-kernel-modules)
-  > P2P support for nvidia consumer cards
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [colanode/colanode](https://github.com/colanode/colanode)
   > Open-source and local-first Slack and Notion alternative that puts you in control of your data
@@ -53,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-06 18:56:33 UTC*
+*Last updated at 2026-09-06 21:11:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
