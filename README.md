@@ -34,6 +34,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Zero boilerplate generic type erasure, powered by C++26 reflection.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jbcoe/cc-protocol](https://github.com/jbcoe/cc-protocol)
   > A type erased value-type for C++ using reflection
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gopher64/gopher64](https://github.com/gopher64/gopher64)
+  > Highly compatible N64 emulator
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [colanode/colanode](https://github.com/colanode/colanode)
@@ -49,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-06 21:11:14 UTC*
+*Last updated at 2026-09-06 23:37:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
