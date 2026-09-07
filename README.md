@@ -19,11 +19,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/Xmind-Hack](https://github.com/lwtw123456/Xmind-Hack) to [CrackerCat/Xmind-Hack](https://github.com/CrackerCat/Xmind-Hack)
   > 面向 Electron 应用的逆向工程研究，实现了 Xmind 所有本地功能（pro+）解锁，无需登录
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [ShimadaNanaki/vrc-eac-emulator](https://github.com/ShimadaNanaki/vrc-eac-emulator)
+  > PoC of Semi-Emulated EAC bypass 
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [dtcxzyw/fsubfuscator](https://github.com/dtcxzyw/fsubfuscator)
   > Do integer arithmetic with fsub.
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [intel/SDM](https://github.com/intel/SDM)
   > Website for viewing the executable IA specification (external view). This combines data from the SDM...
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list)
+  > List of all the somewhat popular and non-popular Java obfuscators on the Internet.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
+  > Emulation framework for Android & iOS native libraries
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+  > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [likueimo/tools](https://github.com/likueimo/tools)
+  > fork !Linux environment, including configuration.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Slimbook-Team/fwupd](https://github.com/Slimbook-Team/fwupd)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ddcc/libcpuidoverride](https://github.com/ddcc/libcpuidoverride)
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [nobiyou/wx_channel](https://github.com/nobiyou/wx_channel)
@@ -37,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-07 15:37:44 UTC*
+*Last updated at 2026-09-07 19:42:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
