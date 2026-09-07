@@ -16,10 +16,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Static analyzer for Flutter/Dart AOT snapshots — recovers function names, class hierarchies, call gr...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [34306/vphone-web](https://github.com/34306/vphone-web) to [CrackerCat/vphone-web](https://github.com/CrackerCat/vphone-web)
   > vphone-cli but you can use your mac as a host and control it over the web
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/Xmind-Hack](https://github.com/lwtw123456/Xmind-Hack) to [CrackerCat/Xmind-Hack](https://github.com/CrackerCat/Xmind-Hack)
+  > 面向 Electron 应用的逆向工程研究，实现了 Xmind 所有本地功能（pro+）解锁，无需登录
 
-### [EloiStree](https://github.com/EloiStree)
-- 🍴 👤 [EloiStree](https://github.com/EloiStree) Forked [endlessm/godot-block-coding](https://github.com/endlessm/godot-block-coding) to [EloiStree/2026_09_07_fork_godot_block_coding](https://github.com/EloiStree/2026_09_07_fork_godot_block_coding)
-  > Block-based visual programming plugin for Godot
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [dtcxzyw/fsubfuscator](https://github.com/dtcxzyw/fsubfuscator)
+  > Do integer arithmetic with fsub.
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [intel/SDM](https://github.com/intel/SDM)
+  > Website for viewing the executable IA specification (external view). This combines data from the SDM...
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [nobiyou/wx_channel](https://github.com/nobiyou/wx_channel)
@@ -33,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-07 09:08:13 UTC*
+*Last updated at 2026-09-07 15:37:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
