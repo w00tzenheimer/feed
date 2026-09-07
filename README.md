@@ -1,57 +1,25 @@
-# Daily GitHub Activity (2026-09-06)
+# Daily GitHub Activity (2026-09-07)
 
 <!-- nav -->
-[← 2026-09-05](archive/2026/09/05.md)
+[← 2026-09-06](archive/2026/09/06.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [FRRouting/frr](https://github.com/FRRouting/frr)
-  > The FRRouting Protocol Suite
-
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [xberg-io/xberg](https://github.com/xberg-io/xberg)
-  > Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structu...
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
-  > A curated list of various bug bounty tools
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [frida/frida](https://github.com/frida/frida)
-  > Main repo for hosting release binaries
-
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Junchao-cs/SolarWM](https://github.com/Junchao-cs/SolarWM)
-  > Open data and scalable training for long-horizon video world models.
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ramapcsx2/gbs-control](https://github.com/ramapcsx2/gbs-control)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [RyanJK5/rjk-duck](https://github.com/RyanJK5/rjk-duck)
-  > Zero boilerplate generic type erasure, powered by C++26 reflection.
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jbcoe/cc-protocol](https://github.com/jbcoe/cc-protocol)
-  > A type erased value-type for C++ using reflection
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gopher64/gopher64](https://github.com/gopher64/gopher64)
-  > Highly compatible N64 emulator
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [colanode/colanode](https://github.com/colanode/colanode)
-  > Open-source and local-first Slack and Notion alternative that puts you in control of your data
-
-### [wanttobeno](https://github.com/wanttobeno)
-- 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [xroche/httrack](https://github.com/xroche/httrack)
-  > HTTrack Website Copier, copy websites to your computer (Official repository)
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cli0xfa/simple-krw-vuln](https://github.com/cli0xfa/simple-krw-vuln) to [CrackerCat/simple-krw-vuln](https://github.com/CrackerCat/simple-krw-vuln)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [boxiaolanya2008/CVE-2026-43499-Neo11Plus](https://github.com/boxiaolanya2008/CVE-2026-43499-Neo11Plus) to [CrackerCat/CVE-2026-43499-Neo11Plus](https://github.com/CrackerCat/CVE-2026-43499-Neo11Plus)
+  > the CVE-2026-43499 by iqooneo11
 
 
 <!-- nav -->
-[← 2026-09-05](archive/2026/09/05.md)
+[← 2026-09-06](archive/2026/09/06.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-06 23:37:29 UTC*
+*Last updated at 2026-09-07 03:46:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
