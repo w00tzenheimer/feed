@@ -42,6 +42,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > fork !Linux environment, including configuration.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Slimbook-Team/fwupd](https://github.com/Slimbook-Team/fwupd)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ddcc/libcpuidoverride](https://github.com/ddcc/libcpuidoverride)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xecaz/BLE-Analyzer-pro-linux-capture](https://github.com/xecaz/BLE-Analyzer-pro-linux-capture)
+  > I reverse engineered the BLE Analyzer pro USB and created a linux capturing tool.
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [nobiyou/wx_channel](https://github.com/nobiyou/wx_channel)
@@ -55,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-07 19:42:41 UTC*
+*Last updated at 2026-09-07 22:39:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
