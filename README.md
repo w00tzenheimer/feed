@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [xiaomi-research/controlfoley](https://github.com/xiaomi-research/controlfoley)
   > [ACM MM 2026] ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conf...
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+  > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [pop-rip/vtil2](https://github.com/pop-rip/vtil2)
   > VTIL2 is a ground-up reimagination of the VTIL Project, completely rewritten in modern C# with enter...
@@ -26,7 +30,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-08 20:54:42 UTC*
+*Last updated at 2026-09-08 23:15:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
