@@ -1,36 +1,36 @@
-# Daily GitHub Activity (2026-09-08)
+# Daily GitHub Activity (2026-09-09)
 
 <!-- nav -->
-[← 2026-09-07](archive/2026/09/07.md)
+[← 2026-09-08](archive/2026/09/08.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [typst-community/tytanic](https://github.com/typst-community/tytanic)
-  > A test runner for typst projects.
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mobilehackinglab/CVE-2026-28576-poc](https://github.com/mobilehackinglab/CVE-2026-28576-poc) to [CrackerCat/CVE-2026-28576-poc](https://github.com/CrackerCat/CVE-2026-28576-poc)
+  > SQL injection vulnerability in Android 17 (AOSP)
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [xiaomi-research/controlfoley](https://github.com/xiaomi-research/controlfoley)
-  > [ACM MM 2026] ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conf...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [zhoujasper/silk-math-preview](https://github.com/zhoujasper/silk-math-preview)
+  > Live LaTeX / Markdown / Jupyter math preview for VS Code. MathJax overlay that follows the caret — n...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [zhoujasper/silk-math-preview](https://github.com/zhoujasper/silk-math-preview) to [IuvenisSapiens/silk-math-preview](https://github.com/IuvenisSapiens/silk-math-preview)
+  > Live LaTeX / Markdown / Jupyter math preview for VS Code. MathJax overlay that follows the caret — n...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+  > Tesseract Open Source OCR Engine (main repository)
 
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
-  > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [pop-rip/vtil2](https://github.com/pop-rip/vtil2)
-  > VTIL2 is a ground-up reimagination of the VTIL Project, completely rewritten in modern C# with enter...
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jclark/pc-ptp-ntp-guide](https://github.com/jclark/pc-ptp-ntp-guide)
+  > Guide to precision network time synchronization on PC hardware
 
 
 <!-- nav -->
-[← 2026-09-07](archive/2026/09/07.md)
+[← 2026-09-08](archive/2026/09/08.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-08 23:15:42 UTC*
+*Last updated at 2026-09-09 03:55:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
