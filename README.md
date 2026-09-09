@@ -33,8 +33,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The LLVM Project in your Browser
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RealNeGate/Cuik](https://github.com/RealNeGate/Cuik)
-  > A Modern C11 compiler (STILL EARLY)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/Dragons-vs-VMs](https://github.com/Fare9/Dragons-vs-VMs)
+  > Scripts, notes, and other files about the analysis of VMProtect with Dragon Tales
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/dragon-tales-web](https://github.com/Fare9/dragon-tales-web)
+  > Website with dragon-tales documentation and manual
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/My-Symbolic-Execution](https://github.com/Fare9/My-Symbolic-Execution)
+  > My repository to store all the examples I do about symbolic execution
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/emu](https://github.com/noahware/emu)
+  > ARM64 instruction emulator written in modern c++.
 
 
 <!-- nav -->
@@ -42,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-09 17:42:21 UTC*
+*Last updated at 2026-09-09 20:43:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
