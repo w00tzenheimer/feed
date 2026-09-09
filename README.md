@@ -22,6 +22,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Supersonic/TLPE](https://github.com/Supersonic/TLPE) to [CrackerCat/TLPE](https://github.com/CrackerCat/TLPE)
   > CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that all...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
+  > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Supersonic/TLPE](https://github.com/Supersonic/TLPE)
+  > CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that all...
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [SonyResearch/mimo-audio-separation](https://github.com/SonyResearch/mimo-audio-separation)
   > Official PyTorch implementation for "Iterative Audio Separation with Mixture Consistency via MIMO Mo...
@@ -48,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-09 20:43:03 UTC*
+*Last updated at 2026-09-09 23:04:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
