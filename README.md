@@ -22,10 +22,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [funap/xvw](https://github.com/funap/xvw) to [CrackerCat/xvw](https://github.com/CrackerCat/xvw)
   > A Rust-powered GUI hex editor built on Zed's GPUI framework.
 
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-  > A community-supported supercharged document management system: scan, index and archive all your docu...
-
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
@@ -36,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-10 08:49:31 UTC*
+*Last updated at 2026-09-10 13:26:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
