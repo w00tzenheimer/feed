@@ -22,6 +22,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [funap/xvw](https://github.com/funap/xvw) to [CrackerCat/xvw](https://github.com/CrackerCat/xvw)
   > A Rust-powered GUI hex editor built on Zed's GPUI framework.
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)
+  > X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotati...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [lxw112190/lw.PPOCR.C](https://github.com/lxw112190/lw.PPOCR.C)
+  > 轻量级纯 C PP-OCRv6 Tiny 推理运行时，支持 DET/CLS/REC、完整 OCR、SSE2/AVX2，并提供 C# WinForms 与跨平台 HTTP/Web Demo。Lightw...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [chflame163/ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle)
+  > A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality...
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
@@ -32,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-10 13:26:27 UTC*
+*Last updated at 2026-09-10 17:34:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
