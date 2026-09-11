@@ -24,9 +24,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [JaredTherriault](https://github.com/JaredTherriault) Forked [FranckyB/ComfyUI-H3RefMods](https://github.com/FranckyB/ComfyUI-H3RefMods) to [JaredTherriault/ComfyUI-H3RefMods](https://github.com/JaredTherriault/ComfyUI-H3RefMods)
   > No-training RefMod reference adapters for MiniMax H3.  This fork aims to improve UI and add Audio su...
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [0mdi/ultimate_spoofer](https://github.com/0mdi/ultimate_spoofer)
+  > A stealthy anti-fingerprinting toolkit for Windows
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Westlake-AGI-Lab/WorldinWorld](https://github.com/Westlake-AGI-Lab/WorldinWorld)
   > Official implementation of WorldinWorld
+
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [xqy2006/jsc2js](https://github.com/xqy2006/jsc2js)
+  > Reverse V8‑generated JSC bytecode into readable (approximate) JavaScript.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [PepegaModTeam/io_gt_psx_course](https://github.com/PepegaModTeam/io_gt_psx_course)
+  > Gran Turismo & Gran Turismo 2 (PlayStation) course importer for Blender
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [HexRaysSA/ida-nexus](https://github.com/HexRaysSA/ida-nexus)
@@ -46,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-11 17:37:55 UTC*
+*Last updated at 2026-09-11 20:43:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
