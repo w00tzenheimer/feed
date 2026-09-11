@@ -27,6 +27,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [0mdi/ultimate_spoofer](https://github.com/0mdi/ultimate_spoofer)
   > A stealthy anti-fingerprinting toolkit for Windows
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [omacom/try-omarchy-windows](https://github.com/omacom/try-omarchy-windows)
+  > Use Omarchy Linux on Windows without any hassle.
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Westlake-AGI-Lab/WorldinWorld](https://github.com/Westlake-AGI-Lab/WorldinWorld)
@@ -58,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-11 20:43:27 UTC*
+*Last updated at 2026-09-11 23:04:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
