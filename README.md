@@ -32,14 +32,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [xusheng6/windows-wesp-research](https://github.com/xusheng6/windows-wesp-research)
   > Reverse engineering and live validation of the Windows Endpoint Security Platform preview
 
+### [hasherezade](https://github.com/hasherezade)
+- 🍴 👤 [hasherezade](https://github.com/hasherezade) Forked [nodejs/node](https://github.com/nodejs/node) to [hasherezade/node](https://github.com/hasherezade/node)
+  > Node.js JavaScript runtime ✨🐢🚀✨
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
   > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MZULALI/toolhost](https://github.com/MZULALI/toolhost)
-  > Let an LLM write its own tools at runtime: parsed with acorn, versioned in SQLite, run in a supervis...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DefiLeoo/YOINK](https://github.com/DefiLeoo/YOINK)
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [LegendApp/legend-apps](https://github.com/LegendApp/legend-apps)
 
 
 <!-- nav -->
@@ -47,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-12 19:03:04 UTC*
+*Last updated at 2026-09-12 22:02:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
