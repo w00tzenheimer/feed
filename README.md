@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > this is a theme of vitepress
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [pnpm/pnpm](https://github.com/pnpm/pnpm)
   > Fast, disk space efficient package manager
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Humyang/ffmpeg-script-tool](https://github.com/Humyang/ffmpeg-script-tool)
+  > Generate scripts for operations such as splitting videos, cropping videos, and converting to GIF.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Humyang/ffmpeg-script-tool](https://github.com/Humyang/ffmpeg-script-tool) to [IuvenisSapiens/ffmpeg-script-tool](https://github.com/IuvenisSapiens/ffmpeg-script-tool)
+  > Generate scripts for operations such as splitting videos, cropping videos, and converting to GIF.
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [xusheng6/windows-wesp-research](https://github.com/xusheng6/windows-wesp-research)
@@ -43,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-12 16:05:48 UTC*
+*Last updated at 2026-09-12 19:03:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
