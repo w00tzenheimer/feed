@@ -12,13 +12,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [xusheng6/windows-wesp-research](https://github.com/xusheng6/windows-wesp-research)
   > Reverse engineering and live validation of the Windows Endpoint Security Platform preview
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+
 
 <!-- nav -->
 [← 2026-09-11](archive/2026/09/11.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-12 03:53:51 UTC*
+*Last updated at 2026-09-12 08:30:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
