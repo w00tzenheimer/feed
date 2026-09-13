@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [typst/comemo](https://github.com/typst/comemo)
+  > Incremental computation through constrained memoization.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [huiliyi37/Tianshu-harness](https://github.com/huiliyi37/Tianshu-harness) to [CrackerCat/Tianshu-harness](https://github.com/CrackerCat/Tianshu-harness)
   > 天枢 (Tianshu) 是一个基于harness工程的终端编程智能体运行时（Tui X Gui），针对DeepSeek V4 做了前缀缓存工程优化（长会话实测稳态命中率 97–99%）和深度适配。它...
@@ -21,8 +25,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Conservative C# ELF64 AArch64 validation and analysis foundation
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Liyulingyue/rust-model-inference](https://github.com/Liyulingyue/rust-model-inference)
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Liyulingyue/rust-model-inference](https://github.com/Liyulingyue/rust-model-inference) to [IuvenisSapiens/rust-model-inference](https://github.com/IuvenisSapiens/rust-model-inference)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [TaoLiveAIGC/TaoMate-H3](https://github.com/TaoLiveAIGC/TaoMate-H3)
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP)
@@ -46,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-13 11:23:50 UTC*
+*Last updated at 2026-09-13 15:53:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
