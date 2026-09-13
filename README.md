@@ -33,6 +33,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [lamco-admin/lamco-rdp-server](https://github.com/lamco-admin/lamco-rdp-server)
   > Wayland-native RDP server for Linux desktop sharing. H.264 via EGFX, VA-API/NVENC hardware encoding,...
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [usestrix/strix](https://github.com/usestrix/strix) to [NetVar1337/strix](https://github.com/NetVar1337/strix)
+  > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [blurbdust/litepcie](https://github.com/blurbdust/litepcie)
+  > Small footprint and configurable PCIe core
 
 
 <!-- nav -->
@@ -40,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-13 05:46:52 UTC*
+*Last updated at 2026-09-13 11:23:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
