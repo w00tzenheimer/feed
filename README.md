@@ -28,20 +28,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [TaoLiveAIGC/TaoMate-H3](https://github.com/TaoLiveAIGC/TaoMate-H3)
 
 ### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP)
-  > Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Dump-GUY/BTR_CLI](https://github.com/Dump-GUY/BTR_CLI)
-  > Offensive PoC tool for BTR.sys - Microsoft Defender's Boot Time Removal Tool. Supporting material fo...
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
-  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [lamco-admin/lamco-rdp-server](https://github.com/lamco-admin/lamco-rdp-server)
-  > Wayland-native RDP server for Linux desktop sharing. H.264 via EGFX, VA-API/NVENC hardware encoding,...
-- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [usestrix/strix](https://github.com/usestrix/strix) to [NetVar1337/strix](https://github.com/NetVar1337/strix)
-  > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [zer0condition/Ophion](https://github.com/zer0condition/Ophion) to [NetVar1337/Ophion](https://github.com/NetVar1337/Ophion)
+  > Stealth-focused Intel VT-x hypervisor (EAC/BE/ACs/AVs).
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [blurbdust/litepcie](https://github.com/blurbdust/litepcie)
   > Small footprint and configurable PCIe core
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aryx/codemap](https://github.com/aryx/codemap)
+  > Source code visualizer
 
 
 <!-- nav -->
@@ -49,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-13 18:38:48 UTC*
+*Last updated at 2026-09-13 21:17:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
