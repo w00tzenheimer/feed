@@ -34,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [blurbdust/litepcie](https://github.com/blurbdust/litepcie)
   > Small footprint and configurable PCIe core
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [char/watch-party](https://github.com/char/watch-party)
+  > web application supporting polycule movie night
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [RedBearAK/Toshy](https://github.com/RedBearAK/Toshy)
+  > Keymapper config to make Linux keyboard shortcuts work like a 'Tosh! And more. (A Kinto alternative....
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aryx/codemap](https://github.com/aryx/codemap)
@@ -45,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-13 21:17:18 UTC*
+*Last updated at 2026-09-13 23:57:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
