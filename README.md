@@ -22,13 +22,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk....
 
+### [woct0rdho](https://github.com/woct0rdho)
+- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [xezpeleta/pi-search-on-your-browser](https://github.com/xezpeleta/pi-search-on-your-browser) to [woct0rdho/pi-search-on-your-browser](https://github.com/woct0rdho/pi-search-on-your-browser)
+  > Search Google in your own visible Chrome — same approach as @antirez's ds4-agent. Zero dependencies,...
+
 
 <!-- nav -->
 [← 2026-09-13](archive/2026/09/13.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-14 10:25:25 UTC*
+*Last updated at 2026-09-14 16:51:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
