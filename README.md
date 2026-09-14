@@ -21,10 +21,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [AIMixer/ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director)
   > Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [AIMixer/ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director) to [IuvenisSapiens/ComfyUI_MiniMaxH3_Director](https://github.com/IuvenisSapiens/ComfyUI_MiniMaxH3_Director)
+  > Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk....
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [KingsleydotDev/ImGui-Menu-MemeSense](https://github.com/KingsleydotDev/ImGui-Menu-MemeSense)
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499)
+  > Android version CVE-2026-43499 tester
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [throwaway96/slopbro](https://github.com/throwaway96/slopbro)
+  > PoC for jsserver vulnerability in webOS 3.5+(?)
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [hiae-aead/libhiae](https://github.com/hiae-aead/libhiae) to [jedisct1/libhiae-1](https://github.com/jedisct1/libhiae-1)
@@ -38,10 +49,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [truefoundry/trueforge](https://github.com/truefoundry/trueforge)
   > The open-source agent harness - the runtime layer that turns an LLM into a working agent.
-
-### [woct0rdho](https://github.com/woct0rdho)
-- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [xezpeleta/pi-search-on-your-browser](https://github.com/xezpeleta/pi-search-on-your-browser) to [woct0rdho/pi-search-on-your-browser](https://github.com/woct0rdho/pi-search-on-your-browser)
-  > Search Google in your own visible Chrome — same approach as @antirez's ds4-agent. Zero dependencies,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
+  > An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
+  > Turn your coding agents into research agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SakanaAI/pc-alm](https://github.com/SakanaAI/pc-alm)
+  > PC-ALM
 
 
 <!-- nav -->
@@ -49,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-14 20:47:46 UTC*
+*Last updated at 2026-09-14 23:44:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
