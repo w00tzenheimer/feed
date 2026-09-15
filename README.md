@@ -22,14 +22,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife)
   > A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, cr...
 
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [peymanmortazavi/csv-zero](https://github.com/peymanmortazavi/csv-zero)
-  > Zero Allocation, SIMD-accelerated CSV iterator and emitter in Zig
-- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/zig-aegis-raf](https://github.com/jedisct1/zig-aegis-raf) public
-  > High-performance encrypted storage with random access.
-
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [antmicro/faultergeist](https://github.com/antmicro/faultergeist)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rui314/mold-macho](https://github.com/rui314/mold-macho)
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [REhints/efiXplorer](https://github.com/REhints/efiXplorer)
@@ -40,8 +35,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Access radare2 via pipe from any programming language!
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks) to [mrexodia/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/mrexodia/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
   > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters)
+  > A macOS menu-bar app that dresses your windows in knitted borders.
 
 ### [shnaps666](https://github.com/shnaps666)
 - 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [wuxin-gh/ai-lubricant](https://github.com/wuxin-gh/ai-lubricant)
@@ -53,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-15 18:47:06 UTC*
+*Last updated at 2026-09-15 21:59:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
