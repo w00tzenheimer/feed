@@ -19,10 +19,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A version of NetLoader, Execute Assemblies and Bypass ETW and AMSI using Hardware Breakpoints
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [racoten/CannonLoader](https://github.com/racoten/CannonLoader)
   > Just a nice little shellcode loader using unconventional methods to avoid using signatured APIs
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife)
+  > A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, cr...
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [peymanmortazavi/csv-zero](https://github.com/peymanmortazavi/csv-zero)
   > Zero Allocation, SIMD-accelerated CSV iterator and emitter in Zig
+- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/zig-aegis-raf](https://github.com/jedisct1/zig-aegis-raf) public
+  > High-performance encrypted storage with random access.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [antmicro/faultergeist](https://github.com/antmicro/faultergeist)
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [REhints/efiXplorer](https://github.com/REhints/efiXplorer)
@@ -46,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-15 14:43:52 UTC*
+*Last updated at 2026-09-15 18:47:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
