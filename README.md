@@ -23,13 +23,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Kekule-OXC/R3DUX](https://github.com/Kekule-OXC/R3DUX)
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [lkimuk/ReArk](https://github.com/lkimuk/ReArk)
+  > An intelligent reverse engineering analysis tool designed for multiple target platforms, currently s...
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [rizinorg/rizin](https://github.com/rizinorg/rizin)
+  > UNIX-like reverse engineering framework and command-line toolset.
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [jonathanroomer/NightBloodRemote](https://github.com/jonathanroomer/NightBloodRemote)
+  > An experimental iPhone companion that gives voice models a face and personality, built with SwiftUI,...
+
 
 <!-- nav -->
 [← 2026-09-15](archive/2026/09/15.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-16 05:47:00 UTC*
+*Last updated at 2026-09-16 11:09:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
