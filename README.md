@@ -31,9 +31,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [rizinorg/rizin](https://github.com/rizinorg/rizin)
   > UNIX-like reverse engineering framework and command-line toolset.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs) to [mrexodia/Bochs](https://github.com/mrexodia/Bochs)
+  > Bochs - Cross Platform x86 Emulator Project
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turboderp-org/exllamav3](https://github.com/turboderp-org/exllamav3)
+  > An optimized quantization and inference library for running LLMs locally on modern consumer-class GP...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [jonathanroomer/NightBloodRemote](https://github.com/jonathanroomer/NightBloodRemote)
   > An experimental iPhone companion that gives voice models a face and personality, built with SwiftUI,...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
 
 
 <!-- nav -->
@@ -41,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-16 11:09:39 UTC*
+*Last updated at 2026-09-16 16:29:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
