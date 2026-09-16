@@ -14,6 +14,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenFuckJob/FuckJob](https://github.com/OpenFuckJob/FuckJob) to [CrackerCat/FuckJob](https://github.com/CrackerCat/FuckJob)
   > 一个开源的 AI 求职助手，融合 RPA 与大语言模型（LLM），实现岗位筛选、智能沟通、自动投递等求职自动化能力。软件大小<30MB
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [buxuku/SmartSub](https://github.com/buxuku/SmartSub)
+  > 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Window...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [buxuku/SmartSub](https://github.com/buxuku/SmartSub) to [IuvenisSapiens/SmartSub](https://github.com/IuvenisSapiens/SmartSub)
+  > 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Window...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [1250759846qq/compressO-rebuild](https://github.com/1250759846qq/compressO-rebuild)
+  > CompressO CN is a Simplified Chinese Windows rebuild of codeforreal1/compressO.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [1250759846qq/compressO-rebuild](https://github.com/1250759846qq/compressO-rebuild) to [IuvenisSapiens/compressO-rebuild](https://github.com/IuvenisSapiens/compressO-rebuild)
+  > CompressO CN is a Simplified Chinese Windows rebuild of codeforreal1/compressO.
+
+### [MaxtorCoder](https://github.com/MaxtorCoder)
+- 🌟 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Starred [Gethe/wow-ui-source](https://github.com/Gethe/wow-ui-source)
+  > git mirror of the user interface source code for World of Warcraft
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dzshzx/codexcomp](https://github.com/dzshzx/codexcomp)
+  > Local Responses proxy for Codex CLI: folds gpt-5.5 518n-2 reasoning truncation (516 degradation) via...
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [aftermathlabs/discord-crasher](https://github.com/aftermathlabs/discord-crasher)
   > Some bugs found via binary instrumentation and fuzzing
@@ -22,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Kekule-OXC/R3DUX](https://github.com/Kekule-OXC/R3DUX)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [inforcqb/frida-barebone-sm8550](https://github.com/inforcqb/frida-barebone-sm8550)
+  > Build Frida 17.17.0 barebone agent kernel module (frida-agent.ko) for OnePlus SM8550 GKI 5.15 via DD...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [inforcqb/frida-gum](https://github.com/inforcqb/frida-gum)
+  > Cross-platform instrumentation and introspection library written in C
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [lkimuk/ReArk](https://github.com/lkimuk/ReArk)
@@ -49,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-16 19:54:17 UTC*
+*Last updated at 2026-09-16 22:45:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
