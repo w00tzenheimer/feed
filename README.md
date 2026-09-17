@@ -1,7 +1,7 @@
-# Daily GitHub Activity (2026-09-16)
+# Daily GitHub Activity (2026-09-17)
 
 <!-- nav -->
-[← 2026-09-15](archive/2026/09/15.md)
+[← 2026-09-16](archive/2026/09/16.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
@@ -9,69 +9,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [user-lzy/SnowSword](https://github.com/user-lzy/SnowSword) to [CrackerCat/SnowSword](https://github.com/CrackerCat/SnowSword)
-  > Windows 10/11 x64 Kernel Analysis & Anti-Rootkit Toolkit
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenFuckJob/FuckJob](https://github.com/OpenFuckJob/FuckJob) to [CrackerCat/FuckJob](https://github.com/CrackerCat/FuckJob)
-  > 一个开源的 AI 求职助手，融合 RPA 与大语言模型（LLM），实现岗位筛选、智能沟通、自动投递等求职自动化能力。软件大小<30MB
-
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [buxuku/SmartSub](https://github.com/buxuku/SmartSub)
-  > 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Window...
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [buxuku/SmartSub](https://github.com/buxuku/SmartSub) to [IuvenisSapiens/SmartSub](https://github.com/IuvenisSapiens/SmartSub)
-  > 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Window...
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [1250759846qq/compressO-rebuild](https://github.com/1250759846qq/compressO-rebuild)
-  > CompressO CN is a Simplified Chinese Windows rebuild of codeforreal1/compressO.
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [1250759846qq/compressO-rebuild](https://github.com/1250759846qq/compressO-rebuild) to [IuvenisSapiens/compressO-rebuild](https://github.com/IuvenisSapiens/compressO-rebuild)
-  > CompressO CN is a Simplified Chinese Windows rebuild of codeforreal1/compressO.
-
-### [MaxtorCoder](https://github.com/MaxtorCoder)
-- 🌟 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Starred [Gethe/wow-ui-source](https://github.com/Gethe/wow-ui-source)
-  > git mirror of the user interface source code for World of Warcraft
-
-### [NyaMisty](https://github.com/NyaMisty)
-- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dzshzx/codexcomp](https://github.com/dzshzx/codexcomp)
-  > Local Responses proxy for Codex CLI: folds gpt-5.5 518n-2 reasoning truncation (516 degradation) via...
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [aftermathlabs/discord-crasher](https://github.com/aftermathlabs/discord-crasher)
-  > Some bugs found via binary instrumentation and fuzzing
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [jz0/tvm-devirt](https://github.com/jz0/tvm-devirt)
-  > Static devirtualizer for Tencent VM
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Kekule-OXC/R3DUX](https://github.com/Kekule-OXC/R3DUX)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [inforcqb/frida-barebone-sm8550](https://github.com/inforcqb/frida-barebone-sm8550)
-  > Build Frida 17.17.0 barebone agent kernel module (frida-agent.ko) for OnePlus SM8550 GKI 5.15 via DD...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [inforcqb/frida-gum](https://github.com/inforcqb/frida-gum)
-  > Cross-platform instrumentation and introspection library written in C
-
-### [joydo](https://github.com/joydo)
-- 🌟 👤 [joydo](https://github.com/joydo) Starred [lkimuk/ReArk](https://github.com/lkimuk/ReArk)
-  > An intelligent reverse engineering analysis tool designed for multiple target platforms, currently s...
-
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [rizinorg/rizin](https://github.com/rizinorg/rizin)
-  > UNIX-like reverse engineering framework and command-line toolset.
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [jonathanroomer/NightBloodRemote](https://github.com/jonathanroomer/NightBloodRemote)
-  > An experimental iPhone companion that gives voice models a face and personality, built with SwiftUI,...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
-  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
-
-### [pwnall](https://github.com/pwnall)
-- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [jgraph/drawio](https://github.com/jgraph/drawio)
-  > draw.io is a JavaScript, client-side editor for general diagramming.
-- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-  > Find, verify, and analyze leaked credentials
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sillycats/ApkAdRemoverEditor](https://github.com/sillycats/ApkAdRemoverEditor) to [CrackerCat/ApkAdRemoverEditor](https://github.com/CrackerCat/ApkAdRemoverEditor)
+  > 基于 dexlib2 的本地 APK 去广告工具，字节码直接修补，支持数据复用优化
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sillycats/ApkAdAnalyzer](https://github.com/sillycats/ApkAdAnalyzer) to [CrackerCat/ApkAdAnalyzer](https://github.com/CrackerCat/ApkAdAnalyzer)
+  > APK广告特征分析工具 - 分析 APK 广告特征并导出特征配置
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) to [CrackerCat/OCAuxiliaryTools](https://github.com/CrackerCat/OCAuxiliaryTools)
+  > Cross-platform GUI management tools for OpenCore（OCAT）
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HawkBearPig/dgpp](https://github.com/HawkBearPig/dgpp) to [CrackerCat/dgpp](https://github.com/CrackerCat/dgpp)
+  > Optimized inference for the DGX Spark and spark clusters
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xuange520/WeChat-H5-DevTools](https://github.com/xuange520/WeChat-H5-DevTools) to [CrackerCat/WeChat-H5-DevTools](https://github.com/CrackerCat/WeChat-H5-DevTools)
+  > WMPFDebugger 内置浏览器与公众号 H5 满血调试与逆向工具箱 / The ultimate debugging & reverse-engineering toolkit for WMPF...
 
 
 <!-- nav -->
-[← 2026-09-15](archive/2026/09/15.md)
+[← 2026-09-16](archive/2026/09/16.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-16 22:45:28 UTC*
+*Last updated at 2026-09-17 01:11:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
