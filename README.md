@@ -20,13 +20,26 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xuange520/WeChat-H5-DevTools](https://github.com/xuange520/WeChat-H5-DevTools) to [CrackerCat/WeChat-H5-DevTools](https://github.com/CrackerCat/WeChat-H5-DevTools)
   > WMPFDebugger 内置浏览器与公众号 H5 满血调试与逆向工具箱 / The ultimate debugging & reverse-engineering toolkit for WMPF...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ocrmypdf/OCRmyPDF-EasyOCR](https://github.com/ocrmypdf/OCRmyPDF-EasyOCR)
+  > OCRmyPDF EasyOCR plugin
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [kernelwangxuan/ocrmypdf-paddleocr-v6](https://github.com/kernelwangxuan/ocrmypdf-paddleocr-v6) to [IuvenisSapiens/ocrmypdf-paddleocr-v6](https://github.com/IuvenisSapiens/ocrmypdf-paddleocr-v6)
+
+### [Lynnette177](https://github.com/Lynnette177)
+- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Lynnette177/iOSSubwaySurfers](https://github.com/Lynnette177/iOSSubwaySurfers)
+  > iOS地铁跑酷菜单。支持越狱/非越狱环境，自带static inline hook
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife)
+  > A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, cr...
+
 
 <!-- nav -->
 [← 2026-09-16](archive/2026/09/16.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-17 01:11:40 UTC*
+*Last updated at 2026-09-17 07:23:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
