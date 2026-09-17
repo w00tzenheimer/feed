@@ -34,6 +34,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [damnnfo/ms2130-firmware](https://github.com/damnnfo/ms2130-firmware)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rhgndf/ms912x](https://github.com/rhgndf/ms912x)
   > MacroSilicon USB to VGA/HDMI adapter (534d:6021) Linux DRM driver
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [AFLplusplus/llvm-passes](https://github.com/AFLplusplus/llvm-passes)
+  > LLVM Passes used by AFLplusplus and LibAFL
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rmalmain/libvharness](https://github.com/rmalmain/libvharness)
+  > A library to create easy fuzzing harnesses in VM environments.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rmalmain/39C3-build-a-fake-phone-find-real-bugs](https://github.com/rmalmain/39C3-build-a-fake-phone-find-real-bugs)
+  > The companion repository for the 39C3 talk: Build a Fake Phone, Find Real Bugs: Qualcomm GPU Emulati...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GaloisInc/Tractor-Crisp](https://github.com/GaloisInc/Tractor-Crisp)
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [netease-youdao/Confucius4-R2T2](https://github.com/netease-youdao/Confucius4-R2T2)
+  > Confucius4-R2T2: A Low Latency and High Accuracy Real-Time Speech Recognition Model
 
 
 <!-- nav -->
@@ -41,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-17 18:02:15 UTC*
+*Last updated at 2026-09-17 21:58:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
