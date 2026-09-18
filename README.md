@@ -34,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) to [CrackerCat/playstore-adblock](https://github.com/CrackerCat/playstore-adblock)
   > LSPosed/Xposed module that removes ads, sponsored apps, and promoted recommendations from the Google...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) to [IuvenisSapiens/JAnim](https://github.com/IuvenisSapiens/JAnim)
+  > Programmatic animation engine for creating precise and smooth animations with real-time feedback
+
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [OrbitCurve/firmware-reverse-engineering](https://github.com/OrbitCurve/firmware-reverse-engineering)
   > A full claude and codex skillsets for firmware reverse engineering.
@@ -53,6 +57,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > What the CELL processor can do in 2026 
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [spth/cockshock2](https://github.com/spth/cockshock2)
   > Reverse-engineering, documenting and hacking a dog shock collar for use as a sex toy
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fvutils/pywellen-mcp](https://github.com/fvutils/pywellen-mcp)
+  > MCP server for pywellen
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lobsters/lobsters](https://github.com/lobsters/lobsters) to [mrexodia/lobsters](https://github.com/mrexodia/lobsters)
@@ -68,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-18 14:50:56 UTC*
+*Last updated at 2026-09-18 18:10:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
