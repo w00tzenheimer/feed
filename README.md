@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [leftspace89/jevsubrouter](https://github.com/leftspace89/jevsubrouter)
+  > Routes each Claude Code sub-agent dispatch to the cheapest model that can finish its brief, without ...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [incoai/splash](https://github.com/incoai/splash)
   > A local inference engine for Apple silicon, built around the model.
@@ -20,7 +24,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-19 13:46:56 UTC*
+*Last updated at 2026-09-19 17:04:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
