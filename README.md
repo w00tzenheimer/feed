@@ -1,68 +1,24 @@
-# Daily GitHub Activity (2026-09-18)
+# Daily GitHub Activity (2026-09-19)
 
 <!-- nav -->
-[← 2026-09-17](archive/2026/09/17.md)
+[← 2026-09-18](archive/2026/09/18.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [lmmx/figment2](https://github.com/lmmx/figment2)
-  > Fork of figment: A hierarchical configuration library
-
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) to [IuvenisSapiens/JAnim](https://github.com/IuvenisSapiens/JAnim)
-  > Programmatic animation engine for creating precise and smooth animations with real-time feedback
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [lulu-loopp/folio-terminal](https://github.com/lulu-loopp/folio-terminal)
-  > A terminal for Windows and macOS: formulas typeset where a command prints them, files preview beside...
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [lulu-loopp/folio-terminal](https://github.com/lulu-loopp/folio-terminal) to [IuvenisSapiens/folio-terminal](https://github.com/IuvenisSapiens/folio-terminal)
-  > A terminal for Windows and macOS: formulas typeset where a command prints them, files preview beside...
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [OrbitCurve/firmware-reverse-engineering](https://github.com/OrbitCurve/firmware-reverse-engineering)
-  > A full claude and codex skillsets for firmware reverse engineering.
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench)
-  > ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug,...
-
-### [Relyze](https://github.com/Relyze)
-- 🌟 👤 [Relyze](https://github.com/Relyze) Starred [Relyze/Warp4Free](https://github.com/Relyze/Warp4Free)
-  > Parsec Warp for Free
-
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega)
-  > [CVPR 2026 Oral] VGGT Omega
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sagemono/cell-xdr-overclocking](https://github.com/sagemono/cell-xdr-overclocking)
-  > What the CELL processor can do in 2026 
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [spth/cockshock2](https://github.com/spth/cockshock2)
-  > Reverse-engineering, documenting and hacking a dog shock collar for use as a sex toy
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fvutils/pywellen-mcp](https://github.com/fvutils/pywellen-mcp)
-  > MCP server for pywellen
-
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lobsters/lobsters](https://github.com/lobsters/lobsters) to [mrexodia/lobsters](https://github.com/mrexodia/lobsters)
-  > Computing-focused community centered around link aggregation and discussion
-
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser)
-  > Secure open-source Android browser with support for extensions
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)
-  > External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
-
-### [pwnall](https://github.com/pwnall)
-- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [temporalio/temporal](https://github.com/temporalio/temporal)
-  > Temporal service
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [incoai/splash](https://github.com/incoai/splash)
+  > A local inference engine for Apple silicon, built around the model.
 
 
 <!-- nav -->
-[← 2026-09-17](archive/2026/09/17.md)
+[← 2026-09-18](archive/2026/09/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-18 23:59:59 UTC*
+*Last updated at 2026-09-19 04:29:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
