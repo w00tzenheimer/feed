@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) to [IuvenisSapiens/JAnim](https://github.com/IuvenisSapiens/JAnim)
   > Programmatic animation engine for creating precise and smooth animations with real-time feedback
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [lulu-loopp/folio-terminal](https://github.com/lulu-loopp/folio-terminal)
+  > A terminal for Windows and macOS: formulas typeset where a command prints them, files preview beside...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [lulu-loopp/folio-terminal](https://github.com/lulu-loopp/folio-terminal) to [IuvenisSapiens/folio-terminal](https://github.com/IuvenisSapiens/folio-terminal)
+  > A terminal for Windows and macOS: formulas typeset where a command prints them, files preview beside...
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [OrbitCurve/firmware-reverse-engineering](https://github.com/OrbitCurve/firmware-reverse-engineering)
@@ -45,6 +49,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser)
   > Secure open-source Android browser with support for extensions
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)
+  > External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [temporalio/temporal](https://github.com/temporalio/temporal)
@@ -56,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-18 21:30:43 UTC*
+*Last updated at 2026-09-18 23:59:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
