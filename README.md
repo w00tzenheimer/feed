@@ -8,9 +8,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyyself/nvidia-rebar](https://github.com/cyyself/nvidia-rebar)
+  > Kernel Resizable BAR for NVIDIA GPU without BIOS supports
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rhgndf/sdcc](https://github.com/rhgndf/sdcc)
+  > SDCC 78K/0 port
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rhgndf/md380emu](https://github.com/rhgndf/md380emu)
+  > MD380 AMBE emulation that works on x86_64 and arm64 natively
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rhgndf/mini_gpsdo](https://github.com/rhgndf/mini_gpsdo)
+  > A mini GPSDO
+
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [leftspace89/jevsubrouter](https://github.com/leftspace89/jevsubrouter)
   > Routes each Claude Code sub-agent dispatch to the cheapest model that can finish its brief, without ...
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review)
+  > Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
+  > The Photoshop alternative for Mac
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [incoai/splash](https://github.com/incoai/splash)
@@ -24,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-19 17:04:51 UTC*
+*Last updated at 2026-09-19 20:18:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
