@@ -46,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xangel82/Athena-Engine](https://github.com/xangel82/Athena-Engine)
   > LLM Engine for DGX Spark 
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
-  > tiny Jev-like family of decision models built on top of Qwen3 you can train and run on your own
+  > tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
 
 ### [niieani](https://github.com/niieani)
 - 🍴 👤 [niieani](https://github.com/niieani) Forked [imputnet/helium](https://github.com/imputnet/helium) to [niieani/helium](https://github.com/niieani/helium)
@@ -62,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-20 21:18:00 UTC*
+*Last updated at 2026-09-20 23:58:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
