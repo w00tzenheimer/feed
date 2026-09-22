@@ -19,6 +19,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mufeiyu-ayu/agent](https://github.com/mufeiyu-ayu/agent) to [CrackerCat/agent](https://github.com/CrackerCat/agent)
   > 记录学习 agent 应用开发过程
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [AscarreX/UE4-Dumper](https://github.com/AscarreX/UE4-Dumper)
+  > Dump offsets and functions for games made using Unreal Engine 
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [xqzme69/A2MBA-LLVM](https://github.com/xqzme69/A2MBA-LLVM)
+  > LLVM 21 pass plugin for A²MBA architectural and anti-generalization hardening of mixed Boolean-arith...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [Recurse-Labs/recurse](https://github.com/Recurse-Labs/recurse) to [NetVar1337/recurse](https://github.com/NetVar1337/recurse)
+  > AI Native IDE for reverse engineering
+
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
   > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
@@ -31,13 +41,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [cmu-sei/pharos](https://github.com/cmu-sei/pharos)
   > Automated static analysis tools for binary programs
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
+  > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+  > Lakehouse native graph engine with git-style workflows
+
 
 <!-- nav -->
 [← 2026-09-21](archive/2026/09/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-22 09:42:35 UTC*
+*Last updated at 2026-09-22 14:30:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
