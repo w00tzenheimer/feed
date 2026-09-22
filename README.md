@@ -55,6 +55,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A TextKit 2 `NSTextView` subclass built specifically to work with source code
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
   > Sandboxie Plus & Classic
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dannydyl/SONY-Cell-SPU-Processor](https://github.com/dannydyl/SONY-Cell-SPU-Processor)
+  > This repository contains the complete Verilog implementation and supporting tools for a cycle-accura...
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [rizinorg/rz-ghidra](https://github.com/rizinorg/rz-ghidra)
@@ -74,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-21 20:53:22 UTC*
+*Last updated at 2026-09-21 23:56:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
