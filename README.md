@@ -28,6 +28,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
 - 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [Recurse-Labs/recurse](https://github.com/Recurse-Labs/recurse) to [NetVar1337/recurse](https://github.com/NetVar1337/recurse)
   > AI Native IDE for reverse engineering
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
+  > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sei-eschwartz/pharos](https://github.com/sei-eschwartz/pharos)
+  > Automated static analysis tools for binary programs
 
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
@@ -46,6 +52,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
   > Lakehouse native graph engine with git-style workflows
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
 
 
 <!-- nav -->
@@ -53,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-22 14:30:15 UTC*
+*Last updated at 2026-09-22 18:37:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
