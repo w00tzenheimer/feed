@@ -11,6 +11,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yruh/r0dump-redmi9a-crdroid16](https://github.com/yruh/r0dump-redmi9a-crdroid16) to [CrackerCat/r0dump-redmi9a-crdroid16](https://github.com/CrackerCat/r0dump-redmi9a-crdroid16)
   > Reproducible R0DUMP port patches for crDroid 12 / Android 16 on Redmi 9A (blossom)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) to [CrackerCat/laya](https://github.com/CrackerCat/laya)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) to [CrackerCat/jev-ultrafast](https://github.com/CrackerCat/jev-ultrafast)
+  > Fastest and cheapest web agent
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) to [CrackerCat/gpui-kit](https://github.com/CrackerCat/gpui-kit)
+  > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mufeiyu-ayu/agent](https://github.com/mufeiyu-ayu/agent) to [CrackerCat/agent](https://github.com/CrackerCat/agent)
+  > 记录学习 agent 应用开发过程
 
 ### [kweatherman](https://github.com/kweatherman)
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
@@ -18,13 +25,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)
   > Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games...
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra)
+  > A curated list of awesome Ghidra materials
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [cmu-sei/pharos](https://github.com/cmu-sei/pharos)
+  > Automated static analysis tools for binary programs
+
 
 <!-- nav -->
 [← 2026-09-21](archive/2026/09/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-22 04:28:35 UTC*
+*Last updated at 2026-09-22 09:42:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
