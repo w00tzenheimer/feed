@@ -21,6 +21,38 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement)
   > 二创爆改，懒得提交给原仓库了
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
+  > 🦊 Anti-detect browser
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)
+  > A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit an...
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [pashov/audits](https://github.com/pashov/audits) to [NetVar1337/audits](https://github.com/NetVar1337/audits)
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security) to [NetVar1337/ai-web3-security](https://github.com/NetVar1337/ai-web3-security)
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [pashov/skills](https://github.com/pashov/skills) to [NetVar1337/skills](https://github.com/NetVar1337/skills)
+  > Pashov Audit Group Skills
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [0xvivekd/0xvivekd](https://github.com/0xvivekd/0xvivekd) to [NetVar1337/0xvivekd](https://github.com/NetVar1337/0xvivekd)
+  > Smart contract security researcher — profile README
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [pashov/SCSVS](https://github.com/pashov/SCSVS)
+  > Smart Contract Security Verification Standard
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [pashov/solidity](https://github.com/pashov/solidity)
+  > Solidity, the Smart Contract Programming Language
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
+  > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [kadenzipfel/smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities)
+  > A collection of smart contract vulnerabilities along with prevention methods
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [CDSecurity/audits](https://github.com/CDSecurity/audits)
+  > Web3 Security For The Few Who Demand Perfection
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [ZhangZhuoSJTU/Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs)
+  > Demystifying Exploitable Bugs in Smart Contracts
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [ComposableSecurity/SCSVS](https://github.com/ComposableSecurity/SCSVS)
+  > Smart Contract Security Verification Standard
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Jeiwan/flash-loans-comparison](https://github.com/Jeiwan/flash-loans-comparison)
+  > Comparison of flash loan solutions on Ethereum
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [x676f64/secureum-mind_map](https://github.com/x676f64/secureum-mind_map)
+  > Central Repository for the Epoch 0 coursework and quizzes. Contains all the content, cross-reference...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts)
+  > Guidelines and training material to write secure smart contracts
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [argotorg/solidity](https://github.com/argotorg/solidity)
+  > Solidity, the Smart Contract Programming Language
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [TencentARC/GAE-GeometricAutoEncoder](https://github.com/TencentARC/GAE-GeometricAutoEncoder)
@@ -30,6 +62,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [jundot/omlx](https://github.com/jundot/omlx) to [jedisct1/omlx](https://github.com/jedisct1/omlx)
   > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [claucece/Practical-Cryptography](https://github.com/claucece/Practical-Cryptography)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [lkarlslund/laya.cpp](https://github.com/lkarlslund/laya.cpp)
+  > C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [apple-aiml-research/ml-lensvlm](https://github.com/apple-aiml-research/ml-lensvlm)
+  > Official code for LensVLM: Selective Context Expansion for Compressed Visual Representation of Text.
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xeb/gpt-analyst](https://github.com/0xeb/gpt-analyst)
@@ -45,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-23 16:28:33 UTC*
+*Last updated at 2026-09-23 20:02:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
