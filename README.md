@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arr2036/yksofttoken](https://github.com/arr2036/yksofttoken) to [CrackerCat/yksofttoken](https://github.com/CrackerCat/yksofttoken)
   > Software emulation of Yubikey hardware tokens in HOTP mode
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement)
+  > 二创爆改，懒得提交给原仓库了
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [TencentARC/GAE-GeometricAutoEncoder](https://github.com/TencentARC/GAE-GeometricAutoEncoder)
   > [arxiv'26] GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
@@ -31,13 +35,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xeb/gpt-analyst](https://github.com/0xeb/gpt-analyst)
   > GPT-Analyst: A GPT for GPT analysis and reverse engineering
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SentineLabs/verified-ida](https://github.com/SentineLabs/verified-ida)
+  > Verified IDA is a harness for model-led reverse engineering.
+
 
 <!-- nav -->
 [← 2026-09-22](archive/2026/09/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-23 11:06:58 UTC*
+*Last updated at 2026-09-23 16:28:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
