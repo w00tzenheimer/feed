@@ -58,15 +58,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [TencentARC/GAE-GeometricAutoEncoder](https://github.com/TencentARC/GAE-GeometricAutoEncoder)
   > [arxiv'26] GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
 
-### [jedisct1](https://github.com/jedisct1)
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [jundot/omlx](https://github.com/jundot/omlx) to [jedisct1/omlx](https://github.com/jedisct1/omlx)
-  > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [claucece/Practical-Cryptography](https://github.com/claucece/Practical-Cryptography)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [lkarlslund/laya.cpp](https://github.com/lkarlslund/laya.cpp)
-  > C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [apple-aiml-research/ml-lensvlm](https://github.com/apple-aiml-research/ml-lensvlm)
-  > Official code for LensVLM: Selective Context Expansion for Compressed Visual Representation of Text.
-
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xeb/gpt-analyst](https://github.com/0xeb/gpt-analyst)
   > GPT-Analyst: A GPT for GPT analysis and reverse engineering
@@ -75,13 +66,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SentineLabs/verified-ida](https://github.com/SentineLabs/verified-ida)
   > Verified IDA is a harness for model-led reverse engineering.
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [driceroland/Search](https://github.com/driceroland/Search)
+  > A small, fast WebKit browser for macOS, by Office Commun.
+
 
 <!-- nav -->
 [← 2026-09-22](archive/2026/09/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-23 20:02:08 UTC*
+*Last updated at 2026-09-23 23:28:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
