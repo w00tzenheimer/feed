@@ -1,67 +1,21 @@
-# Daily GitHub Activity (2026-09-22)
+# Daily GitHub Activity (2026-09-23)
 
 <!-- nav -->
-[← 2026-09-21](archive/2026/09/21.md)
+[← 2026-09-22](archive/2026/09/22.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yruh/r0dump-redmi9a-crdroid16](https://github.com/yruh/r0dump-redmi9a-crdroid16) to [CrackerCat/r0dump-redmi9a-crdroid16](https://github.com/CrackerCat/r0dump-redmi9a-crdroid16)
-  > Reproducible R0DUMP port patches for crDroid 12 / Android 16 on Redmi 9A (blossom)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) to [CrackerCat/laya](https://github.com/CrackerCat/laya)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) to [CrackerCat/jev-ultrafast](https://github.com/CrackerCat/jev-ultrafast)
-  > Fastest and cheapest web agent
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) to [CrackerCat/gpui-kit](https://github.com/CrackerCat/gpui-kit)
-  > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mufeiyu-ayu/agent](https://github.com/mufeiyu-ayu/agent) to [CrackerCat/agent](https://github.com/CrackerCat/agent)
-  > 记录学习 agent 应用开发过程
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [AscarreX/UE4-Dumper](https://github.com/AscarreX/UE4-Dumper)
-  > Dump offsets and functions for games made using Unreal Engine 
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [xqzme69/A2MBA-LLVM](https://github.com/xqzme69/A2MBA-LLVM)
-  > LLVM 21 pass plugin for A²MBA architectural and anti-generalization hardening of mixed Boolean-arith...
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
-  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
-- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [Recurse-Labs/recurse](https://github.com/Recurse-Labs/recurse) to [NetVar1337/recurse](https://github.com/NetVar1337/recurse)
-  > AI Native IDE for reverse engineering
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
-  > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sei-eschwartz/pharos](https://github.com/sei-eschwartz/pharos)
-  > Automated static analysis tools for binary programs
-
-### [kweatherman](https://github.com/kweatherman)
-- 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
-  > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
-- 🌟 👤 [kweatherman](https://github.com/kweatherman) Starred [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)
-  > Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games...
-
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra)
-  > A curated list of awesome Ghidra materials
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [cmu-sei/pharos](https://github.com/cmu-sei/pharos)
-  > Automated static analysis tools for binary programs
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
-  > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
-  > Lakehouse native graph engine with git-style workflows
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
-  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
-
+The users you follow have no new public activity today.
 
 <!-- nav -->
-[← 2026-09-21](archive/2026/09/21.md)
+[← 2026-09-22](archive/2026/09/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-22 21:53:15 UTC*
+*Last updated at 2026-09-23 00:09:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
