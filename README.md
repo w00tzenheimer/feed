@@ -27,6 +27,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > End-to-end agentic smart contract fuzzing and threat hunting
 - 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [monad-developers/ultrafuzz](https://github.com/monad-developers/ultrafuzz) to [NetVar1337/ultrafuzz](https://github.com/NetVar1337/ultrafuzz)
   > End-to-end agentic smart contract fuzzing and threat hunting
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
@@ -51,6 +52,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Sony PlayStation game static recompiler ecosystem · Part of the R.A.I.D. community
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X)
   > CPU-X is a Free software that gathers information on CPU, motherboard and more
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry)
+  > PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-...
 
 ### [johnyob](https://github.com/johnyob)
 - 🍴 👤 [johnyob](https://github.com/johnyob) Forked [oxcaml/oxcaml](https://github.com/oxcaml/oxcaml) to [johnyob/oxcaml](https://github.com/johnyob/oxcaml)
@@ -62,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ngwg/ceasta](https://github.com/ngwg/ceasta)
-  > disassembler, decompiler and debugger in one, with a built-in mcp server — point an ai at a binary a...
+  > disassembler, decompiler and debugger in one, with a built-in mcp server: point an ai at a binary an...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
   > Bit-vector expression simplifier for binary analysis and deobfuscation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -86,7 +89,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-25 18:20:52 UTC*
+*Last updated at 2026-09-25 22:05:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
