@@ -8,11 +8,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [google/artemis](https://github.com/google/artemis)
+  > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Yeeb1/CTFdCLI](https://github.com/Yeeb1/CTFdCLI) to [mrexodia/CTFdCLI](https://github.com/mrexodia/CTFdCLI)
   > Command-line interface for CTFd competitions: sync challenges, submit flags, and track progress.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Badtheorylabs/interference-search](https://github.com/Badtheorylabs/interference-search)
   > Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance toge...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1-3-7/disrobe](https://github.com/1-3-7/disrobe)
+  > Static decompiler, deobfuscator, and unpacker for reverse engineering and malware analysis: Python d...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [git/git](https://github.com/git/git) to [mrexodia/git](https://github.com/mrexodia/git)
+  > Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patc...
 
 ### [vmcall](https://github.com/vmcall)
 - 🌟 👤 [vmcall](https://github.com/vmcall) Starred [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix)
@@ -26,7 +34,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-26 12:48:58 UTC*
+*Last updated at 2026-09-26 16:57:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
