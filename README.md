@@ -21,6 +21,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Static decompiler, deobfuscator, and unpacker for reverse engineering and malware analysis: Python d...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [git/git](https://github.com/git/git) to [mrexodia/git](https://github.com/mrexodia/git)
   > Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patc...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation)
+  > Ablation is a reverse engineering framework
 
 ### [vmcall](https://github.com/vmcall)
 - 🌟 👤 [vmcall](https://github.com/vmcall) Starred [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix)
@@ -34,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-26 19:41:20 UTC*
+*Last updated at 2026-09-26 22:32:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
