@@ -1,42 +1,30 @@
-# Daily GitHub Activity (2026-09-26)
+# Daily GitHub Activity (2026-09-27)
 
 <!-- nav -->
-[← 2026-09-25](archive/2026/09/25.md)
+[← 2026-09-26](archive/2026/09/26.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [joydo](https://github.com/joydo)
-- 🌟 👤 [joydo](https://github.com/joydo) Starred [google/artemis](https://github.com/google/artemis)
-  > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)
+  > Suitable for Android APK reverse engineering analysis
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+  > LIST OF ALL MY JAILBREAKS
 
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Yeeb1/CTFdCLI](https://github.com/Yeeb1/CTFdCLI) to [mrexodia/CTFdCLI](https://github.com/mrexodia/CTFdCLI)
-  > Command-line interface for CTFd competitions: sync challenges, submit flags, and track progress.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Badtheorylabs/interference-search](https://github.com/Badtheorylabs/interference-search)
-  > Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance toge...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1-3-7/disrobe](https://github.com/1-3-7/disrobe)
-  > Static decompiler, deobfuscator, and unpacker for reverse engineering and malware analysis: Python d...
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [git/git](https://github.com/git/git) to [mrexodia/git](https://github.com/mrexodia/git)
-  > Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patc...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation)
-  > Ablation is a reverse engineering framework
-
-### [vmcall](https://github.com/vmcall)
-- 🌟 👤 [vmcall](https://github.com/vmcall) Starred [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix)
-  > NixOS MicroVMs
-- 🌟 👤 [vmcall](https://github.com/vmcall) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-  > Secure and fast microVMs for serverless computing.
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mrkai77/Loop](https://github.com/mrkai77/Loop)
+  > Window management made elegant.
 
 
 <!-- nav -->
-[← 2026-09-25](archive/2026/09/25.md)
+[← 2026-09-26](archive/2026/09/26.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-26 22:32:30 UTC*
+*Last updated at 2026-09-27 01:12:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
