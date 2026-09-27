@@ -63,6 +63,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > ⚠️ Experimental ⚠️ IDA Nexus allows multiple clients to seamlessly share and operate on IDA database...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ALange/Piper](https://github.com/ALange/Piper)
   > OpenAI compatible PI agent gateway and orchestrator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
+  > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG)
+  > PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding ag...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mrkai77/Loop](https://github.com/mrkai77/Loop)
@@ -76,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-27 18:09:09 UTC*
+*Last updated at 2026-09-27 21:55:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
