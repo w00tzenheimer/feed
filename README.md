@@ -38,6 +38,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A native Rust toolkit for OCR, document layout analysis, and vision-language document understanding.
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr) to [IuvenisSapiens/oar-ocr](https://github.com/IuvenisSapiens/oar-ocr)
   > A native Rust toolkit for OCR, document layout analysis, and vision-language document understanding.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [symbolica-dev/numerica](https://github.com/symbolica-dev/numerica)
+  > Numerica is an open-source mathematics library for Rust, that provides high-performance number types...
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)
@@ -48,6 +50,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Ablation is a reverse engineering framework
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
   > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [goffioul/ax86-nb-qemu](https://github.com/goffioul/ax86-nb-qemu)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [XQuartz/wayland](https://github.com/XQuartz/wayland)
+  > Mirror of https://gitlab.freedesktop.org/wayland/wayland.git
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-nexus](https://github.com/HexRaysSA/ida-nexus)
+  > ⚠️ Experimental ⚠️ IDA Nexus allows multiple clients to seamlessly share and operate on IDA database...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ALange/Piper](https://github.com/ALange/Piper)
+  > OpenAI compatible PI agent gateway and orchestrator
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mrkai77/Loop](https://github.com/mrkai77/Loop)
@@ -61,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-27 13:41:35 UTC*
+*Last updated at 2026-09-27 18:09:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
