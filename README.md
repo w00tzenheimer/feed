@@ -22,6 +22,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [gojue/ecaptureQ](https://github.com/gojue/ecaptureQ) to [CrackerCat/ecaptureQ](https://github.com/CrackerCat/ecaptureQ)
   > A cross-platform GUI for ecapture built with Tauri, enabling eBPF-based, non-intrusive TLS inspectio...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Colorful-glassblock/SilverFox-Cleaner](https://github.com/Colorful-glassblock/SilverFox-Cleaner) to [CrackerCat/SilverFox-Cleaner](https://github.com/CrackerCat/SilverFox-Cleaner)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) to [CrackerCat/jev-chat-jarvis](https://github.com/CrackerCat/jev-chat-jarvis)
+  > 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dikeckaan/mu300-linux](https://github.com/dikeckaan/mu300-linux) to [CrackerCat/mu300-linux](https://github.com/CrackerCat/mu300-linux)
+  > Linux (Ubuntu 26.04 + systemd, custom 5.4 kernel) on the ZTE F50 / MU300 5G hotspot (Unisoc T760 / U...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tearhacker/AndroidImGuiTearHackerTemplate](https://github.com/tearhacker/AndroidImGuiTearHackerTemplate) to [CrackerCat/AndroidImGuiTearHackerTemplate](https://github.com/CrackerCat/AndroidImGuiTearHackerTemplate)
+  > moba和fps多线程例子
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [1-3-7/disrobe](https://github.com/1-3-7/disrobe) to [CrackerCat/disrobe](https://github.com/CrackerCat/disrobe)
+  > Static decompiler, deobfuscator, and unpacker for reverse engineering and malware analysis: Python d...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/_patchHarmony](https://github.com/Dere3046/_patchHarmony) to [CrackerCat/_patchHarmony](https://github.com/CrackerCat/_patchHarmony)
+  > no patch kernel Support DroidSpaces.
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr)
@@ -51,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-27 07:50:00 UTC*
+*Last updated at 2026-09-27 13:41:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
