@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL)
+  > NixOS on WSL [maintainer=@nzbr] 
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Ujhhgtg/WeKit](https://github.com/Ujhhgtg/WeKit) to [CrackerCat/WeKit](https://github.com/CrackerCat/WeKit)
   > WeChat, now with superpowers
@@ -23,6 +27,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [lulu-loopp/folio-terminal](https://github.com/lulu-loopp/folio-terminal) to [IuvenisSapiens/folio-terminal](https://github.com/IuvenisSapiens/folio-terminal)
   > A terminal for Windows and macOS: formulas typeset where a command prints them, files preview beside...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+  > Neovim config for the lazy
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cloudflare/forge](https://github.com/cloudflare/forge)
@@ -30,6 +36,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
   > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models)
+  > Uncensored AI models or those fine-tuned for cybersecurity tasks.
+
+### [wangyu-](https://github.com/wangyu-)
+- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [yao90s/WQX-NC3000-Emulator](https://github.com/yao90s/WQX-NC3000-Emulator)
+- 🍴 👤 [wangyu-](https://github.com/wangyu-) Forked [yao90s/WQX-NC3000-Emulator](https://github.com/yao90s/WQX-NC3000-Emulator) to [wangyu-/WQX-NC3000-Emulator](https://github.com/wangyu-/WQX-NC3000-Emulator)
+- 🍴 👤 [wangyu-](https://github.com/wangyu-) Forked [yao90s/WQX-SPCE061-Emulator](https://github.com/yao90s/WQX-SPCE061-Emulator) to [wangyu-/WQX-SPCE061-Emulator](https://github.com/wangyu-/WQX-SPCE061-Emulator)
+- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [yao90s/WQX-SPCE061-Emulator](https://github.com/yao90s/WQX-SPCE061-Emulator)
 
 
 <!-- nav -->
@@ -37,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-28 15:08:11 UTC*
+*Last updated at 2026-09-28 21:41:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
