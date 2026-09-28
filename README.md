@@ -8,9 +8,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Ujhhgtg/WeKit](https://github.com/Ujhhgtg/WeKit) to [CrackerCat/WeKit](https://github.com/CrackerCat/WeKit)
+  > WeChat, now with superpowers
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [youyao666/SukiSU-KPM-Module](https://github.com/youyao666/SukiSU-KPM-Module) to [CrackerCat/SukiSU-KPM-Module](https://github.com/CrackerCat/SukiSU-KPM-Module)
+  > KPM (KernelPatch Module) support as a loadable kernelsu.ko - full loader ported from KernelPatch, no...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NoHackClient/ZelixKlassMaster-27](https://github.com/NoHackClient/ZelixKlassMaster-27) to [CrackerCat/ZelixKlassMaster-27](https://github.com/CrackerCat/ZelixKlassMaster-27)
+  > zkm27 fully deobf, renamed, optimized, and ideaready.....
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mytiantian001/VIVO-OTA-Tracker](https://github.com/mytiantian001/VIVO-OTA-Tracker) to [CrackerCat/VIVO-OTA-Tracker](https://github.com/CrackerCat/VIVO-OTA-Tracker)
+  > Vivo/iQOO OTA firmware download link fetcher
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fuqiuluo/rust-elegant](https://github.com/fuqiuluo/rust-elegant) to [CrackerCat/rust-elegant](https://github.com/CrackerCat/rust-elegant)
+  > 🍂 Teach AI coding agents to write Rust like experienced Rust engineers.
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [lulu-loopp/folio-terminal](https://github.com/lulu-loopp/folio-terminal) to [IuvenisSapiens/folio-terminal](https://github.com/IuvenisSapiens/folio-terminal)
   > A terminal for Windows and macOS: formulas typeset where a command prints them, files preview beside...
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cloudflare/forge](https://github.com/cloudflare/forge)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
+  > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
 
 
 <!-- nav -->
@@ -18,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-28 06:29:16 UTC*
+*Last updated at 2026-09-28 15:08:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
