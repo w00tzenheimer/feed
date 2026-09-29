@@ -14,6 +14,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Ch0pin/rdx](https://github.com/Ch0pin/rdx) to [CrackerCat/rdx](https://github.com/CrackerCat/rdx)
   > A native APK and DEX decompiler written in Rust
 
+### [Likon69](https://github.com/Likon69)
+- 🌟 👤 [Likon69](https://github.com/Likon69) Starred [amirlehmam/wmux](https://github.com/amirlehmam/wmux)
+  > The original Windows terminal multiplexer for AI agents. 
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [angr/angr](https://github.com/angr/angr)
   > A powerful and user-friendly binary analysis platform!
@@ -39,6 +43,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HullaBrian/ttd-yara](https://github.com/HullaBrian/ttd-yara)
   > YARA scanning for Time Travel Debugging traces
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kkokosa/heapspace](https://github.com/kkokosa/heapspace)
+  > Heapscape: a local Three.js and ClrMD explorer for .NET memory dumps
 
 ### [namazso](https://github.com/namazso)
 - 🍴 👤 [namazso](https://github.com/namazso) Forked [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) to [namazso/vhs-decode](https://github.com/namazso/vhs-decode)
@@ -54,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-29 15:31:52 UTC*
+*Last updated at 2026-09-29 20:33:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
