@@ -17,14 +17,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [angr/angr](https://github.com/angr/angr)
   > A powerful and user-friendly binary analysis platform!
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [NaC-L/omp-uwu](https://github.com/NaC-L/omp-uwu)
+  > omp extension: the agent answers in uwu-speak, while code, paths and commands stay byte-for-byte exa...
 
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [olafkfreund/nixos_config](https://github.com/olafkfreund/nixos_config)
   > My private nixos_config
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) to [jedisct1/dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy)
+  > dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [aomsin2526/BadWDSD](https://github.com/aomsin2526/BadWDSD)
   > Official repo of RP2040-based modchip for PS3 Slim and Superslim
+
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [bendlang/bend](https://github.com/bendlang/bend)
+  > Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HullaBrian/ttd-yara](https://github.com/HullaBrian/ttd-yara)
+  > YARA scanning for Time Travel Debugging traces
+
+### [namazso](https://github.com/namazso)
+- 🍴 👤 [namazso](https://github.com/namazso) Forked [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) to [namazso/vhs-decode](https://github.com/namazso/vhs-decode)
+  > Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [dmtrKovalenko/fframes](https://github.com/dmtrKovalenko/fframes)
@@ -36,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-29 08:07:29 UTC*
+*Last updated at 2026-09-29 15:31:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
