@@ -42,6 +42,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [connormcgarr/SkBridge](https://github.com/connormcgarr/SkBridge)
   > Harness to issue Virtual Secure Mode (VSM) "secure calls" from VTL 0 to VTL 1
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) to [mrexodia/nbdev](https://github.com/mrexodia/nbdev)
+  > Create delightful software with Jupyter Notebooks
+
 ### [shnaps666](https://github.com/shnaps666)
 - 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
   > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
@@ -52,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-30 18:56:43 UTC*
+*Last updated at 2026-09-30 22:55:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
