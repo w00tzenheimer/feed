@@ -26,6 +26,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) to [CrackerCat/AnyPS5](https://github.com/CrackerCat/AnyPS5)
   > Tool for automatic PS5 executables porting to Linux and Windows
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [weak1337/FilterTap](https://github.com/weak1337/FilterTap)
+
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [PixelML/club-170hx](https://github.com/PixelML/club-170hx)
+  > Community-tested recipes, diagnostics, and benchmarks for CMP 170HX AI workloads
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [PSPReverse/ASPFuzz](https://github.com/PSPReverse/ASPFuzz)
+
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [zainmustafam977/vbs-disabler-windows11](https://github.com/zainmustafam977/vbs-disabler-windows11)
   > Disable VBS, HVCI & Device Guard on Windows 11 24H2/25H2 — Fix VMware Workstation "Virtualized Intel...
@@ -42,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-30 13:27:23 UTC*
+*Last updated at 2026-09-30 18:56:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
