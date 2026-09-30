@@ -29,6 +29,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [zainmustafam977/vbs-disabler-windows11](https://github.com/zainmustafam977/vbs-disabler-windows11)
   > Disable VBS, HVCI & Device Guard on Windows 11 24H2/25H2 — Fix VMware Workstation "Virtualized Intel...
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [connormcgarr/SkBridge](https://github.com/connormcgarr/SkBridge)
+  > Harness to issue Virtual Secure Mode (VSM) "secure calls" from VTL 0 to VTL 1
+
+### [shnaps666](https://github.com/shnaps666)
+- 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+  > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 
 <!-- nav -->
@@ -36,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-30 06:26:29 UTC*
+*Last updated at 2026-09-30 13:27:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
