@@ -1,62 +1,28 @@
-# Daily GitHub Activity (2026-09-30)
+# Daily GitHub Activity (2026-10-01)
 
 <!-- nav -->
-[← 2026-09-29](archive/2026/09/29.md)
+[← 2026-09-30](archive/2026/09/30.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/TscanPlus-Keygen](https://github.com/lwtw123456/TscanPlus-Keygen) to [CrackerCat/TscanPlus-Keygen](https://github.com/CrackerCat/TscanPlus-Keygen)
-  > 学习型逆向项目，实现了 TscanPlus 的离线认证注册机
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Johnny520/anti-detect](https://github.com/Johnny520/anti-detect) to [CrackerCat/anti-detect](https://github.com/CrackerCat/anti-detect)
-  > Anti-Detect 反检测模块（Zygisk）：隐藏 Root/Magisk/Xposed/LSPosed/KernelSU/Bootloader 解锁，让 App 检测不到设备被改过。by 文强...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Johnny520/JohnnyAdBlock](https://github.com/Johnny520/JohnnyAdBlock) to [CrackerCat/JohnnyAdBlock](https://github.com/CrackerCat/JohnnyAdBlock)
-  > LSPosed去广告+破解VIP模块
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Felix3322/0xL0ADER](https://github.com/Felix3322/0xL0ADER) to [CrackerCat/0xL0ADER](https://github.com/CrackerCat/0xL0ADER)
-  > Shellcode loader generator with ECL/RSA encryption, made for huge shellcodes.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Johnny520/wcx](https://github.com/Johnny520/wcx) to [CrackerCat/wcx-](https://github.com/CrackerCat/wcx-)
-  > 一个集成了微信 Xposed 模块与去混淆分析工具的综合项目
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HullaBrian/ttdscape](https://github.com/HullaBrian/ttdscape) to [CrackerCat/ttdscape](https://github.com/CrackerCat/ttdscape)
-  > Visualize your TTD traces
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AnyLaySys/qemu-gzvm](https://github.com/AnyLaySys/qemu-gzvm) to [CrackerCat/qemu-gzvm](https://github.com/CrackerCat/qemu-gzvm)
-  > MediaTek GenieZone Hypervisor for QEMU
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) to [CrackerCat/AnyPS5](https://github.com/CrackerCat/AnyPS5)
-  > Tool for automatic PS5 executables porting to Linux and Windows
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [weak1337/FilterTap](https://github.com/weak1337/FilterTap)
-
-### [jakehemmerle](https://github.com/jakehemmerle)
-- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [PixelML/club-170hx](https://github.com/PixelML/club-170hx)
-  > Community-tested recipes, diagnostics, and benchmarks for CMP 170HX AI workloads
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [PSPReverse/ASPFuzz](https://github.com/PSPReverse/ASPFuzz)
-
-### [maskelihileci](https://github.com/maskelihileci)
-- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [zainmustafam977/vbs-disabler-windows11](https://github.com/zainmustafam977/vbs-disabler-windows11)
-  > Disable VBS, HVCI & Device Guard on Windows 11 24H2/25H2 — Fix VMware Workstation "Virtualized Intel...
-- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [connormcgarr/SkBridge](https://github.com/connormcgarr/SkBridge)
-  > Harness to issue Virtual Secure Mode (VSM) "secure calls" from VTL 0 to VTL 1
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
+  > A cross-platform GUI library for Rust, inspired by Elm
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) to [mrexodia/nbdev](https://github.com/mrexodia/nbdev)
-  > Create delightful software with Jupyter Notebooks
-
-### [shnaps666](https://github.com/shnaps666)
-- 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-  > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/keys-GLM-5.3-Flash-NVFP4-ablit-l15-43-mtp-l45](https://github.com/drowzeys/keys-GLM-5.3-Flash-NVFP4-ablit-l15-43-mtp-l45)
+  > Keys GLM-5.3-Flash NVFP4 ablit: LibertAI body + Dealign L15-45 o_proj, 0731 early-layer spare. 32/32...
 
 
 <!-- nav -->
-[← 2026-09-29](archive/2026/09/29.md)
+[← 2026-09-30](archive/2026/09/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-30 22:55:21 UTC*
+*Last updated at 2026-10-01 01:54:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
