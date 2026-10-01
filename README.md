@@ -25,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) to [can1357/taffy](https://github.com/can1357/taffy)
   > A high performance rust-powered UI layout library
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [BurntSushi/bstr](https://github.com/BurntSushi/bstr)
+  > A string type for Rust that is not required to be valid UTF-8.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold)
   > GLM-5.3-Flash EXL3 on 2x DGX Spark with TensorFold
@@ -32,6 +36,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open)
   > Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli)
+  > Muesli: agent-native local meeting transcription + dictation for macOS (Granola + WisprFlow alternat...
 
 
 <!-- nav -->
@@ -39,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-01 16:10:10 UTC*
+*Last updated at 2026-10-01 21:40:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
