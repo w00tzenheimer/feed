@@ -23,9 +23,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [skmp/polly2-rtl](https://github.com/skmp/polly2-rtl)
   > An implementation of PowerVR2/CLX2 CORE
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xSero/DeepSeek-V4.1-Flash-Two-Sparks](https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks)
+  > DeepSeek-V4.1-Flash on two DGX Sparks: EXL3 routed experts, 262k context, 2M-token KV, vision, tools...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [syv-ai/HyperQwen](https://github.com/syv-ai/HyperQwen)
+  > Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with v...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [resonand-app/resonand](https://github.com/resonand-app/resonand)
   > A self-hosted archive for the recordings that matter 🎧🔒
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB)
+  > The all-in-one bootable USB creator for Mac
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) to [woct0rdho/pi-computer-use](https://github.com/woct0rdho/pi-computer-use)
@@ -37,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-03 17:05:46 UTC*
+*Last updated at 2026-10-03 20:48:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
