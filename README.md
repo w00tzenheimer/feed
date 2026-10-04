@@ -24,13 +24,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [zzet/gortex](https://github.com/zzet/gortex)
   > High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repos...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [CXP-2024/codex-pv-character-replacement-skill](https://github.com/CXP-2024/codex-pv-character-replacement-skill)
+  > Codex skill for source-faithful PV character replacement, H3 production, continuity repair and 1080p...
+
 
 <!-- nav -->
 [← 2026-10-03](archive/2026/10/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-04 12:02:11 UTC*
+*Last updated at 2026-10-04 17:21:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
