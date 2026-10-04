@@ -12,9 +12,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Jordan231111/arm64-houdini-lsposed-framework](https://github.com/Jordan231111/arm64-houdini-lsposed-framework) to [CrackerCat/arm64-houdini-lsposed-framework](https://github.com/CrackerCat/arm64-houdini-lsposed-framework)
   > ARM64 guest-code instrumentation framework for LSPosed in Houdini/native-bridge Android emulator env...
 
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [zidniryi/unbagrnd](https://github.com/zidniryi/unbagrnd)
-  > Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, Linux and Andr...
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [spoopyghosty0/frameport](https://github.com/spoopyghosty0/frameport)
+  > Port games to work with the Steam Frame
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [EvanThomasLuke/Awesome-AI-Security-Skills](https://github.com/EvanThomasLuke/Awesome-AI-Security-Skills)
@@ -28,13 +28,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [CXP-2024/codex-pv-character-replacement-skill](https://github.com/CXP-2024/codex-pv-character-replacement-skill)
   > Codex skill for source-faithful PV character replacement, H3 production, continuity repair and 1080p...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
+  > Next generation e2e testing framework for web and mobile apps.
+
 
 <!-- nav -->
 [← 2026-10-03](archive/2026/10/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-04 17:21:19 UTC*
+*Last updated at 2026-10-04 21:03:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
