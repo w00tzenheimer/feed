@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🚀 👤 [jakehemmerle](https://github.com/jakehemmerle) Made [jakehemmerle/dsh-plugin-mermaid](https://github.com/jakehemmerle/dsh-plugin-mermaid) public
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xoreaxeaxeax/hexcymatix](https://github.com/xoreaxeaxeax/hexcymatix)
+  > patterns hiding in plain byte
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [uzairansaruzi/p3-stack](https://github.com/uzairansaruzi/p3-stack)
   > pstack reworked for T3 Code: delegated subagents, worktree threads, PR watching, scheduled runs.
@@ -35,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-06 16:35:21 UTC*
+*Last updated at 2026-10-06 21:29:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
