@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack) to [CrackerCat/vmp-lazy-unpack](https://github.com/CrackerCat/vmp-lazy-unpack)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YXBwbWFya2V0/AppMarket](https://github.com/YXBwbWFya2V0/AppMarket) to [CrackerCat/AppMarket](https://github.com/CrackerCat/AppMarket)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [uzairansaruzi/p3-stack](https://github.com/uzairansaruzi/p3-stack)
   > pstack reworked for T3 Code: delegated subagents, worktree threads, PR watching, scheduled runs.
@@ -20,7 +24,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-06 02:47:02 UTC*
+*Last updated at 2026-10-06 09:54:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
