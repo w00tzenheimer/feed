@@ -20,6 +20,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Leviidev/Husk](https://github.com/Leviidev/Husk) to [CrackerCat/Husk](https://github.com/CrackerCat/Husk)
   > Android Emulator for iOS
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/ApiHashing](https://github.com/Maldev-Academy/ApiHashing) public
+  > Windows x64 API hashing library that bypasses EAF and resolves forwarded exports, ordinals, and api-...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [paulovitorjp/ghidra-s390x](https://github.com/paulovitorjp/ghidra-s390x)
+  > From-scratch Ghidra processor module for IBM Z / z/Architecture (s390x), with z/OS load module loade...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
   > WebGPU components for React, Vue, Svelte, Solid, JS & Framer
@@ -30,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-07 08:20:27 UTC*
+*Last updated at 2026-10-07 16:11:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
