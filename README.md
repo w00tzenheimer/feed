@@ -24,13 +24,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/ApiHashing](https://github.com/Maldev-Academy/ApiHashing) public
   > Windows x64 API hashing library that bypasses EAF and resolves forwarded exports, ordinals, and api-...
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [LLVMParty/NoWarbird](https://github.com/LLVMParty/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [paulovitorjp/ghidra-s390x](https://github.com/paulovitorjp/ghidra-s390x)
   > From-scratch Ghidra processor module for IBM Z / z/Architecture (s390x), with z/OS load module loade...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robertkarl/UnbiasedStrata](https://github.com/robertkarl/UnbiasedStrata)
+  > Strata engine with the Python removed: a pinned llama.cpp submodule, one C++ binary, no downloads at...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server)
+  > The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
   > WebGPU components for React, Vue, Svelte, Solid, JS & Framer
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [statelyai/graph](https://github.com/statelyai/graph)
+  > Universal utilities for working with graphs
 
 
 <!-- nav -->
@@ -38,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-07 16:11:55 UTC*
+*Last updated at 2026-10-07 21:49:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
