@@ -8,9 +8,40 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [EloiStree](https://github.com/EloiStree)
-- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [dfcompose/godOSC](https://github.com/dfcompose/godOSC)
-  > Implementation of the Open Sound Control protocol in Godot using GDScript
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MOSSVENC/MVNonGKIDevices](https://github.com/MOSSVENC/MVNonGKIDevices) to [CrackerCat/MVNonGKIDevices](https://github.com/CrackerCat/MVNonGKIDevices)
+  > 自用的NonGKI 安卓内核Action仓库 ReSukiSU × manual / auto / susfs XXKSU × syscall_table / branch_link add Droi...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Windows-LPG/oplus_toolkit](https://github.com/Windows-LPG/oplus_toolkit) to [CrackerCat/oplus_toolkit](https://github.com/CrackerCat/oplus_toolkit)
+  > 一个专为 ColorOS 机型打造的轻量级硬件识别工具，基于 Material 3 设计 通过读取系统底层文件，告别复杂的终端命令与翻文件过程，一键了解手机的屏幕面板厂商、运行内存（RAM）颗粒以及闪...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [daijro/camoufox](https://github.com/daijro/camoufox) to [CrackerCat/camoufox](https://github.com/CrackerCat/camoufox)
+  > 🦊 Anti-detect browser
+
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
+  > An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+  > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
+  > An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [storytold/soundcraft](https://github.com/storytold/soundcraft)
+  > An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [charlesvestal/fm1-fomni](https://github.com/charlesvestal/fm1-fomni)
+  > FoMni: a chord harp firmware for the M-VAVE FM-1, inspired by the Omnichord. Strum the white keys, p...
+
+### [wangyu-](https://github.com/wangyu-)
+- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [femboyisp/yip](https://github.com/femboyisp/yip)
+  > 🦊 Invisible low-latency P2P mesh VPN - silent to DPI, Reed–Solomon FEC loss-recovery, self-certifyin...
+- 🍴 👤 [wangyu-](https://github.com/wangyu-) Forked [femboyisp/yip](https://github.com/femboyisp/yip) to [wangyu-/yip](https://github.com/wangyu-/yip)
+  > 🦊 Invisible low-latency P2P mesh VPN - silent to DPI, Reed–Solomon FEC loss-recovery, self-certifyin...
+
+### [wanttobeno](https://github.com/wanttobeno)
+- 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [jimmgreen/pulse](https://github.com/jimmgreen/pulse)
+  > 为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。
 
 
 <!-- nav -->
@@ -18,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-08 01:37:51 UTC*
+*Last updated at 2026-10-08 08:36:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
