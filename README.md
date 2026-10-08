@@ -26,6 +26,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [storytold/soundcraft](https://github.com/storytold/soundcraft)
   > An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
 
+### [Lynnette177](https://github.com/Lynnette177)
+- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+  > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
+  > An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [SystemSecurityStorm/Awesome-Binary-Rewriting](https://github.com/SystemSecurityStorm/Awesome-Binary-Rewriting)
+  > An awesome & curated list of binary rewriting papers
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [SystemSecurityStorm/Awesome-Binary-Similarity](https://github.com/SystemSecurityStorm/Awesome-Binary-Similarity)
+  > An awesome & curated list of binary code similarity papers
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
 
@@ -49,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-08 08:36:25 UTC*
+*Last updated at 2026-10-08 16:12:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
