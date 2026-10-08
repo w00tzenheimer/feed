@@ -40,10 +40,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Vector35/exarmo](https://github.com/Vector35/exarmo)
+  > Disassemblers for ARM's AArch64 and AArch32 instruction sets
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [facebookresearch/context-language-models](https://github.com/facebookresearch/context-language-models)
+  > Official repository for "Context Language Models"
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lithos-ai/lithos-metal](https://github.com/lithos-ai/lithos-metal)
+  > Lithos Metal: high-performance LLM inference kernels and serving for Apple silicon.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [charlesvestal/fm1-fomni](https://github.com/charlesvestal/fm1-fomni)
   > FoMni: a chord harp firmware for the M-VAVE FM-1, inspired by the Omnichord. Strum the white keys, p...
+
+### [seifreed](https://github.com/seifreed)
+- 🍴 👤 [seifreed](https://github.com/seifreed) Forked [andresriancho/w3af](https://github.com/andresriancho/w3af) to [seifreed/w3afv2](https://github.com/seifreed/w3afv2)
+  > w3af: web application attack and audit framework, the open source web vulnerability scanner.
+- 🍴 👤 [seifreed](https://github.com/seifreed) Forked [Arachni/arachni](https://github.com/Arachni/arachni) to [seifreed/arachniv2](https://github.com/seifreed/arachniv2)
+  > Web Application Security Scanner Framework
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [femboyisp/yip](https://github.com/femboyisp/yip)
@@ -61,7 +73,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-08 16:12:57 UTC*
+*Last updated at 2026-10-08 21:52:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
