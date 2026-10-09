@@ -26,6 +26,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [storytold/lightcraft](https://github.com/storytold/lightcraft)
   > An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Atharvsinh-codez/ObsidianUI](https://github.com/Atharvsinh-codez/ObsidianUI)
+  > React & Tailwind CSS Components Library
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [usestrix/strix](https://github.com/usestrix/strix) to [hashward-io/strix](https://github.com/hashward-io/strix)
+  > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 ### [can1357](https://github.com/can1357)
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [microsoft/TypeScript](https://github.com/microsoft/TypeScript) to [can1357/TypeScript](https://github.com/can1357/TypeScript)
@@ -37,6 +45,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [moznion/cccc](https://github.com/moznion/cccc)
   > A tool/library for measurement of "C"ognitive "C"omplexity and "C"yclomatic "C"omplexity
 
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [ashhart/TensorFold](https://github.com/ashhart/TensorFold)
+  > LLM Inference Engine for Metal, CUDA and Vulkan.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sagemono/lv0pen](https://github.com/sagemono/lv0pen)
+  > An open reconstruction of the PS3 boot chain.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sybil-solutions/glm-flash-lite](https://github.com/sybil-solutions/glm-flash-lite)
   > GLM-5.3-Flash EXL3 on one 24 GB RTX 3090 + DDR4: elastic GPU expert cache, zero-copy experts, AVX2 C...
@@ -45,6 +61,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)
   > The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown)
+  > Multiplatform Markdown-Based Rich Text Solution
 
 ### [seifreed](https://github.com/seifreed)
 - 🍴 👤 [seifreed](https://github.com/seifreed) Forked [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) to [seifreed/mitmproxy](https://github.com/seifreed/mitmproxy)
@@ -56,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-09 15:57:32 UTC*
+*Last updated at 2026-10-09 20:45:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
