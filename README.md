@@ -41,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [morluto/rea](https://github.com/morluto/rea) to [Lynnette177/rea](https://github.com/Lynnette177/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
+### [MaxtorCoder](https://github.com/MaxtorCoder)
+- 🌟 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+  > Tool for automatic PS5 executables porting to Linux and Windows
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [storytold/wordcraft](https://github.com/storytold/wordcraft)
   > An open-source, clean-room reimplementation of Microsoft Word in pure Rust
@@ -54,6 +58,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [facebook/Lifeguard](https://github.com/facebook/Lifeguard)
   > Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhe...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [projg2/portable-endianness](https://github.com/projg2/portable-endianness)
+  > Portable snippets for handling different endianness bytestreams
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [memoryleak47/slotted-egraphs](https://github.com/memoryleak47/slotted-egraphs)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GNS3/dynamips](https://github.com/GNS3/dynamips)
+  > Dynamips development
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Vector35/exarmo](https://github.com/Vector35/exarmo)
+  > Disassemblers for ARM's AArch64 and AArch32 instruction sets
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [droogie/bbhost](https://github.com/droogie/bbhost) to [mrexodia/bbhost](https://github.com/mrexodia/bbhost)
@@ -65,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-10 18:19:49 UTC*
+*Last updated at 2026-10-10 22:19:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
