@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [Teyliu/PVZF-Translation](https://github.com/Teyliu/PVZF-Translation)
+  > A Repository for the translation
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [longze777/UID-](https://github.com/longze777/UID-) to [CrackerCat/UID-](https://github.com/CrackerCat/UID-)
   > 通过seccomp过滤达到隐藏通过检查到内核分配uid但是查询对应的却不存在这一检测点进行修复
@@ -18,6 +22,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An Android cloud-phone runtime on Apple Silicon macOS and Linux ARM hosts
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaohuangbo/SoterFixer](https://github.com/xiaohuangbo/SoterFixer) to [CrackerCat/SoterFixer](https://github.com/CrackerCat/SoterFixer)
   > 修复一加骁龙系解锁bl导致Soter key失败的问题
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mito753/Browser-Exploit-Dojo](https://github.com/mito753/Browser-Exploit-Dojo) to [CrackerCat/Browser-Exploit-Dojo](https://github.com/CrackerCat/Browser-Exploit-Dojo)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mito753/CTF](https://github.com/mito753/CTF) to [CrackerCat/mito753-CTF](https://github.com/CrackerCat/mito753-CTF)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mhtsec/AnyDesk-AnyPwn-RCE](https://github.com/mhtsec/AnyDesk-AnyPwn-RCE) to [CrackerCat/AnyDesk-AnyPwn-RCE](https://github.com/CrackerCat/AnyDesk-AnyPwn-RCE)
+  > AnyDesk Linux 8.0.2 pre-auth heap overflow RCE (AnyPwn) — PoC with vulnerability analysis & reproduc...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cryptlib/cryptlib](https://github.com/cryptlib/cryptlib) to [CrackerCat/cryptlib](https://github.com/CrackerCat/cryptlib)
+  > cryptlib security toolkit
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NeverSight/NeverD](https://github.com/NeverSight/NeverD) to [CrackerCat/NeverD](https://github.com/CrackerCat/NeverD)
+  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [waligoraamodio288-rgb/hongguo-desktop-releases](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases)
@@ -39,12 +51,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Yzmblog/DMAD](https://github.com/Yzmblog/DMAD)
   > DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation
 
-### [jakehemmerle](https://github.com/jakehemmerle)
-- 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) to [jakehemmerle/dsh-TUI](https://github.com/jakehemmerle/dsh-TUI)
-  > DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smoo...
-- 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) to [jakehemmerle/dsh-aris-better](https://github.com/jakehemmerle/dsh-aris-better)
-  > ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cros...
-
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [facebook/Lifeguard](https://github.com/facebook/Lifeguard)
   > Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhe...
@@ -59,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-10 13:25:10 UTC*
+*Last updated at 2026-10-10 18:19:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
