@@ -8,12 +8,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AstralSightStudios/qemu-miwear](https://github.com/AstralSightStudios/qemu-miwear) to [CrackerCat/qemu-miwear](https://github.com/CrackerCat/qemu-miwear)
+### [Lynnette177](https://github.com/Lynnette177)
+- 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) to [Lynnette177/tendedero](https://github.com/Lynnette177/tendedero)
+  > Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the t...
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Gen-Verse/RSI-Anything](https://github.com/Gen-Verse/RSI-Anything)
   > RSI-Anything: Unlocking Recursive Self-Improvement with World Models
+
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [yetone/magpie](https://github.com/yetone/magpie)
+  > Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kweatherman/ida2pdb](https://github.com/kweatherman/ida2pdb)
+
+### [namreeb](https://github.com/namreeb)
+- 🍴 👤 [namreeb](https://github.com/namreeb) Forked [wowsims/exporter](https://github.com/wowsims/exporter) to [namreeb/exporter](https://github.com/namreeb/exporter)
+  > WoWSims Exporter addon repo
+
+### [nihilus](https://github.com/nihilus)
+- 🍴 👤 [nihilus](https://github.com/nihilus) Forked [openwrt/rpcd](https://github.com/openwrt/rpcd) to [nihilus/rpcd](https://github.com/nihilus/rpcd)
+  > [MIRROR] OpenWrt ubus RPC daemon
 
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [docwriter-org/plain-writing-skill](https://github.com/docwriter-org/plain-writing-skill)
@@ -25,7 +41,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-12 07:06:01 UTC*
+*Last updated at 2026-10-12 17:34:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
