@@ -31,13 +31,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [alibaba/last-secure-code-benchmark](https://github.com/alibaba/last-secure-code-benchmark)
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [necst/BINO](https://github.com/necst/BINO)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [necst/Highliner](https://github.com/necst/Highliner)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [system-fab/NanoNIC](https://github.com/system-fab/NanoNIC)
+  > Exploring eBPF Capabilities with Hardware Acceleration on FPGAs for High-Performance Networking
+
+### [michal-kapala](https://github.com/michal-kapala)
+- 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide)
+  > Recommendations for secure applications development with Rust
+
 
 <!-- nav -->
 [← 2026-10-12](archive/2026/10/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-13 15:43:33 UTC*
+*Last updated at 2026-10-13 21:03:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
