@@ -24,13 +24,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot ...
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [drost-ai/drost-community](https://github.com/drost-ai/drost-community)
 
-### [Shauren](https://github.com/Shauren)
-- 🍴 👤 [Shauren](https://github.com/Shauren) Forked [Tercioo/Plater-Nameplates](https://github.com/Tercioo/Plater-Nameplates) to [Shauren/Plater-Nameplates](https://github.com/Shauren/Plater-Nameplates)
-  > Source code for World of Warcraft addon Plater Nameplates.
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [timostamm/protobuf-npm](https://github.com/timostamm/protobuf-npm)
+  > This project provides unofficial npm packages for https://github.com/protocolbuffers/protobuf
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Saffsanity/sill](https://github.com/Saffsanity/sill)
   > Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free,...
+
+### [shnaps666](https://github.com/shnaps666)
+- 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [yukkcat/chatgpt2api](https://github.com/yukkcat/chatgpt2api)
+  > ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支...
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🍴 👤 [wanttobeno](https://github.com/wanttobeno) Forked [xiaoguo1417/PixViewer](https://github.com/xiaoguo1417/PixViewer) to [wanttobeno/PixViewer](https://github.com/wanttobeno/PixViewer)
@@ -42,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-14 17:51:22 UTC*
+*Last updated at 2026-10-14 21:25:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
