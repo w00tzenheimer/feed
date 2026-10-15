@@ -21,6 +21,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > One llama.cpp flag unlocks +33-39% decode speed for Qwen3.8-27B on consumer GPUs. The MTP head alrea...
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [SnailSploit/FISH](https://github.com/SnailSploit/FISH)
   > Origin IP discovery behind CDN/reverse-proxy — Fingerprint → Inspect → Scan → Harvest
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [19h/eac-linux-devirt](https://github.com/19h/eac-linux-devirt)
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [openbba0/bba](https://github.com/openbba0/bba)
@@ -41,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-15 16:37:09 UTC*
+*Last updated at 2026-10-15 20:12:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
