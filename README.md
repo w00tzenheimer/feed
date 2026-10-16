@@ -23,10 +23,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > SIMD (SWAR/SSE/SSE4/AVX2/AVX512F/ARM Neon) of Karp-Rabin algorithm's modification
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WojciechMula/base64simd](https://github.com/WojciechMula/base64simd) to [CrackerCat/base64simd](https://github.com/CrackerCat/base64simd)
   > Base64 coding and decoding with SIMD instructions (SSE/AVX2/AVX512F/AVX512BW/AVX512VBMI/ARM Neon)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenLegacyGame/RoomBreak-Escape-Now](https://github.com/OpenLegacyGame/RoomBreak-Escape-Now) to [CrackerCat/RoomBreak-Escape-Now](https://github.com/CrackerCat/RoomBreak-Escape-Now)
+
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [storytold/figcraft](https://github.com/storytold/figcraft)
+  > FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collabora...
 
 ### [NielsRogge](https://github.com/NielsRogge)
 - 🌟 👤 [NielsRogge](https://github.com/NielsRogge) Starred [huggingface/pwc-cli](https://github.com/huggingface/pwc-cli)
   > A Command-Line Interface (CLI), Skill and MCP Server to interact with Papers with Code. For agents a...
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [peterc/coopiano](https://github.com/peterc/coopiano)
+  > A physically modelled piano synthesizer in C++17 with offline WAV rendering and live MIDI on macOS.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [chc4/tinycov](https://github.com/chc4/tinycov)
+  > tinykvm-based binary coverage instrumentation
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [black-binary/sleigh-sys](https://github.com/black-binary/sleigh-sys)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Dasharo/edk2](https://github.com/Dasharo/edk2)
+  > EDK II component of Dasharo
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [19h/eac-linux-devirt](https://github.com/19h/eac-linux-devirt)
@@ -45,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-16 13:49:53 UTC*
+*Last updated at 2026-10-16 17:52:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
