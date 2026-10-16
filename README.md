@@ -25,6 +25,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Base64 coding and decoding with SIMD instructions (SSE/AVX2/AVX512F/AVX512BW/AVX512VBMI/ARM Neon)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenLegacyGame/RoomBreak-Escape-Now](https://github.com/OpenLegacyGame/RoomBreak-Escape-Now) to [CrackerCat/RoomBreak-Escape-Now](https://github.com/CrackerCat/RoomBreak-Escape-Now)
 
+### [JaredTherriault](https://github.com/JaredTherriault)
+- 🍴 👤 [JaredTherriault](https://github.com/JaredTherriault) Forked [mchughalex/rexglue-skate3](https://github.com/mchughalex/rexglue-skate3) to [JaredTherriault/rexglue-skate3](https://github.com/JaredTherriault/rexglue-skate3)
+
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [storytold/figcraft](https://github.com/storytold/figcraft)
   > FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collabora...
@@ -59,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-16 17:52:30 UTC*
+*Last updated at 2026-10-16 20:43:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
