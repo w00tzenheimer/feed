@@ -28,13 +28,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [JaredTherriault](https://github.com/JaredTherriault)
 - 🍴 👤 [JaredTherriault](https://github.com/JaredTherriault) Forked [mchughalex/rexglue-skate3](https://github.com/mchughalex/rexglue-skate3) to [JaredTherriault/rexglue-skate3](https://github.com/JaredTherriault/rexglue-skate3)
 
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [storytold/figcraft](https://github.com/storytold/figcraft)
-  > FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collabora...
-
 ### [NielsRogge](https://github.com/NielsRogge)
 - 🌟 👤 [NielsRogge](https://github.com/NielsRogge) Starred [huggingface/pwc-cli](https://github.com/huggingface/pwc-cli)
   > A Command-Line Interface (CLI), Skill and MCP Server to interact with Papers with Code. For agents a...
+
+### [Phhofm](https://github.com/Phhofm)
+- 🚀 👤 [Phhofm](https://github.com/Phhofm) Made [Phhofm/justserve-kispi-175](https://github.com/Phhofm/justserve-kispi-175) public
+  > Interaktive Mosaik- & Tracker-Webapp für das JustServe-Dienstprojekt des Pfahles Zürich zum 175-Jahr...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [peterc/coopiano](https://github.com/peterc/coopiano)
@@ -62,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-16 20:43:13 UTC*
+*Last updated at 2026-10-16 23:20:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
