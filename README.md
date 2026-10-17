@@ -23,6 +23,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ibragim-bad/evals-from-sessions](https://github.com/ibragim-bad/evals-from-sessions)
   > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [2fxbu97lhv/spectrum-ida-theme](https://github.com/2fxbu97lhv/spectrum-ida-theme)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [google-research/harness2](https://github.com/google-research/harness2)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc)
+  > Bloodborne on Windows in one package: launcher and engine. Bring your own game dump.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
@@ -35,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-17 19:06:18 UTC*
+*Last updated at 2026-10-17 22:03:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
