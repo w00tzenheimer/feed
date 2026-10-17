@@ -8,14 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Garfield1002/open_sleigh](https://github.com/Garfield1002/open_sleigh)
+  > Community-maintained SLEIGH processor specifications for Ghidra
+
 
 <!-- nav -->
 [← 2026-10-16](archive/2026/10/16.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-17 08:23:03 UTC*
+*Last updated at 2026-10-17 12:47:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
