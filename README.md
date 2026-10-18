@@ -8,22 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chosen-instruction-attack/CIA-dataset](https://github.com/chosen-instruction-attack/CIA-dataset)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chosen-instruction-attack/CIA-toolchain](https://github.com/chosen-instruction-attack/CIA-toolchain)
-  > The toolchain of Chosen-instruction attack
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DeadKennedyx/hidden-tiny-aes](https://github.com/DeadKennedyx/hidden-tiny-aes)
-  > AES-256-CBC with some evasion techniques
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
-  > One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: ...
-
+The users you follow have no public activity today that matches the filter criteria.
 
 <!-- nav -->
 [← 2026-10-17](archive/2026/10/17.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-18 14:22:03 UTC*
+*Last updated at 2026-10-18 17:54:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
