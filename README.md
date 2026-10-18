@@ -15,13 +15,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Phhofm](https://github.com/Phhofm)
 - 🚀 👤 [Phhofm](https://github.com/Phhofm) Made [Phhofm/justserve](https://github.com/Phhofm/justserve) public
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)
+  > Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+
 
 <!-- nav -->
 [← 2026-10-17](archive/2026/10/17.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-18 20:20:21 UTC*
+*Last updated at 2026-10-18 22:53:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
