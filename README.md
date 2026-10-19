@@ -55,6 +55,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Windows ProfSvc 0day
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML) to [CrackerCat/GreatXML](https://github.com/CrackerCat/GreatXML)
   > GreatXML bitlocker bypass vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [noobexon1/idaXfrida](https://github.com/noobexon1/idaXfrida) to [CrackerCat/idaXfrida](https://github.com/CrackerCat/idaXfrida)
+  > An IDA Pro plugin designed to bridge the gap between static analysis in IDA Pro and dynamic analysis...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) to [CrackerCat/RoguePlanet-MSNightmare](https://github.com/CrackerCat/RoguePlanet-MSNightmare)
+  > RoguePlanet Windows Defender Vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/GreenSection](https://github.com/MSNightmare/GreenSection) to [CrackerCat/GreenSection](https://github.com/CrackerCat/GreenSection)
+  > Nvidia GreenSection Memory Corruption 0day vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Corot-Development/android_vendor_xiaomi_corot](https://github.com/Corot-Development/android_vendor_xiaomi_corot) to [CrackerCat/android_vendor_xiaomi_corot](https://github.com/CrackerCat/android_vendor_xiaomi_corot)
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [PurpleCHOIms/operon](https://github.com/PurpleCHOIms/operon)
@@ -65,14 +72,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and ...
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
   > The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [mrexodia/dumpulator](https://github.com/mrexodia/dumpulator)
+  > An easy-to-use library for emulating memory dumps. Useful for malware analysis (config extraction, u...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide)
+  > Hiding kernel-driver for x86/x64.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [winterknife/PLATINUMPICK](https://github.com/winterknife/PLATINUMPICK)
+  > Windows Kernel-Mode Shellcode Development Framework (WKMSDF)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/dylint](https://github.com/trailofbits/dylint)
-  > Run Rust lints from dynamic libraries
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [purplesyringa/fpu-v](https://github.com/purplesyringa/fpu-v)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [purplesyringa/autumn](https://github.com/purplesyringa/autumn)
+  > WebAssembly interpreter that fits in a QR code
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [purplesyringa/h](https://github.com/purplesyringa/h)
+  > Practical, efficient perfect hash functions
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xboxoneresearch/very_based_interface](https://github.com/xboxoneresearch/very_based_interface)
+  > A parser and extractor for VBI files
 
-### [schinckel](https://github.com/schinckel)
-- 🌟 👤 [schinckel](https://github.com/schinckel) Starred [kingpanther13/esphome-mcp](https://github.com/kingpanther13/esphome-mcp)
-  > Home Assistant custom component exposing ESPHome Device Builder and ESPHome registry as MCP tools ov...
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [staltz/fabrica](https://github.com/staltz/fabrica)
 
 
 <!-- nav -->
@@ -80,7 +97,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-19 12:55:12 UTC*
+*Last updated at 2026-10-19 19:09:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
