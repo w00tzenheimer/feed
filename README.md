@@ -35,6 +35,44 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Realme-SM7475-developer/kernel-mainline](https://github.com/Realme-SM7475-developer/kernel-mainline) to [CrackerCat/kernel-mainline](https://github.com/CrackerCat/kernel-mainline)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Qmeimei10086/svm-dbg](https://github.com/Qmeimei10086/svm-dbg) to [CrackerCat/svm-dbg](https://github.com/CrackerCat/svm-dbg)
   > 基于npt-hook的amd平台调试体系重建工具
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [whoamicrash/VMProtectDumper](https://github.com/whoamicrash/VMProtectDumper) to [CrackerCat/VMProtectDumper](https://github.com/CrackerCat/VMProtectDumper)
+  > Windows tool for unpacking VMProtect-protected PE files from memory. Captures OEP, reconstructs IAT,...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [noobexon1/FridaForge](https://github.com/noobexon1/FridaForge) to [CrackerCat/FridaForge](https://github.com/CrackerCat/FridaForge)
+  > A plugin to generate Frida snippets straight from IDA Pro and Binary Ninja.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/ShieldCrash](https://github.com/MSNightmare/ShieldCrash) to [CrackerCat/ShieldCrash](https://github.com/CrackerCat/ShieldCrash)
+  > Windows Defender 0day Vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/BigDiskBuster](https://github.com/MSNightmare/BigDiskBuster) to [CrackerCat/BigDiskBuster-MSNightmare](https://github.com/CrackerCat/BigDiskBuster-MSNightmare)
+  > Windows Defender Update Denial of Service Vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) to [CrackerCat/FalconFlank](https://github.com/CrackerCat/FalconFlank)
+  > Crowdstrike Falcon 0day Privilege Escalation Vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/PrettyPrague](https://github.com/MSNightmare/PrettyPrague) to [CrackerCat/PrettyPrague](https://github.com/CrackerCat/PrettyPrague)
+  > GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/HardBreacher](https://github.com/MSNightmare/HardBreacher) to [CrackerCat/HardBreacher-MSNightmare](https://github.com/CrackerCat/HardBreacher-MSNightmare)
+  > Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak) to [CrackerCat/ShieldBreak](https://github.com/CrackerCat/ShieldBreak)
+  > Windows Defender 0day vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/LegacyHive](https://github.com/MSNightmare/LegacyHive) to [CrackerCat/LegacyHive](https://github.com/CrackerCat/LegacyHive)
+  > Windows ProfSvc 0day
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML) to [CrackerCat/GreatXML](https://github.com/CrackerCat/GreatXML)
+  > GreatXML bitlocker bypass vulnerability
+
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [PurpleCHOIms/operon](https://github.com/PurpleCHOIms/operon)
+  > A Rust-native workflow engine for parallel, incremental scheduling of DAG-defined multiplex tasks.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Asteromorph-Corp/operon](https://github.com/Asteromorph-Corp/operon)
+  > A Rust-native workflow engine for parallel, incremental scheduling of DAG-defined multiplex tasks.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering)
+  > Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and ...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+  > The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/dylint](https://github.com/trailofbits/dylint)
+  > Run Rust lints from dynamic libraries
+
+### [schinckel](https://github.com/schinckel)
+- 🌟 👤 [schinckel](https://github.com/schinckel) Starred [kingpanther13/esphome-mcp](https://github.com/kingpanther13/esphome-mcp)
+  > Home Assistant custom component exposing ESPHome Device Builder and ESPHome registry as MCP tools ov...
 
 
 <!-- nav -->
@@ -42,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-19 05:58:37 UTC*
+*Last updated at 2026-10-19 12:55:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
