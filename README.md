@@ -24,6 +24,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
 ### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [kernelstub/Pwnbox](https://github.com/kernelstub/Pwnbox)
+  > Privacy focused NixOS pentesting environment with a customizable desktop and security tools.
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [kernelstub/Ferrum](https://github.com/kernelstub/Ferrum)
   > Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeratio...
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Fundryi/HWID-Privacy](https://github.com/Fundryi/HWID-Privacy)
@@ -39,23 +41,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [oxc-project/tsrs](https://github.com/oxc-project/tsrs)
   > Rust port of the TypeScript 7 type checker
 
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac) to [mrexodia/unluac](https://github.com/mrexodia/unluac)
-  > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac)
-  > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [intel/SDM](https://github.com/intel/SDM)
-  > Website for viewing the executable IA specification (external view). This combines data from the SDM...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plotarmordev/drama-tensorfold](https://github.com/plotarmordev/drama-tensorfold)
-  > Fish Audio Drama 3 text-to-speech on the TensorFold native CUDA engine for DGX Spark (GB10): recipe,...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks)
-  > DeepSeek-V4.1-Flash-1017 EXL3 on 2x DGX Sparks with TensorFold
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) to [jakehemmerle/agent-beacon](https://github.com/jakehemmerle/agent-beacon)
+  > The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.co...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [sahilmahendrakar/paradee](https://github.com/sahilmahendrakar/paradee)
   > An 8M-parameter English text-to-speech model distilled from Kokoro-82M. 9 MB, runs 18x real time on ...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [hiroki-abe-58/ComfyUI-DBS](https://github.com/hiroki-abe-58/ComfyUI-DBS)
   > Dynamic Band Splitting (DBS) for ComfyUI: separate a soundtrack into music, sound effects and speech...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [pgrundev/pgx](https://github.com/pgrundev/pgx)
+  > Postgres for agents. 🐘
 
 
 <!-- nav -->
@@ -63,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-20 19:03:22 UTC*
+*Last updated at 2026-10-20 23:02:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
