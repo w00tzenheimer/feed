@@ -18,15 +18,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
 
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
-  > CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [dinosn/php-8.5.5-var_destroy-uaf](https://github.com/dinosn/php-8.5.5-var_destroy-uaf)
-  > PHP 8.5.5 — var_destroy __destruct reentrancy UAF. Sister bug to Calif MAD Bugs finding; survives th...
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)
+  > ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 ...
+
+### [NextrixVFX](https://github.com/NextrixVFX)
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [AJ6726/Data-Pointer-Smasher](https://github.com/AJ6726/Data-Pointer-Smasher)
+  > A Data Pointer Finder
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
+
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [oxc-project/tsrs](https://github.com/oxc-project/tsrs)
+  > Rust port of the TypeScript 7 type checker
 
 
 <!-- nav -->
@@ -34,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-21 14:57:18 UTC*
+*Last updated at 2026-10-21 19:12:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
