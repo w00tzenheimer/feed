@@ -26,9 +26,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [AJ6726/Data-Pointer-Smasher](https://github.com/AJ6726/Data-Pointer-Smasher)
   > A Data Pointer Finder
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
-  > Cross-Platform Micro-VM Sandbox for Agentic Workloads
+### [Phhofm](https://github.com/Phhofm)
+- 🍴 👤 [Phhofm](https://github.com/Phhofm) Forked [the-database/traiNNer-redux](https://github.com/the-database/traiNNer-redux) to [Phhofm/traiNNer-redux](https://github.com/Phhofm/traiNNer-redux)
+  > Deep learning training framework for image super resolution and restoration.
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [colinhacks/motherload](https://github.com/colinhacks/motherload)
+  > Import data files from TypeScript, fully typed. Powered by TypeScript 7.1 content mappers.
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [oxc-project/tsrs](https://github.com/oxc-project/tsrs)
@@ -40,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-21 19:12:26 UTC*
+*Last updated at 2026-10-21 23:05:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
