@@ -30,10 +30,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
   > Mac.apk: Run Android apps natively on Apple Silicon Macs
 
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
-  > rax is a CPU emulator that checks its own work.
-
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [comityhq/intuition](https://github.com/comityhq/intuition)
   > Your AI's gut check before you ship. A forked copy of your coding agent reviews its own work and exp...
@@ -56,13 +52,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
   > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
 
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
+  > An open-source method and skill set created at Google for spec-driven development with LLMs
+
 
 <!-- nav -->
 [← 2026-10-21](archive/2026/10/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-22 14:57:15 UTC*
+*Last updated at 2026-10-22 19:07:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
