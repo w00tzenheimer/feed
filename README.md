@@ -10,28 +10,51 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) to [CrackerCat/php2shell-bypass-aslr-exp](https://github.com/CrackerCat/php2shell-bypass-aslr-exp)
+  > A php2shell exploit that requires no modifications to the official version, and does not require dis...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/RKPConfig](https://github.com/Rprop/RKPConfig) to [CrackerCat/RKPConfig](https://github.com/CrackerCat/RKPConfig)
   > An Android tool for managing Remote Key Provisioning (RKP)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/JRelocator](https://github.com/Rprop/JRelocator) to [CrackerCat/JRelocator](https://github.com/CrackerCat/JRelocator)
   > ARM64 Linker relocation implemented in pure Java
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/JNterp](https://github.com/Rprop/JNterp) to [CrackerCat/JNterp](https://github.com/CrackerCat/JNterp)
   > A simplified Android ART nterp interpreter implemented in Java
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [konata/Curryficate](https://github.com/konata/Curryficate) to [CrackerCat/Curryficate](https://github.com/CrackerCat/Curryficate)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) to [CrackerCat/php2shell-poc](https://github.com/CrackerCat/php2shell-poc)
+  > CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session....
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) to [CrackerCat/hackios-xnu-kernel](https://github.com/CrackerCat/hackios-xnu-kernel)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NKU100/zygisk-gpu-driver-loader](https://github.com/NKU100/zygisk-gpu-driver-loader) to [CrackerCat/zygisk-gpu-driver-loader](https://github.com/CrackerCat/zygisk-gpu-driver-loader)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NKU100/zygisk-module-webui-template](https://github.com/NKU100/zygisk-module-webui-template) to [CrackerCat/zygisk-module-webui-template](https://github.com/CrackerCat/zygisk-module-webui-template)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NKU100/rootAVD](https://github.com/NKU100/rootAVD) to [CrackerCat/rootAVD-NKU100](https://github.com/CrackerCat/rootAVD-NKU100)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland) to [CrackerCat/hackios-xnu-userland](https://github.com/CrackerCat/hackios-xnu-userland)
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
   > Mac.apk: Run Android apps natively on Apple Silicon Macs
 
 ### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-  > Open-source Grok Bot alternative with a virtual machine that bots can use
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that checks its own work.
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [comityhq/intuition](https://github.com/comityhq/intuition)
   > Your AI's gut check before you ship. A forked copy of your coding agent reviews its own work and exp...
 
+### [kkent030315](https://github.com/kkent030315)
+- 🍴 👤 [kkent030315](https://github.com/kkent030315) Forked [Amanieu/regalloc3](https://github.com/Amanieu/regalloc3) to [kkent030315/regalloc3](https://github.com/kkent030315/regalloc3)
+  > New register allocator designed as a successor to regalloc2
+
 ### [michal-kapala](https://github.com/michal-kapala)
 - 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [B2BF/OpenBF2](https://github.com/B2BF/OpenBF2)
   > Battlefield 2 Compatible Source Code
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+  > The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.co...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra)
+  > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp)
+  > Super Mario Maker 2 Recomp
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+  > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
 
 
 <!-- nav -->
@@ -39,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-22 09:20:20 UTC*
+*Last updated at 2026-10-22 14:57:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
