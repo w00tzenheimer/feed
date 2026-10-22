@@ -30,6 +30,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
   > Mac.apk: Run Android apps natively on Apple Silicon Macs
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+  > TradingAgents: Multi-Agents LLM Financial Trading Framework
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra)
+  > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
+
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [comityhq/intuition](https://github.com/comityhq/intuition)
   > Your AI's gut check before you ship. A forked copy of your coding agent reviews its own work and exp...
@@ -42,19 +48,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [B2BF/OpenBF2](https://github.com/B2BF/OpenBF2)
   > Battlefield 2 Compatible Source Code
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
-  > The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.co...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra)
-  > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp)
-  > Super Mario Maker 2 Recomp
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
-  > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mantrakp04/ardia](https://github.com/mantrakp04/ardia)
+  > A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXr...
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
   > An open-source method and skill set created at Google for spec-driven development with LLMs
+
+### [schinckel](https://github.com/schinckel)
+- 🍴 👤 [schinckel](https://github.com/schinckel) Forked [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) to [schinckel/Mac.apk](https://github.com/schinckel/Mac.apk)
+  > Mac.apk: Run Android apps natively on Apple Silicon Macs
 
 
 <!-- nav -->
@@ -62,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-22 19:07:54 UTC*
+*Last updated at 2026-10-22 23:05:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
