@@ -1,50 +1,39 @@
-# Daily GitHub Activity (2026-10-21)
+# Daily GitHub Activity (2026-10-22)
 
 <!-- nav -->
-[← 2026-10-20](archive/2026/10/20.md)
+[← 2026-10-21](archive/2026/10/21.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [academa-labs/manimgx](https://github.com/academa-labs/manimgx)
-  > The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rus...
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [astral-sh/ty-vscode](https://github.com/astral-sh/ty-vscode)
-  > A Visual Studio Code extension for ty.
-
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
-  > Offline FairPlay App Store IPA decryption with independent key derivation
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)
-  > ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 ...
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) to [CrackerCat/i2pd](https://github.com/CrackerCat/i2pd)
+  >  🛡 I2P: End-to-End encrypted and anonymous Internet
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) to [CrackerCat/cleanyourtv](https://github.com/CrackerCat/cleanyourtv)
+  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) to [CrackerCat/MacNativeGames](https://github.com/CrackerCat/MacNativeGames)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HSSkyBoy/NyaZygisk](https://github.com/HSSkyBoy/NyaZygisk) to [CrackerCat/NyaZygisk](https://github.com/CrackerCat/NyaZygisk)
+  > Zygote injection with ptrace
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JasmineAura/AuraPrefetchLens](https://github.com/JasmineAura/AuraPrefetchLens) to [CrackerCat/AuraPrefetchLens](https://github.com/CrackerCat/AuraPrefetchLens)
+  > 离线 $MFT 与 USN Journal 分析
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [AJ6726/Data-Pointer-Smasher](https://github.com/AJ6726/Data-Pointer-Smasher)
-  > A Data Pointer Finder
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [comityhq/intuition](https://github.com/comityhq/intuition)
+  > Your AI's gut check before you ship. A forked copy of your coding agent reviews its own work and exp...
 
-### [Phhofm](https://github.com/Phhofm)
-- 🍴 👤 [Phhofm](https://github.com/Phhofm) Forked [the-database/traiNNer-redux](https://github.com/the-database/traiNNer-redux) to [Phhofm/traiNNer-redux](https://github.com/Phhofm/traiNNer-redux)
-  > Deep learning training framework for image super resolution and restoration.
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [colinhacks/motherload](https://github.com/colinhacks/motherload)
-  > Import data files from TypeScript, fully typed. Powered by TypeScript 7.1 content mappers.
-
-### [pwnall](https://github.com/pwnall)
-- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [oxc-project/tsrs](https://github.com/oxc-project/tsrs)
-  > Rust port of the TypeScript 7 type checker
+### [michal-kapala](https://github.com/michal-kapala)
+- 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [B2BF/OpenBF2](https://github.com/B2BF/OpenBF2)
+  > Battlefield 2 Compatible Source Code
 
 
 <!-- nav -->
-[← 2026-10-20](archive/2026/10/20.md)
+[← 2026-10-21](archive/2026/10/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-21 23:05:39 UTC*
+*Last updated at 2026-10-22 03:59:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
