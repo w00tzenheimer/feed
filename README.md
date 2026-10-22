@@ -9,15 +9,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) to [CrackerCat/i2pd](https://github.com/CrackerCat/i2pd)
-  >  🛡 I2P: End-to-End encrypted and anonymous Internet
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) to [CrackerCat/cleanyourtv](https://github.com/CrackerCat/cleanyourtv)
-  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) to [CrackerCat/MacNativeGames](https://github.com/CrackerCat/MacNativeGames)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HSSkyBoy/NyaZygisk](https://github.com/HSSkyBoy/NyaZygisk) to [CrackerCat/NyaZygisk](https://github.com/CrackerCat/NyaZygisk)
-  > Zygote injection with ptrace
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JasmineAura/AuraPrefetchLens](https://github.com/JasmineAura/AuraPrefetchLens) to [CrackerCat/AuraPrefetchLens](https://github.com/CrackerCat/AuraPrefetchLens)
-  > 离线 $MFT 与 USN Journal 分析
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) to [CrackerCat/php2shell-bypass-aslr-exp](https://github.com/CrackerCat/php2shell-bypass-aslr-exp)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/RKPConfig](https://github.com/Rprop/RKPConfig) to [CrackerCat/RKPConfig](https://github.com/CrackerCat/RKPConfig)
+  > An Android tool for managing Remote Key Provisioning (RKP)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/JRelocator](https://github.com/Rprop/JRelocator) to [CrackerCat/JRelocator](https://github.com/CrackerCat/JRelocator)
+  > ARM64 Linker relocation implemented in pure Java
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/JNterp](https://github.com/Rprop/JNterp) to [CrackerCat/JNterp](https://github.com/CrackerCat/JNterp)
+  > A simplified Android ART nterp interpreter implemented in Java
+
+### [Lynnette177](https://github.com/Lynnette177)
+- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
+  > Mac.apk: Run Android apps natively on Apple Silicon Macs
+
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+  > Open-source Grok Bot alternative with a virtual machine that bots can use
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [comityhq/intuition](https://github.com/comityhq/intuition)
@@ -33,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-22 03:59:38 UTC*
+*Last updated at 2026-10-22 09:20:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
