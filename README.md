@@ -29,14 +29,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > INVETITI
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
   > Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with eve...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security)
+  > awesome game security [Welcome to PR]
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
+  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
+  > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [gmh5225/awesome-web3-security](https://github.com/gmh5225/awesome-web3-security)
+  > A curated list of Web3 Security materials and resources for Pentesters and Bug Hunters.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [gmh5225/VulnerableScanner](https://github.com/gmh5225/VulnerableScanner)
+  > this simple tool scans drivers for potential arbitrary writing vulnurabilities using their IAT. this...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [gmh5225/EAC-EasyAntiCheat-Src-1](https://github.com/gmh5225/EAC-EasyAntiCheat-Src-1)
+  > Leaked EasyAntiCheat.sys
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [AlexeyInwerp/BoardRipper](https://github.com/AlexeyInwerp/BoardRipper)
   > Web-based PCB boardview viewer for board-level repair. 14 formats: BVR1/3, BRD, BDV, BDV ASC, FZ, Ge...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
-  > INVETITI
 
 ### [schinckel](https://github.com/schinckel)
 - 🍴 👤 [schinckel](https://github.com/schinckel) Forked [esphome/device-builder-frontend](https://github.com/esphome/device-builder-frontend) to [schinckel/device-builder-frontend](https://github.com/schinckel/device-builder-frontend)
@@ -52,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-23 18:56:39 UTC*
+*Last updated at 2026-10-23 21:57:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
