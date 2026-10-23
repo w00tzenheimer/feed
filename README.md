@@ -24,6 +24,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > All-in-one C++20 reverse engineering, binary structure inference & semantic code reconstruction suit...
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [yeswehack/claude-kit](https://github.com/yeswehack/claude-kit)
   > Claude Code plugin for writing triager-grade bug bounty reports
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [DietrichGebert/DietrichGebert](https://github.com/DietrichGebert/DietrichGebert)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
+  > INVETITI
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
+  > INVETITI
 
 ### [schinckel](https://github.com/schinckel)
 - 🍴 👤 [schinckel](https://github.com/schinckel) Forked [esphome/device-builder-frontend](https://github.com/esphome/device-builder-frontend) to [schinckel/device-builder-frontend](https://github.com/schinckel/device-builder-frontend)
@@ -33,17 +40,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [schinckel](https://github.com/schinckel) Forked [esphome/home-assistant-addon](https://github.com/esphome/home-assistant-addon) to [schinckel/home-assistant-addon](https://github.com/schinckel/home-assistant-addon)
   > ESPHome Home Assistant Add-on
 
-### [wanttobeno](https://github.com/wanttobeno)
-- 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [MDX-Tom/gpt-instruct](https://github.com/MDX-Tom/gpt-instruct)
-  > A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。
-
 
 <!-- nav -->
 [← 2026-10-22](archive/2026/10/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-23 09:48:04 UTC*
+*Last updated at 2026-10-23 14:45:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
