@@ -1,7 +1,7 @@
-# Daily GitHub Activity (2026-10-22)
+# Daily GitHub Activity (2026-10-23)
 
 <!-- nav -->
-[← 2026-10-21](archive/2026/10/21.md)
+[← 2026-10-22](archive/2026/10/22.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
@@ -9,64 +9,38 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) to [CrackerCat/php2shell-bypass-aslr-exp](https://github.com/CrackerCat/php2shell-bypass-aslr-exp)
-  > A php2shell exploit that requires no modifications to the official version, and does not require dis...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/RKPConfig](https://github.com/Rprop/RKPConfig) to [CrackerCat/RKPConfig](https://github.com/CrackerCat/RKPConfig)
-  > An Android tool for managing Remote Key Provisioning (RKP)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/JRelocator](https://github.com/Rprop/JRelocator) to [CrackerCat/JRelocator](https://github.com/CrackerCat/JRelocator)
-  > ARM64 Linker relocation implemented in pure Java
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/JNterp](https://github.com/Rprop/JNterp) to [CrackerCat/JNterp](https://github.com/CrackerCat/JNterp)
-  > A simplified Android ART nterp interpreter implemented in Java
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [konata/Curryficate](https://github.com/konata/Curryficate) to [CrackerCat/Curryficate](https://github.com/CrackerCat/Curryficate)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) to [CrackerCat/php2shell-poc](https://github.com/CrackerCat/php2shell-poc)
-  > CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session....
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) to [CrackerCat/hackios-xnu-kernel](https://github.com/CrackerCat/hackios-xnu-kernel)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NKU100/zygisk-gpu-driver-loader](https://github.com/NKU100/zygisk-gpu-driver-loader) to [CrackerCat/zygisk-gpu-driver-loader](https://github.com/CrackerCat/zygisk-gpu-driver-loader)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NKU100/zygisk-module-webui-template](https://github.com/NKU100/zygisk-module-webui-template) to [CrackerCat/zygisk-module-webui-template](https://github.com/CrackerCat/zygisk-module-webui-template)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NKU100/rootAVD](https://github.com/NKU100/rootAVD) to [CrackerCat/rootAVD-NKU100](https://github.com/CrackerCat/rootAVD-NKU100)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland) to [CrackerCat/hackios-xnu-userland](https://github.com/CrackerCat/hackios-xnu-userland)
-
-### [Lynnette177](https://github.com/Lynnette177)
-- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
-  > Mac.apk: Run Android apps natively on Apple Silicon Macs
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
-  > TradingAgents: Multi-Agents LLM Financial Trading Framework
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra)
-  > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
-
-### [NextrixVFX](https://github.com/NextrixVFX)
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [comityhq/intuition](https://github.com/comityhq/intuition)
-  > Your AI's gut check before you ship. A forked copy of your coding agent reviews its own work and exp...
-
-### [kkent030315](https://github.com/kkent030315)
-- 🍴 👤 [kkent030315](https://github.com/kkent030315) Forked [Amanieu/regalloc3](https://github.com/Amanieu/regalloc3) to [kkent030315/regalloc3](https://github.com/kkent030315/regalloc3)
-  > New register allocator designed as a successor to regalloc2
-
-### [michal-kapala](https://github.com/michal-kapala)
-- 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [B2BF/OpenBF2](https://github.com/B2BF/OpenBF2)
-  > Battlefield 2 Compatible Source Code
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [mantrakp04/ardia](https://github.com/mantrakp04/ardia)
-  > A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXr...
-
-### [pwnall](https://github.com/pwnall)
-- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
-  > An open-source method and skill set created at Google for spec-driven development with LLMs
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/inte.ko_oplus](https://github.com/Dere3046/inte.ko_oplus) to [CrackerCat/inte.ko_oplus](https://github.com/CrackerCat/inte.ko_oplus)
+  > Research on Oplus inte.ko LKM, including inte.ko source code and PoC
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [IvanIVGrozny/iOS27.0.1-SPTM-Research](https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research) to [CrackerCat/iOS27.0.1-SPTM-Research](https://github.com/CrackerCat/iOS27.0.1-SPTM-Research)
+  > Summary of the SPTM research on iOS 27.0.1, iPhone Air
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ikow/brotli2crash](https://github.com/ikow/brotli2crash) to [CrackerCat/brotli2crash](https://github.com/CrackerCat/brotli2crash)
+  > CVE-2026-111497 — Node.js Brotli Decoder OOB Write: Deep Analysis & Structural Unreachability Proof....
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wul7chaos/vmp-reverse-skill](https://github.com/wul7chaos/vmp-reverse-skill) to [CrackerCat/vmp-reverse-skill](https://github.com/CrackerCat/vmp-reverse-skill)
+  > Devirtualization pipeline for VMProtect-style binaries: dispatcher/handler slicing, two-generation P...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kolbicz/Cyanide](https://github.com/kolbicz/Cyanide) to [CrackerCat/Cyanide](https://github.com/CrackerCat/Cyanide)
+  > iOS tweak runner for kernel research, focused on Kolbicz-maintained tweaks and built on the DarkSwor...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [heinocheat/Delta_Force_DMA_Cheat_AFG](https://github.com/heinocheat/Delta_Force_DMA_Cheat_AFG) to [CrackerCat/Delta_Force_DMA_Cheat_AFG](https://github.com/CrackerCat/Delta_Force_DMA_Cheat_AFG)
+  > Delta Force DMA cheat project with MemProcFS/VMMDLL memory access, ImGui overlay, radar, and input i...
 
 ### [schinckel](https://github.com/schinckel)
-- 🍴 👤 [schinckel](https://github.com/schinckel) Forked [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) to [schinckel/Mac.apk](https://github.com/schinckel/Mac.apk)
-  > Mac.apk: Run Android apps natively on Apple Silicon Macs
+- 🍴 👤 [schinckel](https://github.com/schinckel) Forked [esphome/device-builder-frontend](https://github.com/esphome/device-builder-frontend) to [schinckel/device-builder-frontend](https://github.com/schinckel/device-builder-frontend)
+  > Frontend for the ESPHome Device Builder
+- 🍴 👤 [schinckel](https://github.com/schinckel) Forked [esphome/device-builder](https://github.com/esphome/device-builder) to [schinckel/device-builder](https://github.com/schinckel/device-builder)
+  > ESPHome Device Builder Dashboard
+- 🍴 👤 [schinckel](https://github.com/schinckel) Forked [esphome/home-assistant-addon](https://github.com/esphome/home-assistant-addon) to [schinckel/home-assistant-addon](https://github.com/schinckel/home-assistant-addon)
+  > ESPHome Home Assistant Add-on
+
+### [wanttobeno](https://github.com/wanttobeno)
+- 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [MDX-Tom/gpt-instruct](https://github.com/MDX-Tom/gpt-instruct)
+  > A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。
 
 
 <!-- nav -->
-[← 2026-10-21](archive/2026/10/21.md)
+[← 2026-10-22](archive/2026/10/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-22 23:05:03 UTC*
+*Last updated at 2026-10-23 04:02:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
