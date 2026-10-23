@@ -27,6 +27,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [DietrichGebert/DietrichGebert](https://github.com/DietrichGebert/DietrichGebert)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
   > INVETITI
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+  > Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with eve...
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [AlexeyInwerp/BoardRipper](https://github.com/AlexeyInwerp/BoardRipper)
+  > Web-based PCB boardview viewer for board-level repair. 14 formats: BVR1/3, BRD, BDV, BDV ASC, FZ, Ge...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
@@ -46,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-23 14:45:47 UTC*
+*Last updated at 2026-10-23 18:56:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
