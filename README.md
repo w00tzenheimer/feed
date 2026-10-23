@@ -8,19 +8,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/inte.ko_oplus](https://github.com/Dere3046/inte.ko_oplus) to [CrackerCat/inte.ko_oplus](https://github.com/CrackerCat/inte.ko_oplus)
-  > Research on Oplus inte.ko LKM, including inte.ko source code and PoC
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [IvanIVGrozny/iOS27.0.1-SPTM-Research](https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research) to [CrackerCat/iOS27.0.1-SPTM-Research](https://github.com/CrackerCat/iOS27.0.1-SPTM-Research)
-  > Summary of the SPTM research on iOS 27.0.1, iPhone Air
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ikow/brotli2crash](https://github.com/ikow/brotli2crash) to [CrackerCat/brotli2crash](https://github.com/CrackerCat/brotli2crash)
-  > CVE-2026-111497 — Node.js Brotli Decoder OOB Write: Deep Analysis & Structural Unreachability Proof....
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wul7chaos/vmp-reverse-skill](https://github.com/wul7chaos/vmp-reverse-skill) to [CrackerCat/vmp-reverse-skill](https://github.com/CrackerCat/vmp-reverse-skill)
-  > Devirtualization pipeline for VMProtect-style binaries: dispatcher/handler slicing, two-generation P...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kolbicz/Cyanide](https://github.com/kolbicz/Cyanide) to [CrackerCat/Cyanide](https://github.com/CrackerCat/Cyanide)
-  > iOS tweak runner for kernel research, focused on Kolbicz-maintained tweaks and built on the DarkSwor...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [heinocheat/Delta_Force_DMA_Cheat_AFG](https://github.com/heinocheat/Delta_Force_DMA_Cheat_AFG) to [CrackerCat/Delta_Force_DMA_Cheat_AFG](https://github.com/CrackerCat/Delta_Force_DMA_Cheat_AFG)
-  > Delta Force DMA cheat project with MemProcFS/VMMDLL memory access, ImGui overlay, radar, and input i...
+### [IIIImmmyyy](https://github.com/IIIImmmyyy)
+- 🍴 👤 [IIIImmmyyy](https://github.com/IIIImmmyyy) Forked [LukeFZ/Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux) to [IIIImmmyyy/Il2CppInspectorRedux](https://github.com/IIIImmmyyy/Il2CppInspectorRedux)
+  > Continuation of Il2CppInspector - A powerful automated tool for reverse engineering Unity IL2CPP bin...
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [hd3s5aa/CVE-2023-21674](https://github.com/hd3s5aa/CVE-2023-21674)
+
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [1llu50ry/mcp-gamehacking](https://github.com/1llu50ry/mcp-gamehacking)
+  > MCP (Model Context Protocol) server for game hacking & reverse engineering. A structured knowledge b...
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [1llu50ry/mcp-gamehacking](https://github.com/1llu50ry/mcp-gamehacking) to [NetVar1337/mcp-gamehacking](https://github.com/NetVar1337/mcp-gamehacking)
+  > MCP (Model Context Protocol) server for game hacking & reverse engineering. A structured knowledge b...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [1llu50ry/typemorph](https://github.com/1llu50ry/typemorph)
+  > All-in-one C++20 reverse engineering, binary structure inference & semantic code reconstruction suit...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [yeswehack/claude-kit](https://github.com/yeswehack/claude-kit)
+  > Claude Code plugin for writing triager-grade bug bounty reports
 
 ### [schinckel](https://github.com/schinckel)
 - 🍴 👤 [schinckel](https://github.com/schinckel) Forked [esphome/device-builder-frontend](https://github.com/esphome/device-builder-frontend) to [schinckel/device-builder-frontend](https://github.com/schinckel/device-builder-frontend)
@@ -40,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-23 04:02:49 UTC*
+*Last updated at 2026-10-23 09:48:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
