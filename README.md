@@ -19,10 +19,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [looplj/reveric](https://github.com/looplj/reveric) to [CrackerCat/reveric](https://github.com/CrackerCat/reveric)
   > Agent Native 一站式 AI 小说，短剧桌面创作工作台
 
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr) to [IuvenisSapiens/oar-ocr](https://github.com/IuvenisSapiens/oar-ocr)
-  > A native Rust toolkit for OCR, document layout analysis, and vision-language document understanding.
-
 ### [Likon69](https://github.com/Likon69)
 - 🌟 👤 [Likon69](https://github.com/Likon69) Starred [ripsnortntear/Honorbuddy-MoP-5.4.8-18414](https://github.com/ripsnortntear/Honorbuddy-MoP-5.4.8-18414)
   > Honorbuddy 5.4.8 (18414) AI UPDATED
@@ -51,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-24 14:21:29 UTC*
+*Last updated at 2026-10-24 17:58:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
