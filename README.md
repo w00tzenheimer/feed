@@ -23,17 +23,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr) to [IuvenisSapiens/oar-ocr](https://github.com/IuvenisSapiens/oar-ocr)
   > A native Rust toolkit for OCR, document layout analysis, and vision-language document understanding.
 
+### [Likon69](https://github.com/Likon69)
+- 🌟 👤 [Likon69](https://github.com/Likon69) Starred [ripsnortntear/Honorbuddy-MoP-5.4.8-18414](https://github.com/ripsnortntear/Honorbuddy-MoP-5.4.8-18414)
+  > Honorbuddy 5.4.8 (18414) AI UPDATED
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack) public
+  > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
+
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [andresarevalo1/BattleBlockRecomp-NX](https://github.com/andresarevalo1/BattleBlockRecomp-NX)
   > BattleBlock Theater (Xbox 360 XBLA) ported to Nintendo Switch via static recompilation on the ReXGlu...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
-  > Agent harness for learning difficult things.
 
 ### [n0ncetonic](https://github.com/n0ncetonic)
 - 🌟 👤 [n0ncetonic](https://github.com/n0ncetonic) Starred [erica-synths/lxr-desktop-app](https://github.com/erica-synths/lxr-desktop-app)
@@ -47,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-24 10:35:33 UTC*
+*Last updated at 2026-10-24 14:21:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
