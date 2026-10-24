@@ -43,9 +43,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack) public
   > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Synpath-ai/synpath](https://github.com/Synpath-ai/synpath)
+  > One open-source API for prediction markets. Trade Kalshi, Polymarket, Polymarket US and Opinion with...
+
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [andresarevalo1/BattleBlockRecomp-NX](https://github.com/andresarevalo1/BattleBlockRecomp-NX)
   > BattleBlock Theater (Xbox 360 XBLA) ported to Nintendo Switch via static recompilation on the ReXGlu...
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [noahware/winbo](https://github.com/noahware/winbo)
+  > Detecting window hijacking via ETW and GDI table scanning
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [meowsilk/patchguard-blocker](https://github.com/meowsilk/patchguard-blocker)
+  > patchguard
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)
+  > GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp)
@@ -63,7 +73,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-24 20:38:03 UTC*
+*Last updated at 2026-10-24 23:00:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
