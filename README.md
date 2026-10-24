@@ -19,6 +19,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [looplj/reveric](https://github.com/looplj/reveric) to [CrackerCat/reveric](https://github.com/CrackerCat/reveric)
   > Agent Native 一站式 AI 小说，短剧桌面创作工作台
 
+### [JaredTherriault](https://github.com/JaredTherriault)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [jcsix694/def-jam-vendetta-recomp](https://github.com/jcsix694/def-jam-vendetta-recomp)
+  > Def Jam Vendetta (PS2) recompiled for PC with PS2Recomp — source only, build from your own disc
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [dougieprishpreed/skate3recomp-plus](https://github.com/dougieprishpreed/skate3recomp-plus)
+  > An enhanced native recompilation of Skate 3 for Windows, with extra features.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [santiagovalencia109/Wario-Land-Shake-It-Native-PC](https://github.com/santiagovalencia109/Wario-Land-Shake-It-Native-PC)
+  > Unofficial native PC port of Wario Land: Shake It! (Wii), statically recompiled with WiiCompiled. Te...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [OAleex/ShaolinMonksRecomp](https://github.com/OAleex/ShaolinMonksRecomp)
+  > Native port of Mortal Kombat: Shaolin Monks (Xbox) through static recompilation.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Oussama268/ShadowOfTheColossus-PC](https://github.com/Oussama268/ShadowOfTheColossus-PC)
+  > Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nati...
+
 ### [Likon69](https://github.com/Likon69)
 - 🌟 👤 [Likon69](https://github.com/Likon69) Starred [ripsnortntear/Honorbuddy-MoP-5.4.8-18414](https://github.com/ripsnortntear/Honorbuddy-MoP-5.4.8-18414)
   > Honorbuddy 5.4.8 (18414) AI UPDATED
@@ -35,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [andresarevalo1/BattleBlockRecomp-NX](https://github.com/andresarevalo1/BattleBlockRecomp-NX)
   > BattleBlock Theater (Xbox 360 XBLA) ported to Nintendo Switch via static recompilation on the ReXGlu...
 
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp)
+  > Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer ...
+
 ### [n0ncetonic](https://github.com/n0ncetonic)
 - 🌟 👤 [n0ncetonic](https://github.com/n0ncetonic) Starred [erica-synths/lxr-desktop-app](https://github.com/erica-synths/lxr-desktop-app)
   > Firmware for LXR desktop drum synthesizer
@@ -47,7 +63,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-24 17:58:08 UTC*
+*Last updated at 2026-10-24 20:38:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
