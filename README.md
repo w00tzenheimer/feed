@@ -1,68 +1,24 @@
-# Daily GitHub Activity (2026-10-23)
+# Daily GitHub Activity (2026-10-24)
 
 <!-- nav -->
-[← 2026-10-22](archive/2026/10/22.md)
+[← 2026-10-23](archive/2026/10/23.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [IIIImmmyyy](https://github.com/IIIImmmyyy)
-- 🍴 👤 [IIIImmmyyy](https://github.com/IIIImmmyyy) Forked [LukeFZ/Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux) to [IIIImmmyyy/Il2CppInspectorRedux](https://github.com/IIIImmmyyy/Il2CppInspectorRedux)
-  > Continuation of Il2CppInspector - A powerful automated tool for reverse engineering Unity IL2CPP bin...
-
-### [NUL0x4C](https://github.com/NUL0x4C)
-- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [hd3s5aa/CVE-2023-21674](https://github.com/hd3s5aa/CVE-2023-21674)
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [1llu50ry/mcp-gamehacking](https://github.com/1llu50ry/mcp-gamehacking)
-  > MCP (Model Context Protocol) server for game hacking & reverse engineering. A structured knowledge b...
-- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [1llu50ry/mcp-gamehacking](https://github.com/1llu50ry/mcp-gamehacking) to [NetVar1337/mcp-gamehacking](https://github.com/NetVar1337/mcp-gamehacking)
-  > MCP (Model Context Protocol) server for game hacking & reverse engineering. A structured knowledge b...
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [1llu50ry/typemorph](https://github.com/1llu50ry/typemorph)
-  > All-in-one C++20 reverse engineering, binary structure inference & semantic code reconstruction suit...
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [yeswehack/claude-kit](https://github.com/yeswehack/claude-kit)
-  > Claude Code plugin for writing triager-grade bug bounty reports
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [DietrichGebert/DietrichGebert](https://github.com/DietrichGebert/DietrichGebert)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
-  > INVETITI
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
-  > Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with eve...
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security)
-  > awesome game security [Welcome to PR]
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
-  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
-  > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [gmh5225/awesome-web3-security](https://github.com/gmh5225/awesome-web3-security)
-  > A curated list of Web3 Security materials and resources for Pentesters and Bug Hunters.
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [gmh5225/VulnerableScanner](https://github.com/gmh5225/VulnerableScanner)
-  > this simple tool scans drivers for potential arbitrary writing vulnurabilities using their IAT. this...
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [gmh5225/EAC-EasyAntiCheat-Src-1](https://github.com/gmh5225/EAC-EasyAntiCheat-Src-1)
-  > Leaked EasyAntiCheat.sys
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-  > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [AlexeyInwerp/BoardRipper](https://github.com/AlexeyInwerp/BoardRipper)
-  > Web-based PCB boardview viewer for board-level repair. 14 formats: BVR1/3, BRD, BDV, BDV ASC, FZ, Ge...
-
-### [schinckel](https://github.com/schinckel)
-- 🍴 👤 [schinckel](https://github.com/schinckel) Forked [esphome/device-builder-frontend](https://github.com/esphome/device-builder-frontend) to [schinckel/device-builder-frontend](https://github.com/schinckel/device-builder-frontend)
-  > Frontend for the ESPHome Device Builder
-- 🍴 👤 [schinckel](https://github.com/schinckel) Forked [esphome/device-builder](https://github.com/esphome/device-builder) to [schinckel/device-builder](https://github.com/schinckel/device-builder)
-  > ESPHome Device Builder Dashboard
-- 🍴 👤 [schinckel](https://github.com/schinckel) Forked [esphome/home-assistant-addon](https://github.com/esphome/home-assistant-addon) to [schinckel/home-assistant-addon](https://github.com/schinckel/home-assistant-addon)
-  > ESPHome Home Assistant Add-on
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr) to [IuvenisSapiens/oar-ocr](https://github.com/IuvenisSapiens/oar-ocr)
+  > A native Rust toolkit for OCR, document layout analysis, and vision-language document understanding.
 
 
 <!-- nav -->
-[← 2026-10-22](archive/2026/10/22.md)
+[← 2026-10-23](archive/2026/10/23.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-23 21:57:40 UTC*
+*Last updated at 2026-10-24 00:28:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
