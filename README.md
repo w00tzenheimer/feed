@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rayfish/rayfish](https://github.com/rayfish/rayfish)
   > Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or contro...
 
+### [JaredTherriault](https://github.com/JaredTherriault)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Mabec-games/F-ZERO-GLINUX](https://github.com/Mabec-games/F-ZERO-GLINUX)
+  > F-ZERO GX on Linux & Windows: controller-friendly launcher, Full Widescreen support with AA & FXAA, ...
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [SonicSec/l0fck](https://github.com/SonicSec/l0fck)
   > Why have Lock when you can L0fck
@@ -32,6 +36,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bpesquet/publications](https://github.com/bpesquet/publications)
+  > My scientific publications
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bpesquet/mlcourse](https://github.com/bpesquet/mlcourse)
+  > Public material for my Machine Learning course: lectures, tutorials and lab works
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
@@ -46,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-25 17:30:19 UTC*
+*Last updated at 2026-10-25 20:36:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
