@@ -15,6 +15,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [JaredTherriault](https://github.com/JaredTherriault)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Mabec-games/F-ZERO-GLINUX](https://github.com/Mabec-games/F-ZERO-GLINUX)
   > F-ZERO GX on Linux & Windows: controller-friendly launcher, Full Widescreen support with AA & FXAA, ...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [gminustwo/primerecomp](https://github.com/gminustwo/primerecomp)
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [SonicSec/l0fck](https://github.com/SonicSec/l0fck)
@@ -46,17 +47,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
 
-### [vitosans](https://github.com/vitosans)
-- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) to [vitosans/cleanyourtv](https://github.com/vitosans/cleanyourtv)
-  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-
 
 <!-- nav -->
 [← 2026-10-24](archive/2026/10/24.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-25 20:36:29 UTC*
+*Last updated at 2026-10-25 23:05:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
