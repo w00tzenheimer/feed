@@ -167,15 +167,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [zeranemesis/Marioparty4](https://github.com/zeranemesis/Marioparty4)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [TekRantGaming/whopping-recompilation-collection](https://github.com/TekRantGaming/whopping-recompilation-collection)
   > Native PC ports of Sneak King, Big Bumpin' and PocketBike Racer (Xbox 360) via static recompilation,...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Ninjacornix/reo](https://github.com/Ninjacornix/reo)
+  > Resident Evil Outbreak native PC port: static recompilation of the PS2 game with online co-op (openS...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [luckvj/streetball-revival](https://github.com/luckvj/streetball-revival)
+  > Complete NBA Street Vol. 2 Rust Remake
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [MaxLeiter/project-8-plus](https://github.com/MaxLeiter/project-8-plus)
+  > A PC recomp of Tony Hawk's Project 8, with HD textures, 60+ fps and mods
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [kaizer1308/reverse-slap](https://github.com/kaizer1308/reverse-slap) to [NetVar1337/echo-reverse](https://github.com/NetVar1337/echo-reverse)
+  > Windows reverse-engineering workbench with live memory analysis, debugging, decompilation, Frida ins...
+
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Signal-Labs/Hotpatching_PoC](https://github.com/Signal-Labs/Hotpatching_PoC)
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [lyogavin/airllm](https://github.com/lyogavin/airllm)
+  > AirLLM 2.8T LLM inference with single 4GB GPU
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [houyuanchen111/MT-Forcing](https://github.com/houyuanchen111/MT-Forcing)
@@ -197,6 +209,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clipp...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [shekohex/oxc-effect-linting-rules](https://github.com/shekohex/oxc-effect-linting-rules)
   > This is a collection of opinionated linting rules (in OXC/ESLint) for Effect-ts projects
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [VictorKildahl/cra](https://github.com/VictorKildahl/cra)
+  > A native macOS browser with a sidebar instead of a tab strip. Spaces, pinned tabs, a command bar tha...
 
 
 <!-- nav -->
@@ -204,7 +218,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-26 17:10:48 UTC*
+*Last updated at 2026-10-26 22:27:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
