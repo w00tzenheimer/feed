@@ -23,6 +23,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Claude Code skill for reverse-engineering mobile apps
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) to [CrackerCat/emudrahahahahaha](https://github.com/CrackerCat/emudrahahahahaha)
   > Private Keys
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zsw125/o3root](https://github.com/zsw125/o3root) to [CrackerCat/o3root](https://github.com/CrackerCat/o3root)
+  > Shizuku-driven CVE-2026-98260 root + KernelSU runtime LKM loader for Xiaomi yingtian / lhasa (kernel...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fuqiuluo/WuwaInjector](https://github.com/fuqiuluo/WuwaInjector) to [CrackerCat/WuwaInjector](https://github.com/CrackerCat/WuwaInjector)
+  > Android process injector
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niizam/serein](https://github.com/niizam/serein) to [CrackerCat/serein](https://github.com/CrackerCat/serein)
+  > ARM64 to x86-64 native bridge for Android 11 emulators, built on AOSP Berberis.
 
 ### [JaredTherriault](https://github.com/JaredTherriault)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Apolinario-coder/MushroomMakerRecomp](https://github.com/Apolinario-coder/MushroomMakerRecomp)
@@ -153,15 +159,35 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Native port of Metroid Prime (GameCube) for Linux, Windows and Android, built from the PrimeDecomp d...
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [aabrole/HuntersRecomp](https://github.com/aabrole/HuntersRecomp)
   > Metroid Prime Hunters recomp for the AYN Thor: native dual-screen Android port with twin-stick Prime...
+- 🍴 👤 [JaredTherriault](https://github.com/JaredTherriault) Forked [andrewnakas/reskate-trainer](https://github.com/andrewnakas/reskate-trainer) to [JaredTherriault/reskate-trainer](https://github.com/JaredTherriault/reskate-trainer)
+  > ReSkate Trainer: a trainer menu for ReSkate (super ollie, fast flips, fast spins, live physics tunin...
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
+  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Signal-Labs/Hotpatching_PoC](https://github.com/Signal-Labs/Hotpatching_PoC)
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [houyuanchen111/MT-Forcing](https://github.com/houyuanchen111/MT-Forcing)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [liangbingzhao/MT-OPSD](https://github.com/liangbingzhao/MT-OPSD)
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [philpagel/debian-headless](https://github.com/philpagel/debian-headless)
+  > Create a debian headless/remote installation image
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+  > PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)
   > A Claude Code plugin that teaches Claude to write idiomatic, robust Rust
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [shekohex/oxc-effect-linting-rules](https://github.com/shekohex/oxc-effect-linting-rules)
+  > This is a collection of opinionated linting rules (in OXC/ESLint) for Effect-ts projects
 
 
 <!-- nav -->
@@ -169,7 +195,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-26 04:01:03 UTC*
+*Last updated at 2026-10-26 10:50:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
