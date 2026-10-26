@@ -1,59 +1,175 @@
-# Daily GitHub Activity (2026-10-25)
+# Daily GitHub Activity (2026-10-26)
 
 <!-- nav -->
-[← 2026-10-24](archive/2026/10/24.md)
+[← 2026-10-25](archive/2026/10/25.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rayfish/rayfish](https://github.com/rayfish/rayfish)
-  > Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or contro...
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) to [CrackerCat/gpu-unlock](https://github.com/CrackerCat/gpu-unlock)
+  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [x86rc/unthemidator](https://github.com/x86rc/unthemidator) to [CrackerCat/unthemidator](https://github.com/CrackerCat/unthemidator)
+  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LeonardNJU/VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) to [CrackerCat/VocoType-linux](https://github.com/CrackerCat/VocoType-linux)
+  > 高性能 Linux & Mac 离线中文语音输入法，基于 Ali FunASR.  ~0.1s 瞬时上屏，输入法级稳定性， 极高中文准确率、低资源占用(CPU Only).支持 IBus / Fcit...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xuyi726/ak3_XHigh](https://github.com/xuyi726/ak3_XHigh) to [CrackerCat/ak3_XHigh](https://github.com/CrackerCat/ak3_XHigh)
+  > Xiaomi Kernel with SukiSU/BakaSU + SUSFS
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) to [CrackerCat/x64dbg-mcp-server](https://github.com/CrackerCat/x64dbg-mcp-server)
+  > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [owen800q/mobile-reverse-skill](https://github.com/owen800q/mobile-reverse-skill) to [CrackerCat/mobile-reverse-skill](https://github.com/CrackerCat/mobile-reverse-skill)
+  > A Claude Code skill for reverse-engineering mobile apps
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha) to [CrackerCat/emudrahahahahaha](https://github.com/CrackerCat/emudrahahahahaha)
+  > Private Keys
 
 ### [JaredTherriault](https://github.com/JaredTherriault)
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Mabec-games/F-ZERO-GLINUX](https://github.com/Mabec-games/F-ZERO-GLINUX)
-  > F-ZERO GX on Linux & Windows: controller-friendly launcher, Full Widescreen support with AA & FXAA, ...
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [gminustwo/primerecomp](https://github.com/gminustwo/primerecomp)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Apolinario-coder/MushroomMakerRecomp](https://github.com/Apolinario-coder/MushroomMakerRecomp)
+  > An experimental native PC recompilation of Super Mario Maker 2
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [K0NL/B2recomp](https://github.com/K0NL/B2recomp)
+  > Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Zexyen/B3Recomp](https://github.com/Zexyen/B3Recomp)
+  > Unofficial static recompilation of Bayonetta 3. Builds the game on your PC from your own legally dum...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Revan67/DOAX2-Recomp](https://github.com/Revan67/DOAX2-Recomp)
+  > Open-source Dead or Alive Extreme 2 native PC recompilation research; user-supplied game data requir...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [yozander2009-stack/Metroid-Dread-Recomp](https://github.com/yozander2009-stack/Metroid-Dread-Recomp)
+  > Metroid Dread recomp 
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [SamidyFR/Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations)
+  > List of Game Decompilations i could gather from around the internet.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [LLONSIT/Wave-Race-64](https://github.com/LLONSIT/Wave-Race-64)
+  > A work in progress decompilation of Wave Race 64
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [sabishii-bit/wwdcmp](https://github.com/sabishii-bit/wwdcmp)
+  > A decompilation project for Wario World on the Gamecube. Primarily educational.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [SolarCookies/TiP-Recomp](https://github.com/SolarCookies/TiP-Recomp)
+  > A Recompilation of Viva Pinata: Trouble In Paradise
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Yanis002/st](https://github.com/Yanis002/st)
+  > Decompilation of The Legend of Zelda: Spirit Tracks
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [zeldaret/ph](https://github.com/zeldaret/ph)
+  > Decompilation of The Legend of Zelda: Phantom Hourglass
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [zeldaret/ss](https://github.com/zeldaret/ss)
+  > Decompilation of The Legend of Zelda: Skyward Sword
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [zeldaret/botw](https://github.com/zeldaret/botw)
+  > Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [doldecomp/melee](https://github.com/doldecomp/melee)
+  > A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [doldecomp/brawl](https://github.com/doldecomp/brawl)
+  > A work-in-progress matching decompilation of Super Smash Bros. Brawl
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [SeekyCt/spm-decomp](https://github.com/SeekyCt/spm-decomp)
+  > WIP 1:1 decompilation of Super Paper Mario
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [strager/supermetroid](https://github.com/strager/supermetroid)
+  > Super Metroid SNES game, disassembled
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [doldecomp/sms](https://github.com/doldecomp/sms)
+  > A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [yannicksuter/smstrikers-decomp](https://github.com/yannicksuter/smstrikers-decomp)
+  > Decompilation of Super Mario Strikers
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [new-coke/strikers](https://github.com/new-coke/strikers)
+  > Super Mario Strikers for PC, Mac, Linux & Nintendo Switch. Ported from decompiled code. Not a recomp...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [MonsterDruide1/OdysseyDecomp](https://github.com/MonsterDruide1/OdysseyDecomp)
+  > Decompilation of Super Mario Odyssey for all versions.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [3dsdecomp/RedPepper](https://github.com/3dsdecomp/RedPepper)
+  > Super Mario 3D Land EU Decompilation
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [ssxdecomp/ssxtricky](https://github.com/ssxdecomp/ssxtricky)
+  > A work-in-progress matching decompilation of SSX Tricky (2001).
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [ssxdecomp/ssx3](https://github.com/ssxdecomp/ssx3)
+  > Decompilation of SSX 3 (2003).
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [sonicdcer/sk](https://github.com/sonicdcer/sk)
+  > Decompilation of Snowboard Kids
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [cdlewis/snowboardkids2-decomp](https://github.com/cdlewis/snowboardkids2-decomp)
+  > Decompilation of snowboard kids 2 (N64)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Skate-Modding-Team/Skate-Decompilation-Project](https://github.com/Skate-Modding-Team/Skate-Decompilation-Project)
+  > A decompilation of EA's Skate series.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Daniel-McCarthy/SPPS](https://github.com/Daniel-McCarthy/SPPS)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [DarkRTA/rb3](https://github.com/DarkRTA/rb3)
+  > A decompilation of Rock Band 3 brought to you by a bunch of clever folks.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [ihatecompvir/band3_recomp](https://github.com/ihatecompvir/band3_recomp)
+  > band3 recomp
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [HarbourMasters/PaperBoat](https://github.com/HarbourMasters/PaperBoat)
+  > Paper Mario 64 port based on the Paper Mario DX decompilation
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [coccofresco/TriAevum](https://github.com/coccofresco/TriAevum)
+  > Experimental native PC recompilation runtime for Ocarina of Time 3D. Windows x64, NRI/Vulkan, single...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [NSMB-Decomp/nsmb](https://github.com/NSMB-Decomp/nsmb)
+  > A matching decompilation of New Super Mario Bros. for the Nintendo DS
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [NSMBW-Community/NSMBW-Decomp](https://github.com/NSMBW-Community/NSMBW-Decomp)
+  > A decompilation of New Super Mario Bros. Wii
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [aboood40091/red-pro2](https://github.com/aboood40091/red-pro2)
+  > Decompilation of New Super Mario Bros. U v1.3.0 US.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [ShulkMaster/mk-deception](https://github.com/ShulkMaster/mk-deception)
+  > Decomp of Mortal Kombat Deception for the Gamecube
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [cScarletter/MK-3D-Era-Decompilation](https://github.com/cScarletter/MK-3D-Era-Decompilation)
+  > Investigating and studying Mortal Kombat: Deadly Alliance, Deception, and Armageddon for all platfor...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [GirianSeed/mgstts](https://github.com/GirianSeed/mgstts)
+  > Work in progress.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mariopartyrd/mariopartyDS](https://github.com/mariopartyrd/mariopartyDS)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mariopartyrd/marioparty9](https://github.com/mariopartyrd/marioparty9)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mariopartyrd/marioparty8](https://github.com/mariopartyrd/marioparty8)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mariopartyrd/marioparty7](https://github.com/mariopartyrd/marioparty7)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mariopartyrd/marioparty5](https://github.com/mariopartyrd/marioparty5)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mariopartyrd/marioparty4](https://github.com/mariopartyrd/marioparty4)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mariopartyrd/marioparty3](https://github.com/mariopartyrd/marioparty3)
+  > Decompilation of Mario Party 3 for N64
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mariopartyrd/marioparty2](https://github.com/mariopartyrd/marioparty2)
+  > Mario Party 2 US Decomp
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mariopartyrd/marioparty](https://github.com/mariopartyrd/marioparty)
+  > Mario Party 1 US Decomp
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mariopartyrd/marioparty6](https://github.com/mariopartyrd/marioparty6)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [doldecomp/mkdd](https://github.com/doldecomp/mkdd)
+  > Decompilation of Mario Kart Double Dash!!
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [XorTroll/mkds-re](https://github.com/XorTroll/mkds-re)
+  > Mario Kart DS (EU) reverse-engineering work: ASM-hacking and other tools
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Rainchus/PartnersInTime-Decomp](https://github.com/Rainchus/PartnersInTime-Decomp)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Sage-of-Mirrors/zmansion](https://github.com/Sage-of-Mirrors/zmansion)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [andeecollard/jsrf-recomp](https://github.com/andeecollard/jsrf-recomp)
+  > Static recompilation of Jet Set Radio Future (Xbox) to native macOS — playable into chapter 2 at 60 ...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [open-goal/jak-project](https://github.com/open-goal/jak-project)
+  > Reviving the language that brought us the Jak & Daxter Series
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [PattyTrish/unending-occlusion](https://github.com/PattyTrish/unending-occlusion)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [AngheloAlf/drmario64](https://github.com/AngheloAlf/drmario64)
+  > Dr. Mario 64 decomp
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Rainchus/Donkey-Kong-64-Recompiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [DavidSM64/Diddy-Kong-Racing](https://github.com/DavidSM64/Diddy-Kong-Racing)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [ThatGuyMcd/DKR-R](https://github.com/ThatGuyMcd/DKR-R)
+  > Diddy Kong Racing - Recompiled (By ThatGuyMcd)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [rjkiv/dc3-decomp](https://github.com/rjkiv/dc3-decomp)
+  > A decompilation of Dance Central 3.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [SkiddyToast/Crackdown](https://github.com/SkiddyToast/Crackdown)
+  > Crackdown Recompilation using ReXGlue SDK
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [matty45/Crackdown2-Recomp](https://github.com/matty45/Crackdown2-Recomp)
+  > A bare-bones static recompilation of Crackdown 2.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [DevOldSchool/conkers-bfd-decomp](https://github.com/DevOldSchool/conkers-bfd-decomp)
+  > Decompilation of Conker's Bad Fur Day for Nintendo 64 (N64), with asset extraction tools, model-prev...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Mr-Wiseguy/banjo-tooie](https://github.com/Mr-Wiseguy/banjo-tooie)
+  > WIP Banjo Tooie Decompilation w/ Splat
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [masterspike52/reNut](https://github.com/masterspike52/reNut)
+  > Banjo-Kazooie: Nuts and Bolts Recompilation with Rexglue
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [banjo360/bk360](https://github.com/banjo360/bk360)
+  > Decompilation research of Banjo-Kazooie for the xbox 360
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Moddimation/3dcomp](https://github.com/Moddimation/3dcomp)
+  > A decompilation effort for Super Mario 3D World + Bowser's Fury
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [ethannicholas/prime-recomp](https://github.com/ethannicholas/prime-recomp)
+  > A recompilation of Metroid Prime.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [mstan/MetroidPrimeHuntersRecomp](https://github.com/mstan/MetroidPrimeHuntersRecomp)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Odrannnn/MetroidPrimePort](https://github.com/Odrannnn/MetroidPrimePort)
+  > Native port of Metroid Prime (GameCube) for Linux, Windows and Android, built from the PrimeDecomp d...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [aabrole/HuntersRecomp](https://github.com/aabrole/HuntersRecomp)
+  > Metroid Prime Hunters recomp for the AYN Thor: native dual-screen Android port with twin-stick Prime...
 
-### [NyaMisty](https://github.com/NyaMisty)
-- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [SonicSec/l0fck](https://github.com/SonicSec/l0fck)
-  > Why have Lock when you can L0fck
-- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zdypro888/icrypto](https://github.com/zdypro888/icrypto)
-  > apple iOS system crypto framework
+### [NextrixVFX](https://github.com/NextrixVFX)
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
+  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Signal-Labs/Hotpatching_PoC](https://github.com/Signal-Labs/Hotpatching_PoC)
 
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [stevensonmediagroup/beats](https://github.com/stevensonmediagroup/beats)
-  > Beatport downloads behind a clean web interface instead of babysitting a terminal.
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [unspok3n/beatportdl](https://github.com/unspok3n/beatportdl)
-  > Beatport & Beatsource downloader (FLAC, AAC)
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [blasty/wake-and-break](https://github.com/blasty/wake-and-break)
-  > Wake and Break: a PSP exploit for AMD navi31 (RX 7900) that makes the card accept unsigned IP firmwa...
-
-### [maskelihileci](https://github.com/maskelihileci)
-- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
-  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
-
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bpesquet/publications](https://github.com/bpesquet/publications)
-  > My scientific publications
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bpesquet/mlcourse](https://github.com/bpesquet/mlcourse)
-  > Public material for my Machine Learning course: lectures, tutorials and lab works
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
-  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)
+  > A Claude Code plugin that teaches Claude to write idiomatic, robust Rust
 
 
 <!-- nav -->
-[← 2026-10-24](archive/2026/10/24.md)
+[← 2026-10-25](archive/2026/10/25.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-25 23:05:43 UTC*
+*Last updated at 2026-10-26 04:01:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
