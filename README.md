@@ -161,6 +161,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Metroid Prime Hunters recomp for the AYN Thor: native dual-screen Android port with twin-stick Prime...
 - 🍴 👤 [JaredTherriault](https://github.com/JaredTherriault) Forked [andrewnakas/reskate-trainer](https://github.com/andrewnakas/reskate-trainer) to [JaredTherriault/reskate-trainer](https://github.com/JaredTherriault/reskate-trainer)
   > ReSkate Trainer: a trainer menu for ReSkate (super ollie, fast flips, fast spins, live physics tunin...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [NoRain211/doa2u-re](https://github.com/NoRain211/doa2u-re)
+  > Native Windows port of Dead or Alive 2 Ultimate (Xbox), built by static recompilation with a hand-wr...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [whompay/inFAMOUSreborn](https://github.com/whompay/inFAMOUSreborn)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [zeranemesis/Marioparty4](https://github.com/zeranemesis/Marioparty4)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [TekRantGaming/whopping-recompilation-collection](https://github.com/TekRantGaming/whopping-recompilation-collection)
+  > Native PC ports of Sneak King, Big Bumpin' and PocketBike Racer (Xbox 360) via static recompilation,...
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
@@ -182,10 +188,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DumpAnalysis/PrologWinDbg](https://github.com/DumpAnalysis/PrologWinDbg)
+  > Use Prolog to analyze memory dumps and stopped live processes in WinDbg.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NetVar1337/mdbg](https://github.com/NetVar1337/mdbg)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)
-  > A Claude Code plugin that teaches Claude to write idiomatic, robust Rust
+  > Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clipp...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [shekohex/oxc-effect-linting-rules](https://github.com/shekohex/oxc-effect-linting-rules)
   > This is a collection of opinionated linting rules (in OXC/ESLint) for Effect-ts projects
 
@@ -195,7 +204,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-26 10:50:37 UTC*
+*Last updated at 2026-10-26 17:10:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
