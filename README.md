@@ -23,6 +23,26 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Zelix Klass Master 27.0.0 反编译重建
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kirklin/skyward](https://github.com/kirklin/skyward) to [CrackerCat/skyward](https://github.com/CrackerCat/skyward)
   > An Android recovery written in Rust from scratch: decryption, installs and OTA updates, backup, WLAN...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) to [CrackerCat/android-ad-cleaner](https://github.com/CrackerCat/android-ad-cleaner)
+  > 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qq2070006042-create/yuehong-privilege-assistant](https://github.com/qq2070006042-create/yuehong-privilege-assistant) to [CrackerCat/yuehong-privilege-assistant](https://github.com/CrackerCat/yuehong-privilege-assistant)
+  > 月虹提权助手：内置 Stellar 与 GhostLock 的 Android 提权工作台
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) to [CrackerCat/ARTEX-trhhubsd](https://github.com/CrackerCat/ARTEX-trhhubsd)
+  > ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [martinkeith700/ruyiJS](https://github.com/martinkeith700/ruyiJS) to [CrackerCat/ruyiJS](https://github.com/CrackerCat/ruyiJS)
+  > Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX) to [CrackerCat/ARTEX-RuoJi6](https://github.com/CrackerCat/ARTEX-RuoJi6)
+  > Autumn-27/ARTEX 持续维护开源版本
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [liankong233/RXEngine](https://github.com/liankong233/RXEngine) to [CrackerCat/RXEngine](https://github.com/CrackerCat/RXEngine)
+  > Reverse engineering collect engine
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+  > A public release of the Steal My Bitcoin challenge
+
+### [stevemk14ebr](https://github.com/stevemk14ebr)
+- 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
 
 
 <!-- nav -->
@@ -30,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-27 01:53:25 UTC*
+*Last updated at 2026-10-27 07:32:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
