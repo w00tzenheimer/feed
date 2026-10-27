@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [bgpkit/monocle](https://github.com/bgpkit/monocle)
+  > 🧐 See through all BGP data with a monocle.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NekoMirra/rtx4060-laptop-tensor-unlock](https://github.com/NekoMirra/rtx4060-laptop-tensor-unlock) to [CrackerCat/rtx4060-laptop-tensor-unlock](https://github.com/CrackerCat/rtx4060-laptop-tensor-unlock)
   > RTX 4060 Laptop (10de:28a0) Windows UEFI 预启动张量速率解锁：FP16/BF16 FP32-累加 10.78 -> 49.74 TFLOPS，不刷 VBIOS、...
@@ -61,6 +65,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > AI agent browser for web reverse engineering
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Dovughs/velum-vmm](https://github.com/Dovughs/velum-vmm)
   > Velum-VMM: a Windows x64 research hypervisor with Intel VT-x, per-CPU EPT, syscall and kernel-entry ...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+  > List of Awesome Red Teaming Resources
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [OpenMOSS/OmniVAE](https://github.com/OpenMOSS/OmniVAE)
@@ -86,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-27 19:56:16 UTC*
+*Last updated at 2026-10-27 23:39:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
