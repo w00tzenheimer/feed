@@ -35,10 +35,38 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Autumn-27/ARTEX 持续维护开源版本
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [liankong233/RXEngine](https://github.com/liankong233/RXEngine) to [CrackerCat/RXEngine](https://github.com/CrackerCat/RXEngine)
   > Reverse engineering collect engine
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zoratu/hexray](https://github.com/zoratu/hexray) to [CrackerCat/hexray](https://github.com/CrackerCat/hexray)
+  > Rust-based disassembler
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [betacatsling/Open-ZCode](https://github.com/betacatsling/Open-ZCode) to [CrackerCat/Open-ZCode](https://github.com/CrackerCat/Open-ZCode)
+  > ZCode with a per-session selectable agent harness: ZCode / Claude Code / Codex / pi
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
-  > A public release of the Steal My Bitcoin challenge
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [zdypro888/icrypto](https://github.com/zdypro888/icrypto)
+  > apple iOS system crypto framework
+
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [BehiSecc/HuntProxy](https://github.com/BehiSecc/HuntProxy)
+  > A web security workbench built for AI agents.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack)
+  > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) to [NetVar1337/x64dbg](https://github.com/NetVar1337/x64dbg)
+  > An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysi...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Gbps/gbhv](https://github.com/Gbps/gbhv)
+  > Simple x86-64 VT-x Hypervisor with EPT Hooking
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [can1357/hvdetecc](https://github.com/can1357/hvdetecc)
+  > Collection of hypervisor detections
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+  > DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts pe...
+
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [OpenMOSS/OmniVAE](https://github.com/OpenMOSS/OmniVAE)
+  > A unified audio-video variational autoencoder with cross-modal alignment for joint reconstruction an...
+
+### [shnaps666](https://github.com/shnaps666)
+- 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge)
+  > One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, gr...
+- 🍴 👤 [shnaps666](https://github.com/shnaps666) Forked [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) to [shnaps666/agent-purge](https://github.com/shnaps666/agent-purge)
+  > One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, gr...
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
@@ -50,7 +78,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-27 07:32:01 UTC*
+*Last updated at 2026-10-27 14:11:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
