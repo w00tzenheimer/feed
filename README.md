@@ -57,10 +57,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Collection of hypervisor detections
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
   > DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts pe...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [greekr4/rever-browser](https://github.com/greekr4/rever-browser)
+  > AI agent browser for web reverse engineering
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Dovughs/velum-vmm](https://github.com/Dovughs/velum-vmm)
+  > Velum-VMM: a Windows x64 research hypervisor with Intel VT-x, per-CPU EPT, syscall and kernel-entry ...
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [OpenMOSS/OmniVAE](https://github.com/OpenMOSS/OmniVAE)
   > A unified audio-video variational autoencoder with cross-modal alignment for joint reconstruction an...
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Deepusleepy/t3-tots](https://github.com/Deepusleepy/t3-tots)
+  > Grok Bot companion for T3 Code.
 
 ### [shnaps666](https://github.com/shnaps666)
 - 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge)
@@ -78,7 +86,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-27 14:11:27 UTC*
+*Last updated at 2026-10-27 19:56:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
