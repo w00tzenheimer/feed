@@ -43,18 +43,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Maya Workflow Kit: the whole Maya workflow in Blender, in one install. Hotbox, marking menus, Channe...
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [5hyuns/maya-workflow-kit-for-blender](https://github.com/5hyuns/maya-workflow-kit-for-blender)
   > Maya Workflow Kit: the whole Maya workflow in Blender, in one install. Hotbox, marking menus, Channe...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [shipa-2/Xerenge](https://github.com/shipa-2/Xerenge)
+  > Burnout Revenge recompilation based on RexGlue + standalone Plume render
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [redC0rvus/doa4-recomp-suite](https://github.com/redC0rvus/doa4-recomp-suite)
+  > Dead or Alive 4 recompiler for Windows, bring your own disc (ReXGlue SDK)
 
 ### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
-  > ⚚ The coding harness with Hermes Agent, Just type 'dag-ulw'
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [0xnobody/vmpattack](https://github.com/0xnobody/vmpattack)
-  > A VMP to VTIL lifter.
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
-  > HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [gmh5225/velo](https://github.com/gmh5225/velo)
-  > A speed test for the terminal with a cockpit dashboard: latency, download, upload, and bufferbloat.
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [bjarneo/velo](https://github.com/bjarneo/velo)
-  > A speed test for the terminal with a cockpit dashboard: latency, download, upload, and bufferbloat.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [NotRequiem/swtpm-detector](https://github.com/NotRequiem/swtpm-detector)
+  > Detection for every software TPM, TPM passthrough, TPM proxying, EDS/EK/PCR spoofing, and VMs
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Amanieu/regalloc3](https://github.com/Amanieu/regalloc3)
+  > New register allocator designed as a successor to regalloc2
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Kudaes/Unwinder](https://github.com/Kudaes/Unwinder)
+  > Call stack spoofing for Rust
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
+  > A collection of remote MCP servers.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+  > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [denysvitali/tesla-qemu](https://github.com/denysvitali/tesla-qemu)
@@ -77,10 +81,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) to [joydo/ai-pose-gallery-zh](https://github.com/joydo/ai-pose-gallery-zh)
   > 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [divagr18/qwenputer](https://github.com/divagr18/qwenputer)
-  > A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gate...
-
 ### [n0ncetonic](https://github.com/n0ncetonic)
 - 🌟 👤 [n0ncetonic](https://github.com/n0ncetonic) Starred [opentrap/opentrap](https://github.com/opentrap/opentrap)
   > A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing su...
@@ -91,7 +91,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-28 18:07:23 UTC*
+*Last updated at 2026-10-28 23:00:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
