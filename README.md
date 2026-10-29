@@ -49,6 +49,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bun...
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
   > The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and ...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware)
+  > State-of-the-art virtual machine detection
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
+  > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [SovranAMR/claude-code-via-antigravity](https://github.com/SovranAMR/claude-code-via-antigravity)
@@ -65,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-29 18:50:35 UTC*
+*Last updated at 2026-10-29 23:08:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
