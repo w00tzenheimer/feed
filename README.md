@@ -9,38 +9,51 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vindeckyy/tp-link-archer-axe300-command-injection-rce](https://github.com/vindeckyy/tp-link-archer-axe300-command-injection-rce) to [CrackerCat/tp-link-archer-axe300-command-injection-rce](https://github.com/CrackerCat/tp-link-archer-axe300-command-injection-rce)
-  > Root RCE via authenticated OS command injection in the TP-Link Archer AXE300 ISP Speed Test (spdt_se...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [michalbednarski/OtherActivityToken](https://github.com/michalbednarski/OtherActivityToken) to [CrackerCat/OtherActivityToken](https://github.com/CrackerCat/OtherActivityToken)
-  > Exploit for CVE-2025-0098, Activity token leak due to pid-only check and then use of that token for ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ylh440104/InfinityCore-Android-CVE-2026-98260](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260) to [CrackerCat/InfinityCore-Android-CVE-2026-98260](https://github.com/CrackerCat/InfinityCore-Android-CVE-2026-98260)
-  > CVE-2026-98260 (Timer) Android/ARM64 port
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NanoTurtle1145/cve-2026-98260-uaf](https://github.com/NanoTurtle1145/cve-2026-98260-uaf) to [CrackerCat/cve-2026-98260-uaf](https://github.com/CrackerCat/cve-2026-98260-uaf)
-  > CVE-2026-98260 (posix-cpu-timers exec UAF) exploit research: S9280 Android 14 GKI 6.1 — UAF trigger ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ChaYeWuu/prague-CVE-2026-98260-OS4.0](https://github.com/ChaYeWuu/prague-CVE-2026-98260-OS4.0) to [CrackerCat/prague-CVE-2026-98260-OS4.0](https://github.com/CrackerCat/prague-CVE-2026-98260-OS4.0)
-  > REDMI K90 Max在OS4.0.5.0.XAACNXM利用CVE-2026-98260获取ROOT权限并加载KSU模块。
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [addxemmm/bl-ble-dos](https://github.com/addxemmm/bl-ble-dos) to [CrackerCat/bl-ble-dos](https://github.com/CrackerCat/bl-ble-dos)
-  > Guided BR/EDR and BLE availability testing with bounded workloads, HCI capture, optional nRF52840 an...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ylh440104/qemu-arm-senses-src](https://github.com/ylh440104/qemu-arm-senses-src) to [CrackerCat/qemu-arm-senses-src](https://github.com/CrackerCat/qemu-arm-senses-src)
-  > The complete source of the QEMU 8.2.4 tree that the SENSES/AEmulator qemu-arm binary is built from, ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vindeckyy/ad-attack-lab](https://github.com/vindeckyy/ad-attack-lab) to [CrackerCat/ad-attack-lab](https://github.com/CrackerCat/ad-attack-lab)
-  > Active Directory attack labs with reproduce-from-clean scripts: kerberoasting, relay, delegation, AC...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) to [CrackerCat/MaaFramework](https://github.com/CrackerCat/MaaFramework)
-  > 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kpgc10kai/TimerRoot](https://github.com/kpgc10kai/TimerRoot) to [CrackerCat/TimerRoot](https://github.com/CrackerCat/TimerRoot)
-  > Android front end for CVE-2026-98260: root shell + KernelSU late-load through Shizuku
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [djskncxm/DuckDroid2](https://github.com/djskncxm/DuckDroid2) to [CrackerCat/DuckDroid2](https://github.com/CrackerCat/DuckDroid2)
+  > Android 模拟执行 C++为主
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) to [CrackerCat/smsofdeath](https://github.com/CrackerCat/smsofdeath)
+  > remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.
 
 ### [JaredTherriault](https://github.com/JaredTherriault)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [saulob/dragons-crown-pro-pc](https://github.com/saulob/dragons-crown-pro-pc)
   > Dragon's Crown Pro native PC port for Windows, with direct PS4 PKG installation, TRG launcher and mo...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Odrannnn/MetroidPrime2Port](https://github.com/Odrannnn/MetroidPrime2Port)
+  > Native port of Metroid Prime 2: Echoes (GameCube) for Linux and Android, built from the PrimeDecomp ...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [almost-drowned-rat/THPS2X-Recompiled](https://github.com/almost-drowned-rat/THPS2X-Recompiled)
+  > Static recompilation of Tony Hawk's Pro Skater 2X (Xbox, USA) to native PC code with a Vulkan render...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [josiahg2502-glitch/MonopolyRecompiled](https://github.com/josiahg2502-glitch/MonopolyRecompiled)
+  > Statically recompiled PC port of Monopoly (Xbox 360): online play for up to 4 with lobbies, chat and...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)
+  > Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a V...
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin)
   > 微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所...
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/TpDirectCallbackHijack](https://github.com/Maldev-Academy/TpDirectCallbackHijack) public
+  > Remote process injection via TP_DIRECT.Callback hijack
+
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [DicksonWu654/web3-audit-findings](https://github.com/DicksonWu654/web3-audit-findings)
+  > Every public Web3 audit finding as plain text: 180,907 findings, 13,979 reports, 65 firms. Linked hu...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [security-alliance/frameworks](https://github.com/security-alliance/frameworks)
+  > Official repository for the Security Frameworks by SEAL. Curated and battle-tested security best pra...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [S12cybersecurity/WhatPatchguardProtects](https://github.com/S12cybersecurity/WhatPatchguardProtects)
+  > Reference of all kernel structures, routines, and MSRs monitored by PatchGuard (KPP) on Windows.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [S12cybersecurity/HandleRedirect](https://github.com/S12cybersecurity/HandleRedirect)
+  > Handle Redirect via BYOVD Kernel Read/Write
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [S12cybersecurity/NtUnhook](https://github.com/S12cybersecurity/NtUnhook)
+  > Selective In-Memory Syscall Unhooking, a stealthy method to bypass user-mode hooks in ntdll.dll
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [qybaihe/bla](https://github.com/qybaihe/bla)
+  > 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bun...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+  > The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and ...
+
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [SovranAMR/claude-code-via-antigravity](https://github.com/SovranAMR/claude-code-via-antigravity)
   > Use Claude Code CLI (Opus 4.6, Sonnet 4.5) for free via your Google Antigravity/Code Assist subscrip...
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [metinjakupi/nfs-crb](https://github.com/metinjakupi/nfs-crb)
 
 ### [niieani](https://github.com/niieani)
 - 🍴 👤 [niieani](https://github.com/niieani) Forked [Effect-TS/effect](https://github.com/Effect-TS/effect) to [niieani/effect](https://github.com/niieani/effect)
@@ -52,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-29 12:34:34 UTC*
+*Last updated at 2026-10-29 18:50:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
