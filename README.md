@@ -14,32 +14,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
   > A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [virjar/ratel2](https://github.com/virjar/ratel2) to [CrackerCat/ratel2](https://github.com/CrackerCat/ratel2)
-  > 平头哥复活版
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [1013503897/stealth-core](https://github.com/1013503897/stealth-core) to [CrackerCat/stealth-core](https://github.com/CrackerCat/stealth-core)
-  > Android ARM64 kernel-level traceless hooking engine via APatch / KernelPatch (KPM)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown) to [CrackerCat/CredGuardRuntimeShutdown](https://github.com/CrackerCat/CredGuardRuntimeShutdown)
-  > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack) to [CrackerCat/WhisperHijack](https://github.com/CrackerCat/WhisperHijack)
-  > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) to [CrackerCat/sapper-v2](https://github.com/CrackerCat/sapper-v2)
-  > Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Int...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YOURSJEYO/claude-switcher](https://github.com/YOURSJEYO/claude-switcher) to [CrackerCat/claude-switcher](https://github.com/CrackerCat/claude-switcher)
-  > Fail-Closed 账号环境管理器:11项环境指纹审计(Block-on-Fail)、手写STUN协议栈的WebRTC泄漏探针、Kill-Switch断网急停、多账号快照隔离、配置漂移自愈 —— ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [stillbigjosh/adaptix-serverless-c2](https://github.com/stillbigjosh/adaptix-serverless-c2) to [CrackerCat/adaptix-serverless-c2](https://github.com/CrackerCat/adaptix-serverless-c2)
-  > Serverless C2 transport plugin for AdaptixC2 v1.2 using AWS Lambda + DynamoDB as the relay infrastru...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MG1937/ASC](https://github.com/MG1937/ASC) to [CrackerCat/ASC](https://github.com/CrackerCat/ASC)
-  > ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) to [CrackerCat/nv-uefi-unlocker](https://github.com/CrackerCat/nv-uefi-unlocker)
-  > UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust):...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lalipa2003-arch/JailbreakHub](https://github.com/lalipa2003-arch/JailbreakHub) to [CrackerCat/JailbreakHub](https://github.com/CrackerCat/JailbreakHub)
-  > A Hub/research area, for jailbreaking LLM's, and breaking their safety filters.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) to [CrackerCat/artex-global](https://github.com/CrackerCat/artex-global)
-  > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Autumn-27/ScopeSentry-UI](https://github.com/Autumn-27/ScopeSentry-UI) to [CrackerCat/ScopeSentry-UI](https://github.com/CrackerCat/ScopeSentry-UI)
-  > ScopeSentry工具的前端UI
-
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
   > A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, por...
@@ -55,6 +29,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Hybrid SDK Dumper for Vector-Unit Engine (Specifically Hydro Thunder Hurricane)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [oscar-soirey/Raven](https://github.com/oscar-soirey/Raven)
   > A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Python, Z...
+
+### [awgil](https://github.com/awgil)
+- 🍴 👤 [awgil](https://github.com/awgil) Forked [goatcorp/goatcorp.Reloaded.Hooks](https://github.com/goatcorp/goatcorp.Reloaded.Hooks) to [awgil/goatcorp.Reloaded.Hooks](https://github.com/awgil/goatcorp.Reloaded.Hooks)
+  > Advanced native function hooks for x86, x64. Welcome to the next level!
+
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+  > In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [jakehemmerle/oh-my-pi](https://github.com/jakehemmerle/oh-my-pi)
@@ -74,13 +56,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coleleavitt/ida-mcp-server](https://github.com/coleleavitt/ida-mcp-server)
   > IDA Pro MCP Server Plugin — 170+ tools for IDA Pro 9.33 with Hex-Rays decompiler integration
 
+### [scripting-drafts](https://github.com/scripting-drafts)
+- 🌟 👤 [scripting-drafts](https://github.com/scripting-drafts) Starred [scripting-drafts/docker-lxqt-sideboard](https://github.com/scripting-drafts/docker-lxqt-sideboard)
+  > Deployment of an Ubuntu 24 with LXQT
+
 
 <!-- nav -->
 [← 2026-10-30](archive/2026/10/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-31 19:47:16 UTC*
+*Last updated at 2026-10-31 23:11:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
