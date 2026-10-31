@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [legendary-gl/legendary](https://github.com/legendary-gl/legendary)
+  > Legendary - A free and open-source replacement for the Epic Games Launcher
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+  > A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [virjar/ratel2](https://github.com/virjar/ratel2) to [CrackerCat/ratel2](https://github.com/CrackerCat/ratel2)
   > 平头哥复活版
@@ -43,6 +49,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [WIP] Matching decompilation of Hydro Thunder Hurricane written in C++
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [NextrixVFX/VuDumper](https://github.com/NextrixVFX/VuDumper)
   > Hybrid SDK Dumper for Vector-Unit Engine (Specifically Hydro Thunder Hurricane)
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [oscar-soirey/Raven](https://github.com/oscar-soirey/Raven)
+  > A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Python, Z...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
@@ -58,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-31 09:24:36 UTC*
+*Last updated at 2026-10-31 15:38:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
