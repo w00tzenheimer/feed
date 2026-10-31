@@ -40,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Autumn-27/ScopeSentry-UI](https://github.com/Autumn-27/ScopeSentry-UI) to [CrackerCat/ScopeSentry-UI](https://github.com/CrackerCat/ScopeSentry-UI)
   > ScopeSentry工具的前端UI
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
+  > A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, por...
+
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [NullTerminatorr/NullHook](https://github.com/NullTerminatorr/NullHook)
   > Kernel driver that .text hooks a syscall in dxgkrnl.sys which can be called from our user-mode clien...
@@ -52,6 +56,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [oscar-soirey/Raven](https://github.com/oscar-soirey/Raven)
   > A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Python, Z...
 
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [jakehemmerle/oh-my-pi](https://github.com/jakehemmerle/oh-my-pi)
+  > ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [enjoy-digital/slogic16u3](https://github.com/enjoy-digital/slogic16u3)
+  > Open LiteX gateware and tools for the Sipeed SLogic16U3 USB3 logic analyzer.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
   > Git for Global Law: the law of every country as one git history, each country's record a submodule, ...
@@ -59,6 +71,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Architecture-first Codex skill for open-model behavioral interventions on dual DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Aevonix/FlashAlign](https://github.com/Aevonix/FlashAlign)
   > ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Alway...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coleleavitt/ida-mcp-server](https://github.com/coleleavitt/ida-mcp-server)
+  > IDA Pro MCP Server Plugin — 170+ tools for IDA Pro 9.33 with Hex-Rays decompiler integration
 
 
 <!-- nav -->
@@ -66,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-31 15:38:23 UTC*
+*Last updated at 2026-10-31 19:47:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
