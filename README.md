@@ -19,6 +19,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift)
   > On-device Speech AI for Apple Silicon
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [wixette/huashuo](https://github.com/wixette/huashuo)
+  > 在 Mac 电脑上制作多角色有声书 | Multi-voice audiobooks, made on your Mac
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Smellon69/ImGuiBase](https://github.com/Smellon69/ImGuiBase)
@@ -32,11 +34,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [ZeamoxWang/pdmd](https://github.com/ZeamoxWang/pdmd)
   > Official Training and Benchmarking Implementation of PDMD: Projected Distribution Matching Distillat...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pciutils/pciids](https://github.com/pciutils/pciids)
+  > The pci.ids file
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
   > Poke-env: Python Interface for Pokemon Showdown Bots
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [hsahovic/algorithmic-pokemon-teambuilding](https://github.com/hsahovic/algorithmic-pokemon-teambuilding)
   > Code & Data for Algorithmic Pokémon Teambuilding article
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono)
+  > An open programming typeface built on Iosevka. Compact, geometric, and tuned for editors and termina...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [xevrion/hatchzip](https://github.com/xevrion/hatchzip)
+  > HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy)
+  > Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claud...
 
 ### [scripting-drafts](https://github.com/scripting-drafts)
 - 🚀 👤 [scripting-drafts](https://github.com/scripting-drafts) Made [scripting-drafts/screen-zoom](https://github.com/scripting-drafts/screen-zoom) public
@@ -50,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-01 18:18:30 UTC*
+*Last updated at 2026-11-01 22:37:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
