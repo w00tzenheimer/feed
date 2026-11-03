@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim)
+  > Programmatic animation engine for creating precise and smooth animations with real-time feedback
+
 ### [JaredTherriault](https://github.com/JaredTherriault)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [linuxopt/mp4-recomp](https://github.com/linuxopt/mp4-recomp)
   > metroid prime 4 beyond recomp
@@ -15,6 +19,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > PS Vita games recompiled into native PC programs: you bring your own games and firmware
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [tmcleroy/soulcalibur2-recomp](https://github.com/tmcleroy/soulcalibur2-recomp)
   > Soulcalibur II (Xbox) as a native port for macOS, Linux/Steam Deck and Windows, with Link and Heihac...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [xFractals/pokopia-native](https://github.com/xFractals/pokopia-native)
+  > Build Pokémon Pokopia (Switch 2) into a native Mac app and iPhone app from your own dump. Tools only...
+
+### [Likon69](https://github.com/Likon69)
+- 🌟 👤 [Likon69](https://github.com/Likon69) Starred [rithsgit/Tim](https://github.com/rithsgit/Tim)
+  > 2b2t hunting addon
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [oraios/serena](https://github.com/oraios/serena)
@@ -24,9 +34,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [juicedata/juicefs](https://github.com/juicedata/juicefs) to [NyaMisty/juicefs](https://github.com/NyaMisty/juicefs)
   > JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [anthropics/FlashProve](https://github.com/anthropics/FlashProve)
+  > A research prototype for zero-knowledge proofs of AI inference. Not maintained.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
   > 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
+  > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
 
 ### [wangyu-](https://github.com/wangyu-)
 - 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [yao90s/xp3200-emulator](https://github.com/yao90s/xp3200-emulator)
@@ -38,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-03 18:16:35 UTC*
+*Last updated at 2026-11-03 23:53:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
