@@ -1,60 +1,42 @@
-# Daily GitHub Activity (2026-11-03)
+# Daily GitHub Activity (2026-11-04)
 
 <!-- nav -->
-[← 2026-11-02](archive/2026/11/02.md)
+[← 2026-11-03](archive/2026/11/03.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [bfloat16/enigma_rs](https://github.com/bfloat16/enigma_rs) to [CrackerCat/enigma_rs](https://github.com/CrackerCat/enigma_rs)
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim)
-  > Programmatic animation engine for creating precise and smooth animations with real-time feedback
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [PetalAdrift/liveTeX-Rosina](https://github.com/PetalAdrift/liveTeX-Rosina)
+  > Fast and robust incremental LaTeX previews for pdfLaTeX, XeLaTeX, and LuaLaTeX. Includes a VS Code v...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [PetalAdrift/liveTeX-Rosina](https://github.com/PetalAdrift/liveTeX-Rosina) to [IuvenisSapiens/liveTeX-Rosina](https://github.com/IuvenisSapiens/liveTeX-Rosina)
+  > Fast and robust incremental LaTeX previews for pdfLaTeX, XeLaTeX, and LuaLaTeX. Includes a VS Code v...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Acfboy/Wanim](https://github.com/Acfboy/Wanim)
+  > Manim in the browser for courseware, 1/20 the size of Pyodide-based approaches.
 
-### [JaredTherriault](https://github.com/JaredTherriault)
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [linuxopt/mp4-recomp](https://github.com/linuxopt/mp4-recomp)
-  > metroid prime 4 beyond recomp
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [TheLostPantheon/nativ](https://github.com/TheLostPantheon/nativ)
-  > PS Vita games recompiled into native PC programs: you bring your own games and firmware
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [tmcleroy/soulcalibur2-recomp](https://github.com/tmcleroy/soulcalibur2-recomp)
-  > Soulcalibur II (Xbox) as a native port for macOS, Linux/Steam Deck and Windows, with Link and Heihac...
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [xFractals/pokopia-native](https://github.com/xFractals/pokopia-native)
-  > Build Pokémon Pokopia (Switch 2) into a native Mac app and iPhone app from your own dump. Tools only...
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
 
-### [Likon69](https://github.com/Likon69)
-- 🌟 👤 [Likon69](https://github.com/Likon69) Starred [rithsgit/Tim](https://github.com/rithsgit/Tim)
-  > 2b2t hunting addon
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [anomalyco/hex](https://github.com/anomalyco/hex)
+  > Local voice dictation for mac, windows and linux
 
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [oraios/serena](https://github.com/oraios/serena)
-  > A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE ...
-
-### [NyaMisty](https://github.com/NyaMisty)
-- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [juicedata/juicefs](https://github.com/juicedata/juicefs) to [NyaMisty/juicefs](https://github.com/NyaMisty/juicefs)
-  > JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-
-### [jakehemmerle](https://github.com/jakehemmerle)
-- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [anthropics/FlashProve](https://github.com/anthropics/FlashProve)
-  > A research prototype for zero-knowledge proofs of AI inference. Not maintained.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
-  > 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
-  > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
-
-### [wangyu-](https://github.com/wangyu-)
-- 🌟 👤 [wangyu-](https://github.com/wangyu-) Starred [yao90s/xp3200-emulator](https://github.com/yao90s/xp3200-emulator)
-  > 好易通 XP3200 QEMU 模拟器（基于 bbk9288-emulator）
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [outline/outline](https://github.com/outline/outline)
+  > The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and...
 
 
 <!-- nav -->
-[← 2026-11-02](archive/2026/11/02.md)
+[← 2026-11-03](archive/2026/11/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-03 23:53:28 UTC*
+*Last updated at 2026-11-04 05:33:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
