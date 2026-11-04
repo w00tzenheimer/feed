@@ -41,16 +41,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Acfboy/Wanim](https://github.com/Acfboy/Wanim)
   > Manim in the browser for courseware, 1/20 the size of Pyodide-based approaches.
 
+### [JaredTherriault](https://github.com/JaredTherriault)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [drakolordx7/pokopia-recomp](https://github.com/drakolordx7/pokopia-recomp)
+  > Pokémon Pokopia (Switch 2) recompiled to run natively on Windows.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [featureJosh/pokopia-recomp](https://github.com/featureJosh/pokopia-recomp)
+  > Pokémon Pokopia (Switch 2) recompiled to run natively on Windows. With multiplayer support
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Lucas-blip-png/dkb-pc-recomp](https://github.com/Lucas-blip-png/dkb-pc-recomp)
+  > Static recompilation of Donkey Kong Bananza (Switch 2) to native Windows with Vulkan. The 3D tutoria...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [tinfoil-chewer/pokopia-recomp-linux](https://github.com/tinfoil-chewer/pokopia-recomp-linux)
+  > Linux and Steam Deck fork of Pokopia Recomp: the Switch 2 Pokémon Pokopia recompiled for PC, running...
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [anomalyco/hex](https://github.com/anomalyco/hex)
   > Local voice dictation for mac, windows and linux
-
-### [goto-bus-stop](https://github.com/goto-bus-stop)
-- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [debuffjp/spryte](https://github.com/debuffjp/spryte)
-  > Blazing fast 2D renderer for the web: 2-4x faster than the most popular one, at a ninth of its size....
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [tembo/voxl](https://github.com/tembo/voxl)
@@ -68,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-04 14:00:13 UTC*
+*Last updated at 2026-11-04 20:45:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
