@@ -19,6 +19,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [JaredTherriault](https://github.com/JaredTherriault)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [captainj-sparrow/astral-chain-pc-recomp](https://github.com/captainj-sparrow/astral-chain-pc-recomp)
   > Static recompilation of Astral Chain to native Windows, with a Vulkan renderer. Game files not inclu...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [hibikifukui22/DOAP-Enhanced](https://github.com/hibikifukui22/DOAP-Enhanced)
+  > 60 FPS and higher poly models patcher for Dead or Alive Paradise (PSP). No game files included.
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [jedanzig/hyperv-memproc-dll-injection-poc](https://github.com/jedanzig/hyperv-memproc-dll-injection-poc)
@@ -29,6 +31,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > usermode driver mapper that forcefully loads any signed kernel driver (legit cert) with a big enough...
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Compiled-Code/eac-mapper](https://github.com/Compiled-Code/eac-mapper)
   > undetected eac mapper
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [sapdragon/vac](https://github.com/sapdragon/vac)
+  > Valve Anti-Cheat (VAC) reconstructed in C++20, bugs and all.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeekk0/OpenAmika](https://github.com/zeekk0/OpenAmika)
+  > OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term mem...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lifting-bits/anvill](https://github.com/lifting-bits/anvill) to [mrexodia/anvill](https://github.com/mrexodia/anvill)
+  > anvill forges beautiful LLVM bitcode out of raw machine code
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Infatoshi/phonon](https://github.com/Infatoshi/phonon)
+  > Fast, local, simple voice typing for macOS.
+
+### [scripting-drafts](https://github.com/scripting-drafts)
+- 🌟 👤 [scripting-drafts](https://github.com/scripting-drafts) Starred [scripting-drafts/ding-image-drag](https://github.com/scripting-drafts/ding-image-drag)
+  > DING patch: save images dragged from Firefox to the GNOME desktop
+- 🌟 👤 [scripting-drafts](https://github.com/scripting-drafts) Starred [scripting-drafts/qa-sentinels](https://github.com/scripting-drafts/qa-sentinels)
+  > Two-phase QA sentinel framework for kernel, memory, CPU, crash and deep-trace evidence on Linux
+- 🌟 👤 [scripting-drafts](https://github.com/scripting-drafts) Starred [scripting-drafts/jsbudbrainequalizer-snap-fix](https://github.com/scripting-drafts/jsbudbrainequalizer-snap-fix)
+  > Ubuntu PulseAudio module-snap-policy unblock of virtual sink creation
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [huamurui/zhihu-minus-minus](https://github.com/huamurui/zhihu-minus-minus)
@@ -42,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-05 17:54:50 UTC*
+*Last updated at 2026-11-05 23:27:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
