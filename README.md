@@ -35,6 +35,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A LaTeX presenter for Beamer and PDF slides, with presenter view, speaker notes and an audience wind...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [khalidt/TeXora](https://github.com/khalidt/TeXora) to [IuvenisSapiens/TeXora](https://github.com/IuvenisSapiens/TeXora)
   > A LaTeX presenter for Beamer and PDF slides, with presenter view, speaker notes and an audience wind...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Oleafly/Oleafly](https://github.com/Oleafly/Oleafly)
+  > LaTeX and Typst editor with live collaboration and AI agents. Open-source IDE and Overleaf alternati...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [dannypsnl/sidemath](https://github.com/dannypsnl/sidemath)
+  > Math formula WYSIWYG editor beside
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [StartYR/CalculatorX](https://github.com/StartYR/CalculatorX)
+  > HarmonyOS端的专业科学符号计算器
 
 ### [JaredTherriault](https://github.com/JaredTherriault)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)
@@ -42,13 +48,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp)
   > Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No ga...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [drowzeys/Imagination-Studio-by-keys-Wasserman](https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman)
+  > Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX...
+
+### [vitosans](https://github.com/vitosans)
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [1038lab/ComfyUI-QwenVL](https://github.com/1038lab/ComfyUI-QwenVL) to [vitosans/ComfyUI-QwenVL](https://github.com/vitosans/ComfyUI-QwenVL)
+  > ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL, Qwen3-VL, Qwen3.5-V...
+
 
 <!-- nav -->
 [← 2026-11-06](archive/2026/11/06.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-07 06:54:22 UTC*
+*Last updated at 2026-11-07 13:48:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
