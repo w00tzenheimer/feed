@@ -8,27 +8,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🍴 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Forked [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) to [Chaoses-Ib/rustc-perf](https://github.com/Chaoses-Ib/rustc-perf)
+  > Website for graphing performance of rustc
+
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [guoxing2024/magicmida-rs](https://github.com/guoxing2024/magicmida-rs) to [CrackerCat/magicmida-rs](https://github.com/CrackerCat/magicmida-rs)
-  > Themida v3 x64 automatic unpacker — Rust reimplementation of Hendi48/Magicmida (Pascal). Deletes she...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [c0nf1den71al/turn-udc2](https://github.com/c0nf1den71al/turn-udc2) to [CrackerCat/turn-udc2](https://github.com/CrackerCat/turn-udc2)
-  > A Cobalt Strike 4.12+ User-Defined C2 (UDC2) implementation that tunnels all Beacon traffic through ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xjohnnydev/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions](https://github.com/0xjohnnydev/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions) to [CrackerCat/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions](https://github.com/CrackerCat/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions)
-  > UAF and AOP coprocessor panic in IOHIDEventServiceFastPathUserClient. No entitlements, reachable fro...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Cr4sh/KernelForge](https://github.com/Cr4sh/KernelForge) to [CrackerCat/KernelForge](https://github.com/CrackerCat/KernelForge)
-  > A library to develop kernel level Windows payloads for post HVCI era
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) to [CrackerCat/Scrapling](https://github.com/CrackerCat/Scrapling)
-  > 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale cra...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JosssphZhou/poki](https://github.com/JosssphZhou/poki) to [CrackerCat/poki](https://github.com/CrackerCat/poki)
-  > Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Leviidev/Henge](https://github.com/Leviidev/Henge) to [CrackerCat/Henge](https://github.com/CrackerCat/Henge)
-  > Emulate macOS on iOS and iPadOS
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI) to [CrackerCat/BUI](https://github.com/CrackerCat/BUI)
-  > Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, Reac...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [coleleavitt/unlace](https://github.com/coleleavitt/unlace) to [CrackerCat/unlace](https://github.com/CrackerCat/unlace)
-  > An open-source decompiler in Rust for reverse engineering, with Apple support: Mach-O, dyld shared c...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) to [CrackerCat/rea-video](https://github.com/CrackerCat/rea-video)
-  > Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded,...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) to [CrackerCat/sheeridVerify](https://github.com/CrackerCat/sheeridVerify)
+
+### [Fatmike-GH](https://github.com/Fatmike-GH)
+- 🌟 👤 [Fatmike-GH](https://github.com/Fatmike-GH) Starred [Fatmike-GH/JitDecrypter](https://github.com/Fatmike-GH/JitDecrypter)
+  > A Just-In-Time Decrypter for Windows executables (x86 and x64) that performs real-time, instruction-...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [khalidt/TeXora](https://github.com/khalidt/TeXora)
@@ -48,6 +37,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp)
   > Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No ga...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot)
+  > AgentPilot: Make Your Agents Move Better and Faster
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [drowzeys/Imagination-Studio-by-keys-Wasserman](https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman)
   > Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX...
@@ -55,6 +48,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [vitosans](https://github.com/vitosans)
 - 🍴 👤 [vitosans](https://github.com/vitosans) Forked [1038lab/ComfyUI-QwenVL](https://github.com/1038lab/ComfyUI-QwenVL) to [vitosans/ComfyUI-QwenVL](https://github.com/vitosans/ComfyUI-QwenVL)
   > ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL, Qwen3-VL, Qwen3.5-V...
+- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)
+  > Craft Anything: understand how any software works, and craft your own.
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [lokitsar/ComfyUI-Krea2-MultiLoRA-Composer](https://github.com/lokitsar/ComfyUI-Krea2-MultiLoRA-Composer) to [vitosans/ComfyUI-Krea2-MultiLoRA-Composer](https://github.com/vitosans/ComfyUI-Krea2-MultiLoRA-Composer)
+  > Token-aware spatial Multi-LoRA composition and transparent supersampling for Krea 2 in ComfyUI.
 
 
 <!-- nav -->
@@ -62,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-07 13:48:25 UTC*
+*Last updated at 2026-11-07 18:31:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
