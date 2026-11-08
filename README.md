@@ -1,65 +1,26 @@
-# Daily GitHub Activity (2026-11-07)
+# Daily GitHub Activity (2026-11-08)
 
 <!-- nav -->
-[← 2026-11-06](archive/2026/11/06.md)
+[← 2026-11-07](archive/2026/11/07.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🍴 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Forked [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) to [Chaoses-Ib/rustc-perf](https://github.com/Chaoses-Ib/rustc-perf)
-  > Website for graphing performance of rustc
-
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) to [CrackerCat/sheeridVerify](https://github.com/CrackerCat/sheeridVerify)
-
-### [Fatmike-GH](https://github.com/Fatmike-GH)
-- 🌟 👤 [Fatmike-GH](https://github.com/Fatmike-GH) Starred [Fatmike-GH/JitDecrypter](https://github.com/Fatmike-GH/JitDecrypter)
-  > A Just-In-Time Decrypter for Windows executables (x86 and x64) that performs real-time, instruction-...
-
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [khalidt/TeXora](https://github.com/khalidt/TeXora)
-  > A LaTeX presenter for Beamer and PDF slides, with presenter view, speaker notes and an audience wind...
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [khalidt/TeXora](https://github.com/khalidt/TeXora) to [IuvenisSapiens/TeXora](https://github.com/IuvenisSapiens/TeXora)
-  > A LaTeX presenter for Beamer and PDF slides, with presenter view, speaker notes and an audience wind...
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Oleafly/Oleafly](https://github.com/Oleafly/Oleafly)
-  > LaTeX and Typst editor with live collaboration and AI agents. Open-source IDE and Overleaf alternati...
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [dannypsnl/sidemath](https://github.com/dannypsnl/sidemath)
-  > Math formula WYSIWYG editor beside
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [StartYR/CalculatorX](https://github.com/StartYR/CalculatorX)
-  > HarmonyOS端的专业科学符号计算器
-
-### [JaredTherriault](https://github.com/JaredTherriault)
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)
-  > A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp)
-  > Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No ga...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot)
-  > AgentPilot: Make Your Agents Move Better and Faster
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [drowzeys/Imagination-Studio-by-keys-Wasserman](https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman)
-  > Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX...
-
-### [vitosans](https://github.com/vitosans)
-- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [1038lab/ComfyUI-QwenVL](https://github.com/1038lab/ComfyUI-QwenVL) to [vitosans/ComfyUI-QwenVL](https://github.com/vitosans/ComfyUI-QwenVL)
-  > ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL, Qwen3-VL, Qwen3.5-V...
-- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)
-  > Craft Anything: understand how any software works, and craft your own.
-- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [lokitsar/ComfyUI-Krea2-MultiLoRA-Composer](https://github.com/lokitsar/ComfyUI-Krea2-MultiLoRA-Composer) to [vitosans/ComfyUI-Krea2-MultiLoRA-Composer](https://github.com/vitosans/ComfyUI-Krea2-MultiLoRA-Composer)
-  > Token-aware spatial Multi-LoRA composition and transparent supersampling for Krea 2 in ComfyUI.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [neovide/neovide](https://github.com/neovide/neovide)
+  > No Nonsense Neovim Client in Rust
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [neovide/neovide](https://github.com/neovide/neovide) to [IuvenisSapiens/neovide](https://github.com/IuvenisSapiens/neovide)
+  > No Nonsense Neovim Client in Rust
 
 
 <!-- nav -->
-[← 2026-11-06](archive/2026/11/06.md)
+[← 2026-11-07](archive/2026/11/07.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-07 22:33:09 UTC*
+*Last updated at 2026-11-08 02:08:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
