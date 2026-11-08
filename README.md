@@ -37,6 +37,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Likon69](https://github.com/Likon69) Forked [rfresh2/XaeroPlus](https://github.com/rfresh2/XaeroPlus) to [Likon69/XaeroPlus](https://github.com/Likon69/XaeroPlus)
   > Xaero WorldMap / Minimap Extra Features
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Pharaoh2k/ps4debug-NG](https://github.com/Pharaoh2k/ps4debug-NG)
+  > The official Next-Gen version of ps4debug for PlayStation 4
+
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Leviidev/Henge](https://github.com/Leviidev/Henge)
   > Emulate macOS on iOS and iPadOS
@@ -48,6 +52,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
   > the ultimate vocal synthesizer - sing, speak, beatbox, and more
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [meta/astryx](https://github.com/meta/astryx)
+  > An open source design system that's fully customizable and agent ready
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
@@ -64,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-08 16:36:31 UTC*
+*Last updated at 2026-11-08 20:59:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
