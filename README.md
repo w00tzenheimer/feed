@@ -33,11 +33,26 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [JaredTherriault](https://github.com/JaredTherriault)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)
 
+### [Likon69](https://github.com/Likon69)
+- 🍴 👤 [Likon69](https://github.com/Likon69) Forked [rfresh2/XaeroPlus](https://github.com/rfresh2/XaeroPlus) to [Likon69/XaeroPlus](https://github.com/Likon69/XaeroPlus)
+  > Xaero WorldMap / Minimap Extra Features
+
+### [NextrixVFX](https://github.com/NextrixVFX)
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Leviidev/Henge](https://github.com/Leviidev/Henge)
+  > Emulate macOS on iOS and iPadOS
+
+### [angryzor](https://github.com/angryzor)
+- 🍴 👤 [angryzor](https://github.com/angryzor) Forked [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) to [HE2-SDK/bullet3](https://github.com/HE2-SDK/bullet3)
+  > Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
+  > the ultimate vocal synthesizer - sing, speak, beatbox, and more
+
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
   > The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about codi...
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [Tontonnow/cctv-decrypt](https://github.com/Tontonnow/cctv-decrypt)
-- 🍴 👤 [wanttobeno](https://github.com/wanttobeno) Forked [Tontonnow/cctv-decrypt](https://github.com/Tontonnow/cctv-decrypt) to [wanttobeno/cctv-decrypt](https://github.com/wanttobeno/cctv-decrypt)
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [LoganBooker/prodigy-plus-schedule-free](https://github.com/LoganBooker/prodigy-plus-schedule-free) to [woct0rdho/prodigy-plus-schedule-free](https://github.com/woct0rdho/prodigy-plus-schedule-free)
@@ -49,7 +64,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-08 09:58:44 UTC*
+*Last updated at 2026-11-08 16:36:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
