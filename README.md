@@ -37,6 +37,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Decrypts FairPlay-protected iOS apps without a jailbreak, because apparently Apple considers that a ...
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [jailbreakdotparty/Erosion](https://github.com/jailbreakdotparty/Erosion)
   > iOS customization toolbox using the worse_query sandbox escape. Supports iOS 26.0 - 26.7.2, iOS 27.0...
+- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)
+  > SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
+- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [DuskWander87/shadowrocket-config](https://github.com/DuskWander87/shadowrocket-config)
+  > Shadowrocket 防 DNS 泄露配置 - 基于 ACL4SSR 规则集
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Pharaoh2k/PlayStation-Payload-Center](https://github.com/Pharaoh2k/PlayStation-Payload-Center)
@@ -47,12 +51,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A GUI for your coding agents
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [dawgyg/AppleResearch](https://github.com/dawgyg/AppleResearch)
   > A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of t...
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [Pharaoh2k/ps4debug-NG](https://github.com/Pharaoh2k/ps4debug-NG) to [NetVar1337/ps4debug-NG](https://github.com/NetVar1337/ps4debug-NG)
+  > The official Next-Gen version of ps4debug for PlayStation 4
+- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [KingsleydotDev/ImGui-Menu-Chudvision](https://github.com/KingsleydotDev/ImGui-Menu-Chudvision) to [NetVar1337/ImGui-Menu-Ethereal](https://github.com/NetVar1337/ImGui-Menu-Ethereal)
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [armvirus/ia32-doc](https://github.com/armvirus/ia32-doc)
   > IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-proce...
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [ia32-doc/ia32-doc](https://github.com/ia32-doc/ia32-doc)
   > IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-proce...
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Fyyre/UPGDSED](https://github.com/Fyyre/UPGDSED)
+  > Universal PatchGuard and Driver Signature Enforcement Disable
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s0rlie/research-grant-mentors](https://github.com/s0rlie/research-grant-mentors)
+  > Interview-based system prompts for developing research grant applications (FRIPRO, the ERC Consolida...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [janestreet/agent_skills](https://github.com/janestreet/agent_skills)
+  > Agent skills
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GUntilB/Anima-Prompt-Generator](https://github.com/GUntilB/Anima-Prompt-Generator)
+  > ComfyUI nodes: turn a short idea into a checked Danbooru-tag prompt for the Anima model with a local...
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
@@ -68,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-09 07:45:13 UTC*
+*Last updated at 2026-11-09 18:31:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
