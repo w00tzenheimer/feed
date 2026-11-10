@@ -33,6 +33,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [JaredTherriault](https://github.com/JaredTherriault)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Goldoire/fefw-recomp](https://github.com/Goldoire/fefw-recomp)
   > Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump;...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [qnfn/GRport](https://github.com/qnfn/GRport)
+  > Gravity Rush Remastered and Gravity Rush 2 on Windows: native runtime, FSR 4 / DLSS, Gravity Rush 2 ...
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [huamidev/GestaltX](https://github.com/huamidev/GestaltX)
@@ -41,6 +43,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [whowould/gamesense-loader-ui](https://github.com/whowould/gamesense-loader-ui)
   > gamesense-style loader UI made with Dear ImGui and DirectX 11
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop)
+  > Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [lmvdz/abliterated-llm-apis](https://github.com/lmvdz/abliterated-llm-apis)
+  > Sourced price comparison of hosted abliterated/uncensored LLM APIs, plus Claude Code, Codex and Open...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [lmvdz/awesome-mcp-servers](https://github.com/lmvdz/awesome-mcp-servers)
+  > A collection of MCP servers.
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [D4C1-Labs/Flipper-ARF](https://github.com/D4C1-Labs/Flipper-ARF)
@@ -50,9 +58,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [woshimaniubi8/CVE-2026-43499-root-KernelSU](https://github.com/woshimaniubi8/CVE-2026-43499-root-KernelSU)
   > 基于内核漏洞CVE-2026-43499的本地提权适配，集成嵌入式 KernelSU.CVE-2026-43499+KernelSU越狱模式 
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [finnmckenty/NTSCRT](https://github.com/finnmckenty/NTSCRT)
+  > Vintage analog TV/VHS image tool for macOS: ntsc-rs signal emulation + RetroArch CRT shaders (libras...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ybouane/VideoFlow](https://github.com/ybouane/VideoFlow)
+  > Programmatic video for the web. Define videos with a fluent TypeScript API, compile them to a portab...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ybouane/liquidglass](https://github.com/ybouane/liquidglass)
+  > A liquid glass effect library for the web. Apply realistic glass refraction, blur, chromatic aberrat...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Ntarasiuk/glass](https://github.com/Ntarasiuk/glass)
+  > Low-latency remote desktop for macOS and Linux. Control your computer from an iPad or any browser wi...
+
 ### [shnaps666](https://github.com/shnaps666)
 - 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)
 - 🍴 👤 [shnaps666](https://github.com/shnaps666) Forked [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) to [shnaps666/sheeridVerify](https://github.com/shnaps666/sheeridVerify)
+
+### [vitosans](https://github.com/vitosans)
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) to [vitosans/ComfyUI-Lora-Manager](https://github.com/vitosans/ComfyUI-Lora-Manager)
+  > LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA mod...
 
 
 <!-- nav -->
@@ -60,7 +82,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-10 17:33:49 UTC*
+*Last updated at 2026-11-10 22:59:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
