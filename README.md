@@ -39,16 +39,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and sup...
 
 ### [NetVar1337](https://github.com/NetVar1337)
-- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [kaizer1308/reverse-slap](https://github.com/kaizer1308/reverse-slap) to [NetVar1337/PS4-Slop](https://github.com/NetVar1337/PS4-Slop)
-  > Windows reverse-engineering workbench with live memory analysis, debugging, decompilation, Frida ins...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [whowould/gamesense-loader-ui](https://github.com/whowould/gamesense-loader-ui)
+  > gamesense-style loader UI made with Dear ImGui and DirectX 11
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [D4C1-Labs/Flipper-ARF](https://github.com/D4C1-Labs/Flipper-ARF)
   > Flipper-ARF – A research-focused firmware project for automotive systems.
 
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [ericmigi/voxl-pocket-ios](https://github.com/ericmigi/voxl-pocket-ios)
-  > Native iPad client for the voxl remote desktop server
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [woshimaniubi8/CVE-2026-43499-root-KernelSU](https://github.com/woshimaniubi8/CVE-2026-43499-root-KernelSU)
+  > 基于内核漏洞CVE-2026-43499的本地提权适配，集成嵌入式 KernelSU.CVE-2026-43499+KernelSU越狱模式 
+
+### [shnaps666](https://github.com/shnaps666)
+- 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)
+- 🍴 👤 [shnaps666](https://github.com/shnaps666) Forked [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) to [shnaps666/sheeridVerify](https://github.com/shnaps666/sheeridVerify)
 
 
 <!-- nav -->
@@ -56,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-10 09:28:47 UTC*
+*Last updated at 2026-11-10 17:33:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
