@@ -8,6 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift)
+  > Cranelift based backend for rustc
+
+### [JaredTherriault](https://github.com/JaredTherriault)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Simon3Sarkis/super-odyssey-pc-recomp](https://github.com/Simon3Sarkis/super-odyssey-pc-recomp)
+  > A native Windows PC port of Super Mario Odyssey by static recompilation. Bring your own game: no gam...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [linuxopt/plza-recomp](https://github.com/linuxopt/plza-recomp)
+  > Pokémon Legends: Z-A for Linux: static recompilation (from LZA-Recomp) as a portable AppImage. Bring...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [fabioschmidt01/PokeL-ARecomp](https://github.com/fabioschmidt01/PokeL-ARecomp)
+
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [SternI/FortniteMCP](https://github.com/SternI/FortniteMCP)
   > An in-process MCP server for Unreal Engine game research and automated testing.
@@ -22,13 +33,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [RemakeCode/hv-launcher](https://github.com/RemakeCode/hv-launcher)
   > A quick readiness check and launch manager for hypervisor games
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)
-  > A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
-  > Hundreds of models & providers. One command to find what runs on your hardware.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Picom-code/pico-dgx-ds4](https://github.com/Picom-code/pico-dgx-ds4)
-  > DeepSeek V4.1 Flash on 4x DGX Spark: 438 tok/s at 16 users, ~80/138 single-user, 1M context. Fork of...
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Bil0000/Hill-Climb](https://github.com/Bil0000/Hill-Climb)
+  > Make your coding agent prove "done". Each change is kept only if a locked test or benchmark scores i...
 
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
@@ -44,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-12 17:59:39 UTC*
+*Last updated at 2026-11-12 23:30:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
