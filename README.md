@@ -44,6 +44,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Coaltergeist/Brothership-Recomp](https://github.com/Coaltergeist/Brothership-Recomp)
   > A native recompilation of Mario & Luigi: Brothership
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [ArabPixel/WebKitty](https://github.com/ArabPixel/WebKitty)
+  > A feature rich ps4 exploit host
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Pharaoh2k/ps5debug-NG](https://github.com/Pharaoh2k/ps5debug-NG)
+  > PS5 debugger payload - userland TCP wire-protocol server hosted inside SceShellCore. GPL-3.
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg)
+  > Windows rootkit for Intel x64 with 25+ features, demonstrating rootkit techniques compatible with al...
+
+### [NextrixVFX](https://github.com/NextrixVFX)
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [user23333/2D-Injector](https://github.com/user23333/2D-Injector)
+  > Hiding unsigned DLL inside a signed DLL
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-better](https://github.com/nicobailon/pi-better)
+  > /better rewrites your prompt with Felix Rieseberg's "Depth" prompt, using your real code and files, ...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/ui](https://github.com/vercel-labs/ui)
   > A library of behaviors for agents to build the next generation of user interfaces.
@@ -51,6 +67,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it,...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
   > Keep your coding agent up to date with the latest web best practices
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)
+  > Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves ...
 
 
 <!-- nav -->
@@ -58,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-13 14:16:14 UTC*
+*Last updated at 2026-11-13 21:17:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
