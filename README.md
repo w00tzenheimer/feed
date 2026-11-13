@@ -1,57 +1,42 @@
-# Daily GitHub Activity (2026-11-12)
+# Daily GitHub Activity (2026-11-13)
 
 <!-- nav -->
-[← 2026-11-11](archive/2026/11/11.md)
+[← 2026-11-12](archive/2026/11/12.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift)
-  > Cranelift based backend for rustc
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [jdx/mise](https://github.com/jdx/mise)
+  > dev tools, env vars, task runner
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [jdx/mise](https://github.com/jdx/mise) to [IuvenisSapiens/mise](https://github.com/IuvenisSapiens/mise)
+  > dev tools, env vars, task runner
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Schniz/fnm](https://github.com/Schniz/fnm)
+  > 🚀 Fast and simple Node.js version manager, built in Rust
 
 ### [JaredTherriault](https://github.com/JaredTherriault)
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Simon3Sarkis/super-odyssey-pc-recomp](https://github.com/Simon3Sarkis/super-odyssey-pc-recomp)
-  > A native Windows PC port of Super Mario Odyssey by static recompilation. Bring your own game: no gam...
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [linuxopt/plza-recomp](https://github.com/linuxopt/plza-recomp)
-  > Pokémon Legends: Z-A for Linux: static recompilation (from LZA-Recomp) as a portable AppImage. Bring...
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [fabioschmidt01/PokeL-ARecomp](https://github.com/fabioschmidt01/PokeL-ARecomp)
-
-### [NextrixVFX](https://github.com/NextrixVFX)
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [SternI/FortniteMCP](https://github.com/SternI/FortniteMCP)
-  > An in-process MCP server for Unreal Engine game research and automated testing.
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [disguisegh/Vesper-UEFI-DXE-Bootkit](https://github.com/disguisegh/Vesper-UEFI-DXE-Bootkit)
-  > Vesper UEFI DXE Bootkit POC
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [disguisegh/Hyper-V-VM-Exit-Hooking-Without-Binary-Patching](https://github.com/disguisegh/Hyper-V-VM-Exit-Hooking-Without-Binary-Patching)
-  > See some people struggling with this detection vector; it's not rocket science, and not too advanced...
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [gmh5225/VT-AetherVisor](https://github.com/gmh5225/VT-AetherVisor)
-  > Memory hacking library powered by AMD SVM
-
-### [maskelihileci](https://github.com/maskelihileci)
-- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [RemakeCode/hv-launcher](https://github.com/RemakeCode/hv-launcher)
-  > A quick readiness check and launch manager for hypervisor games
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [vfjoo888/SuperWonders](https://github.com/vfjoo888/SuperWonders)
+  > A static recompilation of Super Mario Wonders for switch 1 
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Coaltergeist/Brothership-Recomp](https://github.com/Coaltergeist/Brothership-Recomp)
+  > A native recompilation of Mario & Luigi: Brothership
 
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [Bil0000/Hill-Climb](https://github.com/Bil0000/Hill-Climb)
-  > Make your coding agent prove "done". Each change is kept only if a locked test or benchmark scores i...
-
-### [quippy-dev](https://github.com/quippy-dev)
-- 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
-  > The headless browser for AI agents and web scraping
-
-### [seiftnesse](https://github.com/seiftnesse)
-- 🌟 👤 [seiftnesse](https://github.com/seiftnesse) Starred [noahware/apic](https://github.com/noahware/apic)
-  > C++ library for sending processor interrupts via x2apic & xapic
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/ui](https://github.com/vercel-labs/ui)
+  > A library of behaviors for agents to build the next generation of user interfaces.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [expo/exact](https://github.com/expo/exact)
+  > Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it,...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+  > Keep your coding agent up to date with the latest web best practices
 
 
 <!-- nav -->
-[← 2026-11-11](archive/2026/11/11.md)
+[← 2026-11-12](archive/2026/11/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-12 23:30:07 UTC*
+*Last updated at 2026-11-13 05:51:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
