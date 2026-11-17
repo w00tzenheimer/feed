@@ -34,16 +34,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Vnnc1/MK8-online](https://github.com/Vnnc1/MK8-online)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [whompay/Fable2Reborn](https://github.com/whompay/Fable2Reborn)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [imnotsharingmyname/pcportastrobot](https://github.com/imnotsharingmyname/pcportastrobot)
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [u0rhs/burnout3-native](https://github.com/u0rhs/burnout3-native)
+  > Burnout 3: Takedown, native on every platform
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [linuxopt/PokeZ-ARecomp-Online](https://github.com/linuxopt/PokeZ-ARecomp-Online)
+  > This is my own fork of the recomp to be used with Lumiose Online.
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Locme/Banjo-ReTooie](https://github.com/Locme/Banjo-ReTooie)
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [jhon2f/fortnite-ac-reversal](https://github.com/jhon2f/fortnite-ac-reversal)
   > Reverse-engineering notes on Fortnite's full anti-cheat stack: EAC (classic + EOS), Fortnite's own i...
 - 🍴 👤 [NextrixVFX](https://github.com/NextrixVFX) Forked [jhon2f/fortnite-ac-reversal](https://github.com/jhon2f/fortnite-ac-reversal) to [NextrixVFX/fortnite-ac-reversal](https://github.com/NextrixVFX/fortnite-ac-reversal)
   > Reverse-engineering notes on Fortnite's full anti-cheat stack: EAC (classic + EOS), Fortnite's own i...
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [TheWindWa1ker/QEMU-DMA](https://github.com/TheWindWa1ker/QEMU-DMA)
+  > Virtual Machine DMA SDK with DTB Fix(CR3 Fix) for Apex Legends
 
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [adamsardo/recordbox](https://github.com/adamsardo/recordbox)
-  > Unofficial, open-source macOS app for DJ set prep: library, track analysis, cues, playlists and CDJ/...
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [KishanBagaria/swift-anisette](https://github.com/KishanBagaria/swift-anisette)
+  > Local anisette generation in Swift for macOS and Linux
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Merculous/PyiBootlib](https://github.com/Merculous/PyiBootlib)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)
+  > Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 d...
+
+### [nihilus](https://github.com/nihilus)
+- 🍴 👤 [nihilus](https://github.com/nihilus) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [nihilus/hermes-agent](https://github.com/nihilus/hermes-agent)
+  > The agent that grows with you
 
 
 <!-- nav -->
@@ -51,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-17 12:54:27 UTC*
+*Last updated at 2026-11-17 21:35:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
