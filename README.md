@@ -55,6 +55,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor a...
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [SamuelTulach/SecureHack](https://github.com/SamuelTulach/SecureHack)
   > Cheat for my own game SecureGame which uses a bootkit to hyperjack Hyper-V in order to access VBS en...
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [lz4/lz4](https://github.com/lz4/lz4)
+  > Extremely Fast Compression algorithm
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [H-furkan/rediverse](https://github.com/H-furkan/rediverse)
@@ -63,6 +65,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vschko/macosvm-ng](https://github.com/vschko/macosvm-ng)
   > macosvm with GDB stub
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
+  > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [atom0s/Steamless](https://github.com/atom0s/Steamless)
+  > Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single sol...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interfere-inc/landmines](https://github.com/interfere-inc/landmines)
+  > Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen)
@@ -78,7 +88,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-18 12:47:28 UTC*
+*Last updated at 2026-11-18 21:11:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
