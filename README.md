@@ -11,10 +11,66 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) to [CrackerCat/app-store-compliance](https://github.com/CrackerCat/app-store-compliance)
   > Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 d...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Maldev-Academy/WhisperLoader](https://github.com/Maldev-Academy/WhisperLoader) to [CrackerCat/WhisperLoader](https://github.com/CrackerCat/WhisperLoader)
+  > A stealthy process injection loader combining Thread Name-Calling for payload delivery with TP_DIREC...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [GitKittys/unidbg-kitty](https://github.com/GitKittys/unidbg-kitty) to [CrackerCat/unidbg-kitty](https://github.com/CrackerCat/unidbg-kitty)
+  > kitty的unidbg  A fork of unidbg with Linux/AArch64 user-mode fidelity: EL0 privilege boundary, kernel...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/morok](https://github.com/19h/morok) to [CrackerCat/morok](https://github.com/CrackerCat/morok)
+  > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oss-invisible/playwright](https://github.com/oss-invisible/playwright) to [CrackerCat/oss-invisible-playwright](https://github.com/CrackerCat/oss-invisible-playwright)
+  > invisible playwright: Playwright that anti-bots cannot see, so no captchas: same API, anti-detect st...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [H0yeR404/weims-vgpu](https://github.com/H0yeR404/weims-vgpu) to [CrackerCat/weims-vgpu](https://github.com/CrackerCat/weims-vgpu)
+  > Windows WHPX/Vulkan integration for Reims vGPU: pinned sources, shared guest RAM, reproducible build...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ouncebrew/kaihen](https://github.com/ouncebrew/kaihen) to [CrackerCat/kaihen](https://github.com/CrackerCat/kaihen)
+  > Homebrew enabler and minimal CFW for Switch 2
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [1CatAI/1Cat-vLLM](https://github.com/1CatAI/1Cat-vLLM) to [CrackerCat/1Cat-vLLM](https://github.com/CrackerCat/1Cat-vLLM)
+  > V100 / SM70-focused vLLM engineering fork for modern LLM inference.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MathildeVenault/OffthePath](https://github.com/MathildeVenault/OffthePath) to [CrackerCat/OffthePath](https://github.com/CrackerCat/OffthePath)
+  > Implementation of one of the new techniques of process injection dubbed as "the Off the Path", prese...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Tiger-Foxx/fox-steel](https://github.com/Tiger-Foxx/fox-steel) to [CrackerCat/fox-steel](https://github.com/CrackerCat/fox-steel)
+  > SteelFox is a modern, Windows credential recovery and system reconnaissance framework built in Pytho...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DeathShotXD/SIP2Shell](https://github.com/DeathShotXD/SIP2Shell) to [CrackerCat/SIP2Shell](https://github.com/CrackerCat/SIP2Shell)
+  > One SIP text message to FreeSWITCH, and you are running commands. Exploit, scanner and a real vulner...
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [trailofbits/HVCI-loldrivers-check](https://github.com/trailofbits/HVCI-loldrivers-check)
 
 ### [Naville](https://github.com/Naville)
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) to [Naville/sublink-worker-fork](https://github.com/Naville/sublink-worker-fork)
   > One Worker, All Subscriptions
+
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [iHaiDeeZ/ps4-kernel-dumper](https://github.com/iHaiDeeZ/ps4-kernel-dumper)
+  > PS4 kernel dumper (libPS4 payload) with FW 14.02 support
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Maldev-Academy/WhisperLoader](https://github.com/Maldev-Academy/WhisperLoader)
+  > A stealthy process injection loader combining Thread Name-Calling for payload delivery with TP_DIREC...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [mdpsec/huntdeck](https://github.com/mdpsec/huntdeck)
+  > Self-hosted bug bounty scope tracker: every HackerOne, Bugcrowd, Intigriti and YesWeHack program you...
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [mdpsec/should-i-submit](https://github.com/mdpsec/should-i-submit)
+  > A local, safety-first pre-submission reviewer for bug bounty reports.
+
+### [NextrixVFX](https://github.com/NextrixVFX)
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [SamuelTulach/eac_cr3_shuffle](https://github.com/SamuelTulach/eac_cr3_shuffle)
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Cr4sh/s6_pcie_microblaze](https://github.com/Cr4sh/s6_pcie_microblaze)
+  > PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor a...
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [SamuelTulach/SecureHack](https://github.com/SamuelTulach/SecureHack)
+  > Cheat for my own game SecureGame which uses a bootkit to hyperjack Hyper-V in order to access VBS en...
+
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [H-furkan/rediverse](https://github.com/H-furkan/rediverse)
+  > ReDiverse: Restoring Diversity in Distilled Image and Video Generators by Probing Activations
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vschko/macosvm-ng](https://github.com/vschko/macosvm-ng)
+  > macosvm with GDB stub
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen)
+  > Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscripti...
+
+### [wanttobeno](https://github.com/wanttobeno)
+- 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [zephyr4123/snug](https://github.com/zephyr4123/snug)
+  > 为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone w...
 
 
 <!-- nav -->
@@ -22,7 +78,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-18 03:26:50 UTC*
+*Last updated at 2026-11-18 12:47:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
