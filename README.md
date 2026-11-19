@@ -8,6 +8,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DeepSpec/InteractionTrees](https://github.com/DeepSpec/InteractionTrees)
+  > A Library for Representing Recursive and Impure Programs in Coq
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust)
+  > Formal verification tool for Rust: check 100% of execution cases of your programs to make safer appl...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JSchoreels/anki](https://github.com/JSchoreels/anki)
+  > Anki's shared backend and web components, and the Qt frontend
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Nycolazs/LASRecomp-Android-Plus](https://github.com/Nycolazs/LASRecomp-Android-Plus)
+  > LAS Recomp for Android: Link's Awakening (Switch) statically recompiled to native ARM64 for Android ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [arcanite24/pinyon-shift](https://github.com/arcanite24/pinyon-shift)
+  > A playable preview of Forza Horizon static recompilation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+  > 🎥      Make videos programmatically with React
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/screen-relay](https://github.com/vercel-labs/screen-relay)
+  > Upto 120 fps, low latency desktop streaming for humans and AI agents
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [oreillyp/dcomposer](https://github.com/oreillyp/dcomposer)
+
 ### [tkmru](https://github.com/tkmru)
 - 🍴 👤 [tkmru](https://github.com/tkmru) Forked [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) to [tkmru/Black-Friday-Deals-mRs](https://github.com/tkmru/Black-Friday-Deals-mRs)
   > Black Friday Deals for macOS / iOS Software & Books
@@ -31,6 +52,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Decrypte WeiXin 4.x key
 - 🍴 👤 [wanttobeno](https://github.com/wanttobeno) Forked [xscanzm/wechat-4x-decrypt](https://github.com/xscanzm/wechat-4x-decrypt) to [wanttobeno/wechat-4x-decrypt](https://github.com/wanttobeno/wechat-4x-decrypt)
   > 微信 4.x 本地聊天记录解密与检索 Skill（Windows / 零第三方依赖）。出品：skill 出品 · 周一 · 皮皮未来
+- 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
+  > DeepSeek v4.1 flash 最强逆向工具（无限五代）     求 Star 收藏 ⭐欢迎大家提交项目的改进
 
 
 <!-- nav -->
@@ -38,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-19 11:27:56 UTC*
+*Last updated at 2026-11-19 20:15:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
