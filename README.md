@@ -1,94 +1,32 @@
-# Daily GitHub Activity (2026-11-18)
+# Daily GitHub Activity (2026-11-19)
 
 <!-- nav -->
-[← 2026-11-17](archive/2026/11/17.md)
+[← 2026-11-18](archive/2026/11/18.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) to [CrackerCat/app-store-compliance](https://github.com/CrackerCat/app-store-compliance)
-  > Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 d...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Maldev-Academy/WhisperLoader](https://github.com/Maldev-Academy/WhisperLoader) to [CrackerCat/WhisperLoader](https://github.com/CrackerCat/WhisperLoader)
-  > A stealthy process injection loader combining Thread Name-Calling for payload delivery with TP_DIREC...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [GitKittys/unidbg-kitty](https://github.com/GitKittys/unidbg-kitty) to [CrackerCat/unidbg-kitty](https://github.com/CrackerCat/unidbg-kitty)
-  > kitty的unidbg  A fork of unidbg with Linux/AArch64 user-mode fidelity: EL0 privilege boundary, kernel...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/morok](https://github.com/19h/morok) to [CrackerCat/morok](https://github.com/CrackerCat/morok)
-  > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oss-invisible/playwright](https://github.com/oss-invisible/playwright) to [CrackerCat/oss-invisible-playwright](https://github.com/CrackerCat/oss-invisible-playwright)
-  > invisible playwright: Playwright that anti-bots cannot see, so no captchas: same API, anti-detect st...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [H0yeR404/weims-vgpu](https://github.com/H0yeR404/weims-vgpu) to [CrackerCat/weims-vgpu](https://github.com/CrackerCat/weims-vgpu)
-  > Windows WHPX/Vulkan integration for Reims vGPU: pinned sources, shared guest RAM, reproducible build...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ouncebrew/kaihen](https://github.com/ouncebrew/kaihen) to [CrackerCat/kaihen](https://github.com/CrackerCat/kaihen)
-  > Homebrew enabler and minimal CFW for Switch 2
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [1CatAI/1Cat-vLLM](https://github.com/1CatAI/1Cat-vLLM) to [CrackerCat/1Cat-vLLM](https://github.com/CrackerCat/1Cat-vLLM)
-  > V100 / SM70-focused vLLM engineering fork for modern LLM inference.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MathildeVenault/OffthePath](https://github.com/MathildeVenault/OffthePath) to [CrackerCat/OffthePath](https://github.com/CrackerCat/OffthePath)
-  > Implementation of one of the new techniques of process injection dubbed as "the Off the Path", prese...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Tiger-Foxx/fox-steel](https://github.com/Tiger-Foxx/fox-steel) to [CrackerCat/fox-steel](https://github.com/CrackerCat/fox-steel)
-  > SteelFox is a modern, Windows credential recovery and system reconnaissance framework built in Pytho...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DeathShotXD/SIP2Shell](https://github.com/DeathShotXD/SIP2Shell) to [CrackerCat/SIP2Shell](https://github.com/CrackerCat/SIP2Shell)
-  > One SIP text message to FreeSWITCH, and you are running commands. Exploit, scanner and a real vulner...
-
-### [NUL0x4C](https://github.com/NUL0x4C)
-- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [trailofbits/HVCI-loldrivers-check](https://github.com/trailofbits/HVCI-loldrivers-check)
-
-### [Naville](https://github.com/Naville)
-- 🍴 👤 [Naville](https://github.com/Naville) Forked [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) to [Naville/sublink-worker-fork](https://github.com/Naville/sublink-worker-fork)
-  > One Worker, All Subscriptions
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [iHaiDeeZ/ps4-kernel-dumper](https://github.com/iHaiDeeZ/ps4-kernel-dumper)
-  > PS4 kernel dumper (libPS4 payload) with FW 14.02 support
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Maldev-Academy/WhisperLoader](https://github.com/Maldev-Academy/WhisperLoader)
-  > A stealthy process injection loader combining Thread Name-Calling for payload delivery with TP_DIREC...
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [mdpsec/huntdeck](https://github.com/mdpsec/huntdeck)
-  > Self-hosted bug bounty scope tracker: every HackerOne, Bugcrowd, Intigriti and YesWeHack program you...
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [mdpsec/should-i-submit](https://github.com/mdpsec/should-i-submit)
-  > A local, safety-first pre-submission reviewer for bug bounty reports.
-
-### [NextrixVFX](https://github.com/NextrixVFX)
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [SamuelTulach/eac_cr3_shuffle](https://github.com/SamuelTulach/eac_cr3_shuffle)
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Cr4sh/s6_pcie_microblaze](https://github.com/Cr4sh/s6_pcie_microblaze)
-  > PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor a...
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [SamuelTulach/SecureHack](https://github.com/SamuelTulach/SecureHack)
-  > Cheat for my own game SecureGame which uses a bootkit to hyperjack Hyper-V in order to access VBS en...
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [lz4/lz4](https://github.com/lz4/lz4)
-  > Extremely Fast Compression algorithm
-
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [H-furkan/rediverse](https://github.com/H-furkan/rediverse)
-  > ReDiverse: Restoring Diversity in Distilled Image and Video Generators by Probing Activations
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vschko/macosvm-ng](https://github.com/vschko/macosvm-ng)
-  > macosvm with GDB stub
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
-  > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [atom0s/Steamless](https://github.com/atom0s/Steamless)
-  > Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single sol...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interfere-inc/landmines](https://github.com/interfere-inc/landmines)
-  > Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen)
-  > Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscripti...
-
-### [wanttobeno](https://github.com/wanttobeno)
-- 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [zephyr4123/snug](https://github.com/zephyr4123/snug)
-  > 为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone w...
+### [tkmru](https://github.com/tkmru)
+- 🍴 👤 [tkmru](https://github.com/tkmru) Forked [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) to [tkmru/Black-Friday-Deals-mRs](https://github.com/tkmru/Black-Friday-Deals-mRs)
+  > Black Friday Deals for macOS / iOS Software & Books
+- 🍴 👤 [tkmru](https://github.com/tkmru) Forked [dqhieu/black-friday-deals](https://github.com/dqhieu/black-friday-deals) to [tkmru/black-friday-deals-dqhieu](https://github.com/tkmru/black-friday-deals-dqhieu)
+  > Discounts and deals on Black Friday and Cyber Monday for apps, saas, books, courses,...
+- 🍴 👤 [tkmru](https://github.com/tkmru) Forked [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) to [tkmru/rare-big-deal](https://github.com/tkmru/rare-big-deal)
+  > 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours!
+- 🍴 👤 [tkmru](https://github.com/tkmru) Forked [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) to [tkmru/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/tkmru/Awesome-Black-Friday-Cyber-Monday-deals)
+  > 🟢 2026 Deals Live - Black Friday & Cyber Monday, Christmas & Holidays Deals for Developers, Techies ...
+- 🍴 👤 [tkmru](https://github.com/tkmru) Forked [Pimjo/black-friday-deals](https://github.com/Pimjo/black-friday-deals) to [tkmru/black-friday-deals-pimjo](https://github.com/tkmru/black-friday-deals-pimjo)
+  > Black Friday 2026 deals for developers and designers covering AI Tools, Apps, SaaS tools, UI kits, t...
 
 
 <!-- nav -->
-[← 2026-11-17](archive/2026/11/17.md)
+[← 2026-11-18](archive/2026/11/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-18 21:11:19 UTC*
+*Last updated at 2026-11-19 02:59:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
