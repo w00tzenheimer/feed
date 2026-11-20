@@ -29,10 +29,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An Xposed module for Android 12+ that hides standard storage paths within MediaProvider based on run...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LingLuo17/OnePlus_KernelSU_SUSFS](https://github.com/LingLuo17/OnePlus_KernelSU_SUSFS) to [CrackerCat/OnePlus_KernelSU_SUSFS](https://github.com/CrackerCat/OnePlus_KernelSU_SUSFS)
   > OnePlus Kernel with SukiSU-Nova/BakaSU/FinaSU + SUSFS
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Jiangshishou/zhaiyi-web-summary-assistant](https://github.com/Jiangshishou/zhaiyi-web-summary-assistant) to [CrackerCat/zhaiyi-web-summary-assistant](https://github.com/CrackerCat/zhaiyi-web-summary-assistant)
+  > 摘意 — 在网页上生成结构化摘要的 Chrome/Edge MV3 扩展
 
 ### [JaredTherriault](https://github.com/JaredTherriault)
 - 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Dewey-Wilkerson/Hylian-Melodies](https://github.com/Dewey-Wilkerson/Hylian-Melodies)
   > Linux-first Recomp of Cadence of Hyrule
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [God-Hand-Rearmed/God-Hand-Rearmed](https://github.com/God-Hand-Rearmed/God-Hand-Rearmed)
+  > God Hand: Rearmed (Project Kamite) is an unofficial native PC port of the PS2 cult classic, built by...
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [NeoGotYa/RaC-Its-How-You-Use-It](https://github.com/NeoGotYa/RaC-Its-How-You-Use-It)
+  > A Native PC port of Size Matters 
+- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [eliasm4r/AgeOfCalamityRecomp](https://github.com/eliasm4r/AgeOfCalamityRecomp)
+  > Static recompilation of Hyrule Warriors: Age of Calamity 1.3.0 for PC (Vulkan)
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [kevmo314/machso](https://github.com/kevmo314/machso)
+  > Experimental ARM64 Linux ELF to native macOS dylib compiler
 
 ### [NetVar1337](https://github.com/NetVar1337)
 - 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [VollRagm/lpmapper](https://github.com/VollRagm/lpmapper)
@@ -43,13 +55,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [CMU-CAOS/Cerium](https://github.com/CMU-CAOS/Cerium)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tufalabs/tufazip](https://github.com/Tufalabs/tufazip)
+  > We shrink 1 GB of Wikipedia to 105.39 MB, losslessly.
+
 
 <!-- nav -->
 [← 2026-11-19](archive/2026/11/19.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-20 11:05:28 UTC*
+*Last updated at 2026-11-20 19:47:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
