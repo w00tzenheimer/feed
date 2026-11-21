@@ -1,71 +1,24 @@
-# Daily GitHub Activity (2026-11-20)
+# Daily GitHub Activity (2026-11-21)
 
 <!-- nav -->
-[← 2026-11-19](archive/2026/11/19.md)
+[← 2026-11-20](archive/2026/11/20.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [imxieyi/Kernarium](https://github.com/imxieyi/Kernarium) to [CrackerCat/Kernarium](https://github.com/CrackerCat/Kernarium)
-  > Run real Linux kernel natively on iOS
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock) to [CrackerCat/FastUnlock](https://github.com/CrackerCat/FastUnlock)
-  > FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Ahora57/import_wrapper_attack](https://github.com/Ahora57/import_wrapper_attack) to [CrackerCat/import_wrapper_attack](https://github.com/CrackerCat/import_wrapper_attack)
-  > Example of an attack on the import mechanism in VMProtect 3.0–3.10.4.0 and Themida/WinLicense 3.0–3....
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [7777lolonlyyou/VMProtect-LLM-SKILL](https://github.com/7777lolonlyyou/VMProtect-LLM-SKILL) to [CrackerCat/VMProtect-LLM-SKILL](https://github.com/CrackerCat/VMProtect-LLM-SKILL)
-  > A practical devirtualization workflow skill for VMProtect, Themida, and custom virtual-machine prote...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [recurism/decapsula](https://github.com/recurism/decapsula) to [CrackerCat/decapsula](https://github.com/CrackerCat/decapsula)
-  > devirt for imperva reese84 interrogator constructor
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rust505/CVE-2026-112477](https://github.com/Rust505/CVE-2026-112477) to [CrackerCat/CVE-2026-112477](https://github.com/CrackerCat/CVE-2026-112477)
-  > CVE-2026-112477 — Use-After-Free (UAF) in the `IOSurfaceRootUserClient` surface registry (iOS): a ra...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007) to [CrackerCat/CVE-2026-123007](https://github.com/CrackerCat/CVE-2026-123007)
-  > Proof-of-concept (PoC) scripts for CVE-2026-123007, an integer underflow in NGINX HTTP/2.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) to [CrackerCat/Claude-BugHunter](https://github.com/CrackerCat/Claude-BugHunter)
-  > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoTong6666/FuseHide](https://github.com/XiaoTong6666/FuseHide) to [CrackerCat/XiaoTong6666-FuseHide](https://github.com/CrackerCat/XiaoTong6666-FuseHide)
-  > An Xposed module for Android 12+ that hides standard storage paths within MediaProvider based on run...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LingLuo17/OnePlus_KernelSU_SUSFS](https://github.com/LingLuo17/OnePlus_KernelSU_SUSFS) to [CrackerCat/OnePlus_KernelSU_SUSFS](https://github.com/CrackerCat/OnePlus_KernelSU_SUSFS)
-  > OnePlus Kernel with SukiSU-Nova/BakaSU/FinaSU + SUSFS
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Jiangshishou/zhaiyi-web-summary-assistant](https://github.com/Jiangshishou/zhaiyi-web-summary-assistant) to [CrackerCat/zhaiyi-web-summary-assistant](https://github.com/CrackerCat/zhaiyi-web-summary-assistant)
-  > 摘意 — 在网页上生成结构化摘要的 Chrome/Edge MV3 扩展
-
-### [JaredTherriault](https://github.com/JaredTherriault)
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Dewey-Wilkerson/Hylian-Melodies](https://github.com/Dewey-Wilkerson/Hylian-Melodies)
-  > Linux-first Recomp of Cadence of Hyrule
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [God-Hand-Rearmed/God-Hand-Rearmed](https://github.com/God-Hand-Rearmed/God-Hand-Rearmed)
-  > God Hand: Rearmed (Project Kamite) is an unofficial native PC port of the PS2 cult classic, built by...
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [NeoGotYa/RaC-Its-How-You-Use-It](https://github.com/NeoGotYa/RaC-Its-How-You-Use-It)
-  > A Native PC port of Size Matters 
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [eliasm4r/AgeOfCalamityRecomp](https://github.com/eliasm4r/AgeOfCalamityRecomp)
-  > Static recompilation of Hyrule Warriors: Age of Calamity 1.3.0 for PC (Vulkan)
-
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [kevmo314/machso](https://github.com/kevmo314/machso)
-  > Experimental ARM64 Linux ELF to native macOS dylib compiler
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [VollRagm/lpmapper](https://github.com/VollRagm/lpmapper)
-  > A mapper that maps shellcode into loaded large page drivers
-- 🍴 👤 [NetVar1337](https://github.com/NetVar1337) Forked [zer0condition/Ophion](https://github.com/zer0condition/Ophion) to [NetVar1337/Universal-HV](https://github.com/NetVar1337/Universal-HV)
-  > Stealth-focused Intel VT-x hypervisor.
-
-### [jakehemmerle](https://github.com/jakehemmerle)
-- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [CMU-CAOS/Cerium](https://github.com/CMU-CAOS/Cerium)
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tufalabs/tufazip](https://github.com/Tufalabs/tufazip)
-  > We shrink 1 GB of Wikipedia to 105.39 MB, losslessly.
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng)
+  > The Next Generation GoldenDict
 
 
 <!-- nav -->
-[← 2026-11-19](archive/2026/11/19.md)
+[← 2026-11-20](archive/2026/11/20.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-20 19:47:48 UTC*
+*Last updated at 2026-11-21 01:11:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
