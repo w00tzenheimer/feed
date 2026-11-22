@@ -51,13 +51,37 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ransagy/poe-regex](https://github.com/ransagy/poe-regex)
   > A Path of Exile 1 and 2 regex compiler engine (CLI, Native AOT) with a Blazor WASM web workbench.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HoolockLinux/remote_boot](https://github.com/HoolockLinux/remote_boot)
+  > m1n1 remote booter, or: Reference open-source HoolockLinux booter
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HoolockLinux/iboot_tracer](https://github.com/HoolockLinux/iboot_tracer)
+  > iBoot pagetable and data abort handler patcher
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyyself/qemu-system-rtl](https://github.com/cyyself/qemu-system-rtl)
+  > QEMU-System-RTL: Connecting RTL CPU Cores to QEMU
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [plooshi/RealRoot](https://github.com/plooshi/RealRoot)
+  > Access the underlying FS of the root snapshot in Big Sur+ (SIP 0x800 replacement, x64 only)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HoolockLinux/hKernelFWExtractor](https://github.com/HoolockLinux/hKernelFWExtractor)
+  > Extract Firmware from an iOS kernelcache
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HoolockLinux/gaster](https://github.com/HoolockLinux/gaster)
+  > Checkm8 experiment to understand AP/SEP internals.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsec/greysynth](https://github.com/binsec/greysynth) to [mrexodia/greysynth](https://github.com/mrexodia/greysynth)
+  > Greybox deobfuscation framework
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [m1guelpf/Exo](https://github.com/m1guelpf/Exo)
+  > A fast, local and native Gmail client for macOS, inspired by Superhuman.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck)
+  > The open-source macro pad with customizable widgets, powerful integrations and a secure plugin ecosy...
+
 
 <!-- nav -->
 [← 2026-11-21](archive/2026/11/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-22 10:54:50 UTC*
+*Last updated at 2026-11-22 18:20:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
