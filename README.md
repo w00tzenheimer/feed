@@ -8,27 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [antiyro/ukeystore](https://github.com/antiyro/ukeystore) to [CrackerCat/ukeystore](https://github.com/CrackerCat/ukeystore)
-  > Native Android attestation implementation built into Keystore2 using Rust and C++. No Magisk, no run...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA) to [CrackerCat/trailofbits-CoBRA](https://github.com/CrackerCat/trailofbits-CoBRA)
-  > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [leonardo-alegria/garlic-llm](https://github.com/leonardo-alegria/garlic-llm) to [CrackerCat/garlic-llm](https://github.com/CrackerCat/garlic-llm)
-  > A 9-billion-parameter language model running on a PS4 GPU. Offline.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [h4vox/Dynloader](https://github.com/h4vox/Dynloader) to [CrackerCat/Dynloader](https://github.com/CrackerCat/Dynloader)
-  > DynLoader   A modular Windows loader focused on EDR evasion Built with indirect syscall (Tartarus Ga...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) to [CrackerCat/agentic-attack-detections](https://github.com/CrackerCat/agentic-attack-detections)
-  > Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStri...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Zertrox123/x64-mac-recomp](https://github.com/Zertrox123/x64-mac-recomp) to [CrackerCat/x64-mac-recomp](https://github.com/CrackerCat/x64-mac-recomp)
-  > Static x86_64 -> native ARM64 recompiler for Apple Silicon macOS (D3D11 -> Metal, Vulkan -> MoltenVK...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yangbin1322/hongguo-player](https://github.com/yangbin1322/hongguo-player) to [CrackerCat/hongguo-player](https://github.com/CrackerCat/hongguo-player)
-  > 红果短剧电脑版 · 不用安卓模拟器，直接在 Windows / macOS 上刷红果短剧 · 国内下载: hongguo.235698.xyz · 打不开用蓝奏云 (无需密码): wwalp.lanz...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MetrolistGroup/quackjs](https://github.com/MetrolistGroup/quackjs) to [CrackerCat/quackjs](https://github.com/CrackerCat/quackjs)
-  > Kotlin-only YouTube player signature and n transforms using Faraday hints
-
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [dzulfikar08/kantor](https://github.com/dzulfikar08/kantor)
   > Small, fast office suite (Sheets, Docs, Slides) for Windows, Mac and Linux that opens and saves Exce...
+
+### [MaxtorCoder](https://github.com/MaxtorCoder)
+- 🍴 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Forked [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) to [MaxtorCoder/Leonida](https://github.com/MaxtorCoder/Leonida)
+  > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
+
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
+  > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [vmcall/dxgkrnl_hook](https://github.com/vmcall/dxgkrnl_hook)
@@ -39,6 +29,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pithings/unkernel](https://github.com/pithings/unkernel)
   > A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [faest-sign/faest-ref](https://github.com/faest-sign/faest-ref)
+  > FAEST reference implementation
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Moderation-of-unLinkable-Endorsements/mole-p256-rs](https://github.com/Moderation-of-unLinkable-Endorsements/mole-p256-rs)
+  > Rust implementations of the MOLE protocols over P-256: EC-IHAT, EC-ACT, and the P-256 backend they s...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [staturnzz/lyncis](https://github.com/staturnzz/lyncis)
@@ -61,10 +57,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > iOS Tweak that fixes the AppStore connection issues and its UI layout on older iOS versions by redir...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [victorlobe/AppStoreFix-Tweak](https://github.com/victorlobe/AppStoreFix-Tweak)
   > An iOS tweak that restores the App Store, iTunes Store, iBooks Store and Podcasts catalog on iOS 3, ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bag-xml/SigPass](https://github.com/bag-xml/SigPass)
+  > Passbook and PassKit signature, and checksum requirement cracker. Invalidations of passes and "bad s...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bag-xml/Discord-Classic](https://github.com/bag-xml/Discord-Classic)
+  > The definitive way of using Discord on legacy iOS. Compatible with iOS 5.0+
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Junior-Is-Great67/iTunesStoreX7](https://github.com/Junior-Is-Great67/iTunesStoreX7)
+  > The ultimate fix for the iOS 7 AppStore! (Work in progress, bugs are expected)
 
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [os6/nospeaker](https://github.com/os6/nospeaker)
-  > make your macbook's trackpad talk using its haptic motor
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [pithings/wland](https://github.com/pithings/wland)
+  > 🪟 Wayland apps, composited in the browser: a Wayland compositor in WebAssembly.
+
+### [vitosans](https://github.com/vitosans)
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) to [vitosans/ai-pose-gallery-en](https://github.com/vitosans/ai-pose-gallery-en)
+  > 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [artokun/ComfyUI_PoseGenerator](https://github.com/artokun/ComfyUI_PoseGenerator)
+  > Independent ComfyUI adaptation for local pose and outfit references and editable prompts. Original g...
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [artokun/ComfyUI_PoseGenerator](https://github.com/artokun/ComfyUI_PoseGenerator) to [ComfyAssets/ComfyUI_PoseGenerator](https://github.com/ComfyAssets/ComfyUI_PoseGenerator)
+  > Independent ComfyUI adaptation for local pose and outfit references and editable prompts. Original g...
 
 
 <!-- nav -->
@@ -72,7 +82,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-23 08:44:28 UTC*
+*Last updated at 2026-11-23 20:59:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
