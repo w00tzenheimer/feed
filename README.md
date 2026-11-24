@@ -1,88 +1,37 @@
-# Daily GitHub Activity (2026-11-23)
+# Daily GitHub Activity (2026-11-24)
 
 <!-- nav -->
-[← 2026-11-22](archive/2026/11/22.md)
+[← 2026-11-23](archive/2026/11/23.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [dzulfikar08/kantor](https://github.com/dzulfikar08/kantor)
-  > Small, fast office suite (Sheets, Docs, Slides) for Windows, Mac and Linux that opens and saves Exce...
-
-### [MaxtorCoder](https://github.com/MaxtorCoder)
-- 🍴 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Forked [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) to [MaxtorCoder/Leonida](https://github.com/MaxtorCoder/Leonida)
-  > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
-  > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
-
 ### [NextrixVFX](https://github.com/NextrixVFX)
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [vmcall/dxgkrnl_hook](https://github.com/vmcall/dxgkrnl_hook)
-  > C++ graphics kernel subsystem hook
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [meowsilk/eac-trace-cleaner](https://github.com/meowsilk/eac-trace-cleaner)
-  > eac/fn cleaner
-
-### [ggoodman](https://github.com/ggoodman)
-- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pithings/unkernel](https://github.com/pithings/unkernel)
-  > A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [faest-sign/faest-ref](https://github.com/faest-sign/faest-ref)
-  > FAEST reference implementation
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Moderation-of-unLinkable-Endorsements/mole-p256-rs](https://github.com/Moderation-of-unLinkable-Endorsements/mole-p256-rs)
-  > Rust implementations of the MOLE protocols over P-256: EC-IHAT, EC-ACT, and the P-256 backend they s...
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone)
+  > Windows memory hacking library
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [mgeeky/ShellcodeFluctuation](https://github.com/mgeeky/ShellcodeFluctuation)
+  > An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAcces...
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [NevermindExpress/efi.h](https://github.com/NevermindExpress/efi.h)
+  > Simple amalgamation UEFI development library, without any build systems or extra code
 
 ### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [staturnzz/lyncis](https://github.com/staturnzz/lyncis)
-  > iOS 7 untethered jailbreak
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [staturnzz/aquila](https://github.com/staturnzz/aquila)
-  > iOS 4.3 - 7.1.2 untethered jailbreak
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [staturnzz/iocaste](https://github.com/staturnzz/iocaste)
-  > untethered re-jailbreak for iOS 9.3.5/6
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [LukeZGD/EverPwnage](https://github.com/LukeZGD/EverPwnage)
-  > iOS 7.0-9.3.6 Untethered Jailbreak for 32-bit Devices
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [claration/impactor](https://github.com/claration/impactor)
-  > Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpact...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [staturnzz/oob_entry](https://github.com/staturnzz/oob_entry)
-  > iOS 3.0-10.3.4 tfp0 kernel exploit
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DCMMC/macPad](https://github.com/DCMMC/macPad)
-  > Your touch Mac in jailbroken iPad
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [trickv/deb-repo-query](https://github.com/trickv/deb-repo-query)
-  > Little tool I've always wanted to build to allow me to query a remote debian repo before adding it t...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ObscureMosquito/iTunesStoreX](https://github.com/ObscureMosquito/iTunesStoreX)
-  > iOS Tweak that fixes the AppStore connection issues and its UI layout on older iOS versions by redir...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [victorlobe/AppStoreFix-Tweak](https://github.com/victorlobe/AppStoreFix-Tweak)
-  > An iOS tweak that restores the App Store, iTunes Store, iBooks Store and Podcasts catalog on iOS 3, ...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bag-xml/SigPass](https://github.com/bag-xml/SigPass)
-  > Passbook and PassKit signature, and checksum requirement cracker. Invalidations of passes and "bad s...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bag-xml/Discord-Classic](https://github.com/bag-xml/Discord-Classic)
-  > The definitive way of using Discord on legacy iOS. Compatible with iOS 5.0+
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Junior-Is-Great67/iTunesStoreX7](https://github.com/Junior-Is-Great67/iTunesStoreX7)
-  > The ultimate fix for the iOS 7 AppStore! (Work in progress, bugs are expected)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sei-eschwartz/ooanalyzer-eval](https://github.com/sei-eschwartz/ooanalyzer-eval)
+  > Evaluate Pharos OOAnalyzer class recovery against PDB or ELF symbols
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sei-eschwartz/ooanalyzer-asp](https://github.com/sei-eschwartz/ooanalyzer-asp)
 
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [pithings/wland](https://github.com/pithings/wland)
-  > 🪟 Wayland apps, composited in the browser: a Wayland compositor in WebAssembly.
-
-### [vitosans](https://github.com/vitosans)
-- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) to [vitosans/ai-pose-gallery-en](https://github.com/vitosans/ai-pose-gallery-en)
-  > 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [artokun/ComfyUI_PoseGenerator](https://github.com/artokun/ComfyUI_PoseGenerator)
-  > Independent ComfyUI adaptation for local pose and outfit references and editable prompts. Original g...
-- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [artokun/ComfyUI_PoseGenerator](https://github.com/artokun/ComfyUI_PoseGenerator) to [ComfyAssets/ComfyUI_PoseGenerator](https://github.com/ComfyAssets/ComfyUI_PoseGenerator)
-  > Independent ComfyUI adaptation for local pose and outfit references and editable prompts. Original g...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)
+  > iOS simulators for AI agents, on Linux
 
 
 <!-- nav -->
-[← 2026-11-22](archive/2026/11/22.md)
+[← 2026-11-23](archive/2026/11/23.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-23 20:59:35 UTC*
+*Last updated at 2026-11-24 05:15:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
