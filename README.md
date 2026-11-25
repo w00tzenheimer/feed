@@ -37,17 +37,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
   > JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
 
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [19h/ida-self-loader](https://github.com/19h/ida-self-loader)
+  > Sony SELF/fSELF IDA loader
+
 ### [NextrixVFX](https://github.com/NextrixVFX)
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [mlpack/mlpack](https://github.com/mlpack/mlpack)
   > mlpack: a fast, header-only C++ machine learning library
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [XtrComSu/xt-forge](https://github.com/XtrComSu/xt-forge)
-  > Local agent workbench in Rust, Go, and Python for call-graph context, AST correctness auditing, bina...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mkultraware/accuretta](https://github.com/mkultraware/accuretta)
-  > A sovereign, zero-trust local AI agent and micro-IDE.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sous-labs/songe](https://github.com/sous-labs/songe)
-  > A training engine for your local model, using your idle compute
+### [SamboyCoding](https://github.com/SamboyCoding)
+- 🍴 👤 [SamboyCoding](https://github.com/SamboyCoding) Forked [open-goat/pequalnp-proofs](https://github.com/open-goat/pequalnp-proofs) to [SamboyCoding/pequalnp-proofs](https://github.com/SamboyCoding/pequalnp-proofs)
+  > Lean 4 proofs from the public AI attempt at P vs NP (pequalnp.com). Open gaps welcome pull requests.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ProximaV/spudec](https://github.com/ProximaV/spudec)
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mattpocock/cookout](https://github.com/mattpocock/cookout)
 
 
 <!-- nav -->
@@ -55,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-25 12:20:37 UTC*
+*Last updated at 2026-11-25 22:13:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
