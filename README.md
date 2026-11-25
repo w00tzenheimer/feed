@@ -1,67 +1,34 @@
-# Daily GitHub Activity (2026-11-24)
+# Daily GitHub Activity (2026-11-25)
 
 <!-- nav -->
-[← 2026-11-23](archive/2026/11/23.md)
+[← 2026-11-24](archive/2026/11/24.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [JaredTherriault](https://github.com/JaredTherriault)
-- 🌟 👤 [JaredTherriault](https://github.com/JaredTherriault) Starred [Kendoismebutmaybenot/wondershot](https://github.com/Kendoismebutmaybenot/wondershot)
-  > Super Mario Bros. Wonder (Switch 2 Edition) recompilation for PC, built on Longshot. Work in progres...
-
-### [MaxtorCoder](https://github.com/MaxtorCoder)
-- 🌟 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Starred [Marvisak/VIctory](https://github.com/Marvisak/VIctory)
-  > An attempt at running GTA VI on PC
-
-### [NetVar1337](https://github.com/NetVar1337)
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [ivall/xcl](https://github.com/ivall/xcl)
-  > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida)
-  > A continuation of Leonida, the Xbox > PC port interface of GTA VI
-- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Marvisak/VIctory](https://github.com/Marvisak/VIctory)
-  > An attempt at running GTA VI on PC
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [PrimeX-06/tift](https://github.com/PrimeX-06/tift)
+  > A configurable LaTeX and BibTeX source formatter written in Rust
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [PrimeX-06/tift](https://github.com/PrimeX-06/tift) to [IuvenisSapiens/tift](https://github.com/IuvenisSapiens/tift)
+  > A configurable LaTeX and BibTeX source formatter written in Rust
 
 ### [NextrixVFX](https://github.com/NextrixVFX)
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone)
-  > Windows memory hacking library
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [mgeeky/ShellcodeFluctuation](https://github.com/mgeeky/ShellcodeFluctuation)
-  > An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAcces...
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [NevermindExpress/efi.h](https://github.com/NevermindExpress/efi.h)
-  > Simple amalgamation UEFI development library, without any build systems or extra code
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [S12cybersecurity/WhatPatchguardProtects](https://github.com/S12cybersecurity/WhatPatchguardProtects)
-  > Reference of all kernel structures, routines, and MSRs monitored by PatchGuard (KPP) on Windows.
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [garvitsurana271/stambha](https://github.com/garvitsurana271/stambha)
-  > Run Apple-silicon macOS on your PC: desktops and laptops, NVIDIA graphics (AMD/Intel experimental), ...
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [ivall/xcl](https://github.com/ivall/xcl)
-  > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sei-eschwartz/ooanalyzer-eval](https://github.com/sei-eschwartz/ooanalyzer-eval)
-  > Evaluate Pharos OOAnalyzer class recovery against PDB or ELF symbols
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sei-eschwartz/ooanalyzer-asp](https://github.com/sei-eschwartz/ooanalyzer-asp)
+- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [mlpack/mlpack](https://github.com/mlpack/mlpack)
+  > mlpack: a fast, header-only C++ machine learning library
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tensorfish/squid5090](https://github.com/tensorfish/squid5090)
-  > Highly Optimized Inference Engine for Inkling Mini 2 on NVIDIA 5090
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill)
-  > Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce...
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)
-  > iOS simulators for AI agents, on Linux
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
-  > Orchestrate multiple coding agents from desktop and mobile
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1337isnot1337/solved-conjectures](https://github.com/1337isnot1337/solved-conjectures)
+  > math drop, curated by myself and 6.2-astra
 
 
 <!-- nav -->
-[← 2026-11-23](archive/2026/11/23.md)
+[← 2026-11-24](archive/2026/11/24.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-24 17:15:20 UTC*
+*Last updated at 2026-11-25 02:02:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
