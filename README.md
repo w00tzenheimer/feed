@@ -37,13 +37,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Turn a car's dashcam footage into a 3D world you can drive through again: Gaussian splats, a 1 cm ro...
 - 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Yzichen/FlashOCC](https://github.com/Yzichen/FlashOCC)
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [hajimehoshi/ekuma](https://github.com/hajimehoshi/ekuma)
+  > A JavaScript engine in pure Go
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pmachapman/helpdeco](https://github.com/pmachapman/helpdeco)
+  > WinHelp Decompiler
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [knapcio/inkling-2-mini-spark-bench](https://github.com/knapcio/inkling-2-mini-spark-bench)
+  > Same-harness comparison of public Inkling-2-Mini recipes on one NVIDIA DGX Spark: speed, lossy or no...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [youssefnoob003/SindriKit](https://github.com/youssefnoob003/SindriKit)
+  > A foundational C library for building operationally credible offensive capabilities
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
+  > ⚚ The ultrawork agent with AI coworkers wired into you
+
 
 <!-- nav -->
 [← 2026-11-25](archive/2026/11/25.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-26 14:50:00 UTC*
+*Last updated at 2026-11-26 23:34:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
