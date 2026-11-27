@@ -1,7 +1,7 @@
-# Daily GitHub Activity (2026-11-26)
+# Daily GitHub Activity (2026-11-27)
 
 <!-- nav -->
-[← 2026-11-25](archive/2026/11/25.md)
+[← 2026-11-26](archive/2026/11/26.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
@@ -9,57 +9,46 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ## Today's Activity
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tensorfish/squid5090](https://github.com/tensorfish/squid5090) to [CrackerCat/squid5090](https://github.com/CrackerCat/squid5090)
-  > Highly Optimized Inference Engine for Inkling Mini 2 on NVIDIA 5090
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) to [CrackerCat/nvidia-macos-driver](https://github.com/CrackerCat/nvidia-macos-driver)
-  > Metal driver for NVIDIA GeForce cards on macOS Sequoia
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [realchendahuang/before-you-install-t3code](https://github.com/realchendahuang/before-you-install-t3code) to [CrackerCat/before-you-install-t3code](https://github.com/CrackerCat/before-you-install-t3code)
-  > Independent telemetry, security, governance, and public-record audit of pingdotgg/t3code across 18 l...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [hngocuyen/pycrune](https://github.com/hngocuyen/pycrune) to [CrackerCat/pycrune](https://github.com/CrackerCat/pycrune)
-  > God Of Python Bytecode Decompiler
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [TheCruZ/BootViewer](https://github.com/TheCruZ/BootViewer) to [CrackerCat/BootViewer](https://github.com/CrackerCat/BootViewer)
-  > Windows Measured Boot viewer & TPM verifier. See exactly what your PC measured at boot. Decode the W...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [inwpu/shadownet-benchmark](https://github.com/inwpu/shadownet-benchmark) to [CrackerCat/shadownet-benchmark](https://github.com/CrackerCat/shadownet-benchmark)
-  > An agentic penetration-testing benchmark: a 96-container enterprise shadow network with 103 dynamic ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mschwarzl/flawrence](https://github.com/mschwarzl/flawrence) to [CrackerCat/flawrence](https://github.com/CrackerCat/flawrence)
-  > LLM-based vulnerability analysis for everyone
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [samugit83/redamon](https://github.com/samugit83/redamon) to [CrackerCat/redamon](https://github.com/CrackerCat/redamon)
-  > Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, au...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [google/agentmesh](https://github.com/google/agentmesh) to [CrackerCat/agentmesh](https://github.com/CrackerCat/agentmesh)
-  > Agent Mesh
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LyraVoid/NoShot](https://github.com/LyraVoid/NoShot) to [CrackerCat/NoShot](https://github.com/CrackerCat/NoShot)
-  > Per-app FLAG_SECURE remover for Android: Zig native, M3E WebUI
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mochabyte0x/Morpheus](https://github.com/mochabyte0x/Morpheus) to [CrackerCat/Morpheus](https://github.com/CrackerCat/Morpheus)
+  > Sleep Obfuscation via CreateThreadpoolTimer
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dobin/MakeMePPL](https://github.com/dobin/MakeMePPL) to [CrackerCat/MakeMePPL](https://github.com/CrackerCat/MakeMePPL)
+  > Kernel module to easily set PPL flag on processes
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tc4dy/CVE-2026-134815-PoC-Exploit](https://github.com/tc4dy/CVE-2026-134815-PoC-Exploit) to [CrackerCat/CVE-2026-134815-PoC-Exploit](https://github.com/CrackerCat/CVE-2026-134815-PoC-Exploit)
+  > CVE-2026-134815 (CVSS 9.2) simple-git Argument Injection Red/Blue Team Toolkit. RCE testing, reverse...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mrexodia/greysynth](https://github.com/mrexodia/greysynth) to [CrackerCat/greysynth](https://github.com/CrackerCat/greysynth)
+  > Greybox deobfuscation framework
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [9xz/reversetok](https://github.com/9xz/reversetok) to [CrackerCat/reversetok](https://github.com/CrackerCat/reversetok)
+  > Reverse Engineered Tiktok mobile API w/ all signer functions
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [pwn2nice/cb-exec](https://github.com/pwn2nice/cb-exec) to [CrackerCat/cb-exec](https://github.com/CrackerCat/cb-exec)
+  > Scan PE images to identify callback function for call stack spoofing.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [i11us0ry/Sophon](https://github.com/i11us0ry/Sophon) to [CrackerCat/Sophon](https://github.com/CrackerCat/Sophon)
+  > Sophon 是一个将安全测试工具、角色、技能、项目上下文和多 Agent 协作整合到同一工作台的安全 Agent 平台。它支持从项目建模、资产梳理、测试假设规划、工具执行、证据收集，到漏洞审核和报告...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Franciiscodev/esp4all](https://github.com/Franciiscodev/esp4all) to [CrackerCat/esp4all](https://github.com/CrackerCat/esp4all)
+  > A modular, config-driven Android ARM64 Dear ImGui 1.92 overlay and 3D-engine memory translation for ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dmaivel/binbun](https://github.com/dmaivel/binbun) to [CrackerCat/binbun](https://github.com/CrackerCat/binbun)
+  > An open-source interactive disassembler and decompiler, built as reusable libraries
 
-### [NextrixVFX](https://github.com/NextrixVFX)
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [ekknod/smm](https://github.com/ekknod/smm)
-  > alternative smm driver for ryzen motherboards
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [R44VC0RP/dashsplat](https://github.com/R44VC0RP/dashsplat)
-  > Turn a car's dashcam footage into a 3D world you can drive through again: Gaussian splats, a 1 cm ro...
-- 🌟 👤 [NextrixVFX](https://github.com/NextrixVFX) Starred [Yzichen/FlashOCC](https://github.com/Yzichen/FlashOCC)
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [texyon-org/texyon](https://github.com/texyon-org/texyon)
+  > A LaTeX engine built for live preview
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [texyon-org/texyon](https://github.com/texyon-org/texyon) to [IuvenisSapiens/texyon](https://github.com/IuvenisSapiens/texyon)
+  > A LaTeX engine built for live preview
 
-### [ggoodman](https://github.com/ggoodman)
-- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [hajimehoshi/ekuma](https://github.com/hajimehoshi/ekuma)
-  > A JavaScript engine in pure Go
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pmachapman/helpdeco](https://github.com/pmachapman/helpdeco)
-  > WinHelp Decompiler
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [insight-neuro/neuroprobe](https://github.com/insight-neuro/neuroprobe) to [jakehemmerle/neuroprobe](https://github.com/jakehemmerle/neuroprobe)
+  > Neuroprobe: Benchmark for Evaluating iEEG Foundation Models
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [knapcio/inkling-2-mini-spark-bench](https://github.com/knapcio/inkling-2-mini-spark-bench)
-  > Same-harness comparison of public Inkling-2-Mini recipes on one NVIDIA DGX Spark: speed, lossy or no...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [youssefnoob003/SindriKit](https://github.com/youssefnoob003/SindriKit)
-  > A foundational C library for building operationally credible offensive capabilities
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
-  > ⚚ The ultrawork agent with AI coworkers wired into you
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
+  > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
 
 
 <!-- nav -->
-[← 2026-11-25](archive/2026/11/25.md)
+[← 2026-11-26](archive/2026/11/26.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-26 23:34:41 UTC*
+*Last updated at 2026-11-27 07:34:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
