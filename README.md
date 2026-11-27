@@ -33,6 +33,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A LaTeX engine built for live preview
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [texyon-org/texyon](https://github.com/texyon-org/texyon) to [IuvenisSapiens/texyon](https://github.com/IuvenisSapiens/texyon)
   > A LaTeX engine built for live preview
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [CM-idea/SnowAir](https://github.com/CM-idea/SnowAir)
+  > SnowAir 是一款轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、识别、翻译，晾衣架等功能，自由高效，尽在轻雪。
+
+### [NetVar1337](https://github.com/NetVar1337)
+- 🌟 👤 [NetVar1337](https://github.com/NetVar1337) Starred [Monesgoda/AgntX-Hunter](https://github.com/Monesgoda/AgntX-Hunter)
+  > penetration-testing / Bug Hunting / Red team  agent framework for OpenCode — 17 scope-gated agents, ...
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [Arunjay4213/mosh-rs](https://github.com/Arunjay4213/mosh-rs) to [NyaMisty/mosh-rs](https://github.com/NyaMisty/mosh-rs)
+  > mosh, the mobile shell, rewritten in Rust. Works with existing mosh-server 1.4 and adds a native Win...
 
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [insight-neuro/neuroprobe](https://github.com/insight-neuro/neuroprobe) to [jakehemmerle/neuroprobe](https://github.com/jakehemmerle/neuroprobe)
@@ -41,6 +51,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
   > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eelbaz/Recursive-Self-Improving-Loopers](https://github.com/eelbaz/Recursive-Self-Improving-Loopers)
+  > Recursive Self Improving Loopers: Autonomous Multi-Generation Recursive Self-Improvement (SelfWrite)...
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [SamuelZ12/research-sources](https://github.com/SamuelZ12/research-sources)
+  > CLI for AI agents to read what web search misses on X, Reddit and more
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+  > The fastest browser for AI agents to run browser automation, built for sharing your logged-in browse...
 
 
 <!-- nav -->
@@ -48,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-27 07:34:20 UTC*
+*Last updated at 2026-11-27 17:57:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
